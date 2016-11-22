@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>kiwi linux</name>
+    <url>http://kiwi.startx.ro/</url>
+  </publisher>
+  <identity>kiwi linux</identity>
+  <version>7.08</version>
+  <description>Kiwi is a modified  Ubuntu live CD for the i386 architecture. It includes Romanian and Hungarian localization, multimedia codecs, encrypted DVD support, Flash and Java plugins for Firefox, PPPoE GUI for accessing local internet services (Clicknet and RDS) and write support for NTFS partitions.</description>
+  <files>
+    <file name="kiwi-7.08.iso">
+      <size>725372928</size>
+      <verification>
+        <hash type="md5">dea5202de717ccec594436d854961300</hash>
+        <hash type="sha1">8d1cecf795e493c14cd1fe42be083cf9316fcc20</hash>
+        <hash type="sha256">7a85f80d637bbd21304e5fe670a2a514d99a669c9f2642d575a3938040f5b32a</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">e764cbd55bfe153520a7791625e3cd9b1123b87c</hash>
+          <hash piece="1">252691f69fe797a36d73cab0d0b765f8018fd453</hash>
+          <hash piece="2">bb792500c16c925acd388293cbd3a2859b754677</hash>
+          <hash piece="3">1be356aa0d43b4c9089b9e94cd5390337f25b5a8</hash>
+          <hash piece="4">1b31e9c2a9569949ca4b8e2c36d83f5dd5ff9d7b</hash>
+          <hash piece="5">aeb1387782ca39ee64f5f5e56de878a8c91832ee</hash>
+          <hash piece="6">99524d56af9b0576fb73898c4389f911322eb402</hash>
+          <hash piece="7">addfc1f718faa5aecaaf4849ac2a29a035dee8f7</hash>
+          <hash piece="8">c9d31057cf8b9acd95eaaab206a173cb32a13098</hash>
+          <hash piece="9">9607c5cf9e4633aed326b4f513ee68a5fa45d2c4</hash>
+          <hash piece="10">464cec99d204bea62234537633e3efb10d22dc47</hash>
+          <hash piece="11">5e9005d69101fb415b41ba9484e7711f53fa0b69</hash>
+          <hash piece="12">9dab2302898d8be85c69edb97bf52107401fc049</hash>
+          <hash piece="13">6ebbf30f62fa2c2098439caa03b54e38598d6791</hash>
+          <hash piece="14">e0cffdad86d48b3cec2e09c1280addae6ee6d018</hash>
+          <hash piece="15">f1e2dc21656025403d1c5da9086a95e35ff44df6</hash>
+          <hash piece="16">8d06a2a4f4b0deaa86b11820863dab3a12f0039a</hash>
+          <hash piece="17">d374085134011ae10eb963490ffc2f2db787346c</hash>
+          <hash piece="18">55b88fa6daefdf2db5170485bc031d42e0674414</hash>
+          <hash piece="19">a264866eeee6f15fbdd6b71a149712e8466a11e9</hash>
+          <hash piece="20">ef7048b496c08e0b972186164b56f53e5547944d</hash>
+          <hash piece="21">61da9edc52801d9c561336c2e1023408f8fd6eba</hash>
+          <hash piece="22">fa6282e9774ae2a8a2c3ca28b32857744b100f8c</hash>
+          <hash piece="23">3dda813817a3304824c85446478c8d869700ba73</hash>
+          <hash piece="24">45e6694f10f8d5bb9722be193b9a50accd23c6db</hash>
+          <hash piece="25">6a6f94b9dfb1249534a5af4659f1321aca320e11</hash>
+          <hash piece="26">e242f7d8a6e36f77819dffa297fdcb01c76fe32a</hash>
+          <hash piece="27">604960c1816454182cd39e1094a1af5dda6ce587</hash>
+          <hash piece="28">6165f10e15d1a62b639aae24ecb15308c36555a5</hash>
+          <hash piece="29">cec99591b4d6bb51e27719f78f2fad58d115e071</hash>
+          <hash piece="30">e06fcdaf1180d53fe8ffd77ac0c9b4b2d1d4aa86</hash>
+          <hash piece="31">e351547d1b9f7527144519225e9ef548a56dcfc8</hash>
+          <hash piece="32">2addc385ede99f42ee9ef96695076711456d41b4</hash>
+          <hash piece="33">e7547231f74def4de687828226ade6c65827cc47</hash>
+          <hash piece="34">5ac1fb2da625fa392bc1804bc62269fd64bf4659</hash>
+          <hash piece="35">da9f3fc4fc0dd11516f4d9f4400948c310d543ee</hash>
+          <hash piece="36">dbeecd1e0ab4604386a4c5cd1a0be594f7e53156</hash>
+          <hash piece="37">2a261b6774f8ddf6a74c506b6418c169743ae0de</hash>
+          <hash piece="38">25faa4371651d6ba912e06c8f408f72435b9bb0d</hash>
+          <hash piece="39">90b42180c7e9ebcfdd6025eb5a26db04ff19020a</hash>
+          <hash piece="40">c30ff286cd6b51ae3e4be24c6bdb04f23a126631</hash>
+          <hash piece="41">bb5f64bb140039feaa82ae036f937c432234f205</hash>
+          <hash piece="42">f9c82c7912c4395d01991c3338e07c464b650594</hash>
+          <hash piece="43">4eed51a11a43b5adaa19c1060a85b291c49bd368</hash>
+          <hash piece="44">79cb7c652b517dba0d4cda1f0e06567ff4341058</hash>
+          <hash piece="45">b35b46fd9c3b199389ba61932b408abf0f6abf6c</hash>
+          <hash piece="46">a8969f42328d4700ced4caeae0761fdedbe7098d</hash>
+          <hash piece="47">a2d3ccb64cdfe42e419ee17ac002cc5e717dd0ca</hash>
+          <hash piece="48">28157542c626d10d4ff82e2c3e57160be4c50c28</hash>
+          <hash piece="49">feec58edc9d6e81c443042d389fea9c5bfa362f3</hash>
+          <hash piece="50">d18c177c04545d0e0354ea262a9547529e0b6c1f</hash>
+          <hash piece="51">c1db770741afd699cc1ec7463820aa9f2961023d</hash>
+          <hash piece="52">6ba913f3189941dc520ea48ed08e6b42d7bcdfaf</hash>
+          <hash piece="53">806accb7de1244552ae1c6b2dc8cf1730bfb0557</hash>
+          <hash piece="54">2497ad9c4b4960152d23db619bb34da43e9a04c5</hash>
+          <hash piece="55">5a5c0889c42bb9b845ec14c8201b196975f6d9c8</hash>
+          <hash piece="56">b7eebfe59d208427c4c66c1039fa99461dc88248</hash>
+          <hash piece="57">8399a84aab1e8b80b51ddebc641742cf29d72008</hash>
+          <hash piece="58">c56ce30609e8401ca5f86bf70e9abfa35155df67</hash>
+          <hash piece="59">3f42d2b872559981d11052c11b2e30d8bf2e56eb</hash>
+          <hash piece="60">da0ff50379468a44934fdea6e27d906d6df8e7d7</hash>
+          <hash piece="61">d05cc4652e36918ca90ae93997a4b08872c91f78</hash>
+          <hash piece="62">1a94ad93afcf5130fed8436eff40ae12c14e5d97</hash>
+          <hash piece="63">ccaf09c27bd477a42b85ce63a93c1a392df66063</hash>
+          <hash piece="64">18bf7249134e5e3775c9cc76a763a37850159ebd</hash>
+          <hash piece="65">e20181180830800c5ac68c495a1950a626628bc7</hash>
+          <hash piece="66">d7389f7bf916906afa7a40a988c77d42e81840e0</hash>
+          <hash piece="67">10c80da68bb0b28453758437194a50bf92bc1107</hash>
+          <hash piece="68">faa058c71a8fe8b122384f4002c6f41f84b26ffb</hash>
+          <hash piece="69">383a066e334704f2f310b50bdaa14a474fa0bb8b</hash>
+          <hash piece="70">76fbfdc28270f1e297150c7062be0c3f6c2f05a2</hash>
+          <hash piece="71">5f1b032c70d14bb393fede132b51b563a5dcbf7a</hash>
+          <hash piece="72">177b010bfd8da9dbb2c54870fead52e088341070</hash>
+          <hash piece="73">f4276c8d0d60c0a12496bca6745295e233ffa3b5</hash>
+          <hash piece="74">b247c85c6d1cdc6833ae447154050c99d347f099</hash>
+          <hash piece="75">2b4c8b2b9f80e0889fdf7c58b31fc96d404e6fc5</hash>
+          <hash piece="76">5a65779ce34e26dca842c53d26f5ae8cab9157fc</hash>
+          <hash piece="77">10b44a7d17c342896aefb23dccc6ee59360f1de5</hash>
+          <hash piece="78">3f7a0528a999641d0084e2991852091217a8749c</hash>
+          <hash piece="79">86785156c522c33f9a3270289565eed74f74fb4d</hash>
+          <hash piece="80">b5ccd96296ea55685e227547104aa8b776fb69e3</hash>
+          <hash piece="81">6efb7b026b7acfa4d19fb58f7ebcb82f188c4071</hash>
+          <hash piece="82">5d31e71b88be1292f605786deec114e3927fa397</hash>
+          <hash piece="83">fbcc13581d3189d1c59911de7df0b843b1051eb3</hash>
+          <hash piece="84">7d563a788f16cff373acec477991de5b2cbd385b</hash>
+          <hash piece="85">fbb7fab1a2893040700e2d6ff8de30f5d722f236</hash>
+          <hash piece="86">d6d2c6b31177337ea1d8af9c9c87c9ba48d5b618</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="ro" preference="100">http://kiwi.startx.ro/cdimage/kiwi-7.08.iso</url>
+        <url type="http" location="ro" preference="100">http://depo.osn.ro/content/distributii/linux/kiwi-7.08.iso</url>
+        <url type="http" location="ro" preference="100">http://bb.obs.utcluj.ro/~cristi/kiwi/kiwi-7.08.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

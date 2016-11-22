@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<rss version="2.0">
+	<channel>
+	<generator>Feed Editor (Unlicensed)</generator>
+	<pubDate>28 Dec 2006 16:23:23 GMT</pubDate>
+	<title>Metalink News</title>
+	<description>Metalink News</description>
+	<link>http://www.metalinker.org/rss.xml</link>
+	<language>en</language>
+	<image>
+	<url>http://www.metalinker.org/images/metalink_logo.png</url>
+	<title>Metalink</title>
+	</image>
+		<item>
+			<title>New blog subscription feed address</title>
+			<description>This feed is a year and a half out of date, please use our new one at http://groups.google.com/group/metalink-announce/feed/atom_v1_0_msgs.xml</description>
+			<pubDate>29 Jul 2008 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=58</link>
+			<guid>http://www.metalinker.org/news.html?id=58</guid>
+		</item>		
+		<item>
+			<title>	Orbit Downloader 1.3.1 (Windows) supports Metalink!</title>
+			<description>Orbit Downloader 1.3.1 (Windows) supports Metalink! It also has cool features like grabbing Youtube video and other streaming protocols.</description>
+			<pubDate>30 Dec 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=57</link>
+			<guid>http://www.metalinker.org/news.html?id=57</guid>
+		</item>	
+		<item>
+			<title>wxDownload Fast 0.5.4 is out!</title>
+			<description>wxDownload Fast 0.5.4 is out with fixes and a new theme!</description>
+			<pubDate>28 Dec 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=56</link>
+			<guid>http://www.metalinker.org/news.html?id=56</guid>
+		</item>	
+		<item>
+			<title>Metalink and Podcasts</title>
+			<description>G3Signal has their podcasts available with Metalink.</description>
+			<pubDate>22 Dec 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=55</link>
+			<guid>http://www.metalinker.org/news.html?id=55</guid>
+		</item>	
+		<item>
+			<title>Orbit Downloader (BETA) supports Metalink</title>
+			<description>Orbit Downloader (Windows) is adding Metalink support! It also has cool features like grabbing Youtube video and other streaming protocols.</description>
+			<pubDate>21 Dec 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=54</link>
+			<guid>http://www.metalinker.org/news.html?id=54</guid>
+		</item>		
+		<item>
+			<title>Website is back up...</title>
+			<description>After a week, the site is back up. If you like having sites down for a week, I recommend RegisterFly.</description>
+			<pubDate>16 Dec 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=53</link>
+			<guid>http://www.metalinker.org/news.html?id=53</guid>
+		</item>	
+		<item>
+			<title>Free Download Manager (BETA) supports Metalink</title>
+			<description>Free Download Manager (Windows) has added Metalink support to a pre-release beta version which we're very excited about seeing finalized and released!</description>
+			<pubDate>15 Dec 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=52</link>
+			<guid>http://www.metalinker.org/news.html?id=52</guid>
+		</item>	
+		<item>
+			<title>Want to get involved with Metalink?</title>
+			<description>We need developers! If you're interested in Metalink, get involved! A libcurl or wget interface would be helpful. Also, here's some quick Metalink info in Spanish.</description>
+			<pubDate>09 Dec 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=51</link>
+			<guid>http://www.metalinker.org/news.html?id=51</guid>
+		</item>	
+		<item>
+			<title>Get openSUSE 10.2!</title>
+			<description>openSUSE 10.2 is out! If you have trouble downloading the ISOs, try using aria2 (SUSE RPMs) with the Metalinks.</description>
+			<pubDate>07 Dec 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=50</link>
+			<guid>http://www.metalinker.org/news.html?id=50</guid>
+		</item>	
+		<item>
+			<title>Metalink tools 0.3.2 have been released!</title>
+			<description>Metalink tools 0.3.2 (Unix/Windows) have been released! There are a bunch of fixes and new features. The most important feature is the generation of chunk checksums. These command line tools allow you to generate metalinks with mirrors and nearly every checksum imaginable. Comments and suggestions are welcome.</description>
+			<pubDate>02 Dec 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=49</link>
+			<guid>http://www.metalinker.org/news.html?id=49</guid>
+		</item>	
+		<item>
+			<title>"Making Metalinks"</title>
+			<description>&lt;P&gt;&lt;A href="http://www.osresources.com/3_18_en.html"&gt;"Making Metalinks"&lt;/A&gt; by Darius Liktorius, Bram Neijt, and Manuel Subredu is a walk through the process of creating Metalinks with the various programs available. If you're thinking about offering Metalinks for your project, you'll want to read this.</description>
+			<pubDate>29 Nov 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=48</link>
+			<guid>http://www.metalinker.org/news.html?id=48</guid>
+		</item>	
+		<item>
+			<title>Downloading with Metalink...</title>
+			<description>&lt;P&gt;&lt;A href="http://www.webdotdev.com/nvd/client-side/xml/using-metalinks.html"&gt;An article on WEB-DOT-DEV&lt;/A&gt; talks about the Free Software alternatives for downloading with Metalink.</description>
+			<pubDate>23 Nov 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=47</link>
+			<guid>http://www.metalinker.org/news.html?id=47</guid>
+		</item>	
+		<item>
+			<title>Metalink tools 0.3.1 have been released!</title>
+			<description>&lt;P&gt;Bram Neijt's &lt;A href="http://metalinks.sourceforge.net/"&gt;Metalink tools&lt;/A&gt; 0.3.1 (Unix/Windows) have been released! There are a bunch of fixes and new features. These command line tools allow you to generate metalinks with mirrors and nearly every checksum imaginable. Comments and suggestions are welcome.</description>
+			<pubDate>09 Nov 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=46</link>
+			<guid>http://www.metalinker.org/news.html?id=46</guid>
+		</item>	
+		<item>
+			<title>aria2 0.9.0 (Unix), the high speed download utility with Metalink support, is out with new features!</title>
+			<description>&lt;/A&gt; &lt;P&gt;&lt;A href="http://aria2.sourceforge.net/"&gt;aria2&lt;/A&gt; 0.9.0 (Unix), the high speed download utility with Metalink support, is out! New Metalink features include downloading multiple files (download queue) and downloading by location. Thanks, Tatsuhiro! aria2 development never stands still. &lt;P&gt;There's also a &lt;A href="http://www.thinknext.net/archives/1715"&gt;blurb on thinknext.net (Chinese) by Xiaohu Zhou.&lt;/A&gt;</description>
+			<pubDate>08 Nov 2006 11:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=45</link>
+			<guid>http://www.metalinker.org/news.html?id=45</guid>
+		</item>
+		<item>
+			<title>"Downloading bliss with Metalink" by Mayank Sharma on linux.com.</title>
+			<description>&lt;P&gt;&lt;A href="http://www.linux.com/article.pl?sid=06/11/01/1641247"&gt;"Downloading bliss with Metalink"&lt;/A&gt; by Mayank Sharma on linux.com. Great article, thanks Mayank! &lt;A href="http://digg.com/linux_unix/Downloading_bliss_with_Metalink_2"&gt;Digg it!&lt;/A&gt; &lt;P&gt;The article is also available in &lt;A href="http://opentechpress.jp/developer/06/11/09/0153243.shtml"&gt;Japanese.&lt;/A&gt;</description>
+			<pubDate>07 Nov 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=44</link>
+			<guid>http://www.metalinker.org/news.html?id=44</guid>
+		</item>	
+		<item>
+			<title>TrueBSD adds Metalinks for their distribution.</title>
+			<description>&lt;P&gt;&lt;A href="http://www.truebsd.org/"&gt;TrueBSD&lt;/A&gt;, a LiveCD operating system based on FreeBSD with many useful applications, uses &lt;A href="http://www.truebsd.org/releases/0.1/release.cgi"&gt;Metalinks for their distribution.&lt;/A&gt;</description>
+			<pubDate>06 Nov 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=43</link>
+			<guid>http://www.metalinker.org/news.html?id=43</guid>
+		</item>	
+		<item>
+			<title>GoboLinux adds Metalinks for their distribution.</title>
+			<description>&lt;P&gt;&lt;A href="http://www.gobolinux.org/"&gt;GoboLinux&lt;/A&gt;, an alternative Linux distribution which redefines the entire filesystem hierarchy, uses &lt;A href="http://www.gobolinux.org/index.php?page=downloads"&gt;Metalinks for their distribution.&lt;/A&gt;</description>
+			<pubDate>04 Nov 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=42</link>
+			<guid>http://www.metalinker.org/news.html?id=42</guid>
+		</item>	
+		<item>
+			<title>Metalink tools 0.3.0 have been released!</title>
+			<description>&lt;P&gt;Bram Neijt's &lt;A href="http://metalinks.sourceforge.net/"&gt;Metalink tools&lt;/A&gt; 0.3.0 (Unix/Windows) have been released! These command line tools allow you to generate metalinks with mirrors and nearly every checksum imaginable. Comments and suggestions are welcome.</description>
+			<pubDate>30 Oct 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=41</link>
+			<guid>http://www.metalinker.org/news.html?id=41</guid>
+		</item>	
+		<item>
+			<title>wxDownload Fast 0.5.3 is out!</title>
+			<description>&lt;P&gt;&lt;A href="http://dfast.sourceforge.net/"&gt;wxDownload Fast&lt;/A&gt; 0.5.3 is out and looks mighty fine</description>
+			<pubDate>29 Oct 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=40</link>
+			<guid>http://www.metalinker.org/news.html?id=40</guid>
+		</item>	
+		<item>
+			<title>wxDownload Fast 0.5.2 and FlashGot 0.5.97 are out!</title>
+			<description>&lt;P&gt;&lt;A href="http://www.flashgot.net/"&gt;FlashGot&lt;/A&gt; 0.5.97 is out! Grab it for increased Metalink compatibility and Firefox integration with &lt;P&gt;&lt;A href="http://dfast.sourceforge.net/"&gt;wxDownload Fast&lt;/A&gt; 0.5.2, which is also out with improved graphics.</description>
+			<pubDate>28 Oct 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=39</link>
+			<guid>http://www.metalinker.org/news.html?id=39</guid>
+		</item>	
+		<item>
+			<title>Eiffel Software uses Metalink for their downloads.</title>
+			<description>&lt;P&gt;&lt;A href="http://www.eiffel.com/"&gt;Eiffel Software&lt;/A&gt; uses Metalink for their downloads. They offer a compiler/development IDE for the Eiffel programming language, among other things.</description>
+			<pubDate>27 Oct 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=38</link>
+			<guid>http://www.metalinker.org/news.html?id=38</guid>
+		</item>	
+		<item>
+			<title>Metalinks for Fedora Core 6, Ubuntu 6.10, openSUSE 10.2 Beta1.</title>
+			<description>&lt;P&gt;&lt;A href="http://metalink.packages.ro/"&gt;Metalink @ Packages Resources&lt;/A&gt;, as always, provides metalinks for new releases as soon as they hit the mirrors: Fedora Core 6, Ubuntu 6.10, openSUSE 10.2 Beta1.</description>
+			<pubDate>26 Oct 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=37</link>
+			<guid>http://www.metalinker.org/news.html?id=37</guid>
+		</item>			
+		<item>
+			<title>Bram Neijt's Metalink tools 0.2.1 have been released!</title>
+			<description>&lt;P&gt;Bram Neijt's &lt;A href="http://metalinks.sourceforge.net/"&gt;Metalink tools&lt;/A&gt; 0.2.1 (Unix/Windows) have been released! These command line tools allow you to generate metalinks with mirrors and nearly every checksum imaginable. Comments and suggestions are welcome.</description>
+			<pubDate>23 Oct 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=36</link>
+			<guid>http://www.metalinker.org/news.html?id=36</guid>
+		</item>		
+		<item>
+			<title>RoPkg::Metalink 0.2.5 is out!</title>
+			<description>&lt;P&gt;RoPkg::Metalink 0.2.5 (Unix), used at &lt;A href="http://metalink.packages.ro/"&gt;Metalink @ Packages Resources&lt;/A&gt;, is out! Thanks to Manuel for all his hard work.</description>
+			<pubDate>19 Oct 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=35</link>
+			<guid>http://www.metalinker.org/news.html?id=35</guid>
+		</item>		
+		<item>
+			<title>Bram Neijt's Metalink tools 0.2.0 have been released!</title>
+			<description>&lt;P&gt;Bram Neijt's &lt;A href="http://metalinks.sourceforge.net/"&gt;Metalink tools&lt;/A&gt; 0.2.0 (Unix/Windows) have been released! These command line tools allow you to generate metalinks with mirrors and nearly every checksum imaginable. Comments and suggestions are welcome. Download em with &lt;A href="http://www.metalinker.org/samples/metalink-0.2.0_tar_gz.metalink"&gt;metalink&lt;/A&gt;.</description>
+			<pubDate>16 Oct 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=34</link>
+			<guid>http://www.metalinker.org/news.html?id=34</guid>
+		</item>		
+		<item>
+			<title>RoPkg::Metalink has been updated.</title>
+			<description>&lt;P&gt;RoPkg::Metalink, used at &lt;A href="http://metalink.packages.ro/"&gt;Metalink @ Packages Resources&lt;/A&gt;, has been updated.</description>
+			<pubDate>12 Oct 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=33</link>
+			<guid>http://www.metalinker.org/news.html?id=33</guid>
+		</item>				
+		<item>
+			<title>Metalink mailing lists!</title>
+			<description>&lt;P&gt;Metalink mailing lists! &lt;A href="http://groups.google.com/group/metalink-announce"&gt;Announcements&lt;/A&gt; for occasional news and &lt;A href="http://groups.google.com/group/metalink-discussion"&gt;Discussion&lt;/A&gt; for general talk about Metalink.</description>
+			<pubDate>08 Oct 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=32</link>
+			<guid>http://www.metalinker.org/news.html?id=32</guid>
+		</item>		
+		<item>
+			<title>PC-BSD adds Metalinks for their ISO downloads.</title>
+			<description>&lt;P&gt;&lt;A href="http://www.pcbsd.org/"&gt;PC-BSD&lt;/A&gt;, based on BSD and designed with the "casual" computer user in mind, uses &lt;A href="http://www.pcbsd.org/?p=download"&gt;Metalink for their ISO downloads.&lt;/A&gt; If you're not ready to replace Windows, test out the PC-BSD VMWare image. You might get hooked! It also has other neat things like PBI for package installation (there is a PBI for aria2) and the people are very helpful and friendly. Thanks, Charles!</description>
+			<pubDate>02 Oct 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=31</link>
+			<guid>http://www.metalinker.org/news.html?id=31</guid>
+		</item>
+		<item>
+			<title>aria2 0.8.1 (Unix), the high speed download utility with Metalink support, has been released.</title>
+			<description>&lt;/A&gt; &lt;P&gt;&lt;A href="http://aria2.sourceforge.net/"&gt;aria2&lt;/A&gt; 0.8.1 (Unix), the high speed download utility with Metalink support, is out!</description>
+			<pubDate>01 Oct 2006 11:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=30</link>
+			<guid>http://www.metalinker.org/news.html?id=30</guid>
+		</item>
+		<item>
+			<title>redWall Firewall adds Metalinks for their ISO downloads.</title>
+			<description>&lt;P&gt;&lt;A href="http://www.redwall-firewall.com/"&gt;redWall Firewall&lt;/A&gt; uses &lt;A href="http://www.redwall-firewall.com/content/view/14/33/"&gt;Metalink for their ISO downloads.&lt;/A&gt; redWall Firewall is a bootable CD-ROM firewall based on Gentoo Linux.</description>
+			<pubDate>28 Sep 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=29</link>
+			<guid>http://www.metalinker.org/news.html?id=29</guid>
+		</item>
+		<item>
+			<title>Simba 0.8.4 is out!</title>
+			<description>&lt;P&gt;&lt;A href="http://simba.packages.ro/"&gt;Simba&lt;/A&gt; the mirroring tool, 0.8.4 has been released with integrated Metalink support.</description>
+			<pubDate>26 Sep 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=28</link>
+			<guid>http://www.metalinker.org/news.html?id=28</guid>
+		</item>
+		<item>
+			<title>aria2 0.8.0 (Unix), the high speed download utility with Metalink support, is out!</title>
+			<description>&lt;/A&gt; &lt;P&gt;&lt;A href="http://aria2.sourceforge.net/"&gt;aria2&lt;/A&gt; 0.8.0 (Unix), the high speed download utility with Metalink support, is out! Binaries are available for many distributions, but a few are missing. Who wants to package it up for Ubuntu and SUSE? It would be nice to see packages for &lt;P&gt;&lt;A href="http://simba.packages.ro/"&gt;Simba&lt;/A&gt; too. &lt;P&gt;&lt;A href="http://yui.mine.nu/berry/eberry.php"&gt;Berry Linux&lt;/A&gt; could use a few more mirrors.</description>
+			<pubDate>23 Sep 2006 11:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=27</link>
+			<guid>http://www.metalinker.org/news.html?id=27</guid>
+		</item>
+		<item>
+			<title>Arch Linux adds Metalinks for their ISO downloads.</title>
+			<description>&lt;P&gt;&lt;A href="http://www.archlinux.org/"&gt;Arch Linux&lt;/A&gt; uses &lt;A href="http://www.archlinux.org/download/"&gt;Metalink for their ISO downloads.&lt;/A&gt; Arch Linux is a lightweight and flexible linux distribution for i686 and x86-64 architectures that tries to Keep It Simple.</description>
+			<pubDate>20 Sep 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=26</link>
+			<guid>http://www.metalinker.org/news.html?id=26</guid>
+		</item>
+		<item>
+			<title>Simba 0.8.3 is out; GetRight 6.0c released with improved Metalink support.</title>
+			<description>&lt;P&gt;&lt;A href="http://simba.packages.ro/"&gt;Simba&lt;/A&gt; the mirroring tool, 0.8.3 has been released. Version 0.9 plans to integrate Simba with Metalink. &lt;P&gt;&lt;A href="http://www.getright.com/"&gt;GetRight 6.0c&lt;/A&gt; released with improved Metalink support.&lt;/P&gt;</description>
+			<pubDate>19 Sep 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=25</link>
+			<guid>http://www.metalinker.org/news.html?id=25</guid>
+		</item>
+		<item>
+			<title>PuppyLinux uses Metalink for their ISO download.</title>
+			<description>&lt;P&gt;&lt;A href="http://puppylinux.org/"&gt;PuppyLinux&lt;/A&gt; uses &lt;A href="http://puppylinux.org/wikka/Puppy210"&gt;Metalink for their ISO download.&lt;/A&gt;  "Puppy Linux is a small, fully featured Linux distribution. Puppy works swiftly on older systems and on modern computers including ThinPCs."</description>
+			<pubDate>14 Sep 2006 16:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=24</link>
+			<guid>http://www.metalinker.org/news.html?id=24</guid>
+		</item>
+		<item>
+			<title>"Metalink: A Better Way to Download" on P2P File Sharing.</title>
+			<description>&lt;P&gt;&lt;A href="http://www.p2p-weblog.com/50226711/metalink_a_better_way_to_download.php"&gt;Metalink: A Better Way to Download" on P2P File Sharing.&lt;/A&gt;</description>
+			<pubDate>13 Sep 2006 07:23:23 GMT</pubDate>
+			<link>http://www.metalinker.org/news.html?id=23</link>
+			<guid>http://www.metalinker.org/news.html?id=23</guid>
+		</item>
+	</item>
+	</channel>
+</rss>

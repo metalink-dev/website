@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <files>
+    <file name="Elephants_Dream_1024.avi">
+      <resources>
+        <url type="ftp" location="cz" preference="100">ftp://media.sh.cvut.cz/avc/mirrors/orange/ED_1024.avi</url>
+        <url type="http" location="fr" preference="100">http://dl.freecontrib.org/elephantdream/ED_1024.avi</url>
+        <url type="http" location="es" preference="100">http://ftp.gui.uva.es/pub/multimedia/movies/elephantsdream/elephantsdream-1024-mpeg4-su-ac3.avi</url>
+        <url type="http" location="au" preference="100">http://public.www.planetmirror.com/pub/blender/ED/ED_1024.avi</url>
+        <url type="bittorrent" preference="100">http://tribler.org/content/Elephants_Dream_1024.avi.torrent</url>
+        <url type="http" location="de" preference="100">http://video.blendertestbuilds.de/download.blender.org/ED/ED_1024.avi</url>
+        <url type="http" location="us" preference="100">http://www2.neverhost.net/blender/Elephants_Dream_1024.avi</url>
+        <url type="http" location="us" preference="100">http://xseed.bowiestate.edu/ED/ED_1024.avi</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>debian</name>
+    <url>http://www.debian.org/</url>
+  </publisher>
+  <description>Debian 3.1r2 i386 DVD ISO</description>
+  <files>
+    <file name="debian-31r2-i386-binary-1.iso">
+      <version>3.1r2</version>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">e467b508185f4fdd8e97c9ee76045288</hash>
+      </verification>
+      <resources>
+        <url type="http" location="us" preference="100">http://cdimage.debian.org/debian-cd/current/i386/iso-dvd/debian-31r2-i386-binary-1.iso</url>
+        <url type="http" location="us" preference="100">http://debian.osuosl.org/debian-cdimage/current/i386/iso-dvd/debian-31r2-i386-binary-1.iso</url>
+        <url type="http" location="ro" preference="100">http://ftp.iasi.roedu.net/mirrors/ftp.debian.org/debian-cd/current/i386/iso-dvd/debian-31r2-i386-binary-1.iso</url>
+        <url type="http" location="br" preference="100">http://linorg.usp.br/iso/debian/3.1_r2/i386/iso-dvd/debian-31r2-i386-binary-1.iso</url>
+        <url type="http" location="es" preference="100">http://ftp.gva.es/mirror/debian-cd/current/i386/iso-dvd/debian-31r2-i386-binary-1.iso</url>
+        <url type="http" location="de" preference="100">http://ftp.de.debian.org/debian-cd/current/i386/iso-dvd/debian-31r2-i386-binary-1.iso</url>
+        <url type="http" location="de" preference="100">http://ftp-stud.fht-esslingen.de/debian-cd/current/i386/iso-dvd/debian-31r2-i386-binary-1.iso</url>
+        <url type="http" location="at" preference="100">http://debian.inode.at/debian-cd/3.1_r2/i386/iso-dvd/debian-31r2-i386-binary-1.iso</url>
+        <url type="http" location="fr" preference="100">ftp://ftp.free.fr/pub/Distributions_Linux/debian-cd/3.1_r2/i386/iso-dvd/debian-31r2-i386-binary-1.iso</url>
+        <url type="http" location="au" preference="100">ftp://mirror.aarnet.edu.au/pub/debian-cd/3.1_r2/i386/iso-dvd/debian-31r2-i386-binary-1.iso</url>
+        <url type="http" location="au" preference="100">ftp://ftp.iinet.net.au/pub/debian/debian-cd/current/i386/iso-dvd/debian-31r2-i386-binary-1.iso</url>
+        <url type="http" location="be" preference="100">ftp://ftp.scarlet.be/pub/debian-cd/current/i386/iso-dvd/debian-31r2-i386-binary-1.iso</url>
+
+		</resources>
+    </file>
+
+  </files>
+</metalink>

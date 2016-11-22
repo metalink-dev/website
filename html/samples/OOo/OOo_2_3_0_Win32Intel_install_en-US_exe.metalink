@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/"
+  origin="http://download.packages.ro/metalink"
+  type="static" pubdate="Mon Oct  1 05:08:25 2007"
+  generator="Metalink Gen - http://metalink.packages.ro" 
+  refreshdate="Mon Oct  1 05:08:25 2007">
+
+  <publisher>
+    <name>package resources</name>
+    <url>http://www.packages.ro</url>
+  </publisher>
+
+  
+
+  <description></description>
+  <tags>linux,office,staroffice,openoffice</tags>
+  <identity>openoffice</identity>
+  <version>2.3.0</version>
+
+  <files> 
+   <file name="OOo_2.3.0_Win32Intel_install_en-US.exe">
+    
+    <os>Windows-x86</os>
+
+    <size>111081290</size>
+
+    <verification>
+     <hash type="md5">beda08800f9505117220b6db1deb453a</hash>
+     <hash type="sha1">f0b64e2ef7f29482125a4b6db4c0c66b93afa76e</hash>
+     <hash type="ed2k">ed6006ed01829376655c321b5ce36399</hash>
+
+     
+     <pieces length="524288" type="sha1">
+      <hash piece="0">75bbb730067f53c5780e473995d286a2f2c81dd3</hash>
+      <hash piece="1">d6df7d2ae35aea9ba1fd38d7fee2709f1270e568</hash>
+      <hash piece="2">a964860cc2dd342ea923d5aec216380412502ee2</hash>
+      <hash piece="3">5f9d8decc65e70379dec98628d9d435e44c1e579</hash>
+      <hash piece="4">1b8334a6826a871dd95504b886d86e7f86ede905</hash>
+      <hash piece="5">7b5ef65ede91db1ef7bbaf5bbe24a30816a8a313</hash>
+      <hash piece="6">8e245a67422681bdf7df5c4693d4294c00887d0b</hash>
+      <hash piece="7">fb50ce0b23c95727f111b26065438428a3682729</hash>
+      <hash piece="8">ce2d922633ee90cb20b2af3202f154f11ac2c3c3</hash>
+      <hash piece="9">618f80f2175db0a761ca25621c1d39c617e47467</hash>
+      <hash piece="10">9fe5114a955195528873c7745c27cf0db28dd97b</hash>
+      <hash piece="11">c0cb1bfebef198e51e6c0019f8d54acfe91ac10b</hash>
+      <hash piece="12">ebd15320189c76beef325907360c077e6fec7e7b</hash>
+      <hash piece="13">22d47e74bd5c5a7f0d61aa1e57bd10f532a546f2</hash>
+      <hash piece="14">f10409e0dc651bacedde0e7e683bf5ae20751eb2</hash>
+      <hash piece="15">9a536caa77333ad9fc80ebd89a07f26d9679fbf0</hash>
+      <hash piece="16">9a61bcedc2705b7658dd0465d66352e335fb7298</hash>
+      <hash piece="17">b1bd1f38b37c218e8507701829f5129cfee3f5d9</hash>
+      <hash piece="18">12937968c07e5322e92e10d5e272bd19755d02a0</hash>
+      <hash piece="19">1f4b8085de16695e72007eeb872aaa573e79ffb0</hash>
+      <hash piece="20">ed0d657d392b1cf1760b9e22abb23ac7f1080af4</hash>
+      <hash piece="21">89535db1da97640009bdcebb38dde16e93885198</hash>
+      <hash piece="22">10de12bd7b418af517b47811cb3a4aa604dbefb7</hash>
+      <hash piece="23">9cc8e397934ed6dba27083acea119b0d5432a1eb</hash>
+      <hash piece="24">41aee1e25f9f3e73272777500f8c3f4f067a4a69</hash>
+      <hash piece="25">ba8d026c53c133e24d115f3d3f65de1358dae98e</hash>
+      <hash piece="26">d98a287695d019afd20c8a8b8367a7a7f9a0b51c</hash>
+      <hash piece="27">5dea3345c42a969bdded4e83fad3a9a36809c4da</hash>
+      <hash piece="28">e2a0ccd615b7e2c3b6891695fe89db7f9e1c436e</hash>
+      <hash piece="29">4714e497d05632ec9032ac2f9475f17de1fd3592</hash>
+      <hash piece="30">62e98e029d59c450450c920470f9a6fbe16e35d4</hash>
+      <hash piece="31">52ed27550abc9043b8e0eca20a2f7c467a721554</hash>
+      <hash piece="32">115addf344809158b30e3d83c17524f4d3dbb782</hash>
+      <hash piece="33">880f15071dde7fafc100fe977eb41f277ac99d63</hash>
+      <hash piece="34">9b883d80b6ffea0afbc2c9263274194c7fa1d74f</hash>
+      <hash piece="35">449c0c286ab939b01f9bbe73f6d32db18ce90fb0</hash>
+      <hash piece="36">23cc8d181fbcac1abafcd263bf6f564f05d6b8e6</hash>
+      <hash piece="37">459c1d696a9666fa17ccd2c20cfbf0797f7fc04e</hash>
+      <hash piece="38">cce896182c7a798c012747d3b9560c6825b55d0b</hash>
+      <hash piece="39">9388fcfd508cf671586985368d5eef557862e9ee</hash>
+      <hash piece="40">c8f54177b6cd0cb1a4d07f7711e12f22e4ea4c5b</hash>
+      <hash piece="41">cd84930f2e03b0f424ff3cf3dcd99ec8e0fb8a7f</hash>
+      <hash piece="42">dfe712a95380aac5671d77d8c1fdc7061c4851fb</hash>
+      <hash piece="43">0c1afa731be4250bde6e38caa2a405d1baab8133</hash>
+      <hash piece="44">0128c9d0a608a339304250f8a8c0d80c98d925d0</hash>
+      <hash piece="45">b9e9e17345ddeb964764d4f04bc942335c451703</hash>
+      <hash piece="46">3b2150563d7b9ddf96b98a65834a75e7beae8c60</hash>
+      <hash piece="47">a1e24ed6078977fa021c5576017fb67501cb3f52</hash>
+      <hash piece="48">3fad29130eee079142143213474c29302c56ba1d</hash>
+      <hash piece="49">9d64aa2aaf628a9d381d4880ad8697b2a686d2c4</hash>
+      <hash piece="50">46eabd3e762c2c12c192c12865726a257973c1c0</hash>
+      <hash piece="51">a98df8cc2e3452b820a02d1023c00870f738d20c</hash>
+      <hash piece="52">3814f8dd63fc7ba644cf3965e9060d1ebb383f3c</hash>
+      <hash piece="53">767658d43abbb9e6e75857d1a0eb2d2852743027</hash>
+      <hash piece="54">986b6f218c5700247a8bf10be7ad5b4bbb3e4931</hash>
+      <hash piece="55">c8971e766427e1bc2efbbd2ed8bc9c38eff17e96</hash>
+      <hash piece="56">591a063033e12faab343a317eef7a9344be36e42</hash>
+      <hash piece="57">473e400e590b6b0b31605d3a9a6aefc87f0dee22</hash>
+      <hash piece="58">b2f5091af119a28b6565cfc54b6cb35c32f31282</hash>
+      <hash piece="59">5e7693d1d94a2d5b28534f0d9a30e9d6cc090d0d</hash>
+      <hash piece="60">2f4417936615902c05fc3270e391b91c883f315a</hash>
+      <hash piece="61">1c5b870f40545b1f3766397f1fe599d0e244cda5</hash>
+      <hash piece="62">4547f4e75336ed1be1079273424e7994d560f1a8</hash>
+      <hash piece="63">0320ec6eeab86e54b9fa34efede2ab42313597ed</hash>
+      <hash piece="64">61ac1a9728c658cbda0aa17854de5fb892acfb65</hash>
+      <hash piece="65">232040a5f95be689669d4a63e649220f003349a8</hash>
+      <hash piece="66">6aacf4af29d8f881ae59e9315653422e8b4bdd66</hash>
+      <hash piece="67">a0c2f1a5774e749cf548b731b58a636ed8532394</hash>
+      <hash piece="68">fa28484ee0c8c6200023bc0fc4d8e5523e589565</hash>
+      <hash piece="69">e0212c5d4e2bd9301313ff21e94659553e3a9587</hash>
+      <hash piece="70">15da676a03286b73a2335ba01f949546be98e659</hash>
+      <hash piece="71">ff20fdddacabbc04eae0207d77937de394916817</hash>
+      <hash piece="72">439e7a9bbf451c290f55ccd89d0a4fc26350ef6d</hash>
+      <hash piece="73">0c14ac10cd1c7606056a71880f253738de4270c0</hash>
+      <hash piece="74">ea0d760feffa5f065ecf98116e4b324860ca4ac1</hash>
+      <hash piece="75">53f46efc471deb64c42c769cb10707c4e6c96bf1</hash>
+      <hash piece="76">ebf157e8225e312e07f64ad68b514bfb1747d81a</hash>
+      <hash piece="77">acb8057ed479333742c13c7a40ac26cf2013eae8</hash>
+      <hash piece="78">98de6ceea76a3beef476851f89f478a22b47f587</hash>
+      <hash piece="79">396610eb4799cd11db94413c2c7f5d6f1abef2ba</hash>
+      <hash piece="80">9c63523469ad5a1d12c3951753ac11cdabafa40b</hash>
+      <hash piece="81">24cdcfcedf19d175b1ff5d68ed69aac93e41be6b</hash>
+      <hash piece="82">e454dd2c1e1628dedee149c8a5d549542ed1baf7</hash>
+      <hash piece="83">04e5df11b401ee2d356d3cbb9bfecae2093dd363</hash>
+      <hash piece="84">331ced715c3f0e085150ded2371c9908c4fcec1c</hash>
+      <hash piece="85">f4d956ec0a14b0bf0d82e36b7c14f7e4966f7e50</hash>
+      <hash piece="86">f5a28b96fe644801a6f24d2a38e6aaff78ebe54c</hash>
+      <hash piece="87">893b2f325c683a6892dcad7dd74b7935c7c82759</hash>
+      <hash piece="88">a234238af359101b188ef835d70f84e3babd2106</hash>
+      <hash piece="89">4c37eeb0bdfc19c08731b92d149585cbdb3ea499</hash>
+      <hash piece="90">6d92783dd4fe5030112d54ace9fce3d8538435ce</hash>
+      <hash piece="91">cbb58c18f7158714c040fd5d9d77998b8ace85ee</hash>
+      <hash piece="92">7272b19392dd01b2eb562f5943c3f7e8c4963285</hash>
+      <hash piece="93">3dcde3f590c7b00aefb58de49bc22fe869c83c55</hash>
+      <hash piece="94">72ad266d4d03199b20e81bcbe79ddbc0e45567fb</hash>
+      <hash piece="95">7915981b96fd871e4182e52c91119ab352a79a72</hash>
+      <hash piece="96">9adff40c8700bf763985a48accaaf90f81374f5c</hash>
+      <hash piece="97">fc36894f621df804f35f5753ee91fafa06d9c24a</hash>
+      <hash piece="98">08b1473b3d7731238aed9d2cabdf4fbca1fe22d1</hash>
+      <hash piece="99">1ea06333aa808ae3735c9ab34ad0c9c7ee5deacd</hash>
+      <hash piece="100">f98cd1c3ff257c5492f3e763e0007eb00771abc7</hash>
+      <hash piece="101">fae1fcfc6efc8fd7781b8da923e30b56347ebe4b</hash>
+      <hash piece="102">913cfcf5d1150b8666480d9c3ff41b91fc801a91</hash>
+      <hash piece="103">3f47d800d106bae59dfefed62370f25d4884bd5f</hash>
+      <hash piece="104">5003847265030cf1444b4fb6f7f415401da4fe06</hash>
+      <hash piece="105">6b1e4bb167a354092a953cde5c77ec6e699cc2b6</hash>
+      <hash piece="106">1d53f20bf6a736bb4d0f187a0361df9b60e711c7</hash>
+      <hash piece="107">b532e893a9b1bd16311ded6a31108138d11cc988</hash>
+      <hash piece="108">bfdec834cac14b30e089c9caa43778d873cc1e63</hash>
+      <hash piece="109">aa81e1dc6319661bf0c8691ab78f5a8b242d691a</hash>
+      <hash piece="110">8dbf79b349cff3e89041ebbf002546851942d8d9</hash>
+      <hash piece="111">c20d52ab947e9f68d5d82a54a8f65502bc5c74ce</hash>
+      <hash piece="112">7303371c33dfd56372b5d8931986aeea3c269f78</hash>
+      <hash piece="113">346fb634a4e4beb45f42368e08719e12e31bea66</hash>
+      <hash piece="114">fd52e13d038f81290f6c706a3f7df25bde27bbfa</hash>
+      <hash piece="115">aac72934ea12a75df25af30aa2f3e4fe768adab8</hash>
+      <hash piece="116">5d60af4667f0fa282344d84affe1696d44288a4f</hash>
+      <hash piece="117">532c9da7a7573ef45d987ac00dbf9cb085430b88</hash>
+      <hash piece="118">370fec9bda085de93b8b16ab5eca441323b6c6f5</hash>
+      <hash piece="119">af551a42ef2176a8177e747b27cf519a613374c2</hash>
+      <hash piece="120">677dd32db9a088ac13f8359a4f8f80c35e323769</hash>
+      <hash piece="121">750cbf3ba10dd5aac0570f1ca19ed10a6375174e</hash>
+      <hash piece="122">c1faa3ca7e6d4b765a45df4da340f15a6e1b3525</hash>
+      <hash piece="123">88b7443e178554d52a4cad8d9937e44379f2731a</hash>
+      <hash piece="124">c35f7a8de96d1717d801047e8b4f81eb0d211143</hash>
+      <hash piece="125">5f81d1e98c649a912a18d0a2cb0e4644e913f60c</hash>
+      <hash piece="126">44c3b633aebba0b92ab7454fd9f87162bc1d1dd1</hash>
+      <hash piece="127">3deb032e9a08a69451fde9ca4212ddeb09b31558</hash>
+      <hash piece="128">84db221a4ae066b46e4092084c4591c7126937c2</hash>
+      <hash piece="129">6b8c7bb04fa36896341b36d132d4733852b49a1b</hash>
+      <hash piece="130">eb4f3b5a5f688bd1d3b9f5a3de9b4c4309d1a688</hash>
+      <hash piece="131">3490f3f1626c4d47d1fff78ef46091d5603d5a04</hash>
+      <hash piece="132">f2872483ad98c6469f3569d2c360975aed1cf9d3</hash>
+      <hash piece="133">f5337e28418688b9a1581fd5dff5b4055c93028b</hash>
+      <hash piece="134">bc8089972c8a95464b45370ae5b2b12c3e103b43</hash>
+      <hash piece="135">a564f026e83618d2de2ef8fa6aa8c03012c9fdc5</hash>
+      <hash piece="136">59b1528a8a96d94e321a80ef3130c77035bb7d9a</hash>
+      <hash piece="137">38c73771515254ef6c19c72d24cc61e9376d3d73</hash>
+      <hash piece="138">82784db7e9e30b6d960d46ac0afeb0bf3538abe9</hash>
+      <hash piece="139">79d9fb0c34c1081c86eee9aa2190c421b57de958</hash>
+      <hash piece="140">c4cdb4d12212bc8c24af71d4742998754dba1d5e</hash>
+      <hash piece="141">26ae4d1eae8cf80fc522b155ee550d54fec68c62</hash>
+      <hash piece="142">7a2adacb703c33246729bde2f654432839ae2e5d</hash>
+      <hash piece="143">7fc7994034c56bbda8e078ea8bb6353a0fc71305</hash>
+      <hash piece="144">cf021d626dd7e31a9bc911f20c455af4060582c6</hash>
+      <hash piece="145">fce5b7269be9a06244fa6c902fb6629d05af7687</hash>
+      <hash piece="146">2311373e6a38357fcafaa5d74f149d7440cc4a4f</hash>
+      <hash piece="147">cdb5c58b7f277f7b9d2960ffac6d5db905b0ccbc</hash>
+      <hash piece="148">748c5ffdc2525e70e1c928102e0c08b5be5c260b</hash>
+      <hash piece="149">602f7733e247df8599ef076bd071b41cff51258c</hash>
+      <hash piece="150">17d1d33c40188b85f84f44c979a221c489f7b50a</hash>
+      <hash piece="151">c7e1d68f4f24dc552c83e92d5c6118ceeef254ff</hash>
+      <hash piece="152">eb39fc05ca7190034f9b65723b629bf20cac9afe</hash>
+      <hash piece="153">9517e497cb491466a3708e24b0cb18b3514f84f5</hash>
+      <hash piece="154">a8d1d242ad18e8457befc4488bbff2f52e91df50</hash>
+      <hash piece="155">50f1826192a6d9d237784671331c4dc0ac3f2a47</hash>
+      <hash piece="156">09b5d145311ec3bade821418993281845dc84475</hash>
+      <hash piece="157">71f63c5e1f6e1897eafd58448d6245f71fc4d414</hash>
+      <hash piece="158">b91c37d0b629e79bd10986fbd6de541917f3296e</hash>
+      <hash piece="159">5ccce8186e224b1cab947db65cfea2c1565f6b5a</hash>
+      <hash piece="160">50e637bfe191933b95f76ded5fd0112aec1419fe</hash>
+      <hash piece="161">644e70d4a516324da9da4fc81105035f71d0f970</hash>
+      <hash piece="162">a681d6eb854b427bcd5aa2b43289914d86caf513</hash>
+      <hash piece="163">2f457958efe28c2c944bc9ad2ac551699c2c5c57</hash>
+      <hash piece="164">53936af4d5759215ad318baf64dca1a2c0b12dda</hash>
+      <hash piece="165">5ba4550af8c544a9c90b32235b2c0a6881a69d46</hash>
+      <hash piece="166">dcc15368683b8cf6b3372941f6f147e315961d2b</hash>
+      <hash piece="167">51481307c3b508b7546b85fb887da764606c6278</hash>
+      <hash piece="168">0403544c67f63abb3989f3419c0d88373650bba3</hash>
+      <hash piece="169">3c256ad21dc6ea07553e2a48bcfefb2641b9b931</hash>
+      <hash piece="170">7d6ce22e670ed54118772a2a52cbb5dd45ee623f</hash>
+      <hash piece="171">b9b0e87774ad6382608a13ffeb94f5209bbcedcf</hash>
+      <hash piece="172">ffb52eda936314c3869f4367f3e440530125127d</hash>
+      <hash piece="173">9cc38e64f81b64771843865a13a6a6498260c772</hash>
+      <hash piece="174">7a99194c479142c2aec4a2530b8ad577e8ef8a4f</hash>
+      <hash piece="175">72d034a6cd72bfeb4a84589f62c2948ee894e1c1</hash>
+      <hash piece="176">ae927510b876cdd82831d9ed3248c289cbd208c3</hash>
+      <hash piece="177">69abd4f151cc973054819777bd75aa960bcbe668</hash>
+      <hash piece="178">daec16d3b48d4b20fbbde21f154a9a569fabb127</hash>
+      <hash piece="179">774c14c4c1850b7841e9738ff7f9df70f9d9b1dd</hash>
+      <hash piece="180">60cf8382d0a811531005e1a3bf1dc5d2fc346b7e</hash>
+      <hash piece="181">711ed8733e0fcd17fdaef34b22db484dfbd72cf2</hash>
+      <hash piece="182">236e2ebd4cce26dbb140f49a1ba71c57e2b837a8</hash>
+      <hash piece="183">d02af601559f2b37d47679a3741563c0371f489b</hash>
+      <hash piece="184">ab97bb5ca79c663a11a4828ac091e826cf882a26</hash>
+      <hash piece="185">ade5f229c10283901a3bfcc46fb9e6c4a00eced6</hash>
+      <hash piece="186">7b10a866135926b835be4b5264cd755335ec6257</hash>
+      <hash piece="187">4349aa1683f88deb9c7cd9bb26b8560d21313d89</hash>
+      <hash piece="188">29856726ea7cc2394ac89b6c18d317193e2177c5</hash>
+      <hash piece="189">38df9b0d045347f48beff86019c005339dc08f24</hash>
+      <hash piece="190">c77bf067890362f3900b933c2ec5997fc06549eb</hash>
+      <hash piece="191">9a7e3094d8b4a2d129120b5f51bca305b7fb9f89</hash>
+      <hash piece="192">f3f9a9950870279ea1ae2d13d6c79546b46266a2</hash>
+      <hash piece="193">82d0a0d255a6020387e7811035efa00dc19658e5</hash>
+      <hash piece="194">7fcace3b362c0ab9920e2f6b930bfd8dac7f8313</hash>
+      <hash piece="195">9dbf5658c83a0fe860b27568962cd8feaa84bf8c</hash>
+      <hash piece="196">f24dfd3021da917d0af6ce42f03efb5619f409bb</hash>
+      <hash piece="197">2e46e7821163e78a8fc9acff88095b88a348684c</hash>
+      <hash piece="198">f7bf9106efcd1ac41023b05c1c4209a50cdb1416</hash>
+      <hash piece="199">43439aa025874979cce1682dde5416fc5bed9a52</hash>
+      <hash piece="200">07d5a46130ffa15a59ff0d4aad71d4abcadfffa2</hash>
+      <hash piece="201">e0d497134aa78929480f2a4ca0400337d7fc25dd</hash>
+      <hash piece="202">b38d34b5511e3525f64742aeb084c8eacde910a3</hash>
+      <hash piece="203">eb9ee8305e18aab4c0109046fab9144e28564179</hash>
+      <hash piece="204">012d267695ef662a9e12ae5d7e6ecd7cafff53d6</hash>
+      <hash piece="205">c86697a9106716e754971bed9c295efc87dbaa75</hash>
+      <hash piece="206">5cff7e72f154c990ab3e0f3a89fb1f7a9ef0e40e</hash>
+      <hash piece="207">396029ee7270d715fd80accb2cc55d422eed3074</hash>
+      <hash piece="208">ae745b6ea71334a35582c3d591433c3399b429ac</hash>
+      <hash piece="209">d80095c2c46efbe916472f77d06e5a9fad26f826</hash>
+      <hash piece="210">9d9584d0d65cf3b764c85b5864d13a3993f47943</hash>
+      <hash piece="211">f528bf2359318b44563636709e724ce5aaf56481</hash>
+     </pieces>
+     
+
+    </verification>
+
+    <resources>
+
+      
+     <url type="bittorrent" preference="30">http://borft.student.utwente.nl/~adrian/torrentphp/torrent.php/OOo_2.3.0_Win32Intel_install_en-US.exe.torrent</url>
+     
+     <url type="ftp" location="au" preference="30">ftp://mirror.pacific.net.au/OpenOffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="au" preference="30">http://mirror.pacific.net.au/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="au" preference="30">ftp://ftp.planetmirror.com/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="au" preference="30">http://planetmirror.com/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="at" preference="30">http://gd.tuwien.ac.at/office/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="at" preference="30">ftp://gd.tuwien.ac.at/office/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="be" preference="30">ftp://ftp.scarlet.be/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="be" preference="30">http://ftp.scarlet.be/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="rsync" location="be" preference="30">rsync://ftp.scarlet.be/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="be" preference="30">ftp://ftp.openoffice.skynet.be/pub/ftp.openoffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="br" preference="30">http://linorg.usp.br/OpenOffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="br" preference="20">ftp://ftp.pucpr.br/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="bg" preference="30">ftp://ftp.spnet.net/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="bg" preference="30">http://ftp.spnet.net/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="ca" preference="30">ftp://openoffice.mirror.rafal.ca/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="ca" preference="30">http://openoffice.mirror.rafal.ca/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="ca" preference="30">http://gulus.usherbrooke.ca/pub/appl/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="dk" preference="30">http://mirrors.dotsrc.org/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="dk" preference="30">ftp://mirrors.dotsrc.org/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="fr" preference="30">ftp://ftp.free.fr/mirrors/ftp.openoffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="fr" preference="20">ftp://openoffice.cict.fr/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="de" preference="20">ftp://ftp://ftp.tu-chemnitz.de/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="de" preference="30">ftp://ftp://ftp.gwdg.de/pub/misc/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="de" preference="30">http://http://ftp.gwdg.de/pub/misc/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="de" preference="30">ftp://sunsite.informatik.rwth-aachen.de/pub/mirror/OpenOffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="de" preference="30">ftp://ftp://ftp.uni-muenster.de/pub/software/OpenOffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="de" preference="30">http://ftp.rz.tu-bs.de/pub/mirror/OpenOffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="de" preference="30">ftp://ftp.rz.tu-bs.de/pub/mirror/OpenOffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="de" preference="20">ftp://ftp://ftp-stud.fht-esslingen.de/pub/tbl_mirrors/ftp.openoffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="de" preference="20">ftp://ftp://ftp.stardiv.de/pub/OpenOffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="de" preference="20">http://http://ftp.stardiv.de/pub/OpenOffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="de" preference="20">http://mirror.xaranet.de/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="gr" preference="30">http://www.ellak.gr/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="gr" preference="30">http://ftp.ntua.gr/pub/OpenOffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="gr" preference="30">ftp://ftp.ntua.gr/pub/OpenOffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="hu" preference="20">http://ftp.fsf.hu/OpenOffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="hu" preference="20">ftp://ftp.fsf.hu/OpenOffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="id" preference="20">http://openoffice.ugm.ac.id/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="ie" preference="30">ftp://ftp.heanet.ie/mirrors/openoffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="ie" preference="30">http://ftp.heanet.ie/mirrors/openoffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="rsync" location="ie" preference="30">rsync://ftp.heanet.ie/mirrors/openoffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="jp" preference="30">http://http://www.ring.gr.jp/archives/misc/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="jp" preference="30">ftp://ftp://ftp.ring.gr.jp/pub/misc/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="jp" preference="30">http://ftp.yz.yamagata-u.ac.jp/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="jp" preference="30">ftp://ftp.yz.yamagata-u.ac.jp/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="my" preference="20">http://mymirror.asiaosc.org/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="nl" preference="30">ftp://ftp.nluug.nl/pub/office/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="nl" preference="30">http://ftp.nluug.nl/pub/office/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="nl" preference="30">ftp://ftp.snt.utwente.nl/pub/software/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="nl" preference="30">http://vlaai.snt.utwente.nl/pub/software/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="pl" preference="30">ftp://ftp.man.poznan.pl/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="pl" preference="30">ftp://ftp://ftp.openoffice.pl/OpenOffice.ORG/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="pl" preference="30">http://ftp.tpnet.pl/vol/d9/OpenOffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="pl" preference="30">ftp://ftp.tpnet.pl/d9/OpenOffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="pt" preference="20">ftp://neacm.fe.up.pt/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="pt" preference="20">http://neacm.fe.up.pt/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="ro" preference="30">ftp://mirrors.evolva.ro/openoffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="ro" preference="30">ftp://ftp.iasi.roedu.net/pub/mirrors/openoffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="ro" preference="20">http://ftp.iasi.roedu.net/mirrors/openoffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="ro" preference="20">ftp://ftp.idilis.ro/mirrors/openoffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="ro" preference="20">http://ftp.idilis.ro/mirrors/openoffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="ru" preference="30">ftp://ftp.chg.ru/pub/OpenOffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="ru" preference="30">http://ftp.chg.ru/pub/OpenOffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="cs" preference="20">ftp://mirror.etf.bg.ac.yu/openoffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="cs" preference="20">http://mirror.etf.bg.ac.yu/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="sg" preference="20">ftp://mirror.averse.net/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="sg" preference="20">http://mirror.averse.net/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="si" preference="10">ftp://ftp.bevc.net/mirrors/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="si" preference="10">http://mirrors.bevc.net/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="si" preference="20">http://www.wsection.com/OpenOffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="za" preference="10">ftp://ftp://ftp.is.co.za/mirrors/OpenOffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="kr" preference="30">ftp://ftp://ftp.kr.freebsd.org/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="es" preference="30">http://sunsite.rediris.es/mirror/openoffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="es" preference="30">ftp://ftp.rediris.es/mirror/openoffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="se" preference="30">ftp://http://ftp.sunet.se/pub/Office/OpenOffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="ch" preference="30">ftp://ftp.solnet.ch/mirror/OpenOffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="ch" preference="30">http://mirror.switch.ch/ftp/mirror/OpenOffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="ch" preference="30">ftp://mirror.switch.ch/mirror/OpenOffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="tw" preference="30">ftp://ftp.isu.edu.tw/pub/OpenOffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="tw" preference="30">http://ftp.isu.edu.tw/pub/OpenOffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="gb" preference="30">ftp://ftp.mirrorservice.org/sites/ny1.mirror.openoffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="gb" preference="30">http://www.mirrorservice.org/sites/ny1.mirror.openoffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="gb" preference="30">ftp://mirrors.blueyonder.co.uk/sites/openoffice.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="gb" preference="30">http://openoffice.blueyonder.co.uk/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="gb" preference="30">ftp://ftp.mirror.ac.uk/mirror/sunsite.dk/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="gb" preference="30">http://www.mirror.ac.uk/mirror/sunsite.dk/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="us" preference="30">ftp://ftp.ussg.iu.edu/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="us" preference="30">ftp://openofficeorg.secsup.org/pub/software/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="us" preference="30">http://openofficeorg.secsup.org/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="us" preference="30">ftp://ftp.osuosl.org/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="us" preference="30">http://ftp.osuosl.org/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="us" preference="30">http://mirrors.ibiblio.org/pub/mirrors/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="us" preference="30">ftp://mirrors.ibiblio.org/pub/mirrors/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="us" preference="30">http://mirrors.isc.org/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="us" preference="30">ftp://openoffice.mirrors.pair.com/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="us" preference="30">http://openoffice.mirrors.pair.com/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="us" preference="30">http://openoffice.takiweb.com/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="ftp" location="us" preference="30">ftp://openoffice.mirrors.tds.net/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="us" preference="30">http://openoffice.mirrors.tds.net/pub/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+     <url type="http" location="us" preference="10">http://mirrors.wehost4u.net/openoffice/stable/2.3.0/OOo_2.3.0_Win32Intel_install_en-US.exe</url>
+
+      
+       <url type="magnet" preference="90">
+         magnet:?xt=urn:sha1:f0b64e2ef7f29482125a4b6db4c0c66b93afa76e&amp;xt=urn:ed2k:ed6006ed01829376655c321b5ce36399&amp;xl=111081290&amp;dn=OOo_2.3.0_Win32Intel_install_en-US.exe
+       </url>
+      
+
+      
+
+    </resources>
+   </file>
+  </files> 
+</metalink>

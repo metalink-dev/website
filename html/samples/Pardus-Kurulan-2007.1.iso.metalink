@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.0.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Pardus Linux</name>
+    <url>http://www.pardus.org.tr/</url>
+  </publisher>
+  <identity>Pardus Linux</identity>
+  <version>2007.1</version>
+  <files>
+    <file name="Pardus-Kurulan-2007.1.iso">
+      <size>719585280</size>
+      <verification>
+        <hash type="md5">0fc697871a0d8730a35b62d988392fb8</hash>
+        <hash type="sha1">3576c8108a774b4a9b930ed2ea00f6889828a07a</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">547562f32a3da6ec08607acd9244961ac8978089</hash>
+          <hash piece="1">82a434e16ba186c86bcf7064db5389fe5edb259d</hash>
+          <hash piece="2">8701a7b0c531204cad47196be4c4c1f6fabb0ab6</hash>
+          <hash piece="3">9706e0c894a6904f1a7589b52e5cd0c49a282363</hash>
+          <hash piece="4">f098b2836cd80db560a69b54105653e53d801fa9</hash>
+          <hash piece="5">da1c8f5c7923f3eaa4872744a6b925df7b12c8ad</hash>
+          <hash piece="6">8798c20021c7c68e789bfc75682fadcca1a99771</hash>
+          <hash piece="7">7d052c9c01beb417c1ef94f3383b7e803712f70c</hash>
+          <hash piece="8">3d0dd0246dca2cd91f2496d9df6d4f2551318591</hash>
+          <hash piece="9">bc3f7e3b305b6caa48502dd8002a790b21fc4fb8</hash>
+          <hash piece="10">6e168608025b66359462b62863a261fda3c76772</hash>
+          <hash piece="11">a609f19f05f6ac002d2902d0d5b05865ad61f17b</hash>
+          <hash piece="12">53961607ee9a153f8e67d79c77ed93b81da64f01</hash>
+          <hash piece="13">ab33a2bc24596fb046039bbccde988252f7d97f0</hash>
+          <hash piece="14">90e8f926f5a7bac4a88ddec9d9f8cc2ee66ab28e</hash>
+          <hash piece="15">eae5b79773e7d989fc2c9549e6665e93ac009e52</hash>
+          <hash piece="16">4752c7038102ebbfed10ca1263804dd10b9447fd</hash>
+          <hash piece="17">21fbfb3256349ec072b74ed7747c5c38d327e78e</hash>
+          <hash piece="18">96df1e8d4d027284217c8969776bf82ddce2d6a2</hash>
+          <hash piece="19">e67841ee2321b488d66bef1b9d0aec1b138180ce</hash>
+          <hash piece="20">d08826671386599516d07226de971adf7b30f0eb</hash>
+          <hash piece="21">b7106b64e0a6549f24aad27ac154e60d971a7269</hash>
+          <hash piece="22">d11a3b41567fa0cdfcca7387445a8011f477e39c</hash>
+          <hash piece="23">c610f1dfdeb14a6b1cbda8fc5257c818f1611424</hash>
+          <hash piece="24">40c680eb6a727142a316c632e3a3ef43bf09979f</hash>
+          <hash piece="25">299a2bba177bf21a9299175535f8b5528102b6ab</hash>
+          <hash piece="26">19523c780d9fb842e87a6946f91ed95aedc11dd4</hash>
+          <hash piece="27">a61a1cd403e0869bdb8fda291a174009401b6b45</hash>
+          <hash piece="28">72ba8ee5d46088c4a3a736c33038ccebb4f10499</hash>
+          <hash piece="29">76748d5e37b366773dec2570d19a92e4ea72273f</hash>
+          <hash piece="30">7b58b744c56c88c591d9dd2c59cdcecf17366aa5</hash>
+          <hash piece="31">8060aaf320a1dd72962a59f2b1c58852707e18cf</hash>
+          <hash piece="32">d929e715c19b4009802300529e0c8ff96a995ae7</hash>
+          <hash piece="33">5faa105f1bc6dbbd80ce2c05b6c15f0f25857c5d</hash>
+          <hash piece="34">8730a795a1c7bc63310f1019381fad9b87df9dfa</hash>
+          <hash piece="35">c9556eda20ae222a94b1b6eaeae670264cd869aa</hash>
+          <hash piece="36">b48c6164a18343c487ddf60f65d9afa77cc16ece</hash>
+          <hash piece="37">1564883a0ddbbd09249f4d97aeaee90c4f5a3607</hash>
+          <hash piece="38">54b49d20fbf963c48138c39767ff51a9e899fef8</hash>
+          <hash piece="39">a0bf6ed53d64cd6c1e74b1eae3bea62e85f265fc</hash>
+          <hash piece="40">0ba3dce85615cad908122f38d113b68b8569d9cf</hash>
+          <hash piece="41">1bfbeb61bc225fa5997cd350da6f2d8d91953ec8</hash>
+          <hash piece="42">e6efdc3dcaf6619916338671ef24d00a1c88fe68</hash>
+          <hash piece="43">98a8e9d8ce7273177dcc7245a476c1622d584af9</hash>
+          <hash piece="44">d82a48d9a4d424f06db009b148ca1190418dcab2</hash>
+          <hash piece="45">0e989e8926f4cc1eca3c6fa89b27c9ed8f0ec16e</hash>
+          <hash piece="46">9d270b746ed529d8c6251597e05751c6b035685e</hash>
+          <hash piece="47">4a14fddd6e7f7388e912b7c89658934e6742bf74</hash>
+          <hash piece="48">203b844f1e5f738c02b092f2560d34cc6a313ce1</hash>
+          <hash piece="49">594fbff515fd4106221d5fcffe726e354818bae8</hash>
+          <hash piece="50">65a22c707e46f669ebd60dbb6a65b5d99649bd95</hash>
+          <hash piece="51">57c9d22dff5580362f249ba2f44f2797b74f239b</hash>
+          <hash piece="52">f15d6b7d615c980f8a4c69b5ae5bf231e08cab39</hash>
+          <hash piece="53">f105e714d77372e27518446bda205676e175e751</hash>
+          <hash piece="54">b0380471c8066e42b8eaa405af3fccfd8edf9e46</hash>
+          <hash piece="55">9dc31d079429c59dde3d3bfd615450516d9d4b7c</hash>
+          <hash piece="56">e467c9c913dd3e8b3730b210b3417aef052bffc2</hash>
+          <hash piece="57">e7c6791bc09fe10c738dc973a921823cbbd8d996</hash>
+          <hash piece="58">9058ca7e8e6cb3d062adef423043d1ee766a419e</hash>
+          <hash piece="59">c3e484563a3d93a80e8b5844b8ca9711e59ec656</hash>
+          <hash piece="60">7d48a0f681ddcd6bbf5dac099eb12161205296b9</hash>
+          <hash piece="61">e0f2588a25cbd8095494d9d3dd19080ad70cd55e</hash>
+          <hash piece="62">fc30f777386916666a8604cdfc7e3cae2c2f4947</hash>
+          <hash piece="63">5d66ed145ab8a281bad6a7d64d6eae70a4604b52</hash>
+          <hash piece="64">bfbde67ac14fa45573d88d386d0089cc24b065bc</hash>
+          <hash piece="65">141028ae10e9fdd2a87a3ba11c4e597cbbad6a8c</hash>
+          <hash piece="66">6a3b294a13d68d86119351ca4c4588d1c8a2655c</hash>
+          <hash piece="67">777e9ce08e3e1bf227f8f0704d1667bfc53c4abc</hash>
+          <hash piece="68">115eac1becf893bc278d381ebc701f5feea6794b</hash>
+          <hash piece="69">b54bc98d9895cdbfadbae8ba89ef92a504d123e7</hash>
+          <hash piece="70">43d4cfe348abbcc5d3b0d23a351afbc3348ff17c</hash>
+          <hash piece="71">dab72323fdae67771e91cf5f4e654e5ed2398e10</hash>
+          <hash piece="72">025b01bd41e4112ced2a201a23578ae5d01f0521</hash>
+          <hash piece="73">8f4a6a6c14a2e2f73c164ee58ce97af4b8c14bc9</hash>
+          <hash piece="74">ebdfcf3e50556664e897fda2cf9d9e60cd7e5113</hash>
+          <hash piece="75">146855df64a092df8ce0f82fd9794bd0aa6b0ec6</hash>
+          <hash piece="76">61072c6c74dc702c919142a33d0989d0c69f234a</hash>
+          <hash piece="77">fb80739bc278d29563cf58068e7ba174be8853f1</hash>
+          <hash piece="78">7aefcac274648946560baeb2e5f33a38937eaed8</hash>
+          <hash piece="79">bcaad3bc6c9bd53ef86cdc1165a60eceb4f203e0</hash>
+          <hash piece="80">80fce43c01054f37c3df5616fae426398436f6e6</hash>
+          <hash piece="81">1b46b3654e307bab165ef752f423233da52ed1d0</hash>
+          <hash piece="82">4e23c88c700e4c5c7c3e51af5b87b02af939feb6</hash>
+          <hash piece="83">74e8553d20d67fe11af5eec622efedc1d2ea12b6</hash>
+          <hash piece="84">1cadc1b773e881307eb724bd2c3cf99668b8d091</hash>
+          <hash piece="85">4455f4472025333dbadf8d94e35cdd3f7c3ea4fe</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="bittorrent">ftp://ftp.pardus.org.tr/pub/pardus/kurulan/2007.1/Pardus-Kurulan-2007.1.iso.torrent</url>
+        <url type="ftp" location="tr" preference="100">ftp://ftp.pardus.org.tr/pub/pardus/kurulan/2007.1/Pardus-Kurulan-2007.1.iso</url>
+        <url type="ftp" location="tr" preference="100">ftp://ftp.comu.edu.tr/pub/linux/dagitim/pardus/kurulan/2007.1/Pardus-Kurulan-2007.1.iso</url>
+        <url type="ftp" location="tr" preference="100">ftp://ftp2.pardus.org.tr/pub/pardus/kurulan/2007.1/Pardus-Kurulan-2007.1.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

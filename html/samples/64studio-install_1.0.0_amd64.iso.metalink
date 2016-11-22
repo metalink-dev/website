@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0037" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>64 Studio</name>
+    <url>http://www.64studio.com/</url>
+  </publisher>
+  <description>64 Studio develops a distribution of native free software for digital content creation on x86_64 hardware (that's AMD's 64-bit CPUs and Intel's EM64T chips). It's based on the pure 64 port of Debian GNU/Linux, but with a specialised package selection and lots of other customisations.</description>
+  <files>
+    <file name="64studio-install_1.0.0_amd64.iso">
+      <version>1.0</version>
+      <os>Linux-x64</os>
+      <verification>
+        <hash type="md5">4302f1aaa30b75ee4aed8e6c352d5366</hash>
+      </verification>
+      <resources>
+        <url type="ftp" location="uk" preference="100">ftp://download.64studio.com/64studio-install_1.0.0_amd64.iso</url>
+        <url type="ftp" location="uk" preference="100">ftp://ftp.mirror.ac.uk/mirror/images.64studio.com/64studio-install_1.0.0_amd64.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp-osl.osuosl.org/pub/64studio/64studio-install_1.0.0_amd64.iso</url>
+        <url type="http" preference="100">http://download.linuxaudio.org/64studio/64studio-install_1.0.0_amd64.iso</url>
+        <url type="http" location="uk" preference="100">http://www.mirror.ac.uk/mirror/images.64studio.com/64studio-install_1.0.0_amd64.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <url>http://tortoisesvn.net/</url>
+  </publisher>
+  <identity>TortoiseSVN</identity>
+  <version>1.5.2</version>
+  <description>TortoiseSVN is an easy to use SCM / source control software for Microsoft Windows and maybe the best standalone Subversion client there is.</description>
+  <files>
+    <file name="TortoiseSVN-1.5.2.13595-win32-svn-1.5.1.msi">
+      <size>18682368</size>
+      <os>Windows-x86</os>
+      <verification>
+        <hash type="md5">c91274d0131241b94e529fec8ba3a642</hash>
+        <hash type="sha1">c6249684a391c6256dacc92e4aac2f1ac8936090</hash>
+        <hash type="sha256">601859e61d21bc5e55a0c9cd3b63614f1d0e684d99fb02365109e9417ecf6d2a</hash>
+        <pieces type="sha1" length="262144">
+          <hash piece="0">33e042401403a5befc684193bcd1cfcada150b3c</hash>
+          <hash piece="1">5c571e68c59821b1a62557f392eb0f50d9af3626</hash>
+          <hash piece="2">be31c8f2955dedcb1452ac9a6c5d5138a80d9ad6</hash>
+          <hash piece="3">7ac2bacbb879bed65384b85ab36ddd98912a2321</hash>
+          <hash piece="4">3f1be5548518c496210d49c78d2f23bc6d9ca2b1</hash>
+          <hash piece="5">4f5ac8cb8ffe6719c71adbbf5b01c4f1ae399234</hash>
+          <hash piece="6">3130219aadc7558e908a3c096604e000ae00fe38</hash>
+          <hash piece="7">1de7ab3467c677fc4a29ecc21e1de2ad89fb726a</hash>
+          <hash piece="8">74f07155328b437bdb51a1c4a1545e4972a4f950</hash>
+          <hash piece="9">268d2cbd18d003793a2c18a29891de7b3436f057</hash>
+          <hash piece="10">8f57e3723af9ebbbc5b4dfafaffe45900d2aa77e</hash>
+          <hash piece="11">8b4f0dbe4d61c26ae5e8d44d02dc6a020a93cbce</hash>
+          <hash piece="12">76cdaf5d5f7652f14e5f51e4dd43588955e070c4</hash>
+          <hash piece="13">fe881d84c6e20a3cdee76b02df29e181541b7079</hash>
+          <hash piece="14">7fbb443cb8e7b457a25338f017075586f897a893</hash>
+          <hash piece="15">1a75d039c401049dfd68cf4931f17f5a35cbb7c5</hash>
+          <hash piece="16">c3e5c98af580dcc5d73bb957609bb207ed2f9a0a</hash>
+          <hash piece="17">2fc35b93fc63fc74eb57cb2ba0c0de818cff3971</hash>
+          <hash piece="18">c5ac1ca15fe41487e84d557689a762ea92eff180</hash>
+          <hash piece="19">0c121efe9d175b5ddf84556a5e3905e6d058385e</hash>
+          <hash piece="20">6b1fef98e33d42d6d7cb827bd21517bdcda20ead</hash>
+          <hash piece="21">df8778228316aa71ffd3792a6437f318572091f3</hash>
+          <hash piece="22">95ca3d732bc3f6ba33bfa7b47f02cf611428ffda</hash>
+          <hash piece="23">08ebe21d40606e570258a06e8fe4a7c24d1dd208</hash>
+          <hash piece="24">bc2311b463c2156175340c04620683fbcccc456f</hash>
+          <hash piece="25">39d0a6a4567bd4a47acf13ca61b2902bb6245cfc</hash>
+          <hash piece="26">81f01468a4e22d72f4660b0da9b692c244e09d7a</hash>
+          <hash piece="27">6d234130c5a06a5ed8e47d0134d4f1cc2ba01bcc</hash>
+          <hash piece="28">d66be8063e6b47a4f642c60e2d9b71fe395c18a5</hash>
+          <hash piece="29">df959f3c423b15b329747112f4f2f3ebcb14f5f0</hash>
+          <hash piece="30">3b982d603b410df9d1d4fa824fd2e4e2e2ba19d5</hash>
+          <hash piece="31">cd1da9914ff9cafcd73d7210525c7a0ab3e6bc83</hash>
+          <hash piece="32">60b63bc3bd0a505fae981c83212214a23539272f</hash>
+          <hash piece="33">15990b94e1228e5557357a2baa818fa87919a4db</hash>
+          <hash piece="34">e857456d08cad3cfe5080f78bc9c3586fe382b75</hash>
+          <hash piece="35">514b980c1e4efc4b681c5ca9444b66c7a595d86b</hash>
+          <hash piece="36">40c103b06a572cad41eccd073f4574e86eac4315</hash>
+          <hash piece="37">0d4e663fc53080eb5c25a5bc5839f5909332536f</hash>
+          <hash piece="38">2a91a11116a131e0d4419e5992d0cdc82ec25e34</hash>
+          <hash piece="39">00097e38238c1b46ee586e74555ef7ee4d81e0a0</hash>
+          <hash piece="40">0c2660835846eb44910c6b3290139aae4b2d9175</hash>
+          <hash piece="41">8f3bee6e0f7d373e6e42f28362558bc8d3e15a8f</hash>
+          <hash piece="42">31bf1aea2a05ea194f4450a0698c014b4947e45c</hash>
+          <hash piece="43">3a28b5656681c651ee057ef5e6455fc80b3ee720</hash>
+          <hash piece="44">69cb5c7535611b6363569d280402eb66b7da7705</hash>
+          <hash piece="45">d6c14c14b7ffc16aa51a838f07dcb61afd6daeb3</hash>
+          <hash piece="46">853400992f77233616816517f7e26b10da4d86c4</hash>
+          <hash piece="47">bdeca3689a66e1731d4fbf7d9dc7aca99153c5b8</hash>
+          <hash piece="48">fa0c2556779a45d01aee4dd5bb172c183497add9</hash>
+          <hash piece="49">f7688c9989b76da79abae0758020a374f4183347</hash>
+          <hash piece="50">c5a849b29ba1e13ed61b6d4747ea290e7ced86f1</hash>
+          <hash piece="51">bb0102d2b98bb8e4db15941e1e9bd3bb79713ae0</hash>
+          <hash piece="52">fd1223646801e7373c387dad878dc82c4e7f2b15</hash>
+          <hash piece="53">d7d2b7e9ec5f7384a0be52ebe92121285ec84ed3</hash>
+          <hash piece="54">ae390423b72b833ecf1b4f2e5bdbadc116aac0ca</hash>
+          <hash piece="55">7d88f590e91b68066fe63ba9cfe847f91f72529f</hash>
+          <hash piece="56">9f03c9e05d3a242033de3fb02c21162fc61681c1</hash>
+          <hash piece="57">6b12f91f2e4fa9dcd534566d5dfba44daf09c184</hash>
+          <hash piece="58">ccc51ad172cdc94b6f65d288db6ae6bcffa92f29</hash>
+          <hash piece="59">373704bc3ca5ee8f142bbbc481478fb9e9173f85</hash>
+          <hash piece="60">8b2414f90f30de86acb4d05950efcefceafc5326</hash>
+          <hash piece="61">7072bcbd85de96ecf85c26035ae7ec9aef631419</hash>
+          <hash piece="62">d5a6194946500688e75995efad22a051c589b877</hash>
+          <hash piece="63">48c9f7a95fef0c8a9b54f17ffdd81caf08e88317</hash>
+          <hash piece="64">55f368d018cd72ffed67e3fe5f7a8999cf40a0b7</hash>
+          <hash piece="65">5362fd50ebc1681b54a5df7f0ec4e8a840f5810a</hash>
+          <hash piece="66">a59165f19471f5c96466818c2cdb8c69cc12b4c0</hash>
+          <hash piece="67">997c8f672332cf62a0af5c863873b9eb847fe588</hash>
+          <hash piece="68">8e340560da66eed7c3814b298196252e0b41e40b</hash>
+          <hash piece="69">0e84c44b86fe6aca5745d31462caabb6ef4e882f</hash>
+          <hash piece="70">0d5270011bdf56f8460553c63780c800c87d005c</hash>
+          <hash piece="71">8a36b1f408af05cb5480582c1f3ed3f47fca62e6</hash>
+        </pieces>
+		<signature type="pgp">
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.8 (MingW32)
+
+iEYEABECAAYFAkiR6YEACgkQNTJADUWeLT78rACgoehzhwy/1m3uviUzI8eax6s3
+XVAAoK+mXgAV+MLLrooJFTBhxDc0XjTL
+=+VSP
+-----END PGP SIGNATURE-----
+	    </signature>		
+      </verification>
+      <resources>
+        <url type="http">http://voxel.dl.sourceforge.net/sourceforge/tortoisesvn/TortoiseSVN-1.5.2.13595-win32-svn-1.5.1.msi</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

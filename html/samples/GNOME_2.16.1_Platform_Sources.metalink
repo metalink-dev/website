@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0"
+  xmlns="http://www.metalinker.org/"
+  generator="http://metalinks.sourceforge.net/"
+  >
+<files>
+	<file name="atk-1.12.3.tar.bz2">
+		<verification>
+			<hash type="md5">7f648f4808b5f8273e1d63b0b543bf9b</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/atk-1.12.3.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="at-spi-1.7.12.tar.bz2">
+		<verification>
+			<hash type="md5">ca4e69bb28c409e25bbc10293fa34941</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/at-spi-1.7.12.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="audiofile-0.2.6.tar.bz2">
+		<verification>
+			<hash type="md5">3d01302834660850b6141cac1e6f5501</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/audiofile-0.2.6.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="esound-0.2.36.tar.bz2">
+		<verification>
+			<hash type="md5">3facb5aa0115cc1c31771b9ad454ae76</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/esound-0.2.36.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="gail-1.9.3.tar.bz2">
+		<verification>
+			<hash type="md5">1e8825da60fd19833dfc6b2068f05ec9</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/gail-1.9.3.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="GConf-2.14.0.tar.bz2">
+		<verification>
+			<hash type="md5">d07c2efcaf477cf34225c604a04b6271</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/GConf-2.14.0.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="glib-2.12.4.tar.bz2">
+		<verification>
+			<hash type="md5">ef7b9595fa788e245a0f883bddba8a25</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/glib-2.12.4.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="gnome-mime-data-2.4.2.tar.bz2">
+		<verification>
+			<hash type="md5">37242776b08625fa10c73c18b790e552</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/gnome-mime-data-2.4.2.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="gnome-vfs-2.16.1.tar.bz2">
+		<verification>
+			<hash type="md5">2d9f7b01496ecc227015bc7a08fb798f</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/gnome-vfs-2.16.1.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="gnome-vfs-monikers-2.15.3.tar.bz2">
+		<verification>
+			<hash type="md5">b16f0db0482263be3318e269f52bb5b6</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/gnome-vfs-monikers-2.15.3.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="gtk+-2.10.6.tar.bz2">
+		<verification>
+			<hash type="md5">13c62b610c910255934452d0617403f7</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/gtk+-2.10.6.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="gtk-doc-1.7.tar.bz2">
+		<verification>
+			<hash type="md5">2543a3f5a7b5347fb135855ca55adea1</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/gtk-doc-1.7.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="intltool-0.35.0.tar.bz2">
+		<verification>
+			<hash type="md5">95c4bd2a91419083ee880a3f53f86edf</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/intltool-0.35.0.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="libart_lgpl-2.3.17.tar.bz2">
+		<verification>
+			<hash type="md5">dfca42529393c8a8f59dc4dc10675a46</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/libart_lgpl-2.3.17.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="libbonobo-2.16.0.tar.bz2">
+		<verification>
+			<hash type="md5">30cdcf2b5316888f10fea6362b38499c</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/libbonobo-2.16.0.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="libbonoboui-2.16.0.tar.bz2">
+		<verification>
+			<hash type="md5">603ffc92491ef27ccfbc2b69abd3906b</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/libbonoboui-2.16.0.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="libglade-2.6.0.tar.bz2">
+		<verification>
+			<hash type="md5">81d7b2b64871ce23a5fae1e5da0b1f6e</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/libglade-2.6.0.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="libgnome-2.16.0.tar.bz2">
+		<verification>
+			<hash type="md5">b3f030f6c677b0e1bcfca7c7e58d6c4a</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/libgnome-2.16.0.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="libgnomecanvas-2.14.0.tar.bz2">
+		<verification>
+			<hash type="md5">516c46fb4a1401b05cfef58c350fbd3d</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/libgnomecanvas-2.14.0.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="libgnomeui-2.16.0.tar.bz2">
+		<verification>
+			<hash type="md5">fc8417a6ec484b5f618df9e90605b8e3</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/libgnomeui-2.16.0.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="libIDL-0.8.7.tar.bz2">
+		<verification>
+			<hash type="md5">53a3874beb42ddfd9a5030047a0db740</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/libIDL-0.8.7.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="libxml2-2.6.26.tar.bz2">
+		<verification>
+			<hash type="md5">ce342b4d7b6d83e10cfa4d3f82bf75fd</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/libxml2-2.6.26.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="libxslt-1.1.17.tar.bz2">
+		<verification>
+			<hash type="md5">af99d7b06eba109ab374ccd7015561c4</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/libxslt-1.1.17.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="ORBit2-2.14.3.tar.bz2">
+		<verification>
+			<hash type="md5">857881e7aabf849016de9a1e9c53b328</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/ORBit2-2.14.3.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="pango-1.14.5.tar.bz2">
+		<verification>
+			<hash type="md5">297959acf7ed048a1f2596574b7671b6</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/platform/2.16/2.16.1/sources/pango-1.14.5.tar.bz2</url>
+		</resources>
+	</file>
+</files>
+</metalink>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+
+<!--
+	Metalink, an Open Standard, makes downloading easier by
+	bundling the various ways (FTP/HTTP/P2P) to get files into
+	one format for easier downloads, as well as bundling
+	checksums to automatically verify completed downloads.
+	
+	Currently the following applications support this file:
+	        
+	- GetRight 6 (http://www.getright.com/)
+	        
+	For further information please visit http://www.metalinker.org/
+-->
+ 
+  <files>
+    <file name="World_Wind_1.3.5_Full.exe">
+      <identity>NASA World Wind</identity>
+      <description>World Wind lets you zoom from satellite altitude into any place on Earth. Leveraging Landsat satellite imagery and Shuttle Radar Topography Mission data, World Wind lets you experience Earth terrain in visually rich 3D, just as if you were really there.</description>
+      <tags>nasa, world wind, satellite, maps</tags>
+      <version>1.3.5</version>
+      <language>en-US</language>
+      <os>Windows-x86</os>
+      <verification>
+        <hash type="md5">461ab2e03fd9a7601a85aebd3cb53fc7</hash>
+      </verification>
+      <resources>
+        <url type="http" location="jp" preference="100">http://download.forest.impress.co.jp/pub/win/n/nasawrldwnd/World_Wind_1.3.5_Full.exe</url>
+        <url type="http" preference="100">http://files.download.bg/downloads/9/31009/1.3.5/World_Wind_1.3.5_Full.exe</url>
+        <url type="http" location="de" preference="100">http://ftp.freenet.de/pub/filepilot/windows/heim_hobby/nasaworldwind/World_Wind_1.3.5_Full.exe</url>
+        <url type="http" preference="100">http://prdownloads.sourceforge.net/nasa-exp/World_Wind_1.3.5_Full.exe</url>
+        <url type="http" preference="100">http://telechargement1.pcastuces.com/temp6bs2/World_Wind_1.3.5_Full.exe</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

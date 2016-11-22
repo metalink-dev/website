@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 0.4.1" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <url>http://sam.hipsurfer.com/</url>
+  </publisher>
+  <description>SAM Linux Desktop is a self-booting live CD containing a complete and modern desktop OS.</description>
+  <files>
+    <file name="SAM-2007.iso">
+      <size>733476864</size>
+      <verification>
+        <hash type="md5">15deae3309b87eaab73697f75c82fc82</hash>
+        <hash type="sha1">e7926378f03d7ce39bc1b2334fed31941dc64b59</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">51e7aa25483275a4288f63e9b74d1a73d9d61be6</hash>
+          <hash piece="1">00e3a3c1441e0e6fb2289e805fe2abd6971884f0</hash>
+          <hash piece="2">a27b57f38d90408077fd48c61ff2491da71d6b43</hash>
+          <hash piece="3">f744fec73ec87734f6c5d0e0856d0444070d10de</hash>
+          <hash piece="4">f61d8325ca52f10346fbecf48a833434664690de</hash>
+          <hash piece="5">22340c68b425935f6fa2fe1f66b5f1c73a48e8e2</hash>
+          <hash piece="6">edad55806b0e5f0eec9bcd103a99897563537dee</hash>
+          <hash piece="7">ef0580f9f659353325fcccf4e5310dd47a84f7e4</hash>
+          <hash piece="8">86ccaebc33717b532fb97fb6a154e8063ac27cf2</hash>
+          <hash piece="9">53de9517e16011c25aa03317182b54556b45e0c8</hash>
+          <hash piece="10">33b3d58c7ec0dc55c00fee07da1002017ce121a9</hash>
+          <hash piece="11">4ac6ef277b924a38a0247f9daccdd30eeeb9a4fa</hash>
+          <hash piece="12">56ba904a3747fa66b7781022753953ea2212412e</hash>
+          <hash piece="13">bda63ab93e57c06d281ed9bbc6f9c4270860b2b3</hash>
+          <hash piece="14">1ded04f028b8f2db8bd3a9ff37ae8eced5f9c0f0</hash>
+          <hash piece="15">3694a107d38eb4667bf980fa935416cb9dba870e</hash>
+          <hash piece="16">1b091640242e2e2c7fdbe5ef294a2beb3e48eac8</hash>
+          <hash piece="17">303c23460b814436afe030f64a6e79f379132cc6</hash>
+          <hash piece="18">9ac960615ac32045e8d40189cffa7e6bf3c26e72</hash>
+          <hash piece="19">65483afac097236b352e54654d290255f14a832a</hash>
+          <hash piece="20">34bbefe3f2088364b7320188135f055d3c82f87c</hash>
+          <hash piece="21">fc26214fdc3a23dcd7aab02e05de81953b739ca9</hash>
+          <hash piece="22">d20f0415272c1167dce635379a035f2c1e894624</hash>
+          <hash piece="23">eace4d925201218aa714a2fe1282d56aa4a13b53</hash>
+          <hash piece="24">48c6c77fc55166f2c7fade080924a3ef8c3519ca</hash>
+          <hash piece="25">ee520882d4dca1039eb0667faedb9daee875879e</hash>
+          <hash piece="26">fca2a6528c29e6bd5fd8651da6bb7c73570d8734</hash>
+          <hash piece="27">52fd6c8f236b8066256a38ddd0bf967c4befc131</hash>
+          <hash piece="28">7a2fcb558f5f9c5c2a9eca8b03403f81a421d072</hash>
+          <hash piece="29">b90085fff310171c3b02483746ef470eb954ae19</hash>
+          <hash piece="30">1e10af9ce93ab19c0e0c480d16dd08e2937c68c1</hash>
+          <hash piece="31">693f0cd9418fd982f7e942c48654b2fd64aaeb43</hash>
+          <hash piece="32">6f68aa6dba1d93cfa4551195acf54a5d3a10104d</hash>
+          <hash piece="33">ba88fb29d5244c36c279149b670239a6b3e3e93a</hash>
+          <hash piece="34">d2becabb0b6075b3c0b1f1225c187f432637c994</hash>
+          <hash piece="35">cda48bc83fe2b477b143e8767240d2a60632622e</hash>
+          <hash piece="36">bd852360b2bc8db2e4ce9c31e5f6b754026f5190</hash>
+          <hash piece="37">49c5f1804854b0c243bfce520cba2a7e4d9f8021</hash>
+          <hash piece="38">d87bbcf912f54cdb186b7c8159f81508930c0009</hash>
+          <hash piece="39">f8b007c57fabf7c53ea3fb039c7391c4e4a53ec1</hash>
+          <hash piece="40">e9f3d70e1f3f872f0d167abf144cab8f3d30687e</hash>
+          <hash piece="41">f9fa42d5c60ae61b7fc9ce1ecf6035ac8cbfd10c</hash>
+          <hash piece="42">de1e785898188c432fa55afe4a07de774f4bad1a</hash>
+          <hash piece="43">848fb4d2a7e389d5f9cc4dc24fd87450fbbbb321</hash>
+          <hash piece="44">5347aa17e926d16cbcd357438e5624cd62175021</hash>
+          <hash piece="45">8ce70d91e0ed9e08526adaa3e64a8d8d2ebe0a21</hash>
+          <hash piece="46">c338a9b75771ff60dec8b904640a3cd57cf611fd</hash>
+          <hash piece="47">5dacd833a51e233926119823562e72acfe7622bd</hash>
+          <hash piece="48">f09f1805c41a1e86e93b20b9648b380beb10e5ee</hash>
+          <hash piece="49">0181c976896a0c16124a1142c812ce08711fc9b8</hash>
+          <hash piece="50">92b7fba495965128a9c16e31acfadc56a07f93d1</hash>
+          <hash piece="51">5bad4df1f013aafcbaa3d0b3576db302f746b753</hash>
+          <hash piece="52">67afaa3564999227ee5bef5208f932a56302e76f</hash>
+          <hash piece="53">9647beff14ba201aa791e37d0b08ade545c20ea4</hash>
+          <hash piece="54">47b1bafc04e0cee13ba33c691c22bae99861d65c</hash>
+          <hash piece="55">fc4afc1dcf3d2eb0447b2731d8aba23a56e02685</hash>
+          <hash piece="56">80d777de030dcdf0cb37358bee4f0fd26d6af268</hash>
+          <hash piece="57">01a9dc687e440e2a8cb3c0e1c79b6dde40562cc1</hash>
+          <hash piece="58">04328947415ca839bb6acc4ae80980e0fbeb27f1</hash>
+          <hash piece="59">16f844efbdac0df452ace338f16cf72808e00035</hash>
+          <hash piece="60">9635815b2988673572c6ba27e363427583740980</hash>
+          <hash piece="61">648c416ebd1be97c7074ba4d86796bbff21678fe</hash>
+          <hash piece="62">f29e1b1fe2b26b2f33bd8f28bbccf145603b46ef</hash>
+          <hash piece="63">e7034f6f4e95b76a747b0816b9f51b2c56ffcc3a</hash>
+          <hash piece="64">e85282338aa36471f09dbe302a491d0423d3ebf6</hash>
+          <hash piece="65">0a4678116c3c123b6076848617ad636b61948565</hash>
+          <hash piece="66">61c928e3d64c5d0bf9a0c24dc6e3149a3f7e871f</hash>
+          <hash piece="67">2ff5fd11df2937b046966af622882ebfb5e2f236</hash>
+          <hash piece="68">3f68364ce4db0842f68bbec9c718c0c72b57cbd5</hash>
+          <hash piece="69">19c6230b7d53a7cdc240f05f242efdf12354ec80</hash>
+          <hash piece="70">cacbb26946113f0bf303b4cd547388d7f74168b5</hash>
+          <hash piece="71">52144bbc6376506537af8d2be8eb5b9d6d63abb1</hash>
+          <hash piece="72">5e5077fec96bbd1c4088a608d4b8d0da936b9f38</hash>
+          <hash piece="73">d409ab03973989e01f3c64c51354d17141188fa5</hash>
+          <hash piece="74">7f6e6be667af379a504910a783057ee9d35255bb</hash>
+          <hash piece="75">7f24b219e6695a58cf7f720820788e3c08b526d1</hash>
+          <hash piece="76">9dd506078946bf8cae79fea0ebe8701971f44013</hash>
+          <hash piece="77">afd1f12a216b64a8f83ceda14df19067422a412c</hash>
+          <hash piece="78">74a3bb7be314aab49efaef410225127f9e6b6abf</hash>
+          <hash piece="79">0028ab4257b152c28decf7ed3264a4acb34dbedb</hash>
+          <hash piece="80">2fa8c62b557cbff55562e41cd64fac1d16e236a8</hash>
+          <hash piece="81">8a97b5af6bf3e263fbe0d97d6b901957943184a8</hash>
+          <hash piece="82">e231b3a4d274321d327a666c41eeb7f53caf9180</hash>
+          <hash piece="83">2ce2f0673127fb7141094a88fc2213671a11e971</hash>
+          <hash piece="84">3087e87b0d1326a61a447185a0fae4dc8f3d96b3</hash>
+          <hash piece="85">c478db9c6b5da8fc5e5af3dd568cccb7c487e459</hash>
+          <hash piece="86">625541430c1babde38083c440e6d4407dce6a546</hash>
+          <hash piece="87">ad82b7adf2cc1387433d03fff1716b90fb7bdd9c</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="de" preference="100">ftp://ftp.tu-chemnitz.de/pub/linux/sam/SAM-2007.iso</url>
+        <url type="http" location="de" preference="100">http://ftp.tu-chemnitz.de/pub/linux/sam/SAM-2007.iso</url>
+        <url type="ftp" preference="100">ftp://mirror.ntjl.net/pub/sam-linux/SAM-2007.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

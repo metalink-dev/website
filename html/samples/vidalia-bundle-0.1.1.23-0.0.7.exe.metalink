@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>tor</name>
+    <url>http://tor.eff.org/index.html.en</url>
+  </publisher>
+  <description>Tor is a toolset for a wide range of organizations and people that want to improve their safety and security on the Internet. Using Tor can help you anonymize web browsing and publishing, instant messaging, IRC, SSH, and other applications that use the TCP protocol. Tor also provides a platform on which software developers can build new applications with built-in anonymity, safety, and privacy features.</description>
+  <files>
+    <file name="vidalia-bundle-0.1.1.23-0.0.7.exe">
+      <version>0.1.1.23</version>
+      <os>Windows-x86</os>
+      <verification>
+        <hash type="md5">df2dd122163b60406e8463b80bd6a7bf</hash>
+      </verification>
+      <resources>
+        <url type="http" location="nl" preference="100">http://ftp.bit.nl/mirror/tor/vidalia-bundle-0.1.1.23-0.0.7.exe</url>
+        <url type="http" location="de" preference="100">http://mirror.onionland.org/dist/vidalia-bundles/vidalia-bundle-0.1.1.23-0.0.7.exe</url>
+        <url type="http" location="hu" preference="100">http://mirror.tor.hu/dist/vidalia-bundles/vidalia-bundle-0.1.1.23-0.0.7.exe</url>
+        <url type="http" location="at" preference="100">http://tor.cypherpunks.at/dist/vidalia-bundles/vidalia-bundle-0.1.1.23-0.0.7.exe</url>
+        <url type="http" location="ca" preference="100">http://tor.depthstrike.com/dist/vidalia-bundles/vidalia-bundle-0.1.1.23-0.0.7.exe</url>
+        <url type="http" location="us" preference="100">http://tor.eff.org/dist/vidalia-bundles/vidalia-bundle-0.1.1.23-0.0.7.exe</url>
+        <url type="http" location="nl" preference="100">http://tor.osmirror.nl/vidalia-bundle-0.1.1.23-0.0.7.exe</url>
+        <url type="http" location="de" preference="100">http://tor.plentyfact.net/dist/vidalia-bundles/vidalia-bundle-0.1.1.23-0.0.7.exe</url>
+        <url type="http" location="us" preference="100">http://www.ghirai.com/tor/vidalia-bundle-0.1.1.23-0.0.7.exe</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

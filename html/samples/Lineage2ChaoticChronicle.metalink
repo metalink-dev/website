@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>NC Interactive, Inc.</name>
+    <url>http://www.lineage2.com/</url>
+  </publisher>
+  <copyright>Copyright 2006 NC Interactive, Inc.</copyright>
+  <description>Lineage II: The Chaotic Chronicle</description>
+  <files>
+    <file name="L2_C4_Installer.zip">
+      <resources>
+        <url type="ftp" location="ua" preference="100">ftp://city.te.ua/L2_C4_Installer.zip</url>
+        <url type="ftp" location="ru" preference="100">ftp://download.l2db.ru/original%20clients/L2_C4_Installer.zip</url>
+        <url type="ftp" location="ru" preference="100">ftp://ftp.mplik.ru/Games/gameinfo/L/Lineage2/Cronicles/4/L2_C4_Installer.zip</url>
+        <url type="ftp" location="gr" preference="100">ftp://ftp.physics.auth.gr/pub/mirrors/lineage2/L2_C4_Installer.zip</url>
+        <url type="ftp" preference="100">ftp://l2clientdownload.lineage2.com/Chronicle04/L2_C4_Installer.zip</url>
+        <url type="ftp" location="ru" preference="100">ftp://lineage2online.ru/L2_C4_Installer.zip</url>
+        <url type="ftp" preference="100">ftp://marsas.mikrovisata.net/games/L2%20C4/L2_C4_Installer.zip</url>
+        <url type="http" preference="100">http://ftp.headoff.com/GameDemos/Lineage2-TheChaoticChronicle/L2_C4_Installer.zip</url>
+        <url type="http" location="ge" preference="100">http://www.lineage2.ge/failebi/downloads/L2_C4_Installer.zip</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

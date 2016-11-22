@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.0.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>MCNLive</name>
+    <url>http://www.mcnlive.org/</url>
+  </publisher>
+  <identity>MCNLive</identity>
+  <version>Toronto</version>
+  <files>
+    <file name="MCNLive-Toronto.iso">
+      <size>489074688</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">a0ad35c4d311828c9a9a564f6fb69697</hash>
+        <hash type="sha1">8a74748bcad7389b48c530dbee7ae49a61a06bc3</hash>
+        <pieces type="sha1" length="4194304">
+          <hash piece="0">1d61aacbd78080578ed3098a24f5f25bc1b4a759</hash>
+          <hash piece="1">f7b577af7794a45cb95110906cb8204373824231</hash>
+          <hash piece="2">9df8c8cc8ee623752243c40f368ae3dfde1769a8</hash>
+          <hash piece="3">6993b5e78062c925e6bea7cd9b905cebbd8f94af</hash>
+          <hash piece="4">60e986db93707a91b64f35664507d4fcbf50454a</hash>
+          <hash piece="5">2bf975ac58b4801c017a1469c1c942faf5b79472</hash>
+          <hash piece="6">48c6e21e7e6e5a2defda1d2faa0ea39381ef2b35</hash>
+          <hash piece="7">c2e8c442e155f9e708037df59a250cb345707b0c</hash>
+          <hash piece="8">3ac21a4796299c311c1174b0c0520aa1f1eda669</hash>
+          <hash piece="9">402123acc8ce4c946c6ebbe0f1e8ace7ed701256</hash>
+          <hash piece="10">53055554ac2abd7f4fea2ce2dec8426adc58b61f</hash>
+          <hash piece="11">962a0284a954aad5ab9ef1e16182f8c5feb6105f</hash>
+          <hash piece="12">ba143ce51efe448cb9897506eae3361c34352194</hash>
+          <hash piece="13">f0cd796e228de5181d890bd6ea6dd85639a18235</hash>
+          <hash piece="14">a13a2426a7e8c2f1e08e33155043104074fa983c</hash>
+          <hash piece="15">b74708cdfada0eaebea18657cca406e3152f0847</hash>
+          <hash piece="16">49128aa08ac4887d5a8c9861d84804d21d794c60</hash>
+          <hash piece="17">e886e2c91e8181f427e66f3cf921d17e153a320e</hash>
+          <hash piece="18">367cabf33d288e63389c28523c7df971891c8e48</hash>
+          <hash piece="19">37719df58af2b98fc9e07a7b3c1bb72bfee7d7e0</hash>
+          <hash piece="20">20734b85bc7bf9f070da88e1d63854c1af4c2890</hash>
+          <hash piece="21">e309e8e531ec897ec4f6bf095f5e3348daae9b73</hash>
+          <hash piece="22">6496c7816c04afc60d5171b7d5586bd7fabc32ce</hash>
+          <hash piece="23">c17e925b65883fd27a41c036996e271ee5f7e1ab</hash>
+          <hash piece="24">209b28e2654eafb06c9b1a85fa078cb8168d4957</hash>
+          <hash piece="25">08470e03ef0bd0f3f06fd6f98fcb11d3c0e18e00</hash>
+          <hash piece="26">edb1fd2937e70ff40d1f4587f6e87db2b16aee4b</hash>
+          <hash piece="27">1a734e3c6fc83a6dceeecd111599b528423a88b3</hash>
+          <hash piece="28">1862a2720f470a076b70cf2dd7fc112f576fac33</hash>
+          <hash piece="29">8f08c231b4b60e54b4badda4294b8632c62b2fc2</hash>
+          <hash piece="30">5dce214e15c4e7812b9df0620836829f455232a9</hash>
+          <hash piece="31">7d12ffb6c4846856a78a47559da6da3f0afbde70</hash>
+          <hash piece="32">343ad46c66ba86fe7decbd08f8596e7788b9d719</hash>
+          <hash piece="33">1fa5f5c1730ebce92ef34af61fb7ad448ccdfa0e</hash>
+          <hash piece="34">c808e6e8e0c2add060dfb0207d971470678eb535</hash>
+          <hash piece="35">b2fd268fa9acb09f0943264619d759fb9ceee64a</hash>
+          <hash piece="36">b5bc6f370a94b01160e5ce6c608f42cce3a78f12</hash>
+          <hash piece="37">7ff80bc8de3470bfe7451f4f3d632caf6cd5c74d</hash>
+          <hash piece="38">b4dfe4f29808c76ee18ee3d33d412223c9ecc11f</hash>
+          <hash piece="39">a6652113e12aa6960e7a7bca39ff0f270c1fb6e3</hash>
+          <hash piece="40">aa6eef0be5050f0e40693dbdca53ea2a82aec656</hash>
+          <hash piece="41">0abf2441a325fbfd34b3532185c8842a69147232</hash>
+          <hash piece="42">e5c3ce4e9709e9082fb0c2b55dea1d020b1d7f1a</hash>
+          <hash piece="43">fb911fba00ee7c76abfffcccbc18ac8fbaf9bb31</hash>
+          <hash piece="44">29f5e14018be2565e4e3d75ec581877ec690e5a0</hash>
+          <hash piece="45">3b15562be654316b156e7a00fa451e2af962436a</hash>
+          <hash piece="46">f1d68e583cce0b77b408888eac027316a97080d7</hash>
+          <hash piece="47">5addbbab959367d257c013c06ac88874cc040281</hash>
+          <hash piece="48">cafb764cd431d317906d2152ab87851f7df05133</hash>
+          <hash piece="49">39ef0f5efe5987841144e9c5972a419463159026</hash>
+          <hash piece="50">528b420ad86f57b057dc4b7ed45ab94ec5c7d165</hash>
+          <hash piece="51">a35b43ca4da28e319e9426ae2a9ffc5db2c6bc4e</hash>
+          <hash piece="52">9360734fbd3d21f6c7051110007b720d787ebd76</hash>
+          <hash piece="53">e1210d11dfca1c386a9f520e8af8e2ca3c14cd05</hash>
+          <hash piece="54">99784f3c7c0c90cdfdfcbd60947e3828c1621650</hash>
+          <hash piece="55">4a1c9c938e4d06a353226ed1ab6438abcced5656</hash>
+          <hash piece="56">7531bc74edbd45a2704f2bf0623984c6a706c1ba</hash>
+          <hash piece="57">851bc075f1632772e7652b93303aae913a724206</hash>
+          <hash piece="58">9eba48be9e38931d6e4b064000f6e0ce80fdf217</hash>
+          <hash piece="59">ff7b841fd1755cc8a74cb060f8e20df2b77b7324</hash>
+          <hash piece="60">d8d0bccdcd0cdfa2d71896e3b80fd4b2134bb126</hash>
+          <hash piece="61">81b63694bb4edb528f05972cd8f36aacce061e6b</hash>
+          <hash piece="62">c8d913bed6d3f5f4d57ac5d4cb1278741589db62</hash>
+          <hash piece="63">0b064a71014eb5736bc15cc1bef515b3a14f4440</hash>
+          <hash piece="64">a9c67890d6043fd12dcc6a104813a7f8025389f4</hash>
+          <hash piece="65">af2d56266dc9fd1ff0b8b9da19cd53e9aa1072a1</hash>
+          <hash piece="66">519aa1317c65e6c35e0b37b7cadc6e6deb6c2f11</hash>
+          <hash piece="67">36806f7238e09eada4a05df77ade58ee2c519ea0</hash>
+          <hash piece="68">f5aeebb73f478d57f9e2c8c96e98c3330ee5adb2</hash>
+          <hash piece="69">fe7fa874fdc351283ff9502333ac16189f514a6b</hash>
+          <hash piece="70">dbd3a4ecf35c529cf14bb0e3ca49dfd025497117</hash>
+          <hash piece="71">6f5bfbd1d145f7d63dab4cdfda0f9d2c8763976c</hash>
+          <hash piece="72">662b51b56a89e2dcac605b911459bca9975b7eae</hash>
+          <hash piece="73">633dff64990332f41f2d2d8eda0f4cd123e7725c</hash>
+          <hash piece="74">4a7ce8d13374f8c9b4e6b02fd8759b0582b52c45</hash>
+          <hash piece="75">c8a79822171d0958782f75542082c243660428d4</hash>
+          <hash piece="76">6db04af65d20d3a955d61373f0d4edb642e3dd59</hash>
+          <hash piece="77">5a4412ed1c268f533764ce0048eb58cbde98f298</hash>
+          <hash piece="78">cad33a005fa3d6d02332c75917218c2cc51dec80</hash>
+          <hash piece="79">ea451fd2271e954fbca8fe9dff6c0dde80f938ad</hash>
+          <hash piece="80">88d3dace8959d6dc91faf8f2faa50bdac6719593</hash>
+          <hash piece="81">c46c0b49a10f76e91d344f02b494fbf20d1a9a63</hash>
+          <hash piece="82">a0c532d47cde13804061093fa8e9083a3c5197f8</hash>
+          <hash piece="83">59def3963675bb07f46dda8bc7f6b5d24121fbe6</hash>
+          <hash piece="84">bf843a09dea0a1bbeec5d63a21b3c7d2cc75b694</hash>
+          <hash piece="85">5b71833022f135663af6f107da2b59b35bed5d84</hash>
+          <hash piece="86">792acf748b421794c23d5ab87aeed15a86c609f1</hash>
+          <hash piece="87">bff832d268d26b4e1719e444f190d69faec3ed4b</hash>
+          <hash piece="88">d0e4f99d0da1d7f67a0d3338caf5546629e85a03</hash>
+          <hash piece="89">6938d26042c40dc023dd5b99e2d1b3a32db27f8c</hash>
+          <hash piece="90">df20fcdf8582f4aa90e17fa2314af64d1dc78678</hash>
+          <hash piece="91">402a13ce701597a903572da905265ed8a7280498</hash>
+          <hash piece="92">3027418d96b9450f6789ca9dc245289f73ec051a</hash>
+          <hash piece="93">3aafe3d32b29acf23dd43026d23e0d9975445ea6</hash>
+          <hash piece="94">f4ea6464e917e122a86ccafb8acbd379a9e8295e</hash>
+          <hash piece="95">22797c768cb21caa4e406015aa74aae75bdf004c</hash>
+          <hash piece="96">38202a8b2971d2619bfd3d897a7eaf9bf6ec25a4</hash>
+          <hash piece="97">df24d412781878b9b1abcf6a86b2832bf29190a4</hash>
+          <hash piece="98">75fe86ea019b84b49b6bb301fd10fffde395d7ba</hash>
+          <hash piece="99">172fb0cb1edf373e2cf367a890496df83f61803a</hash>
+          <hash piece="100">70a2f18af670e8fc4b33af5ff37a5476347ccfcf</hash>
+          <hash piece="101">7c5d917d293511669a0d57d5df57bdc883635fb1</hash>
+          <hash piece="102">263028fc1123095503b1607f9f37a5d3b6ede26a</hash>
+          <hash piece="103">5e7d67a10c075ae886c8c716f6ed70ab3a7abe4d</hash>
+          <hash piece="104">873bb3a6df0d945748b45f5e0c55cf344ec54c8f</hash>
+          <hash piece="105">48e3d38e76959d919f60ae9919bcdc99340d6566</hash>
+          <hash piece="106">eb5ef7903ece6d53291d28c4f291c16702303e0a</hash>
+          <hash piece="107">d23b4c65f71d6915dc9d3dee43e49f9fe50dfe51</hash>
+          <hash piece="108">8dabec704de2dd1e26a086eb3d0522dc6946bb4f</hash>
+          <hash piece="109">9688a0fd7dc7dfb47e6375e1f8d09e9b27bd9f3d</hash>
+          <hash piece="110">152480d63f09a0793f42ba8d1186c923d6471ffe</hash>
+          <hash piece="111">136f38dc87b73b16d89f6aabd68591ea6d9ea6d2</hash>
+          <hash piece="112">33ca9ba17ece608c6ff4bfbcc8b8d2b210a8d5fb</hash>
+          <hash piece="113">59e0a901837d37e9fd29adaf2e38bc580c24e814</hash>
+          <hash piece="114">bd441f9df321be16e4a71b0b808a5b217cdafc17</hash>
+          <hash piece="115">efe7776f482b488d2c08aea8bf4568d9bdb520e2</hash>
+          <hash piece="116">7b905f1110df4c024d5ca10906d2819f09f3d394</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="nl" preference="100">http://ftp.surfnet.nl/os/Linux/distr/mandrakeclubnl/mcnlive/Toronto/MCNLive-Toronto.iso</url>
+        <url type="ftp" location="be" preference="100">ftp://ftp.belnet.be/pub/mirror/urpmidev.mandrakeclub.nl/mcnlive/Toronto/MCNLive-Toronto.iso</url>
+        <url type="ftp" location="nl" preference="100">ftp://ftp.nluug.nl/pub/os/Linux/distr/mandrakeclubnl/mcnlive/Toronto/MCNLive-Toronto.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

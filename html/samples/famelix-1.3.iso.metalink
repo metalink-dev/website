@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.0.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Famelix</name>
+    <url>http://www.famelix.fameg.edu.br/site/home.php</url>
+  </publisher>
+  <identity>Famelix</identity>
+  <version>1.3</version>
+  <files>
+    <file name="famelix-1.3.iso">
+      <size>715628544</size>
+      <verification>
+        <hash type="md5">a066f9dccb826361059033254c7f3315</hash>
+        <hash type="sha1">45c6748f85784168e46faee5865cee7f96f4e448</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">03adb0d09d46c8d8ef91ba965e332cd11fd8d9b3</hash>
+          <hash piece="1">6b01441088b3d25eef6d6a8f84af971a923d8f02</hash>
+          <hash piece="2">991de48875b07d5baf91e54f8fa36e9a5e178f75</hash>
+          <hash piece="3">69be6b1221c800b51d13a1ef05c6744cc2437cf9</hash>
+          <hash piece="4">320347eb170cc10f8dd10e1333e70e9600308a1a</hash>
+          <hash piece="5">65b4f101b653d413db48b065dc126eedb51d82ad</hash>
+          <hash piece="6">92cf14cba420870c85d47b63e25e823d754bd72e</hash>
+          <hash piece="7">b220dde183128dbc9c6a32830acb9dc06d52c12c</hash>
+          <hash piece="8">ab0328916ed7e44af0e851672b47ad6d1629ec9d</hash>
+          <hash piece="9">d357ce9ed4a3e268327cc3894a4753ae48a10068</hash>
+          <hash piece="10">f61cce33f7788141af219f32996fe7f4fbcc08fb</hash>
+          <hash piece="11">0e4f78fd027775d49d2da39a4f1ff07ab8d85440</hash>
+          <hash piece="12">0229e2a84b786b85af6a597e769fdd4a932d37f9</hash>
+          <hash piece="13">340b997a0f28f17ca469b8b84c56c787b2ad1f9e</hash>
+          <hash piece="14">f9c12d73b7f0b6ba7ac7685f13d92498944ae88a</hash>
+          <hash piece="15">cf7394dc9d8a274c802bb453a7aec5ee5bddb885</hash>
+          <hash piece="16">1df89635dfdcb95f486bf4187b5f4acce9e907d7</hash>
+          <hash piece="17">35628106b0f791cea4e641f1a3e78f8574a4732a</hash>
+          <hash piece="18">a512027c85d25e4e80864fbcad5c8298df5e4522</hash>
+          <hash piece="19">a2bb1830ac1e408cb2a60fbb7f7b82c5c164df32</hash>
+          <hash piece="20">d64748e6754c19a56ad0e0d728bb5744a29264ba</hash>
+          <hash piece="21">7668d91b4ed458b443906b7cab4c7d7d282e97fd</hash>
+          <hash piece="22">8b1cb19797bba2711c492a7bea2ca7264d4ea0ee</hash>
+          <hash piece="23">b9b9f4fdea2b0101af55cad333fc14465857c347</hash>
+          <hash piece="24">1c8c70dca86890ccfc1b803be8b449eb1b753c73</hash>
+          <hash piece="25">dd79841d6fff4ef393759aeaf4475ec4c14c5047</hash>
+          <hash piece="26">c99f3129002a6d24302684c5e1fabdadd074bcfd</hash>
+          <hash piece="27">bbad15ec1b79d15b6bef73295f253047184f7315</hash>
+          <hash piece="28">092bbbd9a4f12affcf4761a0c433bcba4b81ffe8</hash>
+          <hash piece="29">2297e3df18f6cb091bca57c4a70ff2810870867f</hash>
+          <hash piece="30">dd78aa0332f9d861aa66884cb911bf2bee056c25</hash>
+          <hash piece="31">81c8841e7328a01c8a5b155419eb48380df6e552</hash>
+          <hash piece="32">ac0af8b6fe616626b91b460788d5af8527c411b1</hash>
+          <hash piece="33">45e386925bc920f5030b2d6c0f92d72bcc7167b6</hash>
+          <hash piece="34">b1b7213acbbb997ea1fb155c4577262446835010</hash>
+          <hash piece="35">a3065d24e5ec2e460d0a3155ed0b6d79fe4daca4</hash>
+          <hash piece="36">1a88014ff749f520e980de077745c306cd6bdba1</hash>
+          <hash piece="37">596ac4e6b21d7f1d886dd59e2018853d373722d5</hash>
+          <hash piece="38">81c51ab971d499c17af73547f3d4e7430558b163</hash>
+          <hash piece="39">c4a4afe9786634c4cfc0da36c075b38b67e032aa</hash>
+          <hash piece="40">99e8bbcb2c5fdc6fcd9a03374ebcc7c097de4b2e</hash>
+          <hash piece="41">49c1a855331c5bc9fb64c50f56365bfc98c9fab1</hash>
+          <hash piece="42">0d06795c0ede93378c56d697143f2f157309bbb7</hash>
+          <hash piece="43">f2cc97ca9c9a38e826520e825126e9338e3351de</hash>
+          <hash piece="44">5d483bf04f69e43dda70235628f869ed62211631</hash>
+          <hash piece="45">727442c29aabe09f2c3c76b4bf89595b069c056f</hash>
+          <hash piece="46">ce1f7a9d7c1214e914c33ea02b35c4493d8adf3c</hash>
+          <hash piece="47">4d4e925eec81b7d43094b176e2b72e740b0fd732</hash>
+          <hash piece="48">b89f738931be1084300bf9bf7a7b16678fb7141e</hash>
+          <hash piece="49">8c8f4648e1fda2426bfc1a99b0d2c7bbc04eb6de</hash>
+          <hash piece="50">cb937ce896afce6dfc56b1c63e0b538066db4a3b</hash>
+          <hash piece="51">02de0a47df5239943bd0e5a98507e54dc0d60df0</hash>
+          <hash piece="52">0701c2844c0a9e66adc45e9e1153a124d1a66cdd</hash>
+          <hash piece="53">7f558efdf831c8afb9c88d69f9fbab869bbbd354</hash>
+          <hash piece="54">c4da56aa5c8122fd3d3f3938d5c0e1a19dce132f</hash>
+          <hash piece="55">75cfc3e58ff875389974be6664901c50970ea848</hash>
+          <hash piece="56">38584fde1f7aa795660f2c7a2dc1c3c9de839531</hash>
+          <hash piece="57">410a99cc432fc919f64df5fa87a6f7c87628b635</hash>
+          <hash piece="58">7800ac0e8e4bd49b5d1d869a4494000ddfd19053</hash>
+          <hash piece="59">926cf858060316b17b4a70c8ebf5eb2833fda56a</hash>
+          <hash piece="60">1af94a2f5d3d5d52c4296bd7abf8950ff08727e7</hash>
+          <hash piece="61">c33af9cef8cd4b31d2dae1a0743d2682782b93bc</hash>
+          <hash piece="62">12dfcc045cda4bb55034252b0b9fd63b91b7510a</hash>
+          <hash piece="63">00fde9cfa0225587824b519ed20d7c3004af968c</hash>
+          <hash piece="64">6bdde1bbce8b67eaeba659bb16ee84c06b652a6f</hash>
+          <hash piece="65">6a9fb1978e854073ab1b7ee6ef915c9e25c744d3</hash>
+          <hash piece="66">592473f5648b387a0d1c9f9ad7eb8f11a2ccf2ca</hash>
+          <hash piece="67">c4ee6ed79c71fd52348b85120a8772304fb772c4</hash>
+          <hash piece="68">f737d77f3fee51d51d314e0ec0ecfc3060e7170a</hash>
+          <hash piece="69">35c667f8cdd9bcb7dcbf12a675aaf9d9ed6c9f8d</hash>
+          <hash piece="70">3ea8dccd69988badc1650b52485ace682283e02a</hash>
+          <hash piece="71">e7d278eb4cee9c3705f1e43737f72acaae90ded7</hash>
+          <hash piece="72">9319e070cf3a6e8cd2634569b8527d06b1ce871e</hash>
+          <hash piece="73">bd5b59fd53070a258b06497d52f2ab85e657e5f0</hash>
+          <hash piece="74">8de925edf72e505eb17a2b3c6f8a2dce1f057398</hash>
+          <hash piece="75">8b12ec0f29e7e5ee9e8251dbbf2912f7f1170f74</hash>
+          <hash piece="76">d45cef3ec7547f2f4c6f54f0e39849666665c314</hash>
+          <hash piece="77">47e60fd184ca02996d1c9fea4311c936d892c374</hash>
+          <hash piece="78">fe5f54cc54e6a02db1a31a6126eaf9c182134207</hash>
+          <hash piece="79">bbcefa673e76e3b138a5fd34202d84648eb678f7</hash>
+          <hash piece="80">0e2fb98f2524ae120007ddb9f31147b8dfef2dc4</hash>
+          <hash piece="81">6a46baafdbc0b552e9b6324d38e927d4fcce8365</hash>
+          <hash piece="82">e8330779efeaa6beb8be907016b2c96054d35037</hash>
+          <hash piece="83">62dff65b4ef3948bbd9016159410a0fb88809cba</hash>
+          <hash piece="84">8f32845438d3ce5856b759f0ea5b54fef7baf991</hash>
+          <hash piece="85">b2e49b1a0b96d7d0ff5d8b476fa0ea5e3fb2715a</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="br">http://saltador.uspnet.usp.br/pub/famelix/famelix-1.3/famelix-1.3.iso/famelix-1.3.iso</url>
+        <url type="https" location="br">https://codigolivre.org.br/frs/download.php/5635/famelix-1.3.iso</url>
+        <url type="http" location="br">http://200.135.76.105/famelix/famelix-1.3.iso</url>
+        <url type="http" location="cl">http://www.famelix.uach.cl/iso1.3/famelix-1.3.iso</url>
+        <url type="http" location="cl">http://mirror.vldv.famelix.cl/famelix-1.3.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

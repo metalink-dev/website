@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 0.4.1" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Asterisk</name>
+    <url>http://www.asterisk.org/</url>
+  </publisher>
+  <identity>Asterisk</identity>
+  <version>1.2.18</version>
+  <description>Asterisk The Open Source PBX</description>
+  <files>
+    <file name="asterisk-1.2.18.tar.gz">
+      <size>10621790</size>
+      <os>Source</os>
+      <verification>
+        <hash type="md5">84d16eb0a94a3da883cb9bd6cb8a3fca</hash>
+        <hash type="sha1">b35beb63c54d8877ed559a64ebcaab40306e1c4c</hash>
+        <pieces type="sha1" length="262144">
+          <hash piece="0">4256570ebad7c56199f2604f28f802bc6c421426</hash>
+          <hash piece="1">5c64beedd02bd78f12b3c4d549dd4b6fbcdd1d4b</hash>
+          <hash piece="2">2db481a1489d54c51a15ad32f717e768a217bba3</hash>
+          <hash piece="3">c3e33f764ba85dccff24b5ee4170f619435a083d</hash>
+          <hash piece="4">3e2821ba73efed011c32d4b7586ee2e077979181</hash>
+          <hash piece="5">6e04c4358a61cc31c9afba43bb211f3d3a86b43b</hash>
+          <hash piece="6">cb8da1535347bceb38ced2e24ec5fa97c1d5dba2</hash>
+          <hash piece="7">d7249c971a48d68115bbf60c4a08eabfd5f3de3a</hash>
+          <hash piece="8">e2427456b19dfb3b5e926d0b8813031b7872cd9c</hash>
+          <hash piece="9">53c25c8245f25b56fc5eacdf5201467aeac1db1f</hash>
+          <hash piece="10">2f19f79a119a4c465b5b195e3cc49adbfb2ac4dc</hash>
+          <hash piece="11">66ef6a9b142b3d72fe68e0d0b9afc17c813818ca</hash>
+          <hash piece="12">39b8d0cee03ea286f7c23d7e91da687b4c97ae12</hash>
+          <hash piece="13">aa58349872a18e05da88c14b6007fee0a0cdcb2a</hash>
+          <hash piece="14">1866644fbacb8a8fb7449d27ed77c860c8443fcb</hash>
+          <hash piece="15">f4ec0d62e9395de6e35fa4658b03b6c02c60046b</hash>
+          <hash piece="16">07b19c32f6a497459d7bc1863659242b00b75b24</hash>
+          <hash piece="17">a48e07aad14c404d4a5a49af78939d6f0cb0802a</hash>
+          <hash piece="18">ed728cdf9bbb62068e3e7d061a1dd188ae835701</hash>
+          <hash piece="19">75fb3c4a7996d3c8e995c50c2073540008172272</hash>
+          <hash piece="20">3dc42858f78573e2bc8c9af7c2c208e10041a057</hash>
+          <hash piece="21">e7b0c0b001a7d286c64bfb5c9ea5804e8773c332</hash>
+          <hash piece="22">af1afa8e83abb35a49157ac8e486ae5965aeb3d2</hash>
+          <hash piece="23">f0c858242c1f34160134fc22a272995e4cad24f9</hash>
+          <hash piece="24">714e9de498f6e4dee58a5a15b93d2d8033a93beb</hash>
+          <hash piece="25">36a3b84928dfe4aacc3a5f191e5e184dda3cfc6b</hash>
+          <hash piece="26">fa9edc83786320a6705fe3a5f049cff8335533f8</hash>
+          <hash piece="27">16777fddcde0aed098ce88f7449aa91f113d1236</hash>
+          <hash piece="28">89b364ca1ef0640dd1c9fff26f4a6b138392c567</hash>
+          <hash piece="29">8dcf182afbdc38e50d856b24a24ee72c01f0f44c</hash>
+          <hash piece="30">972f68ffa6f416b3f27b1607cdd43c868a6b3e3b</hash>
+          <hash piece="31">17f297adbf76e0e3dcdb66f75c39b05bda69fe37</hash>
+          <hash piece="32">d9ad4cc8db0916a944eef6dff4285074edd72b31</hash>
+          <hash piece="33">e8eb8a6225ef956856a2cc38cefce11a337a9ea6</hash>
+          <hash piece="34">2e7351726347b9c6b46f96034d5bb741987d1280</hash>
+          <hash piece="35">2b82e24362235d5bb8eff72be8b967591a39df1f</hash>
+          <hash piece="36">28519ed493df5c1d03f0981cc5649bfb594f56b4</hash>
+          <hash piece="37">ddc9b4a3d2f09593e2fd1e846b5f09ef4a895000</hash>
+          <hash piece="38">50cea0d9bbc75d0ff583c4d43f74aa08e274bf27</hash>
+          <hash piece="39">96c776ab7068d10b8a900e781a4cf61f724763d1</hash>
+          <hash piece="40">a8426ad25381fef8cce9d95259d797b2ddfbb906</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" preference="100">http://ftp.digium.com/pub/asterisk/releases/asterisk-1.2.18.tar.gz</url>
+        <url type="http" preference="100">http://ftp1.digium.com/pub/asterisk/asterisk-1.2.18.tar.gz</url>
+        <url type="http" preference="100">http://ftp2.digium.com/pub/asterisk/asterisk-1.2.18.tar.gz</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

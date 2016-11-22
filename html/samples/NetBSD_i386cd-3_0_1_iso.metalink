@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/">
+<files>
+	<file name="386cd-3.0.1.iso">
+		<verification>
+			<hash type="md5">6d3f64e20d778e90f0bb149c3054a775</hash>
+		</verification>
+		<resources>
+			<url type="ftp">ftp://ftp.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.au.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp2.au.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.at.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.be.NetBSD.org/386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.br.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.cn.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.dk.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.ee.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.fi.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp2.fr.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp3.fr.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp4.fr.NetBSD.org/mirrors/ftp.netbsd.org/386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.de.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp2.de.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp3.de.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp7.de.NetBSD.org/pub/ftp.netbsd.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp5.de.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp6.de.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.gr.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.hu.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.ie.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.il.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.jp.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp2.jp.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp3.jp.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp6.jp.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp7.jp.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp4.jp.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp5.jp.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.yz.yamagata-u.ac.jp/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp8.jp.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.kaist.ac.kr/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.NetBSD.lt/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.nl.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.no.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp2.no.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.ro.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.ru.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.sk.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.es.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.se.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp2.se.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.tw.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp2.tw.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp3.tw.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp.uk.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp2.us.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp3.us.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp4.us.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp5.us.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp6.us.NetBSD.org/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp7.us.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+			<url type="ftp">ftp://ftp8.us.NetBSD.org/pub/NetBSD/iso/3.0.1/i386cd-3.0.1.iso</url>
+		</resources>
+	</file>
+</files>
+</metalink>

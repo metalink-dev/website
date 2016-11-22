@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.phpmyadmin.net/metalink.xsl"?>
+<metalink version="3.0" origin="http://www.phpmyadmin.net/phpMyAdmin-2.11.2-all-languages.7z.metalink" pubdate="Sat, 27 Oct 2007 15:51:05 GMT" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>The phpMyAdmin Project</name>
+    <url>http://www.phpmyadmin.net/</url>
+  </publisher>
+  <license>
+    <name>GNU GPL</name>
+    <url>http://www.gnu.org/licenses/gpl.html</url>
+  </license>
+  <identity>phpMyAdmin</identity>
+  <version>2.11.2</version>
+  <changelog>http://sourceforge.net/project/shownotes.php?group_id=23067&amp;release_id=549925</changelog>
+  <files>
+    <file name="phpMyAdmin-2.11.2-all-languages.7z">
+      <size>2395580</size>
+      <verification>
+        <hash type="ed2k">8f85d53a8fdb18752f0fc4f784bf2db9</hash>
+        <hash type="md5">a57a9701a21a278cab70ad67dab48cb9</hash>
+        <hash type="sha1">073f1a9feac73383e0ec770f47aebd44b3fa6f39</hash>
+        <hash type="sha256">9fbd7a768f2066d4854594d0671347c97b5dcc8e53e153c87d249eb7c721575b</hash>
+        <pieces type="sha1" length="262144">
+          <hash piece="0">d2c142d653791e30f83a8a75a035bf8051589214</hash>
+          <hash piece="1">249d612c7ee482473870c48dd165a96a9d92d253</hash>
+          <hash piece="2">f7f2dbba22a093d2dc34d4ad9ce9d7ff7f1e8f5f</hash>
+          <hash piece="3">1572a6d04c70eb7a2ae74583db0712814e889926</hash>
+          <hash piece="4">5b617fea95a6c404aa426fb593fe65bd746b53d7</hash>
+          <hash piece="5">6e5f6e1dc385d5ace819d2f85fedf89009f80a76</hash>
+          <hash piece="6">85cdd6530e1fa62afb1fdd6b918242c9bd32f9ac</hash>
+          <hash piece="7">9b79c43034ee913974d09822d1996d2a6ddfc9b2</hash>
+          <hash piece="8">99db7dba2b5e1e38ade32e78e335d4e1bead3364</hash>
+          <hash piece="9">d337e6a1aac95d88ae3b0a6e501c0c73549299c3</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="au" preference="10">http://optusnet.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="http" location="be" preference="10">http://belnet.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="http" location="br" preference="10">http://ufpr.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="http" location="ch" preference="10">http://puzzle.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="http" location="ch" preference="10">http://switch.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="http" location="de" preference="10">http://dfn.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="http" location="de" preference="10">http://mesh.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="http" location="fr" preference="10">http://ovh.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="http" location="ie" preference="10">http://heanet.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="http" location="it" preference="10">http://garr.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="http" location="jp" preference="10">http://jaist.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="http" location="nl" preference="10">http://surfnet.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="http" location="tw" preference="10">http://nchc.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="http" location="uk" preference="10">http://kent.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="http" location="us" preference="10">http://easynews.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="http" location="us" preference="10">http://internap.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="http" location="us" preference="10">http://superb-east.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="http" location="us" preference="10">http://superb-west.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="http" location="us" preference="10">http://umn.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-all-languages.7z</url>
+        <url type="ed2k" preference="95">ed2k://|file|phpMyAdmin-2.11.2-all-languages.7z|2395580|8F85D53A8FDB18752F0FC4F784BF2DB9|/</url>
+        <url type="magnet" preference="90">magnet:?dn=phpMyAdmin-2.11.2-all-languages.7z&amp;xl=2395580&amp;xt=urn:sha1:073F1A9FEAC73383E0EC770F47AEBD44B3FA6F39&amp;xt=urn:ed2k:8f85d53a8fdb18752f0fc4f784bf2db9</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

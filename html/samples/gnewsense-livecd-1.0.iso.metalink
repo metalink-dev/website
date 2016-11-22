@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0037" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>gNewSense</name>
+    <url>http://www.gnewsense.org/</url>
+  </publisher>
+  <description>gNewSense, a GNU/Linux project, to take all the binary blobs out of a rather popular distribution and make it all free.</description>
+  <files>
+    <file name="gnewsense-livecd-1.0.iso">
+      <version>1.0</version>
+      <verification>
+        <hash type="md5">05ddb2c1f5c1e9c36bf6c42347072015</hash>
+      </verification>
+      <resources>
+        <url type="http" preference="100">http://cdimage.gnewsense.org/gnewsense-livecd-1.0.iso</url>
+        <url type="http" location="de" preference="90">http://gnewsense.t3-ie.info/gnewsense-livecd-1.0.iso</url>
+        <url type="http" location="us" preference="90">http://gnewsense.tomcort.com/cdimage/gnewsense-livecd-1.0.iso</url>
+        <url type="http" location="nl" preference="90">http://mirror.softwarelibre.nl/gnewsense/cdimage/gnewsense-livecd-1.0.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

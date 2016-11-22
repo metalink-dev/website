@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>LFS</name>
+    <url>http://www.linuxfromscratch.org/livecd/</url>
+  </publisher>
+  <description>The LFS LiveCD is geared specifically toward providing a reliable host system for the purpose of building Linux From Scratch. Therefore, it may not be what you would envision as a "perfect" Linux system. It should, however, provide you with a comfortable enough environment so that you can, in turn, build your own "perfect" system.</description>
+  <files>
+    <file name="lfslivecd-x86-6.2-3.iso">
+      <version>6.2</version>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">f0c7b830732f6d61fec278a0b5689070</hash>
+      </verification>
+      <resources>
+        <url type="ftp" location="us" preference="100">ftp://anduin.linuxfromscratch.org/LFS-LiveCD/lfslivecd-x86-6.2-3.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.aliensoft.org/pub/lfs-livecd/lfslivecd-x86-6.2-3.iso</url>
+        <url type="ftp" location="ca" preference="100">ftp://ftp.ca.lfs-matrix.net/pub/lfs-livecd/lfslivecd-x86-6.2-3.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.osuosl.org/pub/lfs-livecd/lfslivecd-x86-6.2-3.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.us.lfs-matrix.net/pub/lfs-livecd/lfslivecd-x86-6.2-3.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://lfs.cict.fr/pub/lfs-livecd/lfslivecd-x86-6.2-3.iso</url>
+        <url type="http" location="ca" preference="100">http://ftp.ca.lfs-matrix.net/pub/lfs-livecd/lfslivecd-x86-6.2-3.iso</url>
+        <url type="http" location="us" preference="100">http://ftp.osuosl.org/pub/lfs-livecd/lfslivecd-x86-6.2-3.iso</url>
+        <url type="http" location="il" preference="100">http://lfs.initworld.com/lfs-livecd/lfslivecd-x86-6.2-3.iso</url>
+        <url type="http" location="ar" preference="100">http://www.torredehanoi.org/pub/lfs-livecd/lfslivecd-x86-6.2-3.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

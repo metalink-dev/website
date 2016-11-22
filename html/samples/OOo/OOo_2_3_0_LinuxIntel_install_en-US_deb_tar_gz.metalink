@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/"
+  origin="http://download.packages.ro/metalink"
+  type="static" pubdate="Mon Oct  1 05:08:25 2007"
+  generator="Metalink Gen - http://metalink.packages.ro" 
+  refreshdate="Mon Oct  1 05:08:25 2007">
+
+  <publisher>
+    <name>package resources</name>
+    <url>http://www.packages.ro</url>
+  </publisher>
+
+  
+
+  <description></description>
+  <tags>linux,office,staroffice,openoffice</tags>
+  <identity>openoffice</identity>
+  <version>2.3.0</version>
+
+  <files> 
+   <file name="OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz">
+    
+    <os>Linux-x86</os>
+
+    <size>142022504</size>
+
+    <verification>
+     <hash type="md5">d60bac9059c1c24dd982eaf4c287956e</hash>
+     <hash type="sha1">747fd76d25941d307d09b716eaba77eb1d71fc8a</hash>
+     <hash type="ed2k">99e9dfe152f1c2e68f346a868a690c36</hash>
+
+     
+     <pieces length="1048576" type="sha1">
+      <hash piece="0">680a3ccf6b63e92b4aaff4ea7453a2aebd61e855</hash>
+      <hash piece="1">e95e14f6e7d529e48de968535cd376ced1300db0</hash>
+      <hash piece="2">0dddf8bad702a7563aeb09f69869d5e6e8996470</hash>
+      <hash piece="3">b4b885162f1ae30d84156db8ce85c495d5b7e35c</hash>
+      <hash piece="4">60c8d8bac2a14d167c5c55157bedaae91a2dea0a</hash>
+      <hash piece="5">ea9cc910c7bd39cfc83a1911c25614381570a2a4</hash>
+      <hash piece="6">8fe32827a71ba4d34ae0c4db51bcc9ac31f3f42f</hash>
+      <hash piece="7">a3f4c6299c46514e83c3125b81f4365de8751688</hash>
+      <hash piece="8">337c73e868bfaf9ce085f14fdbcf82d6825782c2</hash>
+      <hash piece="9">e79143f0652221b409e687302e9b09f9eb99ff71</hash>
+      <hash piece="10">2c97880cde8100dadf59c3ecf661c40aff5175c7</hash>
+      <hash piece="11">a8867d77b37e115d6d9f55a4c2aacb3ca1a7d414</hash>
+      <hash piece="12">35b3cf449ea70cd6c772202f0250007f5b8f496e</hash>
+      <hash piece="13">8b619b1527fdb1eff16f93b7ab9730672dffd81c</hash>
+      <hash piece="14">f3c66c7285f172d7e3160fec0d7e782c66c68844</hash>
+      <hash piece="15">a43b936583b071a2ec815e15fae2397d3d5becda</hash>
+      <hash piece="16">488c3b2abe5555ff558390a683ac8e996b85f932</hash>
+      <hash piece="17">527f2df56d7c0188add7a9a1d186044cb7475fac</hash>
+      <hash piece="18">35477a63044c058122e090475cf0a5a417e45739</hash>
+      <hash piece="19">61c72cfbe349bad3f2a3a2d133468c7885af5e70</hash>
+      <hash piece="20">bfd41ce8bc569d7dda1e78fd26fe07064ea2e905</hash>
+      <hash piece="21">64584f6baaf92a23421e387fe7975992eac78ede</hash>
+      <hash piece="22">0b28563e93d615e74addff65435efb6c6c030798</hash>
+      <hash piece="23">b97cede4d2de6ce7fe79238bae79bd7430bb1e57</hash>
+      <hash piece="24">578d2b326044ce6f0a2fcb32e20799af804a9bd5</hash>
+      <hash piece="25">8b10f4b3754525d41fc0ee2409d02a7fc2360f23</hash>
+      <hash piece="26">590a30815fe66ec2aa09d92aa415bc62c622065c</hash>
+      <hash piece="27">5d9bd820077608d348b7dd1d043e6b9539aa1b22</hash>
+      <hash piece="28">01af9803bc5082b7b505facb0adee29120290475</hash>
+      <hash piece="29">eb34f3afc618fbf22ce2bcb27ba44e12e7b84163</hash>
+      <hash piece="30">ede5f5bbfa550a8c03a78583f539e4715e390f2c</hash>
+      <hash piece="31">9c5573ab0a94627c0932c576120a5729a658ef5a</hash>
+      <hash piece="32">502e996c65b794ae54e8811440ccecf195f2b256</hash>
+      <hash piece="33">ecebe47c2eaef688a0bb8bcef238ba27ce9f57f1</hash>
+      <hash piece="34">2e85ca37095be2f3be2ef928a0f69fa9e52683f7</hash>
+      <hash piece="35">5ba6dcc29295db3aa1f24fe45552a557d94a4a86</hash>
+      <hash piece="36">dba238fca443b2fbf9111e222407ced9023e5861</hash>
+      <hash piece="37">c373b0719416471bc2bb80197570636282ba9171</hash>
+      <hash piece="38">9b94b1136cbfbf5a00566580775f42e23b6fb09c</hash>
+      <hash piece="39">6c2bc98a953dac44ad63943fc1dccb4b881aa035</hash>
+      <hash piece="40">ba8f523a0993c033e42d272051397248a972518f</hash>
+      <hash piece="41">3469143944a4c12c3d56368d9d7d90e58dd1a9fb</hash>
+      <hash piece="42">4593ffc1ffa58c7381eb8ad3302d0b5d23a136b9</hash>
+      <hash piece="43">ad6d4192c88bb848fabe0af6b5b7dc08c8b3c0da</hash>
+      <hash piece="44">2136e5a118a3c55de19c75848c4fe5caf41afa52</hash>
+      <hash piece="45">315f99e09f079e756fc9df777ae8bd2a8ff0cee3</hash>
+      <hash piece="46">91d438106349755f1adc94dd7082365c967b9f5c</hash>
+      <hash piece="47">fbce47d8ad1f1f2844748e60d11798b7c58d75d2</hash>
+      <hash piece="48">1f3a938b9aa677c3d451f18e68be7cb3154b7104</hash>
+      <hash piece="49">6c398a095a7f05eebab579d3d60237d1a12699b8</hash>
+      <hash piece="50">b3cc2db8e093a365b151722bb2706203bf17462c</hash>
+      <hash piece="51">4ef4a6d2c11342cddd73e308d5cddac85a0c03b5</hash>
+      <hash piece="52">04ddb8d3d085ed391e39344a7172f027c9373993</hash>
+      <hash piece="53">e7e6ec13b148cd9357fece903b1234166e63065d</hash>
+      <hash piece="54">ce23b713bf349c19c6dfe1f4c0a2176dff481854</hash>
+      <hash piece="55">94bed8295d47762b42f088551048a3e42bab7e54</hash>
+      <hash piece="56">a036b2424722031bb6433fc76472a0547b33eb92</hash>
+      <hash piece="57">9ba2f489a1882fb54ea7ec81f2f2101dba3c95e1</hash>
+      <hash piece="58">8bdd3119055cb69032949e70a5a8dadcc01e48de</hash>
+      <hash piece="59">aed2cb4bc5db9c47a9d93a82e892c1c7687baae1</hash>
+      <hash piece="60">7d5d35e34e20f70e3560152c7bdaca260cb9e411</hash>
+      <hash piece="61">8808e1d2601bb36a31a26d2ab5e67b0a82b67d7e</hash>
+      <hash piece="62">8400a2ab2d9178ebb56f5bc750c5be06ca279c83</hash>
+      <hash piece="63">21d8bd7c55340d277d0a88859a4de1d56fb5d749</hash>
+      <hash piece="64">55e27244e0da3fa266d69db89afd1d10920deb8f</hash>
+      <hash piece="65">3615adf0e604116dc6be5fe261034b2773dcfd58</hash>
+      <hash piece="66">ca02bb342cd77d90cabbdcbd130fbc0a4666380c</hash>
+      <hash piece="67">338a35704e8ec7d19d94fdc6e60d68e2c24a1412</hash>
+      <hash piece="68">721decac8162a92dd3b843fbc6d3beacd5941e2e</hash>
+      <hash piece="69">1b9776b38356ff846055622f45f1d48c46165dac</hash>
+      <hash piece="70">40e1c70e8874f93f83920678e92f4a08b1f5ef41</hash>
+      <hash piece="71">a6ef4bc0f8f60d197ed0ba78c175c5258e0f69ff</hash>
+      <hash piece="72">0bc6436920e3c7776cb1044c43d140dcdc929893</hash>
+      <hash piece="73">745472d0506885b0b57abcf3455c8839398d9aaf</hash>
+      <hash piece="74">edeb3e99a319bd38c205db44184454b55cd8d17d</hash>
+      <hash piece="75">f044ac744c15c50af23ddbcd811788393b53fd0c</hash>
+      <hash piece="76">a9872101f32697cd2419d7ad0ed5b48d021777d5</hash>
+      <hash piece="77">0c2e2d2add5fd873916500a132ed7303addbb780</hash>
+      <hash piece="78">872f0fd161bed19cc03b3375643c14317eaa13f1</hash>
+      <hash piece="79">f5c0835c8e897789d90a0aab9ced2fa40cd53918</hash>
+      <hash piece="80">5d354eceb1796aeb341f8e887e1e7e04d6a82e3c</hash>
+      <hash piece="81">31fa6501bfe68c1e762f9d3d8124f8cf7e04ecd0</hash>
+      <hash piece="82">7f68a9987a83042b12fd552b007767b9e3ae128f</hash>
+      <hash piece="83">ec3f2e06ed54d3c00b509a4da077382a7591631b</hash>
+      <hash piece="84">53ad63a6d2a8df050a1cba783374ef2c64a2988c</hash>
+      <hash piece="85">08acfe4fd45ef75f12039a647574976f93fe4a81</hash>
+      <hash piece="86">4bcb974a8f825ff914610c35b818359d4e41d342</hash>
+      <hash piece="87">b26290fe9567ddb7c44cb2484156bd17f906ba9c</hash>
+      <hash piece="88">a80448a281da140fcf72470874ea9a57860ba147</hash>
+      <hash piece="89">6127713d0fc6c64dd78c054e09ec24a4c14ae667</hash>
+      <hash piece="90">c6ac9f2cd10aa49b7ff8f590802e5036d0218395</hash>
+      <hash piece="91">8e0c4371ae7a358030aacdd96de311cfa8416e90</hash>
+      <hash piece="92">2cfbb11e7bf3dc61ecd63dcad65b90e1b8737ab2</hash>
+      <hash piece="93">531ed720969fed2f27d7296eb04bee62aa8780b1</hash>
+      <hash piece="94">a48f312b58cf4eea3e9537048a7f3937a1556a06</hash>
+      <hash piece="95">3f40d3b1e62c594d3bcbb7a9609fc21b3b307826</hash>
+      <hash piece="96">1b04c3b5b5693e5c3c38adfebfdcab58de0be5b1</hash>
+      <hash piece="97">7a36091361d1d89edc3e7d3ebc201c0b5787db48</hash>
+      <hash piece="98">f608f7b19ef4c8696e643306a33a4c5f99361f63</hash>
+      <hash piece="99">87a4d16b9631c2d24abf8ec505e4f05fd011003e</hash>
+      <hash piece="100">10e2151b27a0895bf02ed2d0749c2952d8a36bec</hash>
+      <hash piece="101">e3e3617674e6dc70b7ead677bce91a5868b7b00f</hash>
+      <hash piece="102">8a4a57addfd0d54e47360aac60e6e94925950ae7</hash>
+      <hash piece="103">bf50fc5bef4a80896ff2041bb840d95f72c7105d</hash>
+      <hash piece="104">6b12f946cea302fe09af72248c6ce28c9e6bc7f8</hash>
+      <hash piece="105">5a199f79867ebbd5255e8b97f0dded97c9b656c6</hash>
+      <hash piece="106">02eddb28b530baa3598920db15555091bcf8825f</hash>
+      <hash piece="107">74d2c913b2434abb96acd3b2e696c4acf67ffb11</hash>
+      <hash piece="108">87dc0ae5747d724ae3133a9cf9f02259e1d243cb</hash>
+      <hash piece="109">ffd8e40234d60b96b7c96f7546c098d159e81b1b</hash>
+      <hash piece="110">8d18d4f5049d6dd6dc656b4a954ec97bec1560f6</hash>
+      <hash piece="111">14eb0df9c72765b1ef12dbe80e54a3762cf41da3</hash>
+      <hash piece="112">030a3e8487babbc1477fb18ea3f9f0ce93e8b2bf</hash>
+      <hash piece="113">cdf89fe16bb018359c14e00a4684b7eaa4164846</hash>
+      <hash piece="114">2ad7f5b311847728ebfdf340e2f0a9d7a349386f</hash>
+      <hash piece="115">a1985dac471af1dc09cff538d93898c90ac31c8c</hash>
+      <hash piece="116">9fb726b4ba8fb061d74ce9763775636d02aead9c</hash>
+      <hash piece="117">b2a11450936fd72fa4ba66c3062f21b0cab39c7f</hash>
+      <hash piece="118">7fd07c5958504f9342f98330cedf772740d3386c</hash>
+      <hash piece="119">ec558d3dd8b968d43b00f9e6d1b1509f6a110cd9</hash>
+      <hash piece="120">c6c39f9dcc45f0b70c11d7a79f05cc9b5f4a06f6</hash>
+      <hash piece="121">b5e06e45918691a5ead9e34b66eacc6bf1abd152</hash>
+      <hash piece="122">018ff08107f36505939dbef03b7d6a73a2bc08b7</hash>
+      <hash piece="123">4f5da4ca79dd8b52f7e79999e075598d48bff0aa</hash>
+      <hash piece="124">81ac675f6a75041813d8e8d57b27faecb0cdc01e</hash>
+      <hash piece="125">81d77099eecc9be733b69b15ab57ba5e865b4870</hash>
+      <hash piece="126">9fac7ef1278a1465ab5ac6c0a4935793040c5a02</hash>
+      <hash piece="127">582c90441aea33336c91e33f4990fdad576613f2</hash>
+      <hash piece="128">b6bafccc58764cf6db1fc7ce5b1898deadfe0076</hash>
+      <hash piece="129">01ae30dd52881ffb60be69745aa95d5b378a4dad</hash>
+      <hash piece="130">600580056618a2058ec37d42ab985372c0297093</hash>
+      <hash piece="131">9096c8b5c9054492701a338b9f5a50125c17f626</hash>
+      <hash piece="132">9b05afb322b47a11aaa373010876ea5504d03200</hash>
+      <hash piece="133">5c21d005e744f8a7d07eead77b7fa79eb348e857</hash>
+      <hash piece="134">bf2f36bae7654127124e4318faa8d04446b2b6a9</hash>
+      <hash piece="135">a0258bc4b7df6dbe25fae42bf977cfba6bf22ee0</hash>
+     </pieces>
+     
+
+    </verification>
+
+    <resources>
+
+      
+
+     <url type="bittorrent" preference="30">http://borft.student.utwente.nl/~adrian/torrentphp/torrent.php/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz.torrent</url>
+     
+     <url type="ftp" location="au" preference="30">ftp://mirror.pacific.net.au/OpenOffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="au" preference="30">http://mirror.pacific.net.au/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="au" preference="30">ftp://ftp.planetmirror.com/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="au" preference="30">http://planetmirror.com/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="at" preference="30">http://gd.tuwien.ac.at/office/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="at" preference="30">ftp://gd.tuwien.ac.at/office/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="be" preference="30">ftp://ftp.scarlet.be/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="be" preference="30">http://ftp.scarlet.be/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="rsync" location="be" preference="30">rsync://ftp.scarlet.be/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="be" preference="30">ftp://ftp.openoffice.skynet.be/pub/ftp.openoffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="br" preference="30">http://linorg.usp.br/OpenOffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="br" preference="20">ftp://ftp.pucpr.br/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="bg" preference="30">ftp://ftp.spnet.net/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="bg" preference="30">http://ftp.spnet.net/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="ca" preference="30">ftp://openoffice.mirror.rafal.ca/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="ca" preference="30">http://openoffice.mirror.rafal.ca/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="ca" preference="30">http://gulus.usherbrooke.ca/pub/appl/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="dk" preference="30">http://mirrors.dotsrc.org/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="dk" preference="30">ftp://mirrors.dotsrc.org/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="fr" preference="30">ftp://ftp.free.fr/mirrors/ftp.openoffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="fr" preference="20">ftp://openoffice.cict.fr/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="de" preference="20">ftp://ftp://ftp.tu-chemnitz.de/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="de" preference="30">ftp://ftp://ftp.gwdg.de/pub/misc/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="de" preference="30">http://http://ftp.gwdg.de/pub/misc/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="de" preference="30">ftp://sunsite.informatik.rwth-aachen.de/pub/mirror/OpenOffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="de" preference="30">ftp://ftp://ftp.uni-muenster.de/pub/software/OpenOffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="de" preference="30">http://ftp.rz.tu-bs.de/pub/mirror/OpenOffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="de" preference="30">ftp://ftp.rz.tu-bs.de/pub/mirror/OpenOffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="de" preference="20">ftp://ftp://ftp-stud.fht-esslingen.de/pub/tbl_mirrors/ftp.openoffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="de" preference="20">ftp://ftp://ftp.stardiv.de/pub/OpenOffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="de" preference="20">http://http://ftp.stardiv.de/pub/OpenOffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="de" preference="20">http://mirror.xaranet.de/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="gr" preference="30">http://www.ellak.gr/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="gr" preference="30">http://ftp.ntua.gr/pub/OpenOffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="gr" preference="30">ftp://ftp.ntua.gr/pub/OpenOffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="hu" preference="20">http://ftp.fsf.hu/OpenOffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="hu" preference="20">ftp://ftp.fsf.hu/OpenOffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="id" preference="20">http://openoffice.ugm.ac.id/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="ie" preference="30">ftp://ftp.heanet.ie/mirrors/openoffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="ie" preference="30">http://ftp.heanet.ie/mirrors/openoffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="rsync" location="ie" preference="30">rsync://ftp.heanet.ie/mirrors/openoffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="jp" preference="30">http://http://www.ring.gr.jp/archives/misc/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="jp" preference="30">ftp://ftp://ftp.ring.gr.jp/pub/misc/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="jp" preference="30">http://ftp.yz.yamagata-u.ac.jp/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="jp" preference="30">ftp://ftp.yz.yamagata-u.ac.jp/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="my" preference="20">http://mymirror.asiaosc.org/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="nl" preference="30">ftp://ftp.nluug.nl/pub/office/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="nl" preference="30">http://ftp.nluug.nl/pub/office/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="nl" preference="30">ftp://ftp.snt.utwente.nl/pub/software/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="nl" preference="30">http://vlaai.snt.utwente.nl/pub/software/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="pl" preference="30">ftp://ftp.man.poznan.pl/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="pl" preference="30">ftp://ftp://ftp.openoffice.pl/OpenOffice.ORG/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="pl" preference="30">http://ftp.tpnet.pl/vol/d9/OpenOffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="pl" preference="30">ftp://ftp.tpnet.pl/d9/OpenOffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="pt" preference="20">ftp://neacm.fe.up.pt/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="pt" preference="20">http://neacm.fe.up.pt/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="ro" preference="30">ftp://mirrors.evolva.ro/openoffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="ro" preference="30">ftp://ftp.iasi.roedu.net/pub/mirrors/openoffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="ro" preference="20">http://ftp.iasi.roedu.net/mirrors/openoffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="ro" preference="20">ftp://ftp.idilis.ro/mirrors/openoffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="ro" preference="20">http://ftp.idilis.ro/mirrors/openoffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="ru" preference="30">ftp://ftp.chg.ru/pub/OpenOffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="ru" preference="30">http://ftp.chg.ru/pub/OpenOffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="cs" preference="20">ftp://mirror.etf.bg.ac.yu/openoffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="cs" preference="20">http://mirror.etf.bg.ac.yu/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="sg" preference="20">ftp://mirror.averse.net/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="sg" preference="20">http://mirror.averse.net/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="si" preference="10">ftp://ftp.bevc.net/mirrors/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="si" preference="10">http://mirrors.bevc.net/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="si" preference="20">http://www.wsection.com/OpenOffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="za" preference="10">ftp://ftp://ftp.is.co.za/mirrors/OpenOffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="kr" preference="30">ftp://ftp://ftp.kr.freebsd.org/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="es" preference="30">http://sunsite.rediris.es/mirror/openoffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="es" preference="30">ftp://ftp.rediris.es/mirror/openoffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="se" preference="30">ftp://http://ftp.sunet.se/pub/Office/OpenOffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="ch" preference="30">ftp://ftp.solnet.ch/mirror/OpenOffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="ch" preference="30">http://mirror.switch.ch/ftp/mirror/OpenOffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="ch" preference="30">ftp://mirror.switch.ch/mirror/OpenOffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="tw" preference="30">ftp://ftp.isu.edu.tw/pub/OpenOffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="tw" preference="30">http://ftp.isu.edu.tw/pub/OpenOffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="gb" preference="30">ftp://ftp.mirrorservice.org/sites/ny1.mirror.openoffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="gb" preference="30">http://www.mirrorservice.org/sites/ny1.mirror.openoffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="gb" preference="30">ftp://mirrors.blueyonder.co.uk/sites/openoffice.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="gb" preference="30">http://openoffice.blueyonder.co.uk/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="gb" preference="30">ftp://ftp.mirror.ac.uk/mirror/sunsite.dk/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="gb" preference="30">http://www.mirror.ac.uk/mirror/sunsite.dk/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="us" preference="30">ftp://ftp.ussg.iu.edu/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="us" preference="30">ftp://openofficeorg.secsup.org/pub/software/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="us" preference="30">http://openofficeorg.secsup.org/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="us" preference="30">ftp://ftp.osuosl.org/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="us" preference="30">http://ftp.osuosl.org/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="us" preference="30">http://mirrors.ibiblio.org/pub/mirrors/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="us" preference="30">ftp://mirrors.ibiblio.org/pub/mirrors/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="us" preference="30">http://mirrors.isc.org/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="us" preference="30">ftp://openoffice.mirrors.pair.com/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="us" preference="30">http://openoffice.mirrors.pair.com/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="us" preference="30">http://openoffice.takiweb.com/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="ftp" location="us" preference="30">ftp://openoffice.mirrors.tds.net/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="us" preference="30">http://openoffice.mirrors.tds.net/pub/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+     <url type="http" location="us" preference="10">http://mirrors.wehost4u.net/openoffice/stable/2.3.0/OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz</url>
+
+      
+       <url type="magnet" preference="90">
+         magnet:?xt=urn:sha1:747fd76d25941d307d09b716eaba77eb1d71fc8a&amp;xt=urn:ed2k:99e9dfe152f1c2e68f346a868a690c36&amp;xl=142022504&amp;dn=OOo_2.3.0_LinuxIntel_install_en-US_deb.tar.gz
+       </url>
+      
+
+      
+
+    </resources>
+   </file>
+  </files> 
+</metalink>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/"
+  origin="http://http://fedora.redhat.com/m3/fedora.metalink" 
+  type="dynamic" pubdate="2006-03-14-22:05:47" refreshdate="2006-03-14-12:22:23">
+
+<!--
+	Metalink, an Open Standard, makes downloading easier by
+	bundling the various ways (FTP/HTTP/P2P) to get files into
+	one format for easier downloads, as well as bundling
+	checksums to automatically verify completed downloads.
+	
+	Currently the following applications support this file:
+
+    - aria2 (Linux) [ http://aria2.sourceforge.net/ ]
+	- GetRight 6 (Windows) [ http://www.getright.com/ ]
+	        
+	For further information please visit http://www.metalinker.org/
+-->
+  
+<files>
+  
+  <file name="FC-5-i386-DVD.iso">
+    <identity>Fedora</identity>
+    <version>5</version>
+    <description>Fedora Core 5 i386 DVD ISO</description>
+    <tags>fedora, red hat, linux</tags>
+    <verification>
+      <hash type="md5">ed9a852cf77250c3ae111c621d350af5c0b0a29b</hash>
+    </verification>
+    <releasedate>2006-03-20</releasedate>
+    <changelog>
+      <url>http://fedora.redhat.com/</url>
+    </changelog>
+    <publisher>
+	<name>Fedora</name>
+	<url>http://fedora.redhat.com/</url>
+    </publisher>
+    <license>
+	<name>GPL</name>
+	<summary>Short explanation of license</summary>
+	<url>http://www.gnu.org/copyleft/gpl.html</url>
+    </license>   
+    <resources>
+        <url type="ftp" location="us" preference="90">
+        ftp://ftp.ndlug.nd.edu/pub/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+	<url type="ftp" location="us" preference="80">
+        ftp://mirror.cs.princeton.edu/pub/mirrors/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+  	<url type="http" location="us" preference="80">
+        http://mirror.linux.duke.edu/pub/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+        <url type="ftp" location="us" preference="90">
+        ftp://ftp.cse.buffalo.edu/pub/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+	<url type="ftp" location="us" preference="80">
+        ftp://joe.ncsa.uiuc.edu/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+  	<url type="ftp" location="us" preference="80">
+        ftp://mirror.usu.edu/mirrors/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+	</url>
+  	<url type="ftp" location="us" preference="90">
+        ftp://fedora.cat.pdx.edu/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+	<url type="ftp" location="us" preference="80">
+        ftp://limestone.uoregon.edu/fedora/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+  	<url type="ftp" location="ca" preference="80">
+        ftp://ftp.telus.net/pub/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+        <url type="http" location="ca" preference="90">
+        http://less.cogeco.net/pub/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+	<url type="ftp" location="ca" preference="80">
+        ftp://mirror.arcticnetwork.ca/pub/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+  	<url type="ftp" location="ca" preference="80">
+        ftp://ftp.nrc.ca/pub/systems/linux/redhat/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+	</url>
+  	<url type="ftp" location="cl" preference="20">
+        ftp://ftp.telmexchile.cl/Unix/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+	<url type="http" location="us" preference="80">
+        http://mirrors.kernel.org/fedora/core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+  	<url type="ftp" location="fr" preference="80">
+        ftp://ftp.proxad.net/mirrors/fedora.redhat.com/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+        <url type="ftp" location="fi" preference="90">
+        ftp://ftp.funet.fi/pub/mirrors/ftp.redhat.com/pub/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+	<url type="ftp" location="ca" preference="80">
+        ftp://mirror.arcticnetwork.ca/pub/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+  	<url type="ftp" location="fr" preference="80">
+        ftp://ftp.ciril.fr/pub/linux/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+	</url>
+  	<url type="ftp" location="fr" preference="20">
+        ftp://fr2.rpmfind.net/linux/fedora/core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+	<url type="ftp" location="de" preference="80">
+        ftp://ftp.tu-chemnitz.de/pub/linux/fedora-core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+  	<url type="http" location="de" preference="80">
+        http://ftp-stud.fht-esslingen.de/pub/Mirrors/fedora.redhat.com/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+        <url type="ftp" location="de" preference="90">
+        ftp://ftp.uni-bayreuth.de/pub/linux/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+	<url type="http" location="uk" preference="80">
+        http://coblitz.codeen.org:3125/coblitz.planet-lab.org/pub/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+        </url>
+  	<url type="http" location="it" preference="80">
+        http://fedora.ngi.it/5/i386/iso/FC-5-i386-DVD.iso
+	</url>
+    </resources>
+  </file>
+ 
+</files>
+</metalink>

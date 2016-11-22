@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0035" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Ichthux</name>
+    <url>http://www.ichthux.com/</url>
+  </publisher>
+  <description>Ichthux is an operating system aimed at Christian users. It is based on Kubuntu in order to provide the best desktop environment of the moment, together with Christian programs and settings.</description>
+  <files>
+    <file name="ichthux-6.09-desktop-i386.iso">
+      <version>6.09</version>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">b80a1da193f7f2be08e44bd290ac46b7</hash>
+      </verification>
+      <resources>
+        <url type="http" location="fr" preference="100">http://fr.mirror.ichthux.com/6.09/ichthux-6.09-desktop-i386.iso</url>
+        <url type="http" location="fr" preference="100">http://ichthux.free.fr/iso/6.09/ichthux-6.09-desktop-i386.iso</url>
+        <url type="http" location="dk" preference="100">http://ichthux.pj2.org/6.09/ichthux-6.09-desktop-i386.iso</url>
+        <url type="http" location="us" preference="100">http://matheteuo.org/ichthux/6.09/ichthux-6.09-desktop-i386.iso</url>
+        <url type="http" location="us" preference="100">http://us.ichthux.pj2.org/6.09/ichthux-6.09-desktop-i386.iso</url>
+        <url type="http" location="us" preference="100">http://www.misterben.org.uk/ichthux/6.09/ichthux-6.09-desktop-i386.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

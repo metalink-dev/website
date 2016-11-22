@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 0.4.1" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>archlinux</name>
+    <url>http://www.archlinux.org/</url>
+  </publisher>
+  <version>0.8</version>
+  <description>Arch Linux, a lightweight and flexible linux distribution that tries to Keep It Simple.</description>
+  <files>
+    <file name="Archlinux-x86_64-0.8-Voodoo.current.iso">
+      <size>556642304</size>
+      <os>Linux-x64</os>
+      <verification>
+        <hash type="md5">8ebe14ee72277500f1a0adfb67cd0341</hash>
+        <hash type="sha1">b88a8494e384a4e3b5c92c459d9e595d285e71bd</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">1ad682fd2009b9e66eeebe8e2762d21a8f54010a</hash>
+          <hash piece="1">bd4200d6562e58e0d24d002f5d0bb01f99008509</hash>
+          <hash piece="2">61c1f34a21dd9f410476f30a8db04f9766dc1af8</hash>
+          <hash piece="3">d8c938e91633ed736c1d05160161b114d360b65b</hash>
+          <hash piece="4">0ce5611ca5f4b8f800b8b4fd316363548c1238fa</hash>
+          <hash piece="5">e8283eec93eac5088816788e4afc0697e8b2b10a</hash>
+          <hash piece="6">a29fc4837bf4f779515a56a907d1f36005b3a55a</hash>
+          <hash piece="7">c77e3a6c3794b45faf9d28639564fb0a4c3151d5</hash>
+          <hash piece="8">09a53ffbacfbc29aba39180abac3e809f0ae1fd2</hash>
+          <hash piece="9">b87feda0a2fe1bada767ba1a42e7ba26b22fc8dd</hash>
+          <hash piece="10">bf6c806ab763aed3894442fd62484b9a657d2e0e</hash>
+          <hash piece="11">75d2d1b0baa9f29f25f40de47ad012881ed6294b</hash>
+          <hash piece="12">cda89245aec0b68538ef6dcc5f448d90e9aa7eff</hash>
+          <hash piece="13">cce405f6ad1161094f05145ebde2a684e2f66d63</hash>
+          <hash piece="14">328f4da49d42853899887df01084155893fe53b4</hash>
+          <hash piece="15">96ae0c5f4d446d09c65f2cf2552d430e8af1d9b4</hash>
+          <hash piece="16">d2a6e857775f2e5661e2e73e01b8870a691b42ec</hash>
+          <hash piece="17">d794752507332e39c7165465c16bf0836c90d143</hash>
+          <hash piece="18">d8d34c527d19b51b63a43bd82304f465d008fbe4</hash>
+          <hash piece="19">f459ba963da08d93fe8669f457e6397261122f3c</hash>
+          <hash piece="20">42f2034029091aa1056021ce4f0e48cfa30439a8</hash>
+          <hash piece="21">e854c9d1d8f363dd5c08d9bf903e4dfd0c69377c</hash>
+          <hash piece="22">1346764317bc99f17aaa49f0598d1ad47a995943</hash>
+          <hash piece="23">b957475e2d64b12ac6c0c9aacaa7ab9511737763</hash>
+          <hash piece="24">518b362190b3afc04ac92fd69930470767094288</hash>
+          <hash piece="25">fe5daf967d9b14a2f0700951a85a1415f8f24820</hash>
+          <hash piece="26">6d3eae638ff621b3a6ad90336d78bb83a883c422</hash>
+          <hash piece="27">93e0685d15f8cd6143c3580fc521daeca248cfc9</hash>
+          <hash piece="28">6b22a61f0fd405a9b89211c3cb736e97b8a1b638</hash>
+          <hash piece="29">c3c75f819a9673db9e570a5f40124cd28b8f2ae1</hash>
+          <hash piece="30">084dd2aa3468569445d9442c360cf0c8b1eed0a0</hash>
+          <hash piece="31">daa812ef53eab38220c7f561b16acafd9f5eea28</hash>
+          <hash piece="32">67b3e5c8c060471a22d102543122d260b7ebec03</hash>
+          <hash piece="33">0cbfbf2c0975a32643889324a45efcc822d8192a</hash>
+          <hash piece="34">946c5f63188e569bd50e056162f9774937bfce94</hash>
+          <hash piece="35">299cde02198bcfe94a1f0c93e47d71c328af3b5a</hash>
+          <hash piece="36">a03ea070b8829b7aae288dddb8feb90c00cdb6ee</hash>
+          <hash piece="37">0a7ae2a9f5e3034ce28432bfc582c76f5b3bbbdf</hash>
+          <hash piece="38">a0476f1051a8eb90a96264069e71fb5c82ed5a92</hash>
+          <hash piece="39">ce4e8389b1ac66bd9117a015ccaeaa9a5f9402ad</hash>
+          <hash piece="40">31f0dbe90304ea87eb9cb4db37592fe28e4e5081</hash>
+          <hash piece="41">58c91d105d3cbd4e1c348da5fcaa7c7d42ffa2a3</hash>
+          <hash piece="42">45b59a62d011398d4e218286bf929e65d15ca37e</hash>
+          <hash piece="43">f31b9b959fb7245e436ff2cbd9dab4abc6f32b37</hash>
+          <hash piece="44">eda4c098110c7ec995edb2b24492becc8e9cfa18</hash>
+          <hash piece="45">6c59fe04218b93c5e29742e3959405c2dd80955e</hash>
+          <hash piece="46">17cba23a58fdf5d84c71ef04f9a801e06a45ff60</hash>
+          <hash piece="47">f07ea5618b8da817d9702fc93a58aac570a333e2</hash>
+          <hash piece="48">c41fc1f8053449f3fd9f9eba3a7bba74834c1921</hash>
+          <hash piece="49">c0cfc94aa582d3e400b2e43250cbf4067212cda9</hash>
+          <hash piece="50">9588dc14a7d1e64b328b4af4c9bc46a495f5922d</hash>
+          <hash piece="51">efd7ee6fec75799c331966111bade2e7c899c8de</hash>
+          <hash piece="52">d9d065ac5f0fe165fe795c828df2ab9faf936f45</hash>
+          <hash piece="53">600a37d500a65137076209c30e5540d22cc000de</hash>
+          <hash piece="54">0b90e32d9503c7707524701732af5d50664e3286</hash>
+          <hash piece="55">313e6212ac2885b5cc6f0474ffc73766feaeff06</hash>
+          <hash piece="56">d0c985c6b18be6bcf5803249b9240c4c51f31cad</hash>
+          <hash piece="57">ad8f1f603d1df51e33839a627e5db677a6835a0a</hash>
+          <hash piece="58">9ce9726cac88559f7f6d11b782006c4d9c7b6a29</hash>
+          <hash piece="59">a74017282eb43354a583cf2c8ee6a9fc2aa23e38</hash>
+          <hash piece="60">e2dc02b0663ceaf76c21123becf64bb316cd26a7</hash>
+          <hash piece="61">c1dacb998a27a055cda0d3adac492d8a5e809fef</hash>
+          <hash piece="62">46aa26083b492b8da17d3fe9c0dbe3ab24ff7d1f</hash>
+          <hash piece="63">7c5d5d1749a51e9395d326ae6a6d774dbd5654f1</hash>
+          <hash piece="64">d80812ed8f52533f3f9b3c4f5dd871e2b279fd40</hash>
+          <hash piece="65">79400d3a7b7a6c7943c9730aac2690c3c4844a92</hash>
+          <hash piece="66">4c994b55931493f794e63d2092ad249488274b8e</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="ch" preference="100">ftp://archlinux.puzzle.ch/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="tw" preference="100">ftp://cle.linux.org.tw/pub/ArchLinux/iso/0.72/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="ee" preference="100">ftp://ftp.estpak.ee/pub/archlinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="ie" preference="100">ftp://ftp.heanet.ie/mirrors/ftp.archlinux.org/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.hosteurope.de/mirror/ftp.archlinux.org/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="ro" preference="100">ftp://ftp.iasi.roedu.net/mirrors/archlinux.org/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.ibiblio.org/pub/linux/distributions/archlinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.nethat.com/pub/linux/archlinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="nl" preference="100">ftp://ftp.nluug.nl/pub/metalab/distributions/archlinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="gr" preference="100">ftp://ftp.ntua.gr/pub/linux/archlinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.pangora.org/archlinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="nl" preference="100">ftp://ftp.surfnet.nl/pub/os/Linux/distr/archlinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.tu-chemnitz.de/pub/linux/sunsite.unc-mirror/distributions/archlinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp-linux.cc.gatech.edu/pub/linux/distributions/archlinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="it" preference="100">ftp://mi.mirror.garr.it/mirrors/archlinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://mirror.cs.vt.edu/pub/ArchLinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="pl" preference="100">ftp://mirror.icis.pcz.pl/archlinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="au" preference="100">ftp://mirror.pacific.net.au/linux/archlinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="pl" preference="100">ftp://sunsite.icm.edu.pl/site/linux-sunsite/distributions/archlinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="at" preference="100">ftp://gd.tuwien.ac.at/opsys/linux/archlinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="cz" preference="100">ftp://ftp.sh.cvut.cz/MIRRORS/arch/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="be" preference="100">ftp://ftp.belnet.be/packages/archlinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="uk" preference="100">ftp://ftp.parrswood.net/Mirrors/ftp.archlinux.org/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="ftp" location="pl" preference="100">ftp://saule.mintis.lt/pub/linux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="http" location="pt" preference="100">http://darkstar.ist.utl.pt/archlinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="http" location="us" preference="100">http://www2.cddc.vt.edu/linux/distributions/archlinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+        <url type="http" location="cn" preference="100">http://mirror.vmmatrix.net/ArchLinux/0.8/iso/x86_64/Archlinux-x86_64-0.8-Voodoo.current.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

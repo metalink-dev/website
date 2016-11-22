@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 0.4.1" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Linux Mint</name>
+    <url>http://linuxmint.com/</url>
+  </publisher>
+  <identity>Linux Mint KDE</identity>
+  <version>2.2</version>
+  <description>Linux Mint's purpose is to produce an elegant, up to date and comfortable GNU/Linux desktop distribution.</description>
+  <files>
+    <file name="LinuxMint-2.2-KDE.iso">
+      <size>847581184</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">60fe4e6b6d2fc5bc66d701c397036a15</hash>
+        <hash type="sha1">3a783de823eb7c33c7be82bc81cf8d5b5f398c5c</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">b2210196ab2d490932d60596eec44290d89cf984</hash>
+          <hash piece="1">68927e59044e5de839fac02eea85f970c39bf9e7</hash>
+          <hash piece="2">47a7d10e6cb810d27d896ccc666798d784c070f8</hash>
+          <hash piece="3">0b9ab65f7771727b09473e9629ff5323f2adce15</hash>
+          <hash piece="4">0c89ad0a7a5c50ce57e898f6a352b3629db0d606</hash>
+          <hash piece="5">226207f50fbd13528d50c57acaa7ff38e6b5d657</hash>
+          <hash piece="6">ca910c385cda25095ebda6a647485817ad34b137</hash>
+          <hash piece="7">e995f1f6d2f6dfacc0a14a5904910740177cc58d</hash>
+          <hash piece="8">b656cfdefea4bcae03641d49a2c0ac95c2089538</hash>
+          <hash piece="9">9d299ea0e327da8b6f9b314e72aa4d39060b9245</hash>
+          <hash piece="10">34589391bd22b60a5588567cb4506c9749675378</hash>
+          <hash piece="11">26ee03effd873dae9469d5e36ea06e77dabc9174</hash>
+          <hash piece="12">01574f8fc47d48a7f04ec4b733fbcbc5563043a3</hash>
+          <hash piece="13">6306aa8fa7b98281eb7df2ae2deff5dd26dcf45b</hash>
+          <hash piece="14">4ed02e2f7a0e9177b765c13db8f61ed178648343</hash>
+          <hash piece="15">4694d26f482b5c8a7a0c7aafe3006ff255d93898</hash>
+          <hash piece="16">3597f426cfaf813926365efa20dbb3a574a466c5</hash>
+          <hash piece="17">eaa5db3ec7baff70b2acd65c78d6df84d8e9d485</hash>
+          <hash piece="18">d471caa0676cbee0bd1ce2a4efe4622427ce4a8d</hash>
+          <hash piece="19">8c547d93b281731af54a95a61cdf3d3a79ab633b</hash>
+          <hash piece="20">1caf241a42d0455b43450142101d2815db2bbe19</hash>
+          <hash piece="21">ab152926db37139f7b252cf5db2682a9b5e857f6</hash>
+          <hash piece="22">72ba3845a342d96f3cf984790301559bf4603c96</hash>
+          <hash piece="23">6ee480ab01f59a5a71658aba8c2589019a5492f3</hash>
+          <hash piece="24">f3699353fdda9ef3c55773f61c4c8eaff3d03f70</hash>
+          <hash piece="25">bbccde04a526b49f2240caa6100bcef8ab32c0fc</hash>
+          <hash piece="26">acf7a1181e10e266ca712855bdfbf7255cc9ec9a</hash>
+          <hash piece="27">a466b2d76a5a2f85e9230155e67c9c9e905c9776</hash>
+          <hash piece="28">908a3605310a375a4c183db21771337c5d608485</hash>
+          <hash piece="29">074085a556fdacfa0a59d695025f9b78994bd583</hash>
+          <hash piece="30">bccd2c19037962623f6d8ddd8a5130e9df7a2490</hash>
+          <hash piece="31">94135d6d96450ddb37b412c09046d114a28dd546</hash>
+          <hash piece="32">46c381483463b6832bf599c5615eb2599a526344</hash>
+          <hash piece="33">726d5de5088ad6ddda91016624a24ce7cb90998b</hash>
+          <hash piece="34">667e256ff2af81ee57b321f6713584dbda5a009b</hash>
+          <hash piece="35">4f9e647f5b2acddf062eb68d5ab7e38972144a41</hash>
+          <hash piece="36">f1b439a6cd218c8d5ce750b114240c738089885d</hash>
+          <hash piece="37">78d0d342874d83bff8234bc7399628db567d8d58</hash>
+          <hash piece="38">b9e5046266469ee5ab78a7697ea61ab5cb5bce3e</hash>
+          <hash piece="39">fa79d23dd67c8b8362491c6633f10b51779485a1</hash>
+          <hash piece="40">7b5657c51c558d52a58731ed984abfbec11ba2c7</hash>
+          <hash piece="41">9f7c8053b841e5191f555344f554d229ba8551d5</hash>
+          <hash piece="42">3aa64ecee49f0bae4f4a7a99ed8e1e8cd3e9d154</hash>
+          <hash piece="43">b3285a695a6422cc043a73eec35fb4b388e59d66</hash>
+          <hash piece="44">28820dff3187fc146fe7816bd40f4dcb2ac6b6c9</hash>
+          <hash piece="45">c3c877cea81ca0dd9190b7d9637e5028194aeb13</hash>
+          <hash piece="46">c5351ec0c12b9dc29d07bce374446ad5389f8c2a</hash>
+          <hash piece="47">cd5f8d13de61c36ae799e631853df6dbc540965b</hash>
+          <hash piece="48">fb850275473e5932d1ef64eba05553ee91a0a415</hash>
+          <hash piece="49">2d2ca37bcbe6fb02dec45910b3dfbc7c48da2eb8</hash>
+          <hash piece="50">932016a90fad623cd4fdcb1c7ab67aa34ebfe72e</hash>
+          <hash piece="51">adc9a93dd2a6240b9620f16752422ea59ef0917c</hash>
+          <hash piece="52">cb1c8fbea33555470f70fcc44ce17a0496f1f8dd</hash>
+          <hash piece="53">0669ce1ef278b45b4aeb45d6e8edc5a528236937</hash>
+          <hash piece="54">23adf9debeba4a78604ac312c0f0935a237881dc</hash>
+          <hash piece="55">814eb0982136b7191187db529322a53daf11d951</hash>
+          <hash piece="56">98cff146a8768157c896b63d07129455eeb66e71</hash>
+          <hash piece="57">8d15e82deb4327c2e28c83285fcc9dc1978de558</hash>
+          <hash piece="58">4753b58af721f5951093de043ee1a0da196285a1</hash>
+          <hash piece="59">c9579a0c4fcbc160a65bbb7db59f3ee6eb6e3727</hash>
+          <hash piece="60">c4ee75b19228e2bd449d4512e7a4dfc7edb9a0c0</hash>
+          <hash piece="61">eb0921a60d1dd1ff6a954e0c96d3749293cc37a1</hash>
+          <hash piece="62">618eb1cfbc3048b85aaf42ec10a55cd7b27c223d</hash>
+          <hash piece="63">3b4e29f8da4bf4ed87e31eee6aec3aef497fe9ac</hash>
+          <hash piece="64">fcbcb19ef13c9fc5d41a19cd92d45b4ded7f4782</hash>
+          <hash piece="65">06bee6249c0088978a4e2044651b8235eff44cc7</hash>
+          <hash piece="66">b154361222c890e4154db1c0b5ef7466a427b1dd</hash>
+          <hash piece="67">ce1e3e69daf42f236a79892bdcefc4e53a57fd8f</hash>
+          <hash piece="68">8dbc9bd59f0837df62cc0f21941961a3ce021f7a</hash>
+          <hash piece="69">58fe91e51c512d2222d232aa0dc053c5841662b3</hash>
+          <hash piece="70">44f3109e89a2b6cb74ab16a34b6db7ce629e9af3</hash>
+          <hash piece="71">0f244a788f7ce0d5fb0f755c762734209e157bee</hash>
+          <hash piece="72">184ebbe8272c8c71876668bd9a87ab0f05671263</hash>
+          <hash piece="73">d510e87bdd13fbadcb431dcfdd6ba6a6a01823d4</hash>
+          <hash piece="74">c2f37439b2395686af0ad5b9b623895007c0eaa6</hash>
+          <hash piece="75">9d27613a5ef1f7317b862baa987c27f36bd3c3d3</hash>
+          <hash piece="76">bc56f048559ef486c4433a680a7ddd66cd83c527</hash>
+          <hash piece="77">aad0f8fa611f60fceb5b105a683b9d6058a54fe6</hash>
+          <hash piece="78">94e58df006d348bc3ee0be7cf68eb017d2ce1b7e</hash>
+          <hash piece="79">ffb1d47d3741f1bbb73ee86de7a227f8d6c50fd5</hash>
+          <hash piece="80">c4dc6ab2c64370bc7152504898d76e329dc2dc7e</hash>
+          <hash piece="81">41978824e8b5320a548bc7597f054be63771f1d1</hash>
+          <hash piece="82">cecae3c9972782c268479f1483c1e6c2b73a9b22</hash>
+          <hash piece="83">ca4f99225a4476cd55c73035411cc9b6d6ab2338</hash>
+          <hash piece="84">222a0f3d024823be0573c0e6ab65ea1d255fae17</hash>
+          <hash piece="85">f2a6c4f9ed32a213dbf0ae3d555d2106eca71616</hash>
+          <hash piece="86">fe4f99ebf5112b233afcfc9463e2305420c2784d</hash>
+          <hash piece="87">6d59fbf7644627bddb41a45661a4072398d33b39</hash>
+          <hash piece="88">127692cf7e438710ca6dc44fff8cd7c598470051</hash>
+          <hash piece="89">c6a1d18b62d41900f3176839bcc3c7f041f450a9</hash>
+          <hash piece="90">7aaee4993804311b3a3d6767887b89bf498e4a5c</hash>
+          <hash piece="91">85d106a9d9b1c0f56b490fe3547b259d8518be0a</hash>
+          <hash piece="92">ef73634ad49767e364e380cf8c4ae0a3ad234d7b</hash>
+          <hash piece="93">bcbfcc01678ecd821d9b09be7e3512e395bce1f3</hash>
+          <hash piece="94">d4659befa2df42d8659530b0530f5f4828e76c8e</hash>
+          <hash piece="95">271faa533a969dda7a64387d221b1d8bcb26e650</hash>
+          <hash piece="96">8f75c05b3fb513c149bc0287be5084f0786f167b</hash>
+          <hash piece="97">e57bff7f92aec4efba7d1c4f20bd5d79aeb7f548</hash>
+          <hash piece="98">2737f5c6d2c02cc3c07a75c196bcde5c83ecb20f</hash>
+          <hash piece="99">5b5763121946c791c6c637307faf33a614f10473</hash>
+          <hash piece="100">2791a130b440898ea9eb165edcca027c810f786e</hash>
+          <hash piece="101">6aaf127c18d54d158fa8432333303743ce2dd9eb</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" preference="100">http://newminty.ath.cx/linuxmint/LinuxMint-2.2-KDE.iso</url>
+        <url type="http" preference="100">http://1.homingpenguin.com/LinuxMint-2.2-KDE.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

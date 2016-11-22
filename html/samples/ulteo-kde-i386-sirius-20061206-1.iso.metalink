@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0037" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Ulteo</name>
+    <url>http://www.ulteo.com/</url>
+  </publisher>
+  <description>Ulteo is the easiest system to use on computers. Ulteo is a new concept of an easy-to-use open-source operating system which could change the way we all use computers.</description>
+  <files>
+    <file name="ulteo-kde-i386-sirius-20061206-1.iso">
+      <version>20061206</version>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">9c7536a71aed4c1fbef0b0a7d8ead104</hash>
+      </verification>
+      <resources>
+        <url type="ftp" location="fr" preference="100">ftp://dionysos.mcom.fr/Linux/Ulteo/alpha/sirius/x86-32/ISO/ulteo-kde-i386-sirius-20061206-1.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://distro.ibiblio.org/pub/linux/distributions/ulteo/alpha/sirius/x86-32/ISO/ulteo-kde-i386-sirius-20061206-1.iso</url>
+        <url type="ftp" location="jp" preference="100">ftp://ftp.kddilabs.jp/Linux/packages/Ulteo/alpha/sirius/x86-32/ISO/ulteo-kde-i386-sirius-20061206-1.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.lip6.fr/pub/linux/distributions/Ulteo/alpha/sirius/x86-32/ISO/ulteo-kde-i386-sirius-20061206-1.iso</url>
+        <url type="ftp" location="nl" preference="100">ftp://ftp.nluug.nl/pub/os/Linux/distr/ulteo/alpha/sirius/x86-32/ISO/ulteo-kde-i386-sirius-20061206-1.iso</url>
+        <url type="ftp" preference="100">ftp://ftp.ulteo.com/Ulteo/alpha/sirius/x86-32/ISO/ulteo-kde-i386-sirius-20061206-1.iso</url>
+        <url type="ftp" preference="100">ftp://ftp2.ulteo.com/Ulteo/alpha/sirius/x86-32/ISO/ulteo-kde-i386-sirius-20061206-1.iso</url>
+        <url type="ftp" preference="100">ftp://ftp3.ulteo.com/Ulteo/alpha/sirius/x86-32/ISO/ulteo-kde-i386-sirius-20061206-1.iso</url>
+        <url type="http" location="us" preference="100">http://distro.ibiblio.org/pub/linux/distributions/ulteo/alpha/sirius/x86-32/ISO/ulteo-kde-i386-sirius-20061206-1.iso</url>
+        <url type="http" location="nl" preference="100">http://ftp.nluug.nl/pub/os/Linux/distr/ulteo/alpha/sirius/x86-32/ISO/ulteo-kde-i386-sirius-20061206-1.iso</url>
+        <url type="http" location="de" preference="100">http://www.jur-linux.org/download/Ulteo/alpha/sirius/x86-32/ISO/ulteo-kde-i386-sirius-20061206-1.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

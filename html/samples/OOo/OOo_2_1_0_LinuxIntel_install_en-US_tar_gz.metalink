@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/"
+  origin="http://metalink.packages.ro/download/download/openoffice/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz.metalink"
+  type="static" pubdate="2006-12-11-19:00:32"
+  generator="Metalink Gen - http://metalink.packages.ro" 
+  refreshdate="2006-12-11-19:00:32">
+  
+<!--
+  Metalink, an Open Standard, makes downloading easier by
+  bundling the various ways (FTP/HTTP/P2P) to get files into
+  one format for easier downloads, as well as bundling
+  checksums to automatically verify completed downloads.
+  Currently the following applications support this file:
+
+  - aria2 (Unix) [ http://aria2.sourceforge.net/ ]
+  - GetRight 6 (Windows) [ http://www.getright.com/ ]
+  - Speed Download (Mac) [ http://www.yazsoft.com/ ]
+  - wxDownload Fast (All)[ http://dfast.sourceforge.net/ ]
+
+  For further information please visit http://www.metalinker.org/.
+  For OpenSource metalinks, generated with the precious help of
+  RoEduNet Iasi, see http://download.packages.ro/metalinks/
+
+-->
+
+  <publisher>
+    <name>Package resources</name>
+    <url>http://www.packages.ro</url>
+  </publisher>
+  <license>
+    <name>GPL</name>
+    <url>http://www.gnu.org/copyleft/gpl.html</url>
+  </license>    
+  <description>OpenOffice.ORG</description>
+  <tags>office, word processing, spreadsheet, presentation, html editor</tags>
+  <identity>OOo_2.1.0_LinuxIntel_install_en-US.tar.gz</identity>
+  <version>2.1.0</version>
+
+  <files>  
+   <file name="OOo_2.1.0_LinuxIntel_install_en-US.tar.gz">
+    
+     <os>Linux-x86</os>
+    
+    <size>128789627</size>
+    <verification>
+     <hash type="md5">6c45e972be45ccdc7b60edef28867677</hash>
+    </verification>
+    <resources>
+      
+      <url type="bittorrent"
+           preference="100">
+       http://borft.student.utwente.nl/openoffice/torrents/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz.torrent
+      </url>
+      
+     
+      <url type="ftp"
+           location="au"
+           preference="30">
+       ftp://mirror.pacific.net.au/OpenOffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="au"
+           preference="30">
+       http://mirror.pacific.net.au/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="au"
+           preference="30">
+       ftp://ftp.planetmirror.com/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="au"
+           preference="30">
+       http://planetmirror.com/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="at"
+           preference="30">
+       http://gd.tuwien.ac.at/office/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="at"
+           preference="30">
+       ftp://gd.tuwien.ac.at/office/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="be"
+           preference="30">
+       ftp://ftp.scarlet.be/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="be"
+           preference="30">
+       http://ftp.scarlet.be/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="rsync"
+           location="be"
+           preference="30">
+       rsync://ftp.scarlet.be/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="be"
+           preference="30">
+       ftp://ftp.openoffice.skynet.be/pub/ftp.openoffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="br"
+           preference="30">
+       http://linorg.usp.br/OpenOffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="br"
+           preference="20">
+       ftp://ftp.pucpr.br/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="bg"
+           preference="30">
+       ftp://ftp.spnet.net/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="bg"
+           preference="30">
+       http://ftp.spnet.net/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="ca"
+           preference="30">
+       ftp://openoffice.mirror.rafal.ca/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="ca"
+           preference="30">
+       http://openoffice.mirror.rafal.ca/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="ca"
+           preference="30">
+       http://gulus.usherbrooke.ca/pub/appl/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="dk"
+           preference="30">
+       http://mirrors.dotsrc.org/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="dk"
+           preference="30">
+       ftp://mirrors.dotsrc.org/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="fr"
+           preference="30">
+       ftp://ftp.free.fr/mirrors/ftp.openoffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="fr"
+           preference="20">
+       ftp://openoffice.cict.fr/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="20">
+       ftp://ftp:/ftp.tu-chemnitz.de/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="30">
+       ftp://ftp:/ftp.gwdg.de/pub/misc/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="de"
+           preference="30">
+       http://http:/ftp.gwdg.de/pub/misc/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="30">
+       ftp://sunsite.informatik.rwth-aachen.de/pub/mirror/OpenOffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="30">
+       ftp://ftp:/ftp.uni-muenster.de/pub/software/OpenOffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="de"
+           preference="30">
+       http://ftp.rz.tu-bs.de/pub/mirror/OpenOffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="30">
+       ftp://ftp.rz.tu-bs.de/pub/mirror/OpenOffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="20">
+       ftp://ftp:/ftp-stud.fht-esslingen.de/pub/Mirrors/ftp.openoffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="20">
+       ftp://ftp:/ftp.stardiv.de/pub/OpenOffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="de"
+           preference="20">
+       http://http:/ftp.stardiv.de/pub/OpenOffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="de"
+           preference="20">
+       http://mirror.xaranet.de/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="gr"
+           preference="30">
+       http://www.ellak.gr/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="gr"
+           preference="30">
+       http://ftp.ntua.gr/pub/OpenOffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="gr"
+           preference="30">
+       ftp://ftp.ntua.gr/pub/OpenOffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="hu"
+           preference="20">
+       http://ftp.fsf.hu/OpenOffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="hu"
+           preference="20">
+       ftp://ftp.fsf.hu/OpenOffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="id"
+           preference="20">
+       http://openoffice.ugm.ac.id/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="ie"
+           preference="30">
+       ftp://ftp.heanet.ie/mirrors/openoffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="ie"
+           preference="30">
+       http://ftp.heanet.ie/mirrors/openoffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="rsync"
+           location="ie"
+           preference="30">
+       rsync://ftp.heanet.ie/mirrors/openoffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="jp"
+           preference="30">
+       http://http:/www.ring.gr.jp/archives/misc/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="jp"
+           preference="30">
+       ftp://ftp:/ftp.ring.gr.jp/pub/misc/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="jp"
+           preference="30">
+       http://ftp.yz.yamagata-u.ac.jp/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="jp"
+           preference="30">
+       ftp://ftp.yz.yamagata-u.ac.jp/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="my"
+           preference="20">
+       http://mymirror.asiaosc.org/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="nl"
+           preference="30">
+       ftp://ftp.nluug.nl/pub/office/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="nl"
+           preference="30">
+       http://ftp.nluug.nl/pub/office/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="nl"
+           preference="30">
+       ftp://ftp.snt.utwente.nl/pub/software/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="nl"
+           preference="30">
+       http://vlaai.snt.utwente.nl/pub/software/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="pl"
+           preference="30">
+       ftp://ftp.man.poznan.pl/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="pl"
+           preference="30">
+       ftp://ftp:/ftp.openoffice.pl/OpenOffice.ORG/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="pl"
+           preference="30">
+       http://ftp.tpnet.pl/vol/d9/OpenOffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="pl"
+           preference="30">
+       ftp://ftp.tpnet.pl/d9/OpenOffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="pt"
+           preference="20">
+       ftp://neacm.fe.up.pt/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="pt"
+           preference="20">
+       http://neacm.fe.up.pt/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="ro"
+           preference="30">
+       ftp://mirrors.evolva.ro/openoffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="ro"
+           preference="30">
+       ftp://ftp.iasi.roedu.net/pub/mirrors/openoffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="ro"
+           preference="20">
+       http://ftp.iasi.roedu.net/mirrors/openoffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="ro"
+           preference="20">
+       ftp://ftp.idilis.ro/mirrors/openoffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="ro"
+           preference="20">
+       http://ftp.idilis.ro/mirrors/openoffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="ru"
+           preference="30">
+       ftp://ftp.chg.ru/pub/OpenOffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="ru"
+           preference="30">
+       http://ftp.chg.ru/pub/OpenOffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="cs"
+           preference="20">
+       ftp://mirror.etf.bg.ac.yu/openoffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="cs"
+           preference="20">
+       http://mirror.etf.bg.ac.yu/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="sg"
+           preference="20">
+       ftp://mirror.averse.net/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="sg"
+           preference="20">
+       http://mirror.averse.net/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="si"
+           preference="10">
+       ftp://ftp.bevc.net/mirrors/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="si"
+           preference="10">
+       http://mirrors.bevc.net/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="si"
+           preference="20">
+       http://www.wsection.com/OpenOffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="za"
+           preference="10">
+       ftp://ftp:/ftp.is.co.za/mirrors/OpenOffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="kr"
+           preference="30">
+       ftp://ftp:/ftp.kr.freebsd.org/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="es"
+           preference="30">
+       http://sunsite.rediris.es/mirror/openoffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="es"
+           preference="30">
+       ftp://ftp.rediris.es/mirror/openoffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="se"
+           preference="30">
+       ftp://http:/ftp.sunet.se/pub/Office/OpenOffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="ch"
+           preference="30">
+       ftp://ftp.solnet.ch/mirror/OpenOffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="ch"
+           preference="30">
+       http://mirror.switch.ch/ftp/mirror/OpenOffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="ch"
+           preference="30">
+       ftp://mirror.switch.ch/mirror/OpenOffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="tw"
+           preference="30">
+       ftp://ftp.isu.edu.tw/pub/OpenOffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="tw"
+           preference="30">
+       http://ftp.isu.edu.tw/pub/OpenOffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="gb"
+           preference="30">
+       ftp://ftp.mirrorservice.org/sites/ny1.mirror.openoffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="gb"
+           preference="30">
+       http://www.mirrorservice.org/sites/ny1.mirror.openoffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="gb"
+           preference="30">
+       ftp://mirrors.blueyonder.co.uk/sites/openoffice.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="gb"
+           preference="30">
+       http://openoffice.blueyonder.co.uk/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="gb"
+           preference="30">
+       ftp://ftp.mirror.ac.uk/mirror/sunsite.dk/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="gb"
+           preference="30">
+       http://www.mirror.ac.uk/mirror/sunsite.dk/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="30">
+       ftp://ftp.ussg.iu.edu/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="30">
+       ftp://openofficeorg.secsup.org/pub/software/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="us"
+           preference="30">
+       http://openofficeorg.secsup.org/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="30">
+       ftp://ftp.osuosl.org/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="us"
+           preference="30">
+       http://ftp.osuosl.org/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="us"
+           preference="30">
+       http://mirrors.ibiblio.org/pub/mirrors/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="30">
+       ftp://mirrors.ibiblio.org/pub/mirrors/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="us"
+           preference="30">
+       http://mirrors.isc.org/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="30">
+       ftp://openoffice.mirrors.pair.com/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="us"
+           preference="30">
+       http://openoffice.mirrors.pair.com/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="us"
+           preference="30">
+       http://openoffice.takiweb.com/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="ftp"
+           location="us"
+           preference="30">
+       ftp://openoffice.mirrors.tds.net/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="us"
+           preference="30">
+       http://openoffice.mirrors.tds.net/pub/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      <url type="http"
+           location="us"
+           preference="10">
+       http://mirrors.wehost4u.net/openoffice/stable/2.1.0/OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+      </url>
+      
+       <url type="magnet" preference="90">
+         magnet:?xt=urn:sha1:NXTKQPKAFAL66UIW2KAHF6O5NMDABRWW&amp;xt=urn:tree:tiger:TZTOUOFKMQNO3R4NAFTTEMVUYT4JZWTFU347PPQ&amp;xt=urn:ed2k:b6b5456d48a4ba2c632f6508c9e5d248&amp;xt=urn:kzhash:ab8005015617f635610e0ebfb82027ead35f1b997d62ba36d0fbf0a72e5e91db64046a84&amp;xl=128789627&amp;dn=OOo_2.1.0_LinuxIntel_install_en-US.tar.gz
+       </url>
+      
+      
+    </resources>
+   </file>
+  </files> 
+</metalink>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Pioneer</name>
+    <url>http://www.tapioneer.com/</url>
+  </publisher>
+  <identity>Pioneer Explorer</identity>
+  <version>1.0</version>
+  <description>Pioneer MigrationSERVER</description>
+  <files>
+    <file name="Pioneer-Explorer-1.0-Final.iso">
+      <size>704710656</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">450e63a4b5576411f7462fdba52895ad</hash>
+        <hash type="sha1">b3f79db4ad1fe1100312aec6a14e95b1c640dad3</hash>
+        <hash type="sha256">49ae068561ca67f51f17b773ac5731ae92045d43a7c1255c4f1b1fe1369c5fb3</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">6554ff06db3a06b53acce4d08a4a8cca0f427fc5</hash>
+          <hash piece="1">865fa73c782719bed1e656978fbfc6b44d087a03</hash>
+          <hash piece="2">8a95b6ce73222e1b2d61dc48ee1f152b145d2b18</hash>
+          <hash piece="3">4d8559b13d10b97e257e387cf12761ec8bd1c8a9</hash>
+          <hash piece="4">2792fecc831a7276944e6b1298e333a6a8ad1701</hash>
+          <hash piece="5">a8875f81dee192beaffd438c50a882d4b6a74c96</hash>
+          <hash piece="6">fa238474281067c58c2ca1f64a575b085f9663e2</hash>
+          <hash piece="7">160145755a4ec948170464677b68b66629b9573c</hash>
+          <hash piece="8">71cf2d89b692fcfd0ab7f1af0711be42248e5f1c</hash>
+          <hash piece="9">aeda9d6d962be1869837481dabba01fdbd00b938</hash>
+          <hash piece="10">ba510087bb419f73f273468b7e83e8f8a01c77b8</hash>
+          <hash piece="11">5663aa67ea4f463f689dcd6cc9c2e05715c5cc15</hash>
+          <hash piece="12">66132b65e03510e8e36ca64b34937396c004bb31</hash>
+          <hash piece="13">96565cec9f975de9514b76cd76561d7f4f2ffecc</hash>
+          <hash piece="14">26db8dac7fa6cc5c3f9b358c1c7e36add33c52ba</hash>
+          <hash piece="15">929cddcc6ec0ee596df217296a07b296b4bde6e4</hash>
+          <hash piece="16">4efb76d5557a900fc097a42ffc529514d1c74e71</hash>
+          <hash piece="17">4e96f58a7a350d2f373ec45a343cc6738f4b9ce1</hash>
+          <hash piece="18">bfaf5970aa029c926d37560e390a4d6be8df6df8</hash>
+          <hash piece="19">79fa3803eb6cf4cdd69116fedeb6c2274086cb89</hash>
+          <hash piece="20">ba5e34826c2409b7eee3f0e204b193abb12430cd</hash>
+          <hash piece="21">e43766a7bed5f906e7bbb22fca0df68bfb670011</hash>
+          <hash piece="22">4244358e170bb0db9866c03522e49febb9bd4436</hash>
+          <hash piece="23">b6a471fbabe4bf4afafc928f629c92f587122bc3</hash>
+          <hash piece="24">46049b0f83f5dbedc63c72fc3d58067b602edd42</hash>
+          <hash piece="25">e98a59816c73fcfa15943f1c5b4c0fbb15075c47</hash>
+          <hash piece="26">b484ce203850a60b7430e14242b8534974cfca0b</hash>
+          <hash piece="27">872a1d61c52e8b09a2c539f9aefeaeaaf5c1a41f</hash>
+          <hash piece="28">03f41619a8712739a77a6895ce25ff18555afb39</hash>
+          <hash piece="29">a8006166481521e9b4b669b2994cbc7ccbde95d9</hash>
+          <hash piece="30">27bc643c57d55e34f7908e17524e32097afb1229</hash>
+          <hash piece="31">6f503d9c683b07c55767308b120ded3bf66e1454</hash>
+          <hash piece="32">3f540dbd68fd386971469a913c1cff74cc67f019</hash>
+          <hash piece="33">de9cf1d47aff3ffc4f0ade357ff99a9b7ffa4bcf</hash>
+          <hash piece="34">180c17ed1a05ccf8926760a6d952d8bf7cb4cad0</hash>
+          <hash piece="35">fc58b0bd208137de3af1d95c362da3e8f8915194</hash>
+          <hash piece="36">e480e732b09a3f5892ff337209a240024f69af3c</hash>
+          <hash piece="37">9d8199f3c790d027e979b896b2233d08ba8494b4</hash>
+          <hash piece="38">af5c3433ee16a43aa13f3071c402b9a5cb436e31</hash>
+          <hash piece="39">7ac23aaa86c473c03e65ab510dae27990f149547</hash>
+          <hash piece="40">7c75b45ebe527872350c03e9df1eedc58725a192</hash>
+          <hash piece="41">1fbe264331060eaeb91be836abb2e4f091bacda7</hash>
+          <hash piece="42">7748f74e91c3702387ecde03752b1d67534db6ea</hash>
+          <hash piece="43">e2995a58371c6d488896b06ba346c09524ca4dcd</hash>
+          <hash piece="44">466f787206a47f7d712ad75fa366c75793620ec9</hash>
+          <hash piece="45">3a70401c1433ea2580a2b94fb61c43c3b6021dac</hash>
+          <hash piece="46">035f72c8a8172b3f8f1abc3ce00aa792caae089a</hash>
+          <hash piece="47">88c7ceaee5be19cc2a3645cc6ac3b9ee4ee25b27</hash>
+          <hash piece="48">342ae7a7b6e95dd4de6eaaa1397690d464386d66</hash>
+          <hash piece="49">8e34432c6ec585f8ac39b7dcef7ae38be389065b</hash>
+          <hash piece="50">f363ff2efee5d6de52fe54ad19e4c352f5712050</hash>
+          <hash piece="51">87175afb647f53e45325628821654b2bb20eed8f</hash>
+          <hash piece="52">1b56c821864ee218611c3edb557eb5dadd30918d</hash>
+          <hash piece="53">175c431928aefba1687d1ecac7705f6f82eb36c6</hash>
+          <hash piece="54">167414bc3d70c61ec79584797dde4447b37b6493</hash>
+          <hash piece="55">eb216b6950f61847b947386afea742af9109f977</hash>
+          <hash piece="56">d6ba9d76d7b2d8ca7243f3ced6e714030687d264</hash>
+          <hash piece="57">7768319bc651b49ef1173b0eba0a9429d9cca33e</hash>
+          <hash piece="58">925ecf988c73728082f5fdfbaeddcc50662fde5a</hash>
+          <hash piece="59">42f32349e47d3580839d9b2a674094db80790b30</hash>
+          <hash piece="60">24459d995d82be79e556d8c5454cf8b33f6b0c69</hash>
+          <hash piece="61">e61f037804eb9ac5bd35da2c8a59e2c8454353ec</hash>
+          <hash piece="62">da2dd9b83a675bfe9a33b34963bf021c8dcd144a</hash>
+          <hash piece="63">11c49ace2d92cfb2a253d51838c5990ddb6c5c81</hash>
+          <hash piece="64">845aaf2dbe4c6eebd1e7320c99f3c21a71054b3a</hash>
+          <hash piece="65">7cbf9963828010a41b028beaa91f63f30079b8fd</hash>
+          <hash piece="66">9e3cf5508720ef966abcdf098930f3430f0432d1</hash>
+          <hash piece="67">75b03cefaf1cc8962b9556bac080c52160993ffc</hash>
+          <hash piece="68">cf03249737e048372952fa2ac85a8ca7d98cadc2</hash>
+          <hash piece="69">8cf9703214dc9ea0dd2293469ee06e7d6c822079</hash>
+          <hash piece="70">87c5f4894761df54b04db9f04c8da096e0d143e5</hash>
+          <hash piece="71">3f6e431c4c35433e6837d54c895a417007b97e4f</hash>
+          <hash piece="72">7f52961eacd3d66d87e890df2d91d0016be723e1</hash>
+          <hash piece="73">f721701b00df776e254da8c088678930d26ee6ac</hash>
+          <hash piece="74">b2f7dbf1739845edb29c63768044a7e32b4906e1</hash>
+          <hash piece="75">68404d801364d8db482a0c9c7a88daa7cff6d7a9</hash>
+          <hash piece="76">65164c53755cd3cd827322363c0d5019642d20b7</hash>
+          <hash piece="77">f84d78345e6fc67c59871e2a0ffc5590028617b4</hash>
+          <hash piece="78">f91afd19f4386b31b215608f1f6b32438a6ed306</hash>
+          <hash piece="79">ed55083c83b0593ca660f742fe09cb42eebade52</hash>
+          <hash piece="80">0d8246caf4c423b069c4c3357d83ba9593d395c1</hash>
+          <hash piece="81">d7c024daee333087750030c59808cc94254510fa</hash>
+          <hash piece="82">6d1995a37fd7752a87ed6783fb222173444a4032</hash>
+          <hash piece="83">57a887de582aee61596306361d82ba88b5f09518</hash>
+          <hash piece="84">5446e18b015609004afe0c36db1aa9270d1a4f39</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="us" preference="100">http://downloads.tapioneer.org/Pioneer-Explorer-1.0-Final.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

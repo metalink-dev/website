@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Inmatrix</name>
+    <url>http://www.inmatrix.com/</url>
+  </publisher>
+  <description>(Free for non-commercial use)</description>
+  <files>
+    <file name="zp451std.exe">
+      <version>4.51</version>
+      <language>en-US</language>
+      <os>Windows-x86</os>
+      <verification>
+        <hash type="md5">18399477E128664CDE67B611EBBD1B2F</hash>
+      </verification>
+      <resources>
+        <url type="http" preference="100">http://inmatrix.osnn.net/zp451std.exe</url>
+        <url type="http" preference="100">http://www.inmatrix.com/download/zp451std.exe</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

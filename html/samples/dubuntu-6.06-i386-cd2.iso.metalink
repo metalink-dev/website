@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Dubuntu</name>
+    <url>http://www.dubuntu.com/</url>
+  </publisher>
+  <description>Dubuntu is a Chinese GNU/Linux operating system based on Ubuntu. The goal of this new distribution is to provide a Linux environment focused on software development, with a nice desktop environment.</description>
+  <files>
+    <file name="dubuntu-6.06-i386-cd2.iso">
+      <version>6.06</version>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">490181cefb428162c1b80c1bea5730d7</hash>
+      </verification>
+      <resources>
+        <url type="http" location="cn" preference="100">http://ftp.ubuntu.org.cn/dubuntu/dubuntu-6.06-i386-cd2.iso</url>
+        <url type="http" preference="100">http://mirror.lupaworld.com/dubuntu/dubuntu-6.06-i386-cd2.iso</url>
+        <url type="http" location="cn" preference="100">http://www.qhang.cn/linux/download/dubuntu/dubuntu-6.06-i386-cd2.iso</url>
+        <url type="http" preference="100">http://59.33.249.110/dubuntu/dubuntu-6.06-i386-cd2.iso</url>
+		<url type="http" preference="100">ftp://dubuntu_down:dubuntu@59.33.249.110/dubuntu-6.06-i386-cd2.iso</url>
+		</resources>
+    </file>
+  </files>
+</metalink>

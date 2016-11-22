@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Boston University Linux</name>
+    <url>http://linux.bu.edu/</url>
+  </publisher>
+  <description>BU Linux is based on Fedora Core Linux, but specifically tailored for the BU environment. We've added security updates, made modifications to make software work better with the way things are set up here, and added some applications that we think you might like to have.</description>
+  <files>
+    <file name="velouria-installer.iso">
+      <version>4.5</version>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">c626e0690e52b7df25bfa4960b366834</hash>
+      </verification>
+      <resources>
+        <url type="ftp" location="us" preference="100">ftp://linst.bu.edu/velouria/i386/images/velouria-installer.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

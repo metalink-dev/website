@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.0.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Zenwalk Linux</name>
+    <url>http://www.zenwalk.org/</url>
+  </publisher>
+  <identity>Zenserver</identity>
+  <version>0.5</version>
+  <description>Zenwalk is a GNU/Linux operating system.</description>
+  <files>
+    <file name="zenserver-0.5.iso">
+      <size>276158464</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">d84650a3f4d29882c5c68138a3d81c35</hash>
+        <hash type="sha1">2098ee67970b99c19c4c0beb0f63c85fbf938215</hash>
+        <pieces type="sha1" length="4194304">
+          <hash piece="0">9f96e27d44caca161303d97e6526ff7bf61462e0</hash>
+          <hash piece="1">b27c1c5e9555523f8e68261b537af73f0b2832da</hash>
+          <hash piece="2">d97e66b582a3a8ee2cc134707854682b3fe37c85</hash>
+          <hash piece="3">76b406546a0556750cdce17358ca036c70fd9a73</hash>
+          <hash piece="4">012f28080b0a7ea6d4e0e22d60423263413a57fc</hash>
+          <hash piece="5">06582a25526f6eb09c9137bc8cdfe58ff85e3b04</hash>
+          <hash piece="6">7a29a5d52659ef2778f0676ad00ab04275dc0d1d</hash>
+          <hash piece="7">508836b0ad2c893560aab7800b64a701a20c9795</hash>
+          <hash piece="8">3473a6add90c9c8efb40bd50962cf7447d47836c</hash>
+          <hash piece="9">d0e8fdea00e7da5a3d6d4b3a588a89893c8144e8</hash>
+          <hash piece="10">f12d07f149936175f2dca8e311f783321cd09bad</hash>
+          <hash piece="11">9103b9170abc000e4ed4ed8c77679fbd82ba8338</hash>
+          <hash piece="12">d6a4c2889479fa1c9086b0e59057b4255f1553a6</hash>
+          <hash piece="13">3959378e45b2da611418be07b94f30c0e5bbf1ad</hash>
+          <hash piece="14">f696a9baaa1b120c60c1a1d3f035c7454f188435</hash>
+          <hash piece="15">25a9297daa1ae4c1e4818398d76151d37732ce0f</hash>
+          <hash piece="16">5c8beff9f99fe69a2cf196eda56d94e7ce1ca4ce</hash>
+          <hash piece="17">6d1c122452caaa7dcf4a19204d1701b1f68352aa</hash>
+          <hash piece="18">63f22d5c1be5ee540b559bd675769b5cde9a2bf5</hash>
+          <hash piece="19">38df745894c198b7c1bc8db31f9d6809161298e7</hash>
+          <hash piece="20">cc97299128e0f627d334be5843f3e21ada304525</hash>
+          <hash piece="21">7e19b43dede0d5d72e5cba081ffe1434092e3d31</hash>
+          <hash piece="22">3fb7a4c6fa56a3a4f50ad2f3e8bd9bb01ef6a122</hash>
+          <hash piece="23">f02c4dee4cd87445dcee7eb731ef0f7e96f43b9a</hash>
+          <hash piece="24">9f1347f33890475dc8b021b96f7c35c10d74295a</hash>
+          <hash piece="25">c5a819975b7b2cb92866d7edbc581f9fd97efa6e</hash>
+          <hash piece="26">230f090d7735d8fb7886032ec0ded89be9182b34</hash>
+          <hash piece="27">70b313a062bf18a5d2d9932801c617080c0a13f2</hash>
+          <hash piece="28">b3b22a86f3b1327672650778db6300252e687230</hash>
+          <hash piece="29">0c10d3a6a9a401e0889c8d20acef9de45bb5256c</hash>
+          <hash piece="30">293e93f602b9ccda9e4bebf292d9bde6d4f8f14d</hash>
+          <hash piece="31">2aa740f8005832d04826e0e87fc54f476a041252</hash>
+          <hash piece="32">f1bd7dc9ac959b1013f739b2316bc54457112601</hash>
+          <hash piece="33">88b468192c111c17fd1a1ad6b923a4dc9a6226d7</hash>
+          <hash piece="34">2f8876240ac398d1c0813f3d9ea303ca6c07fdfc</hash>
+          <hash piece="35">92e8d05d082a60e94e58dc1f298679bea9435cb9</hash>
+          <hash piece="36">1bbdcb8a4e3347be1be19089a7d8a8d7112f7722</hash>
+          <hash piece="37">49a239f6d69d5e3ff768d446c76ff2a6324afa2e</hash>
+          <hash piece="38">ebf1cc1aeb565b37497f9c67f8ab2d940353e402</hash>
+          <hash piece="39">e540c3d2ea3627148fd76aa36d75f2ad884ca555</hash>
+          <hash piece="40">fd88ae83c306a02a330d8ba5cf89a84c07973cf4</hash>
+          <hash piece="41">ce8463b6344ff51c7c68a833bd0765758e9f7dba</hash>
+          <hash piece="42">763b32030bec12f0434c8c588b83f8b15f53cc1e</hash>
+          <hash piece="43">5b5209303236e47e2d83b4905d159f1f7a34a82c</hash>
+          <hash piece="44">b9e6e7186937ad9124a3d9c640bf26a01e2d1e00</hash>
+          <hash piece="45">69809648b20791143edf08eb1748c16c0bacefd4</hash>
+          <hash piece="46">ea2143dc98a9b7373373c57f9f3991671df188b7</hash>
+          <hash piece="47">1dc95732eda187e3684aa4ff5e92e73cb13df8ba</hash>
+          <hash piece="48">187acb252910ffb66a6ae45f6b617140b4d3b6c3</hash>
+          <hash piece="49">ae029212b6c0431eef85380e72d70cc798205428</hash>
+          <hash piece="50">e0bcfefd08680fa707b9107c0b11a76478a4be41</hash>
+          <hash piece="51">aa895e1ae4bb534ba68372c4deda2774a4f8201e</hash>
+          <hash piece="52">8b281c35b31130a08a924fcdcd39ed20cdcf71bd</hash>
+          <hash piece="53">d2dbe0e333e4b058d26703b66b14f888c051f4df</hash>
+          <hash piece="54">df236f376a1a9a08ee8887f039cd7c210a388d06</hash>
+          <hash piece="55">2d608c30529564cd0883e8151d85cd56888f4510</hash>
+          <hash piece="56">618143fe1436eb12ceacd1098775b732bb40f1bd</hash>
+          <hash piece="57">153670aabe77d4828e41a0814bcf62e578e92b76</hash>
+          <hash piece="58">8687b7a1c24cfd8e4efa2a75f6b3ede2772f92d6</hash>
+          <hash piece="59">808e78234e6d2f6d1fb2649e629cfc7c7c1f0e45</hash>
+          <hash piece="60">951bb828da03f617987e66b4061e583336293dd7</hash>
+          <hash piece="61">ef9130c1828d1fa8fad74c73d16b6e15614b472f</hash>
+          <hash piece="62">cddb49e00c713da5a00fad08a6c955a32cd76539</hash>
+          <hash piece="63">a58c9a06794730b22df2af3d50e8943a3b0ea2ae</hash>
+          <hash piece="64">25bb1d89902e9520ce1de4a96a71f5b468acb32c</hash>
+          <hash piece="65">3fa110c62ac0a5a6f4bcc8a515555e39fb2c0d4f</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="pt" preference="100">http://ftp.nux.ipb.pt/pub/dists/zenwalk/zenserver/zenserver-0.5.iso</url>
+        <url type="http" preference="100">http://zenserver.meticul.eu/zenserver-0.5.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>America's Army</name>
+    <url>http://www.americasarmy.com/</url>
+  </publisher>
+  <description>America's Army 2.7</description>
+  <files>
+    <file name="AmericasArmy270_Generic.exe">
+      <version>2.7</version>
+      <resources>
+        <url type="ftp" location="de" preference="100">ftp://datenschleuder.4players.de/AmericasArmy270_Generic.exe</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.4players.de/pub/pc/americasarmy/americasarmy270_generic.exe</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.free.fr/.mirrors4/AmericasArmy/Windows_v2.70/americasarmy270_generic.exe</url>
+        <url type="ftp" location="se" preference="100">ftp://ftp.fz.se/pub/spel/americas_army/americasarmy270_generic.exe</url>
+        <url type="ftp" preference="100">ftp://ftp.oldbloodandguts.com/pub/AmericasArmy270_Generic.exe</url>
+        <url type="http" preference="100">http://download.gannett.edgesuite.net/atpco/americasarmy/americasarmy270_generic.exe</url>
+        <url type="http" preference="100">http://downloads.playwhat.com/files/usarmyp/usarmyd/americasarmy/Demos/AmericasArmy270_Generic.exe</url>
+        <url type="http" location="nz" preference="100">http://files1.games.xtra.co.nz/pub/downloads/1158306836/AmericasArmy270_Generic.exe</url>
+        <url type="http" location="nz" preference="100">http://files1.games.xtra.co.nz/pub/downloads/1158461222/AmericasArmy270_Generic.exe</url>
+        <url type="http" location="de" preference="100">http://ftp.freenet.de/pub/4players/hosted/americasarmy/AAO_Full/AmericasArmy270_Generic.exe</url>
+        <url type="http" location="au" preference="100">http://mirror.vic.egn.com.au/americasarmy/AmericasArmy270_Generic.exe</url>
+        <url type="http" location="au" preference="100">http://mirror.wa.egn.com.au/americasarmy/AmericasArmy270_Generic.exe</url>
+        <url type="http" preference="100">http://win.johnslades.com/download/aa/AmericasArmy270_Generic.exe</url>
+        <url type="http" location="it" preference="100">http://win.spinfo.it/iso/AmericasArmy270_Generic.exe</url>
+        <url type="http" location="cz" preference="100">http://www.gamepark.cz/download/AA/americasarmy270_generic.exe</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

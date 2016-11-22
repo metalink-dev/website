@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+
+<!--
+	Metalink, an Open Standard, makes downloading easier by
+	bundling the various ways (FTP/HTTP/P2P) to get files into
+	one format for easier downloads, as well as bundling
+	checksums to automatically verify completed downloads.
+	
+	Currently the following applications support this file:
+
+    - aria2 (Linux) [ http://aria2.sourceforge.net/ ]
+	- GetRight 6 (Windows) [ http://www.getright.com/ ]
+	        
+	For further information please visit http://www.metalinker.org/
+-->
+
+  <publisher>
+    <name>Microsoft</name>
+    <url>http://www.microsoft.com</url>
+  </publisher>
+  <copyright>2006</copyright>
+  <description>Windows Vista Beta 2 (x86)</description>
+  <files>
+    <file name="vista_5384.4.060518-1455_winmain_beta2_x86fre_client-LB2CFRE_EN_DVD.iso">
+      <language>en-US</language>
+      <os>Windows-x86</os>
+      <verification>
+        <hash type="md5">4B6641731977D390838B24A0C300D1C6</hash>
+      </verification>
+      <resources>
+        <url type="http" location="us" preference="100">http://download.windowsvista.com/dl/preview/beta2/en/x86/iso/vista_5384.4.060518-1455_winmain_beta2_x86fre_client-LB2CFRE_EN_DVD.iso</url>
+        <url type="http" location="us" preference="100">http://download.windowsvista.com/preview/beta2/en/x86/iso/vista_5384.4.060518-1455_winmain_beta2_x86fre_client-LB2CFRE_EN_DVD.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

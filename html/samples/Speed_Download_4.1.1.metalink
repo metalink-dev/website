@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>YAZSOFT</name>
+    <url>http://www.yazsoft.com/</url>
+  </publisher>
+  <copyright>2006</copyright>
+  <description>Speed Download 4 marks the next generation of powerful and reliable, time-saving download managers. Faster and more secure, more features, easier to use and sporting a new look, this latest Speed Download release sets a new standard for download manager innovation, and is designed to be your central, unified hub for almost all the downloading and file transfer activities you do online.</description>
+  <files>
+    <file name="sd411.zip">
+      <version>4.1.1</version>
+      <os>MacOSX-UB</os>
+      <size></size>
+      <verification>
+        <hash type="md5">046ca7a0897fcb58039a92467a108eae</hash>
+      </verification>
+      <resources>
+        <url type="http" preference="100">http://ftp.frontiernet.net/~NSCocoa/sd411.zip</url>
+        <url type="http" preference="100">http://users.zoominternet.net/~jonnyz55/Speed_Download/sd411.zip</url>
+        <url type="http" preference="100">http://yazsoft.com/files/sd4/sd411.zip</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

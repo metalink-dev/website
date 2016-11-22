@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.2.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <url>http://moblin.org/</url>
+  </publisher>
+  <identity>Moblin</identity>
+  <version>alpha1</version>
+  <description>Moblin is an open source project focused on building a Linux-based platform optimized for the next generation of mobile devices including Netbooks, Mobile Internet Devices, and In-vehicle infotainment systems.</description>
+  <files>
+    <file name="moblin-netbook-core-alpha1-vmware.tar.bz2">
+      <size>240117398</size>
+      <verification>
+        <hash type="md5">094110efa51240dafc8cd4fc01f3ae66</hash>
+        <hash type="sha1">bbaf1e81bf16e62ede88187e520eb6ad52c7d108</hash>
+        <hash type="sha256">96ccf01104a5b6839b3ef210246cef9b2a659708de123eeb9d14b6964452823a</hash>
+        <pieces type="sha1" length="4194304">
+          <hash piece="0">32827acbe44c0d152157b17961389f50e451d59b</hash>
+          <hash piece="1">96540e68288c24964704d56bd3392f707b4fc23c</hash>
+          <hash piece="2">45f3eaec27779ee494b09de5c095b84fa44e06ef</hash>
+          <hash piece="3">499709453e91c5e400731ca4e6adb4dcfbd477d4</hash>
+          <hash piece="4">5e3193fe8f9334d62b907a78c0efff74df36e744</hash>
+          <hash piece="5">12a2f3e9181b9cf0ab8bcb783feabca9d8fe6423</hash>
+          <hash piece="6">525243a242e7d596715a9077d52ca3ccca94a7a2</hash>
+          <hash piece="7">808c28d3ac3f35f2db4f592d6f40bd347f1d8b48</hash>
+          <hash piece="8">8b6c452b46aea502230233e7ae9bdfc694ad8a5b</hash>
+          <hash piece="9">2171f09d5f3828d23a038bfe6f4a0484484d9e81</hash>
+          <hash piece="10">780c061deba476a24ac36eb672bebbb311289b19</hash>
+          <hash piece="11">38c31ceca95890ef99595a7c1e85e1bd7ce4d0c5</hash>
+          <hash piece="12">a88cc5836461756d806629c07f961b568c34ce3d</hash>
+          <hash piece="13">2deab35c7923dc5ede0fdd01ea1875032c96a43e</hash>
+          <hash piece="14">6575bda588206c4cba2317588df87c0ba1f14a8c</hash>
+          <hash piece="15">ee7b9ece399314b46c87b3fa118687014b8a9d1b</hash>
+          <hash piece="16">1130e0ab0c0e9340e3a26f4a0157d8031461253a</hash>
+          <hash piece="17">4bc06fc3653a218a8548639e578356b332ec7d94</hash>
+          <hash piece="18">fb9b6845cb34e48b61315ecd7a58dc55a6de0b16</hash>
+          <hash piece="19">e8e98019eeee4f84f8e8b9dad5e4c015d22db129</hash>
+          <hash piece="20">5e5e20611875917fea2b62f95c2c6f3d830d6313</hash>
+          <hash piece="21">e14550ed2e23951a6db235ebe729234e57b45e60</hash>
+          <hash piece="22">b9f3b547dd1fd4bc6e2c0e4ad997f4bf2221b274</hash>
+          <hash piece="23">e32f348a5da4e6138986f8228345e6f88d0de926</hash>
+          <hash piece="24">66ed9a9bc9111a247c2a00b08f1bcdfaa8c1aadf</hash>
+          <hash piece="25">d25e32f47c30cccdd716a42d9603f2fcca827d9b</hash>
+          <hash piece="26">ba92f61b381f6945bab423e2c7a8e0837fc07b7c</hash>
+          <hash piece="27">712cf61473d5fa4ee00a3c2afd3b64c22c700aa1</hash>
+          <hash piece="28">807188436a436c05f7f43999286f221bae1ba159</hash>
+          <hash piece="29">895b7427bb733840285c43ad8d61f6624e916ae3</hash>
+          <hash piece="30">ac430ae00d1332f3e364c89672c0014416ac01eb</hash>
+          <hash piece="31">5830ecbbb482c5766cc1d9a44dcdfc47cee95c09</hash>
+          <hash piece="32">30d1d46fdbbd3c437860117ac01a2c9611104105</hash>
+          <hash piece="33">f5e16d9ff1453c508f3f504b85b55b0345df0396</hash>
+          <hash piece="34">f03b7e87a9c2fdfc97169156b3c6f8374d528fbb</hash>
+          <hash piece="35">80777db2ea19bfd1f94869d040f5a6d779bd5189</hash>
+          <hash piece="36">d31a16770da2d4887f64e7fe198372e77cdaaf93</hash>
+          <hash piece="37">7403d44f34b11b4f5f1185b2db9d3714b7c301d7</hash>
+          <hash piece="38">e8bfe0ff6a41595f93bb33a9189799bf8fadd172</hash>
+          <hash piece="39">ce2a1c6ec83d6867cb7d7dbb3112f29f1a706a6e</hash>
+          <hash piece="40">4a2d69c68505ba19ec28d02103407f27df7ddd0c</hash>
+          <hash piece="41">89d31d7a8ea2266e8c39745612ec766e75d8f40c</hash>
+          <hash piece="42">df26a3b9c72021491a5d52158a6ba4c61af227aa</hash>
+          <hash piece="43">b25ee6dd9bd008d98d9db6e8aea8977d74cc0c43</hash>
+          <hash piece="44">28d3d70ca95b4f5fd0fb2ccd2fe6049dab963b6e</hash>
+          <hash piece="45">6d13973b511dfc06c8e0fff017967eb52166e589</hash>
+          <hash piece="46">9e428366eac1cd49a029d50d58cb9eb09b47d7fe</hash>
+          <hash piece="47">b381487fb7fe7c77828ac308e5e0d7610a77aa5a</hash>
+          <hash piece="48">39ab3a4bdd8068486e43b5d75ea17c919fd8de0e</hash>
+          <hash piece="49">908b787c14971a9e866e1b1797488ddad0c8b65c</hash>
+          <hash piece="50">2b33638fab91e002e60610116a87e8a5ea8aac9f</hash>
+          <hash piece="51">a6d88c7a7b773f547f95d1dd2e72e455eff06d2c</hash>
+          <hash piece="52">6ca232bbd399bd9506dbec86de397eb6308e8027</hash>
+          <hash piece="53">7aefffb81493135966bab30d568a5451c16ba8a9</hash>
+          <hash piece="54">dcd3dfec25ba0348224e379baf4946f27be0bbfe</hash>
+          <hash piece="55">b8f2d9bd79fd4739d47f8e7d4c0a243f92b3848f</hash>
+          <hash piece="56">0a52961acbb176ad44668da57e7fe3a02f3541a6</hash>
+          <hash piece="57">6b2935dae61fdaee5479afdd1ff31810e54dc29d</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http">http://repo.moblin.org/moblin/releases/test/alpha1/images/moblin-netbook-core-alpha1-vmware.tar.bz2</url>
+        <url type="ed2k">ed2k://|file|moblin-netbook-core-alpha1-vmware.tar.bz2|240117398|eea23b2edee77c0d52e1095f78bb081f|/</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0"
+  xmlns="http://www.metalinker.org/"
+  generator="http://metalinks.sourceforge.net/"
+  >
+<files>
+	<file name="pessulus-2.16.1.tar.bz2">
+		<verification>
+			<hash type="md5">884031b0ec1d1e6c15c3fd8f110541bb</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/admin/2.16/2.16.1/sources/pessulus-2.16.1.tar.bz2</url>
+		</resources>
+	</file>
+	<file name="sabayon-2.12.4.tar.bz2">
+		<verification>
+			<hash type="md5">2d7234d88f14c398deff050af609aab5</hash>
+		</verification>
+		<resources>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/Gnome/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url type="http">http://ftp.rpmfind.net/linux/gnome.org/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url location="us" type="ftp">ftp://ftp.ussg.iu.edu/pub/gnome/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url type="http">http://mirror.clarkson.edu/pub/gnome/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url location="au" type="http">http://planetmirror.com/pub/gnome/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url location="au" type="http">http://mirror.aarnet.edu.au/pub/GNOME/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/linux/GNOME/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url type="http">http://www.download-ftp-center.com/mirrors/gnome.org/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/linux/GNOME/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url location="fr" type="http">http://fr.rpmfind.net/linux/gnome.org/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url location="fr" type="http">http://fr2.rpmfind.net/linux/gnome.org/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url location="se" type="http">http://ftp.acc.umu.se/pub/GNOME/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url location="be" type="http">http://ftp.belnet.be/mirror/ftp.gnome.org/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url location="se" type="ftp">ftp://ftp.dataplus.se/pub/GNOME/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url location="es" type="ftp">ftp://ftp.dit.upm.es/pub/GNOME/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url location="uk" type="http">http://ftp.linux.org.uk/mirrors/ftp.gnome.org/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url location="no" type="ftp">ftp://ftp.no.gnome.org/pub/GNOME/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url location="uk" type="http">http://www.mirror.ac.uk/sites/ftp.gnome.org/pub/GNOME/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url location="tw" type="ftp">ftp://ftp.isu.edu.tw/pub/Unix/Desktop/GNOME/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url type="http">http://www.zentek-international.com/mirrors/gnome/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/X11/GNOME/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/X11/GNOME/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+			<url location="jp" type="rsync">rsync://ftp.nara.wide.ad.jp/gnome/admin/2.16/2.16.1/sources/sabayon-2.12.4.tar.bz2</url>
+		</resources>
+	</file>
+</files>
+</metalink>

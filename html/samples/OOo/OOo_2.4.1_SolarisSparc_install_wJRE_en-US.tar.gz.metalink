@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <identity>OpenOffice.org</identity>
+  <version>2.4.1</version>
+  <files>
+    <file name="OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz">
+      <size>192986535</size>
+      <os>Solaris-SPARC</os>
+      <verification>
+        <hash type="md5">4e9c4846241b7c3cc5d57d7996eadcee</hash>
+        <hash type="sha1">41e746d7ec429c268670b02ea91472b6a8fad189</hash>
+        <hash type="sha256">ac477728b201fe9aaa48a05770fa9c54d0ea59b4a9567f0a753f1f5adebaf921</hash>
+        <pieces type="sha1" length="2097152">
+          <hash piece="0">28ddda20c6684fed1023c28f162fc4ba57bc25b3</hash>
+          <hash piece="1">59735ca3e9e6a313cc2792de636d093e3c5b5e30</hash>
+          <hash piece="2">d57a8b90f2536d3378b8814301f5f434c9f52afe</hash>
+          <hash piece="3">f889adf42a7f4765c4a9a3a39179879357fe7d99</hash>
+          <hash piece="4">41c9a460b8426683ec3408b6e723fac78be95345</hash>
+          <hash piece="5">b087d7b5941ec26fec4b949229cfe862a35b33fb</hash>
+          <hash piece="6">7650dec7f4574e0ea455df00b31d8dea923b4df3</hash>
+          <hash piece="7">cb4882c4d5540e99df47ec8ec4cf7d619b19109f</hash>
+          <hash piece="8">cca2bcd36a8853f24437ced9817971c71b2fa67e</hash>
+          <hash piece="9">6f28c6aa35b80b33a780f1567496c2ba742e867b</hash>
+          <hash piece="10">7f8e6120b680e13161f5ccef2516c11cfc73f003</hash>
+          <hash piece="11">61e15e26f262573bd3413bd9bfd869df84f0cdff</hash>
+          <hash piece="12">9b543be3e371a81e8cc4a108a7c2f47a57f3d23b</hash>
+          <hash piece="13">fd51d33680314b3a44f138cd99c34ce7ec9b8c59</hash>
+          <hash piece="14">786de1baba06e88ad99bbe09ed2e077534ff0956</hash>
+          <hash piece="15">45184be867366b218552d382fc7e78e425c9902c</hash>
+          <hash piece="16">b13b05d39520f495f808dea5120bd8ec1bfcb75e</hash>
+          <hash piece="17">1846aa64f53bd794e6e558c3a3b73ebe8d5e721d</hash>
+          <hash piece="18">417c62ad8f5f453cc9396c73f6ffddb2ca46fda8</hash>
+          <hash piece="19">712cf75c93eb909221b693a591d3d48ee24e93f8</hash>
+          <hash piece="20">87c8aa411b0bb2d612fd2805e5b9c7942275e219</hash>
+          <hash piece="21">e2c2d04c53395d58f13a97090acb13776fd07566</hash>
+          <hash piece="22">5f0b6d8805a63c2baeebf8a6978a516b0d76a130</hash>
+          <hash piece="23">fc547672766afe775be0ee38dbbc03b06a0ed434</hash>
+          <hash piece="24">e784bb2a32158b9e12cf5a23e65cd1e750980e8f</hash>
+          <hash piece="25">33f4492afb156f9e792b12b2916b6a5cef2ec28c</hash>
+          <hash piece="26">ad574dadeaa4ae0dfe2e4b178499ef929b54eb85</hash>
+          <hash piece="27">1801f878ce08bbb67eced8033d7bc768a861ef4c</hash>
+          <hash piece="28">b09611b83fba0ac6563fbc8ac079e2a9c285c492</hash>
+          <hash piece="29">47054e82ef4425dd0d014a92d6376d396ff15262</hash>
+          <hash piece="30">71dedcfcd95cafe95c4cd4a7860897dab6d3a8f6</hash>
+          <hash piece="31">4667a813a51ff999be3a8fc6731101d15557dded</hash>
+          <hash piece="32">9716cf4b2c5a7f490ab95672a4d8c63c905ad29e</hash>
+          <hash piece="33">1f1dd22c75b288b8f58ffb1dce1e533dddc2cbe7</hash>
+          <hash piece="34">d42fd4497607878224950b9052f9b1b6d80eb56e</hash>
+          <hash piece="35">5a0ffd51e8196da6d8295d26455b577cdf20d9b9</hash>
+          <hash piece="36">964dec3dcb78488e80ce66e936889ae2381c95ce</hash>
+          <hash piece="37">63fa0168bb0a49dd4ac0382f81beafba68051d53</hash>
+          <hash piece="38">e682c000f0c14144696f14499750f2ed0dc291b1</hash>
+          <hash piece="39">5903cc6993da44200f789bf5a68412d803bbaab0</hash>
+          <hash piece="40">561f527da0738dee00097227ca5d8083690802c3</hash>
+          <hash piece="41">6e0037f6a53f3eebaf23b043e81f41ae811ef17d</hash>
+          <hash piece="42">0f7f7cc4c0e840ebd0dd4f51b8c523b495b0df09</hash>
+          <hash piece="43">235f8f4678ac17297e1d150b45ffbf04a2ae8d28</hash>
+          <hash piece="44">44dc8a2fad303e0909bf49a4cbdadfea033313f1</hash>
+          <hash piece="45">6df49bfe57cc61c0c65354a2641a6685e37010ec</hash>
+          <hash piece="46">5b201d3831a17df6470fd62a9aa02694613e29fc</hash>
+          <hash piece="47">c4482cc2d34c1310771f3ca30700e7a187302ad5</hash>
+          <hash piece="48">d2e634bac6ea2684062196fb2d7d53eccfa14777</hash>
+          <hash piece="49">ace7c41a25d353093e3a7960bec7245f2b95779e</hash>
+          <hash piece="50">536a943382000ec281cff385894394214632ef51</hash>
+          <hash piece="51">2209990dfd037a0720b4404734975241adb2b70d</hash>
+          <hash piece="52">ddc56a75cffca62f732fd1035bbf3fd693cc2dc6</hash>
+          <hash piece="53">6999f133134f7468107cb4f09ca869306e2121ff</hash>
+          <hash piece="54">ed91ab57845390c3656aaf64541b381d38722991</hash>
+          <hash piece="55">0024c50fee1d8a963208df6445400aefacd15e23</hash>
+          <hash piece="56">ed7ef15424c746391f0e18c830e7e1df3c796902</hash>
+          <hash piece="57">6e485ead0dfc1d3e8faae7e6e9bdb482d7dacf77</hash>
+          <hash piece="58">5917fdc9e558c7ba79f0523d20111810b1a72496</hash>
+          <hash piece="59">9b66c081931c2d91d9983d63821d8762b65f4e6e</hash>
+          <hash piece="60">df71e22054d593df3f2cda63b097187b6055b349</hash>
+          <hash piece="61">946f2975f12c1e296b956983f1a89c585d70287f</hash>
+          <hash piece="62">feae25ced23f1aab850c8d92b0960c052d244a83</hash>
+          <hash piece="63">eecc17bc3b743634234a9a2e629053142e8225a3</hash>
+          <hash piece="64">decedafee7bf3092f535f975953d134dca885099</hash>
+          <hash piece="65">7067e31b9a3115e9c4f9fef85d51a5a873ccd1ad</hash>
+          <hash piece="66">fb03f468c7dc11d7db93e2524aad402d88d2d25d</hash>
+          <hash piece="67">ae56403fbb5044bcd232b46fd4a0bca4ce71db4d</hash>
+          <hash piece="68">323e4c81987e8c15e8b250c466c52d26ac0ee673</hash>
+          <hash piece="69">1d1b43665e60da86f9e3e1f5e28749128027b534</hash>
+          <hash piece="70">9eeec2cbcee8c4c3773e0a2410ccbaade4c072c9</hash>
+          <hash piece="71">a7b769205d66870ca7a446de0bfeef1acc0afe72</hash>
+          <hash piece="72">6f4aa4bfa7c266999b69699802018bde7e212d2f</hash>
+          <hash piece="73">fbbfd3f333c6bfa2332a119d8e88b73d6ea7d01b</hash>
+          <hash piece="74">fb6b6c3cec3bb4a74c81e30bb6b36904b8ce594f</hash>
+          <hash piece="75">1bbafb8f8db68cc3f4cc3543ba9b68d393b69b1e</hash>
+          <hash piece="76">b22405e9cd4adb8d8b1c1bc72026f9f6160f74d5</hash>
+          <hash piece="77">ec4b73d9d4e0421a1910e4958acb1c9f0ddb3ab2</hash>
+          <hash piece="78">2bd4cf6b1f5794f37ab78a9c326d619813353bf0</hash>
+          <hash piece="79">d2e5b58d54a517bc13e62c2bf7457d192e32ff5c</hash>
+          <hash piece="80">1007d4afcb8e04dc43ccd1c49b6b1f2c8b66767d</hash>
+          <hash piece="81">62f847f73494d00ba5733757659e5cac7c3b92a0</hash>
+          <hash piece="82">2e6369a9d58c8e99fbed135e83348dcbcce58e04</hash>
+          <hash piece="83">981aa8becb850dd5e2b820e9e5593e7c97d24498</hash>
+          <hash piece="84">d2893bd276e0b6148b04b50ac7934f4ce3a67914</hash>
+          <hash piece="85">5ddc52ee7647ef27bd4ca3e74de7789173b8c057</hash>
+          <hash piece="86">b09ea19d5b62b998a96e2aef57e6714b352b03a1</hash>
+          <hash piece="87">cddd5838ac163caf5403733978f01ba56848ef51</hash>
+          <hash piece="88">db915f65ee9dfa78c0f9f18b3120fa817b86ab39</hash>
+          <hash piece="89">c4c81d8fa931a22b788652308afaa236b32475eb</hash>
+          <hash piece="90">3d6a69ee24be2f63750a05d3bfc071fab68f7167</hash>
+          <hash piece="91">9b235f02c50f1abd156627746e0a6bb3c3b62edf</hash>
+          <hash piece="92">4fe51a2a449c81a1f72b125922007629d5c9ceda</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="au" preference="30">ftp://mirror.pacific.net.au/OpenOffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="au" preference="30">http://mirror.pacific.net.au/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="au" preference="30">ftp://ftp.planetmirror.com/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="au" preference="30">http://planetmirror.com/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="at" preference="30">http://gd.tuwien.ac.at/office/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="at" preference="30">ftp://gd.tuwien.ac.at/office/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="be" preference="30">ftp://ftp.scarlet.be/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="be" preference="30">http://ftp.scarlet.be/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="rsync" location="be" preference="30">rsync://ftp.scarlet.be/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="be" preference="30">ftp://ftp.openoffice.skynet.be/pub/ftp.openoffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="br" preference="30">http://linorg.usp.br/OpenOffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="br" preference="20">ftp://ftp.pucpr.br/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="bg" preference="30">ftp://ftp.spnet.net/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="bg" preference="30">http://ftp.spnet.net/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="ca" preference="30">ftp://openoffice.mirror.rafal.ca/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="ca" preference="30">http://openoffice.mirror.rafal.ca/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="ca" preference="30">http://gulus.usherbrooke.ca/pub/appl/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="dk" preference="30">http://mirrors.dotsrc.org/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="dk" preference="30">ftp://mirrors.dotsrc.org/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="fr" preference="30">ftp://ftp.free.fr/mirrors/ftp.openoffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="fr" preference="20">ftp://openoffice.cict.fr/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="de" preference="20">ftp://ftp://ftp.tu-chemnitz.de/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="de" preference="30">ftp://ftp://ftp.gwdg.de/pub/misc/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="de" preference="30">http://http://ftp.gwdg.de/pub/misc/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="de" preference="30">ftp://sunsite.informatik.rwth-aachen.de/pub/mirror/OpenOffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="de" preference="30">ftp://ftp://ftp.uni-muenster.de/pub/software/OpenOffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="de" preference="30">http://ftp.rz.tu-bs.de/pub/mirror/OpenOffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="de" preference="30">ftp://ftp.rz.tu-bs.de/pub/mirror/OpenOffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="de" preference="20">ftp://ftp://ftp-stud.fht-esslingen.de/pub/tbl_mirrors/ftp.openoffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="de" preference="20">ftp://ftp://ftp.stardiv.de/pub/OpenOffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="de" preference="20">http://http://ftp.stardiv.de/pub/OpenOffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="de" preference="20">http://mirror.xaranet.de/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="gr" preference="30">http://www.ellak.gr/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="gr" preference="30">http://ftp.ntua.gr/pub/OpenOffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="gr" preference="30">ftp://ftp.ntua.gr/pub/OpenOffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="hu" preference="20">http://ftp.fsf.hu/OpenOffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="hu" preference="20">ftp://ftp.fsf.hu/OpenOffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="id" preference="20">http://openoffice.ugm.ac.id/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="ie" preference="30">ftp://ftp.heanet.ie/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="ie" preference="30">http://ftp.heanet.ie/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="rsync" location="ie" preference="30">rsync://ftp.heanet.ie/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="jp" preference="30">http://http://www.ring.gr.jp/archives/misc/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="jp" preference="30">ftp://ftp://ftp.ring.gr.jp/pub/misc/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="jp" preference="30">http://ftp.yz.yamagata-u.ac.jp/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="jp" preference="30">ftp://ftp.yz.yamagata-u.ac.jp/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="my" preference="20">http://mymirror.asiaosc.org/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="nl" preference="30">ftp://ftp.nluug.nl/pub/office/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="nl" preference="30">http://ftp.nluug.nl/pub/office/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="nl" preference="30">ftp://ftp.snt.utwente.nl/pub/software/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="nl" preference="30">http://vlaai.snt.utwente.nl/pub/software/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="pl" preference="30">ftp://ftp.man.poznan.pl/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="pl" preference="30">ftp://ftp://ftp.openoffice.pl/OpenOffice.ORG/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="pl" preference="30">http://ftp.tpnet.pl/vol/d9/OpenOffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="pl" preference="30">ftp://ftp.tpnet.pl/d9/OpenOffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="pt" preference="20">ftp://neacm.fe.up.pt/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="pt" preference="20">http://neacm.fe.up.pt/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="ro" preference="30">ftp://mirrors.evolva.ro/openoffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="ro" preference="30">ftp://ftp.iasi.roedu.net/pub/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="ro" preference="20">http://ftp.iasi.roedu.net/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="ro" preference="20">ftp://ftp.idilis.ro/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="ro" preference="20">http://ftp.idilis.ro/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="ru" preference="30">ftp://ftp.chg.ru/pub/OpenOffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="ru" preference="30">http://ftp.chg.ru/pub/OpenOffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" preference="20">ftp://mirror.etf.bg.ac.yu/openoffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" preference="20">http://mirror.etf.bg.ac.yu/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="sg" preference="20">ftp://mirror.averse.net/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="sg" preference="20">http://mirror.averse.net/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="si" preference="10">ftp://ftp.bevc.net/mirrors/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="si" preference="10">http://mirrors.bevc.net/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="si" preference="20">http://www.wsection.com/OpenOffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="za" preference="10">ftp://ftp://ftp.is.co.za/mirrors/OpenOffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="kr" preference="30">ftp://ftp://ftp.kr.freebsd.org/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="es" preference="30">http://sunsite.rediris.es/mirror/openoffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="es" preference="30">ftp://ftp.rediris.es/mirror/openoffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="se" preference="30">ftp://http://ftp.sunet.se/pub/Office/OpenOffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="ch" preference="30">ftp://ftp.solnet.ch/mirror/OpenOffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="ch" preference="30">http://mirror.switch.ch/ftp/mirror/OpenOffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="ch" preference="30">ftp://mirror.switch.ch/mirror/OpenOffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="tw" preference="30">ftp://ftp.isu.edu.tw/pub/OpenOffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="tw" preference="30">http://ftp.isu.edu.tw/pub/OpenOffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="gb" preference="30">ftp://ftp.mirrorservice.org/sites/ny1.mirror.openoffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="gb" preference="30">http://www.mirrorservice.org/sites/ny1.mirror.openoffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="gb" preference="30">ftp://mirrors.blueyonder.co.uk/sites/openoffice.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="gb" preference="30">http://openoffice.blueyonder.co.uk/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="gb" preference="30">ftp://ftp.mirror.ac.uk/mirror/sunsite.dk/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="gb" preference="30">http://www.mirror.ac.uk/mirror/sunsite.dk/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="us" preference="30">ftp://ftp.ussg.iu.edu/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="us" preference="30">ftp://openofficeorg.secsup.org/pub/software/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="us" preference="30">http://openofficeorg.secsup.org/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="us" preference="30">ftp://ftp.osuosl.org/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="us" preference="30">http://ftp.osuosl.org/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="us" preference="30">http://mirrors.ibiblio.org/pub/mirrors/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="us" preference="30">ftp://mirrors.ibiblio.org/pub/mirrors/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="us" preference="30">http://mirrors.isc.org/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="us" preference="30">ftp://openoffice.mirrors.pair.com/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="us" preference="30">http://openoffice.mirrors.pair.com/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="us" preference="30">http://openoffice.takiweb.com/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="ftp" location="us" preference="30">ftp://openoffice.mirrors.tds.net/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="us" preference="30">http://openoffice.mirrors.tds.net/pub/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+        <url type="http" location="us" preference="10">http://mirrors.wehost4u.net/openoffice/stable/2.4.1/OOo_2.4.1_SolarisSparc_install_wJRE_en-US.tar.gz</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

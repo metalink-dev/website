@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/"
+  type="static" pubdate="2006-08-30-00:46:00"
+  generator="Metalink Gen - http://metalink.packages.ro" 
+  refreshdate="2006-08-30-00:46:00">
+
+  <publisher>
+    <name>Package resources</name>
+    <url>http://www.packages.ro</url>
+  </publisher>
+  <license>
+    <name>GPL</name>
+    <url>http://www.gnu.org/copyleft/gpl.html</url>
+  </license>    
+  <description>Xubuntu Linux CD</description>
+  <tags>xubuntu,linux,releases</tags>
+  <identity>Xubuntu</identity>
+  <version>6.06.1</version>
+
+  <files>  
+   <file name="xubuntu-6.06.1-desktop-powerpc.iso">
+    
+     <os>Linux-PPC</os>
+    
+    <verification>
+     <hash type="md5">ac07d20b3190e7370e3fe4307df548bf</hash>
+    </verification>
+    <resources>
+      
+      <url type="http"
+           location="us"
+           preference="10">
+       http://cdimage.ubuntu.com/xubuntu/releases/6.06.1/release.1/xubuntu-6.06.1-desktop-powerpc.iso
+      </url>
+      <url type="http"
+           location="se"
+           preference="10">
+       http://se.archive.ubuntu.com/mirror/cdimage.ubuntu.com/xubuntu/releases/6.06.1/release.1/xubuntu-6.06.1-desktop-powerpc.iso
+      </url>
+      <url type="http"
+           location="fr"
+           preference="10">
+       http://fr.releases.ubuntu.com/xubuntu/6.06.1/release.1/xubuntu-6.06.1-desktop-powerpc.iso
+      </url>
+      <url type="ftp"
+           location="hu"
+           preference="10">
+       http://xubuntu.elasztik.hu/dapper/xubuntu-6.06-desktop-powerpc.iso
+      </url>
+      <url type="http"
+           location="nl"
+           preference="10">
+       http://nl.archive.ubuntu.com/ubuntu-cdimage-xubuntu/releases/6.06.1/release/xubuntu-6.06-desktop-powerpc.iso
+      </url>      
+    </resources>
+   </file>
+  </files> 
+</metalink>

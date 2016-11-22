@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>MEPIS</name>
+    <url>http://www.mepis.org/</url>
+  </publisher>
+  <description>MEPIS Linux 6.0 ISO</description>
+  <files>
+    <file name="SimplyMEPIS_6.0_i386.iso">
+      <version>6.0</version>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">f53d134974db0d24aa97925e3707ab4c</hash>
+      </verification>
+      <resources>
+        <url type="ftp" location="be" preference="100">ftp://ftp.belnet.be/linux/mepis/released/SimplyMEPIS_6.0_i386.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.cise.ufl.edu/pub/mirrors/mepis/released/SimplyMEPIS_6.0_i386.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.ibiblio.org/pub/linux/distributions/mepis/released/SimplyMEPIS_6.0_i386.iso</url>
+        <url type="ftp" location="nl" preference="100">ftp://ftp.nluug.nl/pub/metalab/distributions/mepis/released/SimplyMEPIS_6.0_i386.iso</url>
+        <url type="ftp" location="cz" preference="100">ftp://ftp.sh.cvut.cz/MIRRORS/mepis/released/SimplyMEPIS_6.0_i386.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.wustl.edu/pub/linux/distributions/mepis/SimplyMEPIS_6.0_i386.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp-linux.cc.gatech.edu/pub/linux/distributions/mepis/released/SimplyMEPIS_6.0_i386.iso</url>
+        <url type="ftp" location="at" preference="100">ftp://gd.tuwien.ac.at/opsys/linux/mepis/released/SimplyMEPIS_6.0_i386.iso</url>
+        <url type="http" location="cz" preference="100">http://ftp.sh.cvut.cz/MIRRORS/mepis/released/SimplyMEPIS_6.0_i386.iso</url>
+        <url type="http" location="us" preference="100">http://ftp.wustl.edu/pub/linux/distributions/mepis/SimplyMEPIS_6.0_i386.iso</url>
+        <url type="http" location="at" preference="100">http://gd.tuwien.ac.at/opsys/linux/mepis/released/SimplyMEPIS_6.0_i386.iso</url>
+        <url type="http" location="us" preference="100">http://mirror.cs.vt.edu/pub/MEPIS/SimplyMEPIS_6.0_i386.iso</url>
+        <url type="http" preference="100">http://www.debianworld.net/pub/mirror/mepis/released/SimplyMEPIS_6.0_i386.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

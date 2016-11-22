@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 0.4.1" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Nexenta</name>
+    <url>http://www.gnusolaris.org/gswiki</url>
+  </publisher>
+  <version>alpha7</version>
+  <description>NexentaOS is a complete GNU-based open source operating system built on top of the OpenSolaris kernel and runtime.</description>
+  <files>
+    <file name="elatte_installcd_alpha7_i386.zip">
+      <size>675353979</size>
+      <os>OpenSolaris</os>
+      <verification>
+        <hash type="md5">f598f8ffd676c091ae170d27cfcc620a</hash>
+        <hash type="sha1">9d81e8a294aa01ee974554edbeb5092523e903fe</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">addbf073d30db675e6645ffec9b9f64c9185beeb</hash>
+          <hash piece="1">83f363e787e2602aa77106ada779b986da31a922</hash>
+          <hash piece="2">2a22574598f092058a8529dc1338621c341fe509</hash>
+          <hash piece="3">84f05e745ce7d00531067bae61b2ab6bf4ef693c</hash>
+          <hash piece="4">687f14536952df5ff7043e216486fa540a18a848</hash>
+          <hash piece="5">3360001e448e25188f0e6b3088a5c79aab0eb85d</hash>
+          <hash piece="6">93b84c2cad6505b99a821cac7ecafd7ef2147b5f</hash>
+          <hash piece="7">3ad2a0d15b5a164ff3abe5858ca6ea71441e9f5c</hash>
+          <hash piece="8">b4c9d1a748f4a1ce5ddd7999c3093f3dbd1eed58</hash>
+          <hash piece="9">dd611af93d17070130098894700ba37f9dd2946a</hash>
+          <hash piece="10">30a05b6e2760facd40e0eac5e3d172c27ab0b4c4</hash>
+          <hash piece="11">f6310a388f5abf12d9189d4db1629879bfade369</hash>
+          <hash piece="12">6e62b50a98ff648cb7b654e0b45790bc28041cd2</hash>
+          <hash piece="13">51512b8ffbfe0531d00e2bb818890a328ed1b276</hash>
+          <hash piece="14">5509ee29719eea28b44f25edee18e4d772ad419d</hash>
+          <hash piece="15">5a416b5d4953e282de91d4c653bf31c683500c11</hash>
+          <hash piece="16">6d67244b47bf8f7596be6fe7ff022007b4d10089</hash>
+          <hash piece="17">39ba83314ba2e8ff70c5a70cac1345aa254ba7b2</hash>
+          <hash piece="18">83139f1905b14139d71fae9b1af2dc72a31e6fde</hash>
+          <hash piece="19">3b892304b16fbe4cbc49163a5ba20c33c47ad132</hash>
+          <hash piece="20">7932d07a1f73115e718a498126c5c229b821d742</hash>
+          <hash piece="21">90492f479af5b7f48fb12542da3c895176e4bd5a</hash>
+          <hash piece="22">5fdabdfab934ac0609651d6350eec53f4a6ff15b</hash>
+          <hash piece="23">bcb8f0d9d0abfac9928dc76e456830ee34494708</hash>
+          <hash piece="24">9d3ca966ed5ff2557e7754b7760027d8e2e5a804</hash>
+          <hash piece="25">9c5793d4f19d97494a37d2ae90d410da320af65c</hash>
+          <hash piece="26">6b26935725fb208f2cbbb4033540811c12c63086</hash>
+          <hash piece="27">9995a7cb51ce0047cda95e1dafaab1e78d4d8835</hash>
+          <hash piece="28">d660d846a64c7129a105b894081c787e87fa359d</hash>
+          <hash piece="29">f3ffac6c52f59694510bef20904a6f4662485402</hash>
+          <hash piece="30">42ce77ceea354fe94e6e60f01a5c281abd4c2f28</hash>
+          <hash piece="31">a82e73f695248319544ef3dc5d780770db2d0d3a</hash>
+          <hash piece="32">75c541c2fd9f457201d99dac8c3aed003c263b2b</hash>
+          <hash piece="33">c153475f54ac38820acc2864d06b3843b38b091f</hash>
+          <hash piece="34">a4b94ef24c057ff0edd540fb61e161679fbcda0a</hash>
+          <hash piece="35">b02cb34c36331b091b3257b66b9a0a7cfa6b9924</hash>
+          <hash piece="36">de54bb849cc1a72fa5e4504da1f926de603fcb9d</hash>
+          <hash piece="37">2c59eb0280b96fab8aa9bb6afa609786f291ea29</hash>
+          <hash piece="38">1cc8b71e32d1ea1bfeea3995a7fdf127e901ee48</hash>
+          <hash piece="39">fd4a91a1339f9ecd3b0422a926aa17daac7e4f6c</hash>
+          <hash piece="40">1c5cb9ea1f526a2c42e2f8c31da6cb82a188a529</hash>
+          <hash piece="41">594132a356839b41dc9d59bd36282829d6befdd9</hash>
+          <hash piece="42">98400ee70a858b83fb56cccbebee83766388731b</hash>
+          <hash piece="43">9cf5d40a6a1aa14d8b4304b702059376d6aef80f</hash>
+          <hash piece="44">dc7529b724fa2957890c39799a815343956c54c1</hash>
+          <hash piece="45">5673b807b699d29d40762b9e959506a9133fcb6f</hash>
+          <hash piece="46">486d45a8343aeb34fada96a010de89bb4fcc7da3</hash>
+          <hash piece="47">8f293202953b3a46afef4faa6cd1673c303651ea</hash>
+          <hash piece="48">937c4230dcdb9293f6b51ff09ebc403a858f2cf0</hash>
+          <hash piece="49">b70aceef8ee3587693ce831fe8e07b007a39a567</hash>
+          <hash piece="50">52611535f8a79830b1bf14405e6560351007da89</hash>
+          <hash piece="51">36e650e2a75ad7ce1c86c1c8d5dc0dc691f56a74</hash>
+          <hash piece="52">fafcf9d9423f02bc3b2fa98341a6f960baf72de9</hash>
+          <hash piece="53">429a7265eb047c660d1d8f0289d57bfd8be0bfed</hash>
+          <hash piece="54">8df6cb1baeb8ecfc2622a57cdf5dd2d7154eac54</hash>
+          <hash piece="55">3eb0dc195c5dcabfb37e574b3d0f00c76a44fcb1</hash>
+          <hash piece="56">592a788ef781b6e233b9d32376a9edf1496980e7</hash>
+          <hash piece="57">ed9f6384f214d0b0076b2b32c2021411934228e4</hash>
+          <hash piece="58">c4a85505ea3c0445655692ad0d5b77003720075a</hash>
+          <hash piece="59">3b4acfa120c28e7025b1248117f2f26a04fd5099</hash>
+          <hash piece="60">4a385f7f42fc522edd8eb3a802598aaff184772e</hash>
+          <hash piece="61">b963979e859d0175cf7ef3898035ebeb9ccb2ee5</hash>
+          <hash piece="62">ec28401fdf4772a443bc6b7acb6a4f872cdd87e6</hash>
+          <hash piece="63">580f96216b33970981e55f97ce56a81aa9a63dc2</hash>
+          <hash piece="64">905f100e9ffead2fc5186f68f657a7bf4a62bd0d</hash>
+          <hash piece="65">6870d8b104d0aff69ead1a78b027851548d2b33a</hash>
+          <hash piece="66">d26257a7848eb78f358067925c0d1bd20b918254</hash>
+          <hash piece="67">558cff0f63fb5a590152f1fc58825c14031b0f3f</hash>
+          <hash piece="68">7c3d71ba6f71cd553faece49aae7f7850e4fb7e5</hash>
+          <hash piece="69">47a8ffbe9ea8a94840526cbfbe7453c246f2b677</hash>
+          <hash piece="70">a605cab23f73d58ae0e2613b5db8f5355cd463db</hash>
+          <hash piece="71">51c5ec9bd59723f7cbe3d3a5d509482f6f8cf616</hash>
+          <hash piece="72">967df3ccee611747b4bb2b26e0d1ed96086c399f</hash>
+          <hash piece="73">c702d7bdfd70ee338ac3aae988ab6328bd1fae09</hash>
+          <hash piece="74">57d96d2834331b01ce2710b9f1afa722927c2695</hash>
+          <hash piece="75">55e7253eed9b6f0ee3e832f41f9a6aad8ec3cdce</hash>
+          <hash piece="76">9619eca51b5858887c2623c6bf4f8c7180a875ae</hash>
+          <hash piece="77">701b535b0a1ae7570cd79ceed3ac42f13090e238</hash>
+          <hash piece="78">96d1eebef6c2f83e28ae7c60c734f240177de202</hash>
+          <hash piece="79">14a91146f7ca1dd4b529d5601ab116a598378951</hash>
+          <hash piece="80">605382727310ec0454c5f38cac301f7ef439a28e</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="us" preference="100">http://www.gnusolaris.org/gsmirror/cat.pdx.edu/elatte_installcd_alpha7_i386.zip</url>
+        <url type="http" location="us" preference="100">http://www.gnusolaris.org/gsmirror/ftp.stanford.edu/elatte_installcd_alpha7_i386.zip</url>
+        <url type="http" location="us" preference="100">http://www.gnusolaris.org/gsmirror/genunix.org/elatte_installcd_alpha7_i386.zip</url>
+        <url type="http" location="us" preference="100">http://www.gnusolaris.org/gsmirror/http.stanford.edu/elatte_installcd_alpha7_i386.zip</url>
+        <url type="http" location="ro" preference="100">http://www.gnusolaris.org/gsmirror/iasi.roedu.net/elatte_installcd_alpha7_i386.zip</url>
+        <url type="http" location="us" preference="100">http://www.gnusolaris.org/gsmirror/improbable.org/elatte_installcd_alpha7_i386.zip</url>
+        <url type="http" location="se" preference="100">http://www.gnusolaris.org/gsmirror/lth.se/elatte_installcd_alpha7_i386.zip</url>
+        <url type="http" location="de" preference="100">http://www.gnusolaris.org/gsmirror/mine.nu/elatte_installcd_alpha7_i386.zip</url>
+        <url type="http" location="se" preference="100">http://www.gnusolaris.org/gsmirror/tdcsong.se/elatte_installcd_alpha7_i386.zip</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

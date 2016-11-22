@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.0.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Puppy Linux</name>
+    <url>http://www.puppylinux.com/</url>
+  </publisher>
+  <identity>Puppy NOP</identity>
+  <version>2.16</version>
+  <description>Puppy is extraordinarily small, yet quite full featured, Linux distribution.</description>
+  <files>
+    <file name="puppy-2.16.1-seamonkey-fulldrivers.iso">
+      <size>94371840</size>
+      <verification>
+        <hash type="md5">374629696a5096571c37c9f639ba45d8</hash>
+        <hash type="sha1">9473e59dd0cda33ebe361dc26c513559af5790b7</hash>
+        <pieces type="sha1" length="1048576">
+          <hash piece="0">59ba5c2d4a6f2e20082f15cdf299b91555b63dcc</hash>
+          <hash piece="1">f2fe15da222a59c7d188d825a6c0d598e4aa5e1f</hash>
+          <hash piece="2">529fab45f5ea1a1069d15d4b38a972c1025e4a6f</hash>
+          <hash piece="3">43969c604fe42e6b9d516ec38a145a7e0ccbf347</hash>
+          <hash piece="4">6ec94fe40f773782de171b5cb1effa487f99c812</hash>
+          <hash piece="5">99cf031b05a5d7aed4021db389bf6054abcef28a</hash>
+          <hash piece="6">09a6f8f677bf2c5727d7b462c4251a3f3c4d5841</hash>
+          <hash piece="7">4261d27f65c2e1f4eec6fe9b697a398bb0a1bc25</hash>
+          <hash piece="8">8915894b1b8ea8cdef208de6fca655fc5cbfe90c</hash>
+          <hash piece="9">75b79d4ed5217ca25f225068f3d6e0d39f88298f</hash>
+          <hash piece="10">0f148968864910dc629b756ee35b3129012bcc96</hash>
+          <hash piece="11">71b6491db63ed26a02d94825049cd2cd830627b5</hash>
+          <hash piece="12">0edadde9e7cb84634ef046797b28f46838142fc0</hash>
+          <hash piece="13">350e23a4e95bed8f2e76d01c51bc200e848814fd</hash>
+          <hash piece="14">aca3536f9b2f36831eb5cb32a5a53e2bee2201bc</hash>
+          <hash piece="15">657a761ecebcbaa680410392aa81608689b3f75f</hash>
+          <hash piece="16">cf5665032da91406b3f741846d1c94f0eb483ed8</hash>
+          <hash piece="17">d985ddcfb46fa8bbaba5d949c292e8d66f71d5ca</hash>
+          <hash piece="18">2b47c4c9d02a886880f2767b24147320f5b4ab37</hash>
+          <hash piece="19">c72164eb1935faab44cd060b8d063eab2418319e</hash>
+          <hash piece="20">db40c4166f9fba7a889c72c7d66f0d601a73194d</hash>
+          <hash piece="21">40e8fe59272efc9d1452f793453e4f4d592f7655</hash>
+          <hash piece="22">37b1d94e9494f10481344a0032cd8eb6b758150e</hash>
+          <hash piece="23">301bcdd7b13dc82ec9f8d9bb3577dc70bafdbcc9</hash>
+          <hash piece="24">61bd2d88dbeab38025a85d5f8719026c56a5bcbd</hash>
+          <hash piece="25">71be34658c44b3f850f5630cd13882d63f48b67d</hash>
+          <hash piece="26">c21d17bece0a65a358c43d26175dcc977fe3984a</hash>
+          <hash piece="27">aae4f434348f6f3b50ad15132d784b7f3845b9bb</hash>
+          <hash piece="28">6692f7396e39218ea1790f285ef7fc241fcc3244</hash>
+          <hash piece="29">4bc20f57de542faef7f6210b48a0e7cca63cc272</hash>
+          <hash piece="30">238a859e38b3cf19b52042917c77a57cb5473ddc</hash>
+          <hash piece="31">cf1c8066d7a890f4674526f6d493cfc63e0ad862</hash>
+          <hash piece="32">8cf3ef16a3a31118685b9f9754d4ff17b7cb6d18</hash>
+          <hash piece="33">33b7272c586cf731a11c52de7a2a7d0d946fb397</hash>
+          <hash piece="34">273056ad090c1c0704f2cf0a63f5f01c34fd355d</hash>
+          <hash piece="35">a9dbc690da161735ef576039640f2e36780bcfc0</hash>
+          <hash piece="36">5d6811ef7f33d238a16113ee55b21c8d73ecb974</hash>
+          <hash piece="37">73bd946803f6d8be26c5f432f972a8fbe5db75dc</hash>
+          <hash piece="38">2d1c08fd7f2452a2a5ab3ac5c9833ddcf5bd9cdc</hash>
+          <hash piece="39">7cb6a93713f34fa803c752788add985ed53a1af5</hash>
+          <hash piece="40">940d5bfc7368c44710a8a228484acf455f7bba33</hash>
+          <hash piece="41">f1785756d8043952065e6d2ed50b599a0599ac7d</hash>
+          <hash piece="42">bc7d1c99b468a2b365222035c0a1783453be3650</hash>
+          <hash piece="43">102b1684f8436834303b83be0b45117e76fb099d</hash>
+          <hash piece="44">0d9baf80b95bc2ef402ff4562c6cbe1b0a30e207</hash>
+          <hash piece="45">624057d400a9d9beb0a6f98c278de54f1200cdd2</hash>
+          <hash piece="46">5e2360489c08d3650f423b8d17370a440e84a744</hash>
+          <hash piece="47">e5592c709a13fa633252cec0ecf999d359ffd484</hash>
+          <hash piece="48">ca2018ece3e297d99d702ac2befed4c8903ce8ce</hash>
+          <hash piece="49">5d938219b2494e0d7a621280806a1d4fc5d7f67a</hash>
+          <hash piece="50">b53a8ed83d85b1df352a66a1d8a74c020330f4d5</hash>
+          <hash piece="51">1d273f42d9f60d06f00d2e50724fe22097f29eb4</hash>
+          <hash piece="52">1480a07559872de8a181657a01a13a9449752122</hash>
+          <hash piece="53">2a1e83c9e3a1739452e276140c2cb17c5ab327ca</hash>
+          <hash piece="54">8e9c7d6d96d62de41330621de8c2da100920d4f3</hash>
+          <hash piece="55">fc4d3081e7ff0d593dd8e979282f29ade8800ede</hash>
+          <hash piece="56">06876ab56d5b129bfe0d38fe50119308ae9cd715</hash>
+          <hash piece="57">64ce3197cb2c70bbf5fbd94b0167b672357f34de</hash>
+          <hash piece="58">a3b0d54e1e2132fb4d8c7d7b8e4b14fa713f5d84</hash>
+          <hash piece="59">f128affb8388c8950275a8b9766c2e99d5967634</hash>
+          <hash piece="60">77047ac8f20d12f61b0b824bc6638581212d5d16</hash>
+          <hash piece="61">4128390854960144566ffeacba8f2acda23df61e</hash>
+          <hash piece="62">c99a54bbbe5deec09770a9fbe0ae7ea163684db6</hash>
+          <hash piece="63">8a46623cf7b81adf789cb74dd18c0362f7d7524d</hash>
+          <hash piece="64">3a03d2b008acd97ce377c9e14a4f76c1fc9874b4</hash>
+          <hash piece="65">e3d989e7de4024357af507487b12d1e48a9af9c6</hash>
+          <hash piece="66">dad17020a77a4a22f9ea5d15b9110cacf9bc7caf</hash>
+          <hash piece="67">3a8fb42d269f8eef24ca8464a7b1af8244453199</hash>
+          <hash piece="68">d28c8659ef0a4c8e35f4165761b6dbe35961495e</hash>
+          <hash piece="69">50dbbd93d4a23d81c04e835a05ca670d85a54f99</hash>
+          <hash piece="70">8fc88038390f9a07012da96984f159b569a556c1</hash>
+          <hash piece="71">96ccaadd2e330aa31a8bdf2be3d3c21d7f9b1909</hash>
+          <hash piece="72">e7aee99917e958fd353ef0a5f9a39dcea5ec4948</hash>
+          <hash piece="73">c13c1c83970e9015766b0fbdbd88b67255e716a3</hash>
+          <hash piece="74">8a298a528a383c52db4cd57926a7ce302f77cd51</hash>
+          <hash piece="75">ac0d35c0276eb8bddef4477ac425c41eda571fe8</hash>
+          <hash piece="76">1b0bca10cdb1c9d116701cfad743d6231e3b65c6</hash>
+          <hash piece="77">8edf9e3de29f4629dc93500110adae232281a6d9</hash>
+          <hash piece="78">22801e9b5997175dee852c5774075ac218b4ac82</hash>
+          <hash piece="79">5b98f82e88df3e2ecf2e2ce890c775efb6442727</hash>
+          <hash piece="80">4d3df8b8920cdb1c33eaefa5f0ae8fa3363cb414</hash>
+          <hash piece="81">07593c79ebcf373fc0e9d88c694bc6df80793b78</hash>
+          <hash piece="82">54de1161713b404837b04c43f985ddf697573386</hash>
+          <hash piece="83">a559aec4c29ae040eb8cbbf19c65e628f0d8636f</hash>
+          <hash piece="84">d45ffa7c4a4df250ecfa0c7bc73297c35beab655</hash>
+          <hash piece="85">c8d484001441bcf3455959ae75e2fd289b1043ab</hash>
+          <hash piece="86">82fb03518e856ed98a4754f23b005dfa137f771f</hash>
+          <hash piece="87">08f6751f5484689ffb4a65478140e4dcc284f193</hash>
+          <hash piece="88">90d2d994b155031fd2d5b3c2d07314ddab744d92</hash>
+          <hash piece="89">9feb52656a65a4578a5af40cabca22c2f556f718</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http">http://pkagfiles.net/puppy-current-release/puppy-2.16.1-seamonkey-fulldrivers.iso</url>
+        <url type="ftp">ftp://ibiblio.org/pub/linux/distributions/puppylinux/puppy-2.16.1-seamonkey-fulldrivers.iso</url>
+        <url type="http">http://distro.ibiblio.org/pub/linux/distributions/puppylinux/puppy-2.16.1-seamonkey-fulldrivers.iso</url>
+        <url type="http" location="nl">http://ftp.nluug.nl/ftp/pub/metalab/distributions/puppylinux/puppy-2.16.1-seamonkey-fulldrivers.iso</url>
+        <url type="ftp" location="nl">ftp://ftp.nluug.nl/pub/metalab/distributions/puppylinux/puppy-2.16.1-seamonkey-fulldrivers.iso</url>
+        <url type="http">http://www.gtlib.gatech.edu/pub/linux/distributions/puppylinux/puppy-2.16.1-seamonkey-fulldrivers.iso</url>
+        <url type="http">http://s3.amazonaws.com/puppy/puppy-2.16.1-seamonkey-fulldrivers.iso</url>
+        <url type="http" location="nl">http://ftp.surfnet.nl/os/Linux/distr/puppylinux/puppy-2.16.1-seamonkey-fulldrivers.iso</url>
+        <url type="http" location="at">http://gd.tuwien.ac.at/opsys/linux/puppylinux/puppy-2.16.1-seamonkey-fulldrivers.iso</url>
+        <url type="ftp" location="at">ftp://gd.tuwien.ac.at/opsys/linux/puppylinux/puppy-2.16.1-seamonkey-fulldrivers.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

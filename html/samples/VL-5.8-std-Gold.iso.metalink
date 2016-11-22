@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0035" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>VectorLinux</name>
+    <url>http://vectorlinux.com/</url>
+  </publisher>
+  <description>VECTORLINUX is a small, fast, Linux operating system for Intel, AMD and x86 compatible systems, based on one of the original Linux distributions, Slackware.</description>
+  <files>
+    <file name="VL-5.8-std-Gold.iso">
+      <version>5.8</version>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">a74e36523069fdb1829f975cfb21e34b</hash>
+      </verification>
+      <resources>
+	  http://ftp-osl.osuosl.org/pub/vectorlinux/veclinux-5.8/iso-release/
+	  
+        <url type="ftp" location="uk" preference="100">ftp://ftp.mirrorservice.org/sites/vectorlinux.com/veclinux-5.8/iso-release/VL-5.8-std-Gold.iso</url>
+        <url type="ftp" location="nl" preference="100">ftp://ftp.nluug.nl/pub/os/Linux/distr/vectorlinux/veclinux-5.8/iso-release/VL-5.8-std-Gold.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://metalab.unc.edu/pub/linux/distributions/vectorlinux/veclinux-5.8/iso-release/VL-5.8-std-Gold.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://sunsite.unc.edu/pub/linux/distributions/vectorlinux/veclinux-5.8/iso-release/VL-5.8-std-Gold.iso</url>
+        <url type="http" preference="100">http://distro.ibiblio.org/pub/linux/distributions/vectorlinux/veclinux-5.8/iso-release/VL-5.8-std-Gold.iso</url>
+        <url type="http" preference="100">http://public.planetmirror.com/pub/linux/distributions/vectorlinux/veclinux-5.8/iso-release/VL-5.8-std-Gold.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

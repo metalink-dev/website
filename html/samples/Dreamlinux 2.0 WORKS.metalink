@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Dreamlinux</name>
+    <url>http://www.dreamlinux.com.br/</url>
+  </publisher>
+  <description>Dreamlinux is a modern and modular Linux system that can be run directly from the CD and optionally be easily installed onto your HD.</description>
+  <files>
+    <file name="DLxfce2.0_WORKS-060712en.iso">
+      <version>2.0</version>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">41bb3fb5379c93b6be692eaa64df6ec5</hash>
+      </verification>
+      <resources>
+        <url type="http" location="br" preference="100">http://streaming.serv.iv.fapesp.br:8000/vod/dreamlinux/dreamlinux-works/DLxfce2.0_WORKS-060712en.iso</url>
+        <url type="http" location="br" preference="100">http://www.linorg.usp.br/isos/dreamlinux/DLxfce2.0_WORKS-060712en.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

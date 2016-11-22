@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Mandriva</name>
+    <url>http://www.mandriva.com/</url>
+  </publisher>
+  <description>A full-featured Mandriva Linux system held on 1 CD, ready for your office, internet and multimedia needs. Try it safely by simply inserting it onto your CD or DVD drive (Live mode), and install it when you decide, from the Desktop!</description>
+  <files>
+    <file name="Mandriva-One-Americas-Western-Europe-2006-CD.iso">
+      <verification>
+        <hash type="md5">068b8b5c5161ac33c7c79b464931b5e1</hash>
+      </verification>
+      <resources>
+        <url type="ftp" location="fr" preference="100">ftp://fr2.rpmfind.net/linux/Mandrakelinux/official/iso/2006.0/i586/one/Mandriva-One-Americas-Western-Europe-2006-CD.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.ciril.fr/pub/linux/mandrakelinux/official/iso/2006.0/i586/one/Mandriva-One-Americas-Western-Europe-2006-CD.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.club-internet.fr/pub/unix/linux/distributions/Mandrakelinux/official/iso/2006.0/i586/one/Mandriva-One-Americas-Western-Europe-2006-CD.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.fh-giessen.de/pub/linux/Mandrakelinux/official/iso/2006.0/i586/one/Mandriva-One-Americas-Western-Europe-2006-CD.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.free.fr/mirrors/ftp.mandriva.com/MandrivaLinux/official/iso/2006.0/i586/one/Mandriva-One-Americas-Western-Europe-2006-CD.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.int-evry.fr/pub/linux/mandrake/official/iso/2006.0/i586/one/Mandriva-One-Americas-Western-Europe-2006-CD.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.lip6.fr/pub/linux/distributions/Mandrakelinux/official/iso/2006.0/i586/one/Mandriva-One-Americas-Western-Europe-2006-CD.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.mandrake.ikoula.com/Mandrakelinux/official/iso/2006.0/i586/one/Mandriva-One-Americas-Western-Europe-2006-CD.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.uasw.edu/linux/mandrakelinux/official/iso/2006.0/i586/one/Mandriva-One-Americas-Western-Europe-2006-CD.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.univ-lille1.fr/pub/os/linux/distributions/mandrakelinux/official/iso/2006.0/i586/one/Mandriva-One-Americas-Western-Europe-2006-CD.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.uvsq.fr/pub/mandrake/official/iso/2006.0/i586/one/Mandriva-One-Americas-Western-Europe-2006-CD.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.uwsg.indiana.edu/linux/mandrake/official/iso/2006.0/i586/one/Mandriva-One-Americas-Western-Europe-2006-CD.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp-stud.fht-esslingen.de/pub/Mirrors/Mandrakelinux/official/iso/2006.0/i586/one/Mandriva-One-Americas-Western-Europe-2006-CD.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://linux.ups-tlse.fr/Mandrakelinux/official/iso/2006.0/i586/one/Mandriva-One-Americas-Western-Europe-2006-CD.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://mirrors.usc.edu/pub/linux/distributions/mandrakelinux/official/iso/2006.0/i586/one/Mandriva-One-Americas-Western-Europe-2006-CD.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ramses.wh2.tu-dresden.de/pub/mirrors/mandrake/official/iso/2006.0/i586/one/Mandriva-One-Americas-Western-Europe-2006-CD.iso</url>
+        <url type="http" location="fr" preference="100">http://fr2.rpmfind.net/linux/Mandrakelinux/official/iso/2006.0/i586/one/Mandriva-One-Americas-Western-Europe-2006-CD.iso</url>
+        <url type="http" location="us" preference="100">http://www.gtlib.cc.gatech.edu/pub/mandrake/official/iso/2006.0/i586/one/Mandriva-One-Americas-Western-Europe-2006-CD.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

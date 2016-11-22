@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Hacao Linux</name>
+    <url>http://hacao.com/</url>
+  </publisher>
+  <description>Hacao.Office 2.01 Vietnamese</description>
+  <files>
+    <file name="hacao.office201vn.iso">
+      <version>2.01</version>
+      <language>vn</language>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">9ecf4acd4017fd1536041e6252bdc9ba</hash>
+      </verification>
+      <resources>
+        <url type="http" preference="100">http://hacao.hichic.net/iso/201/hacao.office201vn.iso</url>
+        <url type="http" preference="100">http://hacao.net/iso/hacao.office201vn.iso</url>
+        <url type="http" preference="100">http://th02zone.com/lukas/pub/hacao.office201vn.iso</url>
+        <url type="http" preference="100">http://www.bubbleletter.org/hacao/hacao.office201vn.iso</url>
+        <url type="http" preference="100">http://www.puptrix.org/std/hacao.office201vn.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.2.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <url>http://www.sabayonlinux.org/</url>
+  </publisher>
+  <identity>Sabayon Linux</identity>
+  <version>4.2</version>
+  <files>
+    <file name="Sabayon_Linux_CoreCD_4.2_amd64.iso">
+      <size>433821696</size>
+      <os>Linux-x64</os>
+      <verification>
+        <hash type="md5">1939132fa72de70c7b974a8acab468e5</hash>
+        <hash type="sha1">99f5c09c8b742da78236ec1bb31779f5172c07db</hash>
+        <hash type="sha256">f03f7e719807c01e07c20922bc654ba06528e694756dc2637ce3526eafb740fb</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">8b228af558ed548f2774b45fe9ad0a62bfa82ab7</hash>
+          <hash piece="1">c69fc18be8f280154b75d7b750d332965090a5c8</hash>
+          <hash piece="2">69357c504de0d068dcdf88f7f5f3ac7faef262aa</hash>
+          <hash piece="3">4454aae7ad9eac874aba004457cfafb64fa75787</hash>
+          <hash piece="4">51dd24c549ef455d32360ff111defed11cb1b63a</hash>
+          <hash piece="5">83da6ab1a5498e58269e2dfd80778234c8a0898e</hash>
+          <hash piece="6">7619e3ca929ff66825e5e5a98db8c2ce283b494e</hash>
+          <hash piece="7">3977b5c6857a772a50bb02b18269a4470b49b859</hash>
+          <hash piece="8">fb7cfd5da1ab7e13f691ecc6d65adeba980774a9</hash>
+          <hash piece="9">d17b8ed5deac79d09b99f38c02485df47d055095</hash>
+          <hash piece="10">cd27aba6fe84f00d9d8136c2b98f8874c5f320a9</hash>
+          <hash piece="11">69036db2211e49bb214831b5b2eafbf9d03eab4a</hash>
+          <hash piece="12">84bc45d47982e062d7a2b81a6f51f8d20ef9acb5</hash>
+          <hash piece="13">026e68a0fffe24ff2ee90e21142b975916e9adcd</hash>
+          <hash piece="14">97a6a25c1ae7351c4e7011680082f37ceccb6606</hash>
+          <hash piece="15">0b95ff66a1067ca1dceff9b162f6e1c238662434</hash>
+          <hash piece="16">b7e9f894d0eb1199fb05d69f90a0c2a08ec0bd70</hash>
+          <hash piece="17">484491fc4d322cb28fe09047eda20bc7ba5dc5c4</hash>
+          <hash piece="18">8f2c06a152554618c782d2b532d1fffacaa5622a</hash>
+          <hash piece="19">2eea9c918a43c932fd0150c19a3db013a69aca69</hash>
+          <hash piece="20">cf5a2e0e0e089557a8acd8021bcc9ba2103e7572</hash>
+          <hash piece="21">1f8eb86f6972d832404cc167358d838ef3b03239</hash>
+          <hash piece="22">2805167183d5bf34b829b314d298fbcf983706c4</hash>
+          <hash piece="23">9914bd9eca7cd519bcd558d4b8d596ae6608286a</hash>
+          <hash piece="24">e2574f9755ebcd227df9c93afa17e89abee8f0a2</hash>
+          <hash piece="25">6852e207b3373ab8f3b6386e1e973af8d8ae7964</hash>
+          <hash piece="26">fa216a1f0b708e54af86264b3183066bee3fef57</hash>
+          <hash piece="27">8ffc5fe5a51d496665c146195475456156038bf7</hash>
+          <hash piece="28">8c4f3d77d1881d5bd2af18826adaa08b98373d38</hash>
+          <hash piece="29">7e68bf264e00a7d3f38933d4f825a792630296d5</hash>
+          <hash piece="30">5e6645f1ada2f063131c4d2253fa2a482aa85212</hash>
+          <hash piece="31">5199df5b3c3dfeb3db3c90e020cdcc1ab07c5786</hash>
+          <hash piece="32">d7dea04957bcd446a25f3dd51d703c0b40e71e3e</hash>
+          <hash piece="33">37c81474744cbf64a156b6a78d8ca44df26e9cfc</hash>
+          <hash piece="34">eb4ac9e94666840c7c61cb20a598e63ef05903ae</hash>
+          <hash piece="35">eb4946554b3e01546bb66215457a72773bc21acf</hash>
+          <hash piece="36">d3189fbda4caf52c9ce1a7cf30d1bc524ea9efda</hash>
+          <hash piece="37">3138481f855908268abe8df8024290239c691258</hash>
+          <hash piece="38">58115db68d5dc7c90ccf96adcd2fbc3398e1cd0e</hash>
+          <hash piece="39">ec1893dd28626521691bb231a132b15f3925e460</hash>
+          <hash piece="40">b9253e49505934bac7fcf2fc82df1e705172e57e</hash>
+          <hash piece="41">630fe7c4c3fab5149db7adc3c62beb67f499200c</hash>
+          <hash piece="42">182e1db387eac2be2644aaf7f627feaf874c4e19</hash>
+          <hash piece="43">9e5d1b9506ca2f1b15dff75b862ca97a815be01e</hash>
+          <hash piece="44">e5f8dea9c03b68de29eb68f6b6977ca99e096b16</hash>
+          <hash piece="45">91d0d6ebef3c3ef0750987571275ab4eeb0bd843</hash>
+          <hash piece="46">de7533fe7d0426381221103765588471fc983590</hash>
+          <hash piece="47">44fe0efa3721bf3c696742528322dd983a70a9f5</hash>
+          <hash piece="48">fb7391c848a0c8e9873d89cb5d2881c7ab1d5432</hash>
+          <hash piece="49">89a79133493fbe8eeb19f85f1393d1bb277fe660</hash>
+          <hash piece="50">ba3cee44525916141cab6805dbc4d839c61784e0</hash>
+          <hash piece="51">38c53304e920b6d97c026f7b769e94c6efb1b39c</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="us" preference="100">ftp://mirror.cs.vt.edu/pub/SabayonLinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="ftp" location="au" preference="50">ftp://mirror.internode.on.net/pub/sabayonlinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="ftp" location="pt" preference="100">ftp://glua.ua.pt/sabayon/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="http" location="au" preference="50">http://mirror.internode.on.net/pub/sabayonlinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="ftp" location="it" preference="50">ftp://bo.mirror.garr.it/mirrors/sabayonlinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="http" location="it" preference="50">http://bo.mirror.garr.it/mirrors/sabayonlinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="http" location="de" preference="100">http://sabayon.domaindorf.de/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="ftp" location="au" preference="100">ftp://mirror.aarnet.edu.au/pub/SabayonLinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="http" location="pt" preference="100">http://cesium.di.uminho.pt/pub/sabayon/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="ftp" location="be" preference="100">ftp://sabayonlinux.mirrors.skynet.be/pub/sabayonlinux.org/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="http" location="us" preference="100">http://cross-lfs.sabayonlinux.org/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="ftp" location="cz">ftp://ftp.sh.cvut.cz/MIRRORS/sabayon/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="http" location="cz">http://ftp.sh.cvut.cz/MIRRORS/sabayon/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="ftp" location="cz">ftp://mirror.dkm.cz/pub/sabayon/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="http" location="cz">http://mirror.dkm.cz/pub/sabayon/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="ftp" location="dk">ftp://ftp.klid.dk/sabayonlinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="http" location="dk">http://ftp.klid.dk/ftp/sabayonlinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="ftp" location="fr">ftp://sabayon.got-root.me.uk/sabayon/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="http" location="fr">http://sabayon.got-root.me.uk/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="ftp" location="gr">ftp://ftp.cc.uoc.gr/mirrors/linux/SabayonLinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="http" location="gr">http://ftp.cc.uoc.gr/mirrors/linux/SabayonLinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="ftp" location="nl">ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="ftp" location="nl">ftp://ftp.surfnet.nl/pub/os/Linux/distr/sabayonlinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="http" location="nl">http://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="http" location="nl">http://ftp.surfnet.nl/pub/os/Linux/distr/sabayonlinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="ftp" location="it">ftp://na.mirror.garr.it/mirrors/sabayonlinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="http" location="it">http://na.mirror.garr.it/mirrors/sabayonlinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="ftp" location="pt">ftp://cesium.di.uminho.pt/pub/sabayon/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="ftp" location="za">ftp://ftp.is.co.za/linux/distributions/sabayonlinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="http" location="us">http://sabayon.linuxfreedom.com/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="http" location="us">http://cross-lfs.sabayonlinux.org/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="ftp" location="us">ftp://ftp.strickstuff.com/sabayonlinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="http" location="us">http://mirror.umoss.org/sabayonlinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="ftp" location="us">ftp://ftp.ibiblio.org/pub/linux/distributions/sabayonlinux/Sabayon_Linux_CoreCD_4.2_amd64.iso</url>
+        <url type="ed2k">ed2k://|file|Sabayon_Linux_CoreCD_4.2_amd64.iso|433821696|c1ca4ad87b018d44d201f8a8bdcdb7fc|/</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" origin="http://up2date.startcom.org/mirrors/" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>StartCom Ltd.</name>
+    <url>http://linux.startcom.org</url>
+  </publisher>
+  <copyright>StartCom Ltd.</copyright>
+  <description>StartCom MultiMedia Edition ML-5.0.5 (Kessem)</description>
+  <files>
+    <file name="kessem-i386-dvd.iso">
+      <version>5.0.5</version>
+      <os>i386</os>
+      <verification>
+        <hash type="md5">8d21b8969b562ef1af923c23df3f6763</hash>
+      </verification>
+      <resources>
+        <url type="ftp" location="us" preference="100">ftp://ftp.gtlib.gatech.edu/pub/startcom/ML-5.0.5/iso/Kessem-i386-DVD.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.ibiblio.org/pub/linux/distributions/startcom/ML-5.0.5/iso/Kessem-i386-DVD.iso</url>
+        <url type="http" location="us" preference="100">http://www.gtlib.gatech.edu/pub/startcom/ML-5.0.5/iso/Kessem-i386-DVD.iso</url>
+        <url type="ftp" location="nl" preference="80">ftp://ftp.nluug.nl/pub/os/Linux/distr/startcom/ML-5.0.5/iso/Kessem-i386-DVD.iso</url>
+        <url type="ftp" location="be" preference="60">ftp://ftp.belnet.be/linux/startcom/ML-5.0.5/iso/Kessem-i386-DVD.iso</url>
+        <url type="ftp" location="au" preference="20">ftp://mirror.pacific.net.au/linux/startcom/ML-5.0.5/iso/Kessem-i386-DVD.iso</url>
+        <url type="ftp" location="au" preference="10">ftp://ftp.planetmirror.com/pub/startcom/ML-5.0.5/iso/Kessem-i386-DVD.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

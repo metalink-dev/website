@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="http://www.phpmyadmin.net/metalink.xsl"?>
+<metalink version="3.0" origin="http://www.phpmyadmin.net/phpMyAdmin-2.11.2-english.tar.bz2.metalink" pubdate="Sat, 27 Oct 2007 15:51:05 GMT" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>The phpMyAdmin Project</name>
+    <url>http://www.phpmyadmin.net/</url>
+  </publisher>
+  <license>
+    <name>GNU GPL</name>
+    <url>http://www.gnu.org/licenses/gpl.html</url>
+  </license>
+  <identity>phpMyAdmin</identity>
+  <version>2.11.2</version>
+  <changelog>http://sourceforge.net/project/shownotes.php?group_id=23067&amp;release_id=549925</changelog>
+  <files>
+    <file name="phpMyAdmin-2.11.2-english.tar.bz2">
+      <size>1519678</size>
+      <verification>
+        <hash type="ed2k">cb1e8e503dbb5436b28ea389f9aca7be</hash>
+        <hash type="md5">abfb10083c4eca42b2fcd552bfcb3a9d</hash>
+        <hash type="sha1">e569a76c4b9740adc3e22aaf870d8712fa675100</hash>
+        <hash type="sha256">2235ad4329e3c549ec3cae6971cee273ebaebe7159f368015c932054498f9f70</hash>
+        <pieces type="sha1" length="262144">
+          <hash piece="0">0d3fb6772426083d6efaa1bfb49e6268b2eb2bbd</hash>
+          <hash piece="1">d4ba70ebae9841d3a80c023c09bee4885929dc37</hash>
+          <hash piece="2">c896fdd5e51cdeffea9a5888b46cf7e909d17b71</hash>
+          <hash piece="3">35a5fa7b72690b7ac51efdc414b4ce5b418ca8d3</hash>
+          <hash piece="4">10b6fa52cb449887d18985e712d1458ac5379adf</hash>
+          <hash piece="5">7ab54235c2c59a25c1d4095b2dc19cb532539d29</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="au" preference="10">http://optusnet.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="http" location="be" preference="10">http://belnet.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="http" location="br" preference="10">http://ufpr.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="http" location="ch" preference="10">http://puzzle.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="http" location="ch" preference="10">http://switch.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="http" location="de" preference="10">http://dfn.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="http" location="de" preference="10">http://mesh.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="http" location="fr" preference="10">http://ovh.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="http" location="ie" preference="10">http://heanet.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="http" location="it" preference="10">http://garr.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="http" location="jp" preference="10">http://jaist.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="http" location="nl" preference="10">http://surfnet.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="http" location="tw" preference="10">http://nchc.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="http" location="uk" preference="10">http://kent.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="http" location="us" preference="10">http://easynews.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="http" location="us" preference="10">http://internap.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="http" location="us" preference="10">http://superb-east.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="http" location="us" preference="10">http://superb-west.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="http" location="us" preference="10">http://umn.dl.sourceforge.net/phpmyadmin/phpMyAdmin-2.11.2-english.tar.bz2</url>
+        <url type="ed2k" preference="95">ed2k://|file|phpMyAdmin-2.11.2-english.tar.bz2|1519678|CB1E8E503DBB5436B28EA389F9ACA7BE|/</url>
+        <url type="magnet" preference="90">magnet:?dn=phpMyAdmin-2.11.2-english.tar.bz2&amp;xl=1519678&amp;xt=urn:sha1:E569A76C4B9740ADC3E22AAF870D8712FA675100&amp;xt=urn:ed2k:cb1e8e503dbb5436b28ea389f9aca7be</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

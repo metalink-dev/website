@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Acoustik Reality</name>
+    <url>http://www.earos.dk/</url>
+  </publisher>
+  <identity>eAR OS Free Edition</identity>
+  <version>1.05</version>
+  <description>State-of-the-art Operating System with the eAR Media Center  </description>
+  <files>
+    <file name="earfree_v1_05.iso">
+      <size>722350080</size>
+      <verification>
+        <hash type="md5">7c23326eb7ebeb00fefa111213b32b11</hash>
+        <hash type="sha1">4a3838fc1bfb1587f365f45caff9a27b896b1158</hash>
+        <hash type="sha256">108811b1e71a7b370952f6bf9feda90ea10d7ad37d6eed2b0593dd61c7a4c770</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">eee878d275b188753cba18b98d88b1cd5df3a82b</hash>
+          <hash piece="1">1f6ba71a7bbb3ecc877d1202ca821ebda62eaa2f</hash>
+          <hash piece="2">98492a35a176eaadaddbb7bdfa3dfc7b7fbce932</hash>
+          <hash piece="3">6ececd10626e2614c8eac067a3f9a0a2847e247a</hash>
+          <hash piece="4">596ab413832e9f01be8904669bb0c89985392cce</hash>
+          <hash piece="5">03f511d7223304d6accbbccb802429203f1d3efd</hash>
+          <hash piece="6">0b8dbac938a8330cfc44aa082ae7c6bc22c1ca55</hash>
+          <hash piece="7">25bf80dddcb4ddd2b478835f3869829df259af4c</hash>
+          <hash piece="8">658d4580ca560f93fd18d779a2c3ad0ac3838e78</hash>
+          <hash piece="9">f0dd78c0c098346f3d0e748d94ed25910b0b5f97</hash>
+          <hash piece="10">5f2240d7d9a92ad313efc3a651aa5831d0ea277e</hash>
+          <hash piece="11">a817ed09b6148455c398eeb6790cac658ad63fb5</hash>
+          <hash piece="12">f912819f4f8e4145e2b588bb1456938200773ced</hash>
+          <hash piece="13">737c181be33535f793899a57aadc8381e1def76d</hash>
+          <hash piece="14">34f0081b22c77d3fc96d10e72f4287a3d40d4671</hash>
+          <hash piece="15">6e6efc2fb30a0c46c67543aaa58d8c882826e4ab</hash>
+          <hash piece="16">67f19028143b5003ebaa0b81bbbed5963b029bb3</hash>
+          <hash piece="17">64f2c887527ddbaf1251ad6f0b7b5fc7f40c90da</hash>
+          <hash piece="18">c4adeef3a7e6d7e3504cee881af4f022e1015236</hash>
+          <hash piece="19">11e20490f2c620e9e80c355f7f39420da0c2ff2c</hash>
+          <hash piece="20">456c0d83042c3b77b8ba4107fa06f38062bbb43c</hash>
+          <hash piece="21">9f688b453d3570134e6af82c78724fdc2b068e23</hash>
+          <hash piece="22">2ec81e21065650ae41f9f9c6b02b15f1518ee135</hash>
+          <hash piece="23">a30697727a00cc9d258f156a60a4a8d0ce5eacf2</hash>
+          <hash piece="24">187524d2f524b7f757d2967068bf36db9874464e</hash>
+          <hash piece="25">2e6fe06fbb869584f042dc2cbd27d2ad587ab11e</hash>
+          <hash piece="26">22e0ad164758b526e0291aa490b1ff5e15e5e7d8</hash>
+          <hash piece="27">bba6d7c811d7543568599413924f1e6de36f16ad</hash>
+          <hash piece="28">b83d4df530c3a43d9ebde16aae836f915d1cf8d2</hash>
+          <hash piece="29">542c26ce0274c9d4af126b311d7195330d4e798a</hash>
+          <hash piece="30">a6a62423aa5e5491ef49f4a1cbc9fb73d0ecc4cc</hash>
+          <hash piece="31">fb6eea18e527cbb5027383b7d823ef431d3aa221</hash>
+          <hash piece="32">acfb3efd82b5907d207364b2d7c7b7402469a1f8</hash>
+          <hash piece="33">2dbf5987f8388b63861a833ce5ca98c38e03433b</hash>
+          <hash piece="34">a85861451e9642d49340ed75f666429155b76d42</hash>
+          <hash piece="35">296b0f8d56627b44cb80f74882810ce6f602d3fd</hash>
+          <hash piece="36">ed2c2968bafbe942354acdcdd80307e6b040d878</hash>
+          <hash piece="37">2826f4cf65ce45f0a598fad00a9033a5dcc92bd4</hash>
+          <hash piece="38">5b64486bdd4244136d7b519d9f9cb6e370bd033a</hash>
+          <hash piece="39">2f8a2770203b57ceb4959313556a2ac5900231ea</hash>
+          <hash piece="40">37659cc2edaa2a0ef4621f1afa48d46d4ca5f2f3</hash>
+          <hash piece="41">de2477e44fb35b7a64d504bbf90830e3076fe393</hash>
+          <hash piece="42">d49b78ab8bb4e479e3e95e085cca96f42c72e611</hash>
+          <hash piece="43">9d032794b0dcc9a37b2370641550a163d028b4b1</hash>
+          <hash piece="44">57d681a4626ffc9e40233a3146b3d21154189476</hash>
+          <hash piece="45">42b9a659be750926f9129798610e0e43d13063e4</hash>
+          <hash piece="46">5fc56e884a1631e46832c59b9e74421a62220ca7</hash>
+          <hash piece="47">78106ff626da48d89ff8c9cbaac9af88008cd32e</hash>
+          <hash piece="48">64303e319a73ffc75f3eb7804603cda0a5820b41</hash>
+          <hash piece="49">1a7b04c7316ef1e4e8bc45b93bc3ef0beff48d30</hash>
+          <hash piece="50">1530a8551f34f2708da93b0286765305c55eea2c</hash>
+          <hash piece="51">b45b174d7d6af49e0816072c1358e8eff74b69de</hash>
+          <hash piece="52">5213d3a06a2357f75b1f258bf2b66778133c3e56</hash>
+          <hash piece="53">2838d3e6c0905bcd48029c73a9cc0bacbf310d77</hash>
+          <hash piece="54">fc0d5aa0544ec0c96d1546475ecaa885b83e4b21</hash>
+          <hash piece="55">20575e8658783df1698bd9e5d687e044df9d3d2b</hash>
+          <hash piece="56">3887e271dd15fa9f4c8ac940330d10baf3040939</hash>
+          <hash piece="57">ea0f0d4a20e4d89e294e0950ec88725fede23cb9</hash>
+          <hash piece="58">549d335ce1b1f410263a518193c250b82f10d411</hash>
+          <hash piece="59">7fe9eff3cf73c1abb3004f8192343229e46f70b1</hash>
+          <hash piece="60">697e8a22e6a4167cc2cc515d477ce14b082edfa4</hash>
+          <hash piece="61">5abec8072fbea9fa2c3b5a537332cee2c4551c6d</hash>
+          <hash piece="62">16814af71bbe5a5810c481d85e6cda2749c54fc0</hash>
+          <hash piece="63">addc58a2c0cff89bf37735d66ffd5d1c9b80ebb9</hash>
+          <hash piece="64">20c008c9c111cc1f0c0374d1475531d8ae7c4773</hash>
+          <hash piece="65">4d249199cd9bcd71815ac0044ae1ed59114e3a8b</hash>
+          <hash piece="66">6d83ac6bdf3b0c8275c755cf50de7c1daddb1c36</hash>
+          <hash piece="67">a305650f9e09af7a4425089abe725001b0baadb4</hash>
+          <hash piece="68">39976b82cde515c6cf433441281e6fd03ac555d6</hash>
+          <hash piece="69">ae832e343c211f27d1ec58efaceafb094240f9e6</hash>
+          <hash piece="70">22a5f22052f41d870430b59dfb8fa82154f5dc41</hash>
+          <hash piece="71">a74cf394b2d5e7fb9b193b4c5731ad472168233e</hash>
+          <hash piece="72">5f3d62dd469dd54be60943c1ec666458e990e7d8</hash>
+          <hash piece="73">5d172d31c213ffd4537bf3e5bc1ccad4cc9b513b</hash>
+          <hash piece="74">98f93d3db1248c94b6c512930e767f30397ce724</hash>
+          <hash piece="75">4a77569de32fe3f8cf48f4c274aae5469ac36e10</hash>
+          <hash piece="76">5aed3a9518db9727409c938b86af53790e74a55c</hash>
+          <hash piece="77">29dbcacaa4a699489a0385cd0401ee226ecf1813</hash>
+          <hash piece="78">60054931a4b32d1cb6f0ebc8c6757442103236df</hash>
+          <hash piece="79">430f7e5c6719a284784fc36423a66238b57a43fb</hash>
+          <hash piece="80">b6d768c507039551fb42f156d581a659fa6ecb3a</hash>
+          <hash piece="81">5d76b2d63cbeea0ed2dc11ab1290e94ff98d3b47</hash>
+          <hash piece="82">7279706049d0bab5c7d8df5d08676847b25b2c5b</hash>
+          <hash piece="83">96d739dfb120fdd63e844fa2deea264f1212a2ff</hash>
+          <hash piece="84">981153d7dd46f32801b5dc7c3f9bddd6822a4e3e</hash>
+          <hash piece="85">5d44f6de4b31162e6321a5bc57792b494d0b7a7a</hash>
+          <hash piece="86">96d0c200de787955b8bc7eff6d733448779ea79c</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="dk">http://www.earos.dk/earfree_v1_05.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

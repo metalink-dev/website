@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 0.4.1" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>64 Studio</name>
+    <url>http://www.64studio.com/</url>
+  </publisher>
+  <version>1.3.0</version>
+  <description>64 Studio develops a distribution of native free software for digital content creation on x86_64 hardware (that's AMD's 64-bit CPUs and Intel's EM64T chips). It's based on the pure 64 port of Debian GNU/Linux, but with a specialised package selection and lots of other customisations.</description>
+  <files>
+    <file name="64studio_1.3.0_i386.iso">
+      <size>731211776</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">e81f3623a003147b7176daec14f8071a</hash>
+        <hash type="sha1">db5556e9a1223962028c0f3ce8de0725cda9f791</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">955a85545f8e417d30c23689bed98f3d1066f1da</hash>
+          <hash piece="1">f1f9e1b573b23d88a29444015562bd7e5d62ccc4</hash>
+          <hash piece="2">72f7f019902ef4e4e141b1b5824182ef4ae87c3d</hash>
+          <hash piece="3">a84c38570d8a64507e3be05b7916db0e9f5d16b9</hash>
+          <hash piece="4">c11fde06745a6c4a9a9901e9ee7ea7894ecb6bf9</hash>
+          <hash piece="5">748bd16a68ac492050909e993ebc00dbede842fb</hash>
+          <hash piece="6">791b7c91bddf506bec6dc65f8818d004d699b96c</hash>
+          <hash piece="7">b2f6eb3794d4fce3eaab273079a3d202a8a68071</hash>
+          <hash piece="8">b2cbb38196ee6c837979cbda6d59d14c674ad3ee</hash>
+          <hash piece="9">ed1b8a0a488a5c6c1fee274148a3f5d2a1604c60</hash>
+          <hash piece="10">e0edc777ec368133b110ab8fa66c155233d78ab7</hash>
+          <hash piece="11">475517053258ce79eef362d70421ef09080e7f6a</hash>
+          <hash piece="12">879e2ef810a0ea90538cf08b837fab0439d6e808</hash>
+          <hash piece="13">f9cbc28442163b9d4c23c5275e9779810274bb38</hash>
+          <hash piece="14">a65ad91de9e98e1c4ed08e5748eae5012ac2a823</hash>
+          <hash piece="15">4b3d887f99d9c4ae578778ea2dfec47385b49fd1</hash>
+          <hash piece="16">b8fb554dd9819aa8b5896ae1b85bebf0401d66e8</hash>
+          <hash piece="17">83b2ffc9c2529163ed6f9e645e3e65e6a32eaf71</hash>
+          <hash piece="18">21a8026774d3115dd2e1a893c45ff80a499021a1</hash>
+          <hash piece="19">fcc3d023471d3a5dd6621c57d311f8460e5d3155</hash>
+          <hash piece="20">66a88d0e8a69a6b14f7de07e95d8c2aa5eda4a7a</hash>
+          <hash piece="21">d57305e11ded7951352d6e1f936556d96cd6972c</hash>
+          <hash piece="22">48617ff852775b372971f618101c0ed80cb7c398</hash>
+          <hash piece="23">e3026e22c46b367ed1624ad00f48464b558d2451</hash>
+          <hash piece="24">c52a248d4256b715cb8ad5a27a6d736028b09c28</hash>
+          <hash piece="25">3ff2e57b011e7e55c55fc7eb39f4e1a1adfa5f07</hash>
+          <hash piece="26">b959c3fb0dc16a93207015d9fdf49240636d274b</hash>
+          <hash piece="27">a05d8c0eb3650ae2d54cf89c4f3100d575ec3142</hash>
+          <hash piece="28">873e6bba951d4b2792134fc53882935517acccd3</hash>
+          <hash piece="29">5cb2007cc09b3fef636fa97ca02558ddfc9326fb</hash>
+          <hash piece="30">b827c109380be354758e92474c9a0832033cfc28</hash>
+          <hash piece="31">fa6ba44934ebaf1841e2424f7e445362b8fe2059</hash>
+          <hash piece="32">a9726fe4f6604f83767f342e3f9d3f526584ec5d</hash>
+          <hash piece="33">53253a25561de1f4e8f325d4fc6148efc6641882</hash>
+          <hash piece="34">c6d66f59d3e7d0662feac562cd32872af892a1c5</hash>
+          <hash piece="35">8177549cd071c69d3c65c23b12ba111f510035de</hash>
+          <hash piece="36">7df271a4b8786e1e73cc3023ce5350bd0c80baf1</hash>
+          <hash piece="37">251aa6dedb59e805af09c33d2ce513105c8174d0</hash>
+          <hash piece="38">16e4e114861e592721039d6a16db2d4830dfcf14</hash>
+          <hash piece="39">fbbb48fb92d848cc1d07e5fd0a3f686e16b0568f</hash>
+          <hash piece="40">50cd818fbc69c3033fa2c73e1cef29854ca99926</hash>
+          <hash piece="41">d15bbd2c837524aca627251ce1ecd120a8cc03c5</hash>
+          <hash piece="42">d13dc71ed7292a1cfba8d02d54ddbeeaf5a84d22</hash>
+          <hash piece="43">df8940d87ccb821c643c3da5c2c0ec78930ee722</hash>
+          <hash piece="44">07be2212e8d334f6287b6dec68b77a94134fd652</hash>
+          <hash piece="45">bfb31da242fc2f4966e1b2c5519ea1d624a89c2e</hash>
+          <hash piece="46">b83a7d48a3c082cbac119d1b4f7c955cfc43af4f</hash>
+          <hash piece="47">7c9263f02fc1bf38f19ef2d711b4e68baeb530b2</hash>
+          <hash piece="48">15f0f362e689c4173b9cfdc87d06f7314ee281a2</hash>
+          <hash piece="49">2cbb7243aa72b13993dc3a888083d558b1daca70</hash>
+          <hash piece="50">04c09cb04f8e3c9fa146a9be29c9df9272fd6136</hash>
+          <hash piece="51">2c1485dc2917300df2b890796300247b079348e5</hash>
+          <hash piece="52">5450077b8b77680d3cedfc3ac4ec3204e4858db8</hash>
+          <hash piece="53">953a92061dc35f3cf2c0dd2db1570fa1db0e442f</hash>
+          <hash piece="54">f3e0cf415b9cca60f7d0bc270cfc361b4af1fc9e</hash>
+          <hash piece="55">ceb030c97acbced8cbef9589d02a505f3cb6387f</hash>
+          <hash piece="56">3db5a76fb144f88b70ebc0105881d6e3bef705de</hash>
+          <hash piece="57">45e95a45a1a0cb021913c1f3e62cab85a89476c1</hash>
+          <hash piece="58">80a6a91231194380d27c8d731dd73178e98d7aa1</hash>
+          <hash piece="59">ca1f4156b91b560988480e8700d736e780efd589</hash>
+          <hash piece="60">9e8215610287b6bd1cb055c046383b56981aea35</hash>
+          <hash piece="61">9106533a26a396df9edca31aab252fc7ab0d0407</hash>
+          <hash piece="62">bdf01047acd5d9a7c733ce2ce9c884ac6930efe2</hash>
+          <hash piece="63">0db576f8f2735af8eb6972f5f98176b6f35acf61</hash>
+          <hash piece="64">5142fc85ea7fbcb0ed710cf14600ef1a22465af6</hash>
+          <hash piece="65">e314e949ba57b19afbc82afdea06e40ce9129cd0</hash>
+          <hash piece="66">82a1ce1d573cd7d53c74c5de534b173a7618beec</hash>
+          <hash piece="67">d01275a602f79ed2ec0339ce17aca9790f65694b</hash>
+          <hash piece="68">332aaa2b8fcd33e9c7311c6e61eae04f1d8f9413</hash>
+          <hash piece="69">f7d7f88cceb67ef589a10590db793620735fc020</hash>
+          <hash piece="70">12f0fae7d0585c31c029fe446e8cc41273d888ee</hash>
+          <hash piece="71">bd945cecf5b28c10bf07f9875d0d8dbf88e086c2</hash>
+          <hash piece="72">886e4d539d41617dc6dd1accfe86637ad5d8b5eb</hash>
+          <hash piece="73">299d1cfbb6658b27565a0411047ebaa4f832fb6d</hash>
+          <hash piece="74">5a77c6813235bd3be4776dff63f392094ac39092</hash>
+          <hash piece="75">a3f52e3d7b19fb3e87df1b6bc3a70769bc8ba2f0</hash>
+          <hash piece="76">fb0a030a7c5ae02096192fb74fa0ccda314f93ef</hash>
+          <hash piece="77">e2db2040f14b6f217a744499ed03ce866d3e2b49</hash>
+          <hash piece="78">059e81870d218d871f63a0ecf36350fd9f00ac6a</hash>
+          <hash piece="79">6a33cf52b95aa51133c44752ed508c46ef45d7d3</hash>
+          <hash piece="80">08f4372627557f8f3f805ca3558ac5687756ed72</hash>
+          <hash piece="81">15fbaceb5e1e2f22dad104f02b91ee5046a9fdba</hash>
+          <hash piece="82">31dc6cf986f616b24d701b134179b6d3b4987400</hash>
+          <hash piece="83">66b7ca2e84a40eafc96b96c0f5b3d4f5537e53de</hash>
+          <hash piece="84">62fcc8a9c7d8adadce6f162db7b077491ac3a8cc</hash>
+          <hash piece="85">b7aaffa3a970ed50575adf23dfe6fc582cdc2e13</hash>
+          <hash piece="86">090958b6697f5c5ed5c742616f8a6c46778face8</hash>
+          <hash piece="87">b326e726f50ab52eaf421fd443ddd0581c34e711</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" preference="100">http://cdd.64studio.com/releases/64studio/64studio_1.3.0_i386.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

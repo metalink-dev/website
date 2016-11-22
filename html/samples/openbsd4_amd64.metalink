@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/" generator="http://metalinks.sourceforge.net/">
+
+<files>
+	<file name="cd40.iso">
+		<size></size>
+		<os>BSD-x64</os>
+		<verification>
+		  <hash type="md5">1e918884b6af13925e37931735608c16</hash>
+		</verification>
+		<resources>
+			<url location="at" type="http">http://spargel.kd85.com/ftp/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="ar" type="http">http://openbsd.md5.com.ar/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="au" type="http">http://ftp.it.net.au/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="au" type="http">http://mirror.pacific.net.au/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="be" type="http">http://ftp.scarlet.be/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="be" type="http">http://ftp.belnet.be/packages/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="ca" type="http">http://gulus.USherbrooke.ca/pub/distro/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="dk" type="http">http://mirrors.dotsrc.org/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="dk" type="http">http://ftp.dkuug.dk/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="ee" type="http">http://ftp.aso.ee/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="fi" type="http">http://mirrors.nic.funet.fi/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="fi" type="http">http://ftp.jyu.fi/ftp/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="fr" type="http">http://ftp.arcane-networks.fr/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="de" type="http">http://mirror.paranoidbsd.org/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="gr" type="http">http://ftp.physics.auth.gr/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="gr" type="http">http://ftp.duth.gr/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="il" type="http">http://mirror.inter.net.il/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="it" type="http">http://ftp.unina.it/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="jp" type="http">http://ftp.jaist.ac.jp/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="jp" type="http">http://ftp.nara.wide.ad.jp/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="kr" type="http">http://ftp.kaist.ac.kr/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="lv" type="http">http://ftp.secure.lv/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="lv" type="http">http://ftp.bsd.lv/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="pl" type="http">http://ftp.task.gda.pl/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="ro" type="http">http://mirrors.evolva.ro/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="ro" type="http">http://mirrors.obs.utcluj.ro/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="ru" type="http">http://ftp.chg.ru/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url type="http">http://mirror.etf.bg.ac.yu/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="sp" type="http">http://sunsite.rediris.es/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="se" type="http">http://ftp.sunet.se/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="uk" type="http">http://ftp.public-internet.co.uk/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="uk" type="http">http://www.mirrorservice.org/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="http">http://mirror.sese.asu.edu/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="http">http://mirror.sg.depaul.edu/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="http">http://mirror.planetunix.net/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="http">http://osmirrors.cerias.purdue.edu/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="http">http://mirrors.24-7-solutions.net/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="http">http://openbsd.mirrors.pair.com/ftp/cd40.iso</url>
+			<url location="us" type="http">http://openbsd.secsup.org/cd40.iso</url>
+			<url location="us" type="http">http://openbsd.mirrors.tds.net/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="ca" type="ftp">ftp://ftp.openbsd.org/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="at" type="ftp">ftp://ftp.catai.net/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="at" type="ftp">ftp://spargel.kd85.com/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="de" type="ftp">ftp://openbsd.informatik.uni-erlangen.de/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="se" type="ftp">ftp://ftp.stacken.kth.se/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="ftp">ftp://ftp5.usa.openbsd.org/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="ftp">ftp://ftp3.usa.openbsd.org/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="ftp">ftp://rt.fm/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="ar" type="ftp">ftp://ftp.openbsd.md5.com.ar/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="au" type="ftp">ftp://ftp.it.net.au/mirrors/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="au" type="ftp">ftp://ftp.planetmirror.com/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="au" type="ftp">ftp://mirror.pacific.net.au/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="be" type="ftp">ftp://ftp.scarlet.be/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="be" type="ftp">ftp://ftp.belnet.be/packages/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="br" type="ftp">ftp://ftp.openbsd.org.br/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="bg" type="ftp">ftp://ftp.bg.openbsd.org/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="ca" type="ftp">ftp://mirror.arcticnetwork.ca/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="ca" type="ftp">ftp://ftp.ca.openbsd.org/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="dk" type="ftp">ftp://mirrors.dotsrc.org/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="dk" type="ftp">ftp://ftp.dkuug.dk/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="ee" type="ftp">ftp://ftp.aso.ee/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="fi" type="ftp">ftp://mirrors.nic.funet.fi/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="fi" type="ftp">ftp://ftp.jyu.fi/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="fr" type="ftp">ftp://ftp.arcane-networks.fr/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="fr" type="ftp">ftp://ftp.irisa.fr/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="de" type="ftp">ftp://ftp.freenet.de/pub/ftp.openbsd.org/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="de" type="ftp">ftp://ftp.bytemine.net/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="gr" type="ftp">ftp://filoktitis.noc.uoa.gr/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="gr" type="ftp">ftp://ftp.physics.auth.gr/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="gr" type="ftp">ftp://ftp.duth.gr/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="hu" type="ftp">ftp://ftp.fsn.hu/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="ie" type="ftp">ftp://ftp.esat.net/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="il" type="ftp">ftp://mirror.inter.net.il/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="it" type="ftp">ftp://ftp.unina.it/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="jp" type="ftp">ftp://ftp.netlab.is.tsukuba.ac.jp/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="jp" type="ftp">ftp://ftp.jaist.ac.jp/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="jp" type="ftp">ftp://ftp.nara.wide.ad.jp/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="jp" type="ftp">ftp://ftp.iij.ad.jp/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="jp" type="ftp">ftp://ftp.jp.openbsd.org/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="jp" type="ftp">ftp://ftp.kddlabs.co.jp/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="kr" type="ftp">ftp://ftp.kaist.ac.kr/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="lv" type="ftp">ftp://ftp.secure.lv/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="lv" type="ftp">ftp://ftp.bsd.lv/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="lt" type="ftp">ftp://ftp.openbsd.lt/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="nl" type="ftp">ftp://ftp.calyx.nl/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="nl" type="ftp">ftp://ftp.nluug.nl/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="no" type="ftp">ftp://ftp.inet.no/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="pl" type="ftp">ftp://sunsite.icm.edu.pl/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="pl" type="ftp">ftp://ftp.task.gda.pl/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="pt" type="ftp">ftp://ftp.fmed.uc.pt/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="ro" type="ftp">ftp://mirrors.evolva.ro/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="ro" type="ftp">ftp://mirrors.obs.utcluj.ro/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="ru" type="ftp">ftp://ftp.chg.ru/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="ru" type="ftp">ftp://ftp.radio-msu.net/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url type="ftp">ftp://mirror.etf.bg.ac.yu/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="za" type="ftp">ftp://ftp.is.co.za/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="es" type="ftp">ftp://ftp.rediris.es/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="se" type="ftp">ftp://ftp.su.se/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="se" type="ftp">ftp://ftp.btradianz.se/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="se" type="ftp">ftp://ftp.sunet.se/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="ch" type="ftp">ftp://mirror.switch.ch/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="tw" type="ftp">ftp://openbsd.cc.ntu.edu.tw/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="tw" type="ftp">ftp://ftp.tw.openbsd.org/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="uk" type="ftp">ftp://ftp.plig.org/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="uk" type="ftp">ftp://ftp.public-internet.co.uk/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="uk" type="ftp">ftp://ftp.mirrorservice.org/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="ftp">ftp://mirror.sese.asu.edu/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="ftp">ftp://mirror.sg.depaul.edu/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="ftp">ftp://mirror.planetunix.net/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="ftp">ftp://osmirrors.cerias.purdue.edu/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="ftp">ftp://mirror.iawnet.sandia.gov/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="ftp">ftp://ftp.cse.buffalo.edu/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="ftp">ftp://ftp.nyc.openbsd.org/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="ftp">ftp://mirrors.24-7-solutions.net/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="ftp">ftp://openbsd.mirrors.pair.com/cd40.iso</url>
+			<url location="us" type="ftp">ftp://openbsd.secsup.org/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+			<url location="us" type="ftp">ftp://openbsd.mirrors.tds.net/pub/OpenBSD/4.0/amd64/cd40.iso</url>
+		</resources>
+	</file>
+</files>
+</metalink>

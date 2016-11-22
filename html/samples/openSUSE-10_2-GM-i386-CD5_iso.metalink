@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/"
+  origin="http://metalink.packages.ro/download/download/opensuse/openSUSE-10.2-GM-i386-CD5.iso.metalink"
+  type="static" pubdate="2006-12-08-08:36:32"
+  generator="Metalink Gen - http://metalink.packages.ro" 
+  refreshdate="2006-12-08-08:36:32">
+  
+<!--
+  Metalink, an Open Standard, makes downloading easier by
+  bundling the various ways (FTP/HTTP/P2P) to get files into
+  one format for easier downloads, as well as bundling
+  checksums to automatically verify completed downloads.
+  Currently the following applications support this file:
+
+  - aria2 (Unix) [ http://aria2.sourceforge.net/ ]
+  - GetRight 6 (Windows) [ http://www.getright.com/ ]
+  - Speed Download (Mac) [ http://www.yazsoft.com/ ]
+  - wxDownload Fast (All)[ http://dfast.sourceforge.net/ ]
+
+  For further information please visit http://www.metalinker.org/.
+  For OpenSource metalinks, generated with the precious help of
+  RoEduNet Iasi, see http://download.packages.ro/metalinks/
+
+-->
+
+  <publisher>
+    <name>Package resources</name>
+    <url>http://www.packages.ro</url>
+  </publisher>
+  <license>
+    <name>GPL</name>
+    <url>http://www.gnu.org/copyleft/gpl.html</url>
+  </license>    
+  <description>OpenSuSE</description>
+  <tags>linux,suse,opensuse,distribution</tags>
+  <identity>openSUSE-10.2-GM-i386-CD5.iso</identity>
+  <version>10.2</version>
+
+  <files>  
+   <file name="openSUSE-10.2-GM-i386-CD5.iso">
+    
+     <os>Linux-x86</os>
+    
+    <size>639043584</size>
+		<verification>
+			<hash type="md5">c27ac70db02d6ac0122391431bbf223d</hash>
+			<hash type="sha1">37451d2f34448bbb2c5757187c06eb712410bf0d</hash>
+			<pieces length="4194304" type="sha1">
+				<hash piece="0">a6326e943380dae55d00553cb95fd3e6b03d5186</hash>
+				<hash piece="1">01c511eb5022d49d7913d501eb0d0229fe2803e3</hash>
+				<hash piece="2">f763fd331697ecf26e9b73637314a4647ca186de</hash>
+				<hash piece="3">a58c58e6647132834abd6d3f798c61f489250971</hash>
+				<hash piece="4">9ffc030b1bbbd64288ec3bf98a12364a7e56013b</hash>
+				<hash piece="5">4076059983022ea1b64ce80dab395210af98d79a</hash>
+				<hash piece="6">d7b34e116f9e01d036951636fc5669d16887a647</hash>
+				<hash piece="7">efeb56ca33846372e38554d9f02ef1b9bea51e38</hash>
+				<hash piece="8">f399020618bfe935d4c61c537c1f0bdea5a1fbc5</hash>
+				<hash piece="9">fd086b9e8846acaa192f60b1053cf54659127ec4</hash>
+				<hash piece="10">1e4dffa0407fd60475aa07f21ed86e534183813b</hash>
+				<hash piece="11">cec49d5b66fc4b93da7889fdccea6e273d1e09bf</hash>
+				<hash piece="12">e1fb023ea5e7917da7e229337dbbd0b7d9825843</hash>
+				<hash piece="13">d94d6ecce44bc75b66f3f3c1403bbf12f3d337da</hash>
+				<hash piece="14">1d04454590409514cfd020d28ecbb59d6c53f719</hash>
+				<hash piece="15">bb595cd6e4c2a41f3a29094cc096c8eb7ebad19b</hash>
+				<hash piece="16">cbde96e12daf947797b8faa25891250a9ce91e4e</hash>
+				<hash piece="17">dfb695b47710dd39adf179285bb26eba6c7dbc59</hash>
+				<hash piece="18">c9c10ef14b8fbe3e71a075e1ceb2d450bd9d8fc0</hash>
+				<hash piece="19">7e51837ffea6198000e9dee23770c8460a14f8e7</hash>
+				<hash piece="20">3cc6e59c6d0fc1e8abe0a14820fa531e25fd0c8a</hash>
+				<hash piece="21">2a4d7dfba036d29a3fb45d98b548cc3aedefa63c</hash>
+				<hash piece="22">b3e3c52a5ab4cddcad0e231da63f444e2564d11b</hash>
+				<hash piece="23">0f743744da1c71f623970e336393e4a3ac05f152</hash>
+				<hash piece="24">c59fb7783bfbdc43e44e2d3370973540b660d2cc</hash>
+				<hash piece="25">a3943179eea7f77a2498745feb0f7d303a82cbae</hash>
+				<hash piece="26">c2fa96c638347481cae1537d3227fb265b87bc0b</hash>
+				<hash piece="27">608c4ea5f2ee7839cbfdaf34f23abfa0f993a52e</hash>
+				<hash piece="28">a43daf8a76727ab977b2576e8efb62603a231965</hash>
+				<hash piece="29">44e41eb2c8719d723163b5034b8c7f280ae064e9</hash>
+				<hash piece="30">02b0b1e13bda48fcb3424765d78e7e3b3dc3c97d</hash>
+				<hash piece="31">3ac19b7edc622250ccdda7d3f65cc6be83a29908</hash>
+				<hash piece="32">2720044780a2095fd49d479f579b85724846e5b6</hash>
+				<hash piece="33">8028bb742d6a6ba861ccb81a68d6b6f9a3d6bf79</hash>
+				<hash piece="34">5ab9d993851853523f6d41f9490b6786424e8ef4</hash>
+				<hash piece="35">9d8d9218317e86799e965af0a4de72b0896997de</hash>
+				<hash piece="36">5a4abfe7af95cf1dc036391b2b0d98840f6ce6c0</hash>
+				<hash piece="37">f7ea8a4ef4c0673c97caebd4e0e45e9357258725</hash>
+				<hash piece="38">bf8bee5ae38d77dc47f97b0dc9f73588be0554eb</hash>
+				<hash piece="39">0a5d103bb15d1868f171dbef0bdb254e3614e807</hash>
+				<hash piece="40">ffa878dd8199cbd49d3ea6db4fba540a9f259703</hash>
+				<hash piece="41">3bb30e882165cb2566839095eea2000dc1ade298</hash>
+				<hash piece="42">e20900ff7f5a16c757a4f93fa1259f2bf458bf4e</hash>
+				<hash piece="43">c097d87a27def583d03341a8aef02c3827c263c9</hash>
+				<hash piece="44">de2e2e44a6e0d5a1d530608483501dfe747a63b7</hash>
+				<hash piece="45">675bfabbe0ebf737a3d8461187a33f8166a9f942</hash>
+				<hash piece="46">b60cd9ad370032cc5b80e464b2afe4a6e6ea2322</hash>
+				<hash piece="47">51bda5f1dc97ea8fd84fde5e6300fc923097c0e6</hash>
+				<hash piece="48">b8ac1641b96b5225971be2f0d116770984b4a515</hash>
+				<hash piece="49">0a7ad584ba5c52405cde75adc8e93611ac9e4f59</hash>
+				<hash piece="50">aaa4ebc0adb771cd4fa7425440b64a02519567a4</hash>
+				<hash piece="51">e6c110c1f30df5d0b206b721a89c5cb50a0c616b</hash>
+				<hash piece="52">e872ec1f1dcf024b3d43b606e62218fd04d30044</hash>
+				<hash piece="53">2b55a0db6bee8708fc223530574f1e473a2103ce</hash>
+				<hash piece="54">443351b6a84c0d239447b943925c3dfb65632274</hash>
+				<hash piece="55">080d1a14bad32542e57b698bed3339060c601a7d</hash>
+				<hash piece="56">4c8fd00a4a56e69ad13c7fb70178f70e2cbfa12d</hash>
+				<hash piece="57">3ebe9a4feca6c2ac6ef1cad01eed6c36712799c5</hash>
+				<hash piece="58">910e6e52b98474929f87501fb39e3ad1b06799cf</hash>
+				<hash piece="59">8b746926f9edee9cac9ec820efdd9ffbddbe6861</hash>
+				<hash piece="60">777c56016743f393675142d97884d03dcfb147f9</hash>
+				<hash piece="61">4897024ca200d89c9940d66821665f4a949b319d</hash>
+				<hash piece="62">af7b8cd6339ec917eb9027ef71d9eb61ffed82f6</hash>
+				<hash piece="63">28cc1e2b6e6f5fac07fbac138386a7b460e02415</hash>
+				<hash piece="64">47a6638780bf7ecaf1b68f228c2b083505bfe782</hash>
+				<hash piece="65">e71e0a326129f83de9a04868c947bd8386be1612</hash>
+				<hash piece="66">75662113c754ea9a8203994e1c3238bd4523e970</hash>
+				<hash piece="67">8eaeae19cbcfbc0805e6c7c567f5e0438bd82185</hash>
+				<hash piece="68">a2907d6d688f7de099806aa18d6644dc7e8bb4c7</hash>
+				<hash piece="69">2737d3b86e52a77b2ff211a2686476d2ffb7bba3</hash>
+				<hash piece="70">ab63dfdccb200d497151c65ca885a3245f7b2acd</hash>
+				<hash piece="71">6acc937ae3c9c3f964d482dda8306345c224eda6</hash>
+				<hash piece="72">fe0876f6847b416e555a9c78b1833f02822173e8</hash>
+				<hash piece="73">7476c54abe7c6f87a7385e26517059fe0dee3b93</hash>
+				<hash piece="74">d340f872e01adbb05a43348567f818bef8ab941c</hash>
+				<hash piece="75">4ba9bb666d4a4678dca1fcd94061d2244947ec58</hash>
+				<hash piece="76">2245220e28398ffca597599597c67711568c5875</hash>
+				<hash piece="77">166e2432fb4f019206faaa04b29c20b876f770cf</hash>
+				<hash piece="78">15763db6551d6be0871963ba4946017c1bd98e04</hash>
+				<hash piece="79">8436fd4e5a5336e30edf14fbc481643a2a33e9b8</hash>
+				<hash piece="80">83a660c61826af856c557c56291c4d1e6eb1b7f6</hash>
+				<hash piece="81">5afdc82edbc683bfc93033aa28979c4daedce0ca</hash>
+				<hash piece="82">33d1420818b79367c31f8d969495fae6060fd9df</hash>
+				<hash piece="83">a2916590bc96ae8bec70b9260aca84a21e50adfc</hash>
+				<hash piece="84">a0460b0b926a24421339e5ba13bf8a1c6eeea932</hash>
+				<hash piece="85">542ab786882632c7f91e675b021175e3c5630a51</hash>
+				<hash piece="86">9c680bc3033c8938bb3b7c2ddf8804e76c5e48a0</hash>
+				<hash piece="87">93ee748dd091c23d2e0d85390faf641ec212d382</hash>
+				<hash piece="88">54b359632ba2a67de7c199f1dda00f3236073bb6</hash>
+				<hash piece="89">50bb5da17b38cef4deba9f5bd2c5440ff71bf020</hash>
+				<hash piece="90">9f7a0f542cb9140880432fcb0adde32e52eec469</hash>
+				<hash piece="91">9a5c28750eadd0684783a02c79989ec6085eae30</hash>
+				<hash piece="92">c729b3be53402b772caa039662ecd634e6c64d44</hash>
+				<hash piece="93">77b5578f892fb013e9562dda394caab953f55b99</hash>
+				<hash piece="94">d7001dc0e918f687a54a4fe918f4c1bff7265c84</hash>
+				<hash piece="95">efe6b1f60eedc1bb2690aca674b34e41e34a929f</hash>
+				<hash piece="96">e339f151b431730df2e749f5d057ba15b54a523b</hash>
+				<hash piece="97">d8621352766499b317bee90ce31bea482c4d29c5</hash>
+				<hash piece="98">6969a34b6d5060074e6485430323c85854d7cf41</hash>
+				<hash piece="99">f6173641008299e24dd1fcc0d605981f4a840a5d</hash>
+				<hash piece="100">826493cbdb6794d143592880619df96760ed8144</hash>
+				<hash piece="101">e4351cf8e73522864c80ada6e1c761c11f0c4f6a</hash>
+				<hash piece="102">9fe1a7728462aaec5c256953bf9cfffee86034c4</hash>
+				<hash piece="103">db2f9c8d3edb3e65fa969fa0364a1b198e5f3454</hash>
+				<hash piece="104">e5092e9f96f0c5d0ff70ac3d1f5d3554738f69ef</hash>
+				<hash piece="105">dd6e9e048d6aa99187a4c8057ef2eeb340cb48fa</hash>
+				<hash piece="106">02b7577366f75db4e9d2169d0530252f3664258e</hash>
+				<hash piece="107">97d3d184bed04fd1e9b68c36e03286dbb31e2496</hash>
+				<hash piece="108">dbaa8f3aa4ef833fe6149938eb7b4361f80e7fa1</hash>
+				<hash piece="109">9f628bcdd04235e7f7d3b2cdd75fb950f00d0a21</hash>
+				<hash piece="110">36cdbf8e7b65ed7ba5922d903cdf59a95d0d3182</hash>
+				<hash piece="111">8a79b7046e4dacf26c7114d02aa85b027e1511cc</hash>
+				<hash piece="112">2ec5d6ab64a69c49b18c34f9b574217ad7decfce</hash>
+				<hash piece="113">a569173992cd040b33c4423ffc71d4eb0d0b81b1</hash>
+				<hash piece="114">e901dbf490c0f5d462b1874d958e94fe5abd678a</hash>
+				<hash piece="115">6e4b39ca76640f1d8bef58e40c43b751527b7d37</hash>
+				<hash piece="116">79425cc16ac4429d28e1ac6f422aacd984efabf2</hash>
+				<hash piece="117">0ce592f55fcbf8c5d535846245aa33e0e3ca5170</hash>
+				<hash piece="118">9417c414f575c70ab549629de3eb215a523b688e</hash>
+				<hash piece="119">6be21c7ef504ecadc70614ef385265594e25edf3</hash>
+				<hash piece="120">ad5049cbc9a91024c0d536e2e3ec4ff10ce73c33</hash>
+				<hash piece="121">a0305d5c45c47ed10c7eb7474507895a7b923b91</hash>
+				<hash piece="122">194b8e379bf71cbf2eaad0810a35021e0967a283</hash>
+				<hash piece="123">c43ca72f66d19a1afabbb8fe47a084886db03643</hash>
+				<hash piece="124">a4c027ae6229b9001ad9af28729108f2d13fa6c8</hash>
+				<hash piece="125">c7e06ff0cc11abb190b4bff06173a72c5f240c3e</hash>
+				<hash piece="126">6aed8c263b8d15a9faac8977d5c52d281034cde1</hash>
+				<hash piece="127">470376956d9786fb968538aba6fe31642079550c</hash>
+				<hash piece="128">f917758b3520c046a6ca4ac2aea67ad7df79e603</hash>
+				<hash piece="129">182cf5f7d44a0052bd158604821c94c6c59b7975</hash>
+				<hash piece="130">582366ed2cd8d3526d9781fe328f7295d2f2c3ef</hash>
+				<hash piece="131">5fbc9e26268de928ddde38f598fa6d55d116dec8</hash>
+				<hash piece="132">e969344366dcceb8d6f1db58926dd4720df27a4a</hash>
+				<hash piece="133">6d0cfc537655c53e7fe689a164972ef681ed1869</hash>
+				<hash piece="134">d3d5a063678a9228f2df6a3484861fe95c265179</hash>
+				<hash piece="135">eae8014f92c490871ee9f35d43d968e89d0e0384</hash>
+				<hash piece="136">b69c893e67d3119a28e2c940235826683379ff6c</hash>
+				<hash piece="137">5e2231bbf04c7b9d6b3cbacb826e0c86a8b589be</hash>
+				<hash piece="138">c7a913c9a8b76438d6b57b5dc3f38f9f85ea55be</hash>
+				<hash piece="139">eda1872a297af4c38bbf2c101222c371c4a20f20</hash>
+				<hash piece="140">0328df0581dbdd80ee7959835c372f38a1a78dbb</hash>
+				<hash piece="141">744a8ac0a0cdbcffb02a4d7ceb3b12f8deffd1f0</hash>
+				<hash piece="142">d56ea454d19d6204b249c7151e2642a4185571f8</hash>
+				<hash piece="143">9da292389812087613f7e6de3de79eece9230fcc</hash>
+				<hash piece="144">08c3244fd1cb729f758c6da68548ff90a529b6c4</hash>
+				<hash piece="145">3cd241f4a31edeb597f39b0f87a302d77b267715</hash>
+				<hash piece="146">a31eae2935e9a82272d93d9a433dac7896a439e9</hash>
+				<hash piece="147">056358224c98b9689960a89bf299ba4ed9309472</hash>
+				<hash piece="148">e033b2030a92480653fb2e05ddcfd4a88e39f37b</hash>
+				<hash piece="149">0c1ecabb5d934d7a88faaca7fff453d82e387b06</hash>
+				<hash piece="150">bf3f4bff67d3179023d719fded33ba220719c7e6</hash>
+				<hash piece="151">5613c4da2a87bc7a8add45123c142d634a981127</hash>
+				<hash piece="152">312203e6342d408549b320951e924541e35d53dc</hash>
+			</pieces>
+		</verification>
+    <resources>
+      
+     
+      <url type="http"
+           location="jp"
+           preference="10">
+       http://ftp.kddilabs.jp/Linux/packages/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="jp"
+           preference="10">
+       ftp://ftp.kddilabs.jp/Linux/packages/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="jp"
+           preference="10">
+       ftp://ftp.jaist.ac.jp/pub/Linux/openSUSE/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="jp"
+           preference="10">
+       http://ftp.jaist.ac.jp/pub/Linux/openSUSE/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="id"
+           preference="10">
+       http://suse.cbn.net.id/i386/10.0/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="tw"
+           preference="10">
+       ftp://ftp.isu.edu.tw/Linux/SuSE/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="ch"
+           preference="10">
+       http://mirror.switch.ch/ftp/mirror/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="ch"
+           preference="10">
+       ftp://mirror.switch.ch/mirror/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="ch"
+           preference="10">
+       http://opensuse.mirror.solnet.ch/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="ch"
+           preference="10">
+       ftp://ftp.solnet.ch/mirror/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="es"
+           preference="10">
+       http://suse.bifi.unizar.es/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="ro"
+           preference="10">
+       ftp://ftp.iasi.roedu.net/mirrors/opensuse.org/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="ro"
+           preference="10">
+       http://ftp.iasi.roedu.net/mirrors/opensuse.org/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="ro"
+           preference="10">
+       ftp://ftp.suse-linux.ro/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="ro"
+           preference="10">
+       http://ftp.suse-linux.ro/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="pt"
+           preference="10">
+       ftp://ftp.isr.ist.utl.pt/pub/MIRRORS/ftp.opensuse.org/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="pt"
+           preference="10">
+       http://ftp.isr.ist.utl.pt/pub/MIRRORS/ftp.opensuse.org/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="pl"
+           preference="10">
+       http://ftp.man.poznan.pl/pub/linux/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="pl"
+           preference="10">
+       ftp://ftp.man.poznan.pl/pub/linux/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="ie"
+           preference="10">
+       ftp://ftp.heanet.ie/mirrors/ftp.opensuse.org/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="ie"
+           preference="10">
+       http://ftp.heanet.ie/mirrors/ftp.opensuse.org/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="de"
+           preference="10">
+       http://suse.uni-leipzig.de/pub/ftp.opensuse.org/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://suse.uni-leipzig.de/pub/ftp.opensuse.org/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="de"
+           preference="10">
+       http://ftp.tu-chemnitz.de/pub/linux/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://ftp.tu-chemnitz.de/pub/linux/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://ftp.edelbluth.info/pub/suse/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://ftp.tech-sessions.com/pub/suse/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://ftp-opensuse.networkingpartner.de/pub/suse/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="10">
+       ftp://ftp.gwdg.de/pub/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="de"
+           preference="10">
+       http://ftp.gwdg.de/pub/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="cz"
+           preference="10">
+       http://mirror.karneval.cz/pub/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="cz"
+           preference="10">
+       ftp://ftp6.linux.cz/pub/linux/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="cz"
+           preference="10">
+       http://ftp.fi.muni.cz/pub/linux/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="cz"
+           preference="10">
+       ftp://ftp.fi.muni.cz/pub/linux/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="bg"
+           preference="10">
+       ftp://mirrors.netbg.com/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="be"
+           preference="10">
+       ftp://ftp.belnet.be/mirrors/ftp.opensuse.org/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="be"
+           preference="10">
+       http://ftp.belnet.be/mirrors/ftp.opensuse.org/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="at"
+           preference="10">
+       ftp://suse.itsoft.at/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="at"
+           preference="10">
+       http://suse.itsoft.at/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="at"
+           preference="10">
+       ftp://suse.inode.at/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="at"
+           preference="10">
+       http://suse.inode.at/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="at"
+           preference="10">
+       http://gd.tuwien.ac.at/opsys/linux/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="at"
+           preference="10">
+       ftp://gd.tuwien.ac.at/opsys/linux/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="cl"
+           preference="10">
+       ftp://ftp.suse.cl/pub/opensuse/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="jp"
+           preference="10">
+       ftp://ftp.novell.co.jp/pub/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="jp"
+           preference="10">
+       http://ftp.novell.co.jp/pub/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="ru"
+           preference="10">
+       ftp://ftp.chg.ru/pub/Linux/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="http"
+           location="ru"
+           preference="10">
+       http://ftp.chg.ru/pub/Linux/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      <url type="ftp"
+           location="de"
+           preference="50">
+       ftp://ftp.halifax.rwth-aachen.de/opensuse/distribution/openSUSE-stable/iso/cd/openSUSE-10.2-GM-i386-CD5.iso
+      </url>
+      
+       <url type="magnet" preference="90">
+         magnet:?xt=urn:sha1:G5CR2LZUISF3WLCXK4MHYBXLOESBBPYN&amp;xt=urn:tree:tiger:KRBVG7S2AHKZTA6KTQGJ3JEWVQZ577EYFHSTWNQ&amp;xt=urn:ed2k:493603536a80f624da1908d9c01439e1&amp;xt=urn:kzhash:dc74c0888289f10baf59d4fa0b5f09157219ff8760f435a093f5c679a7b4535f83572d7e&amp;xl=639043584&amp;dn=openSUSE-10.2-GM-i386-CD5.iso
+       </url>
+      
+      
+    </resources>
+   </file>
+  </files> 
+</metalink>

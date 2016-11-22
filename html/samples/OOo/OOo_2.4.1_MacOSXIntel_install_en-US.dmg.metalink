@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <identity>OpenOffice.org</identity>
+  <version>2.4.1</version>
+  <files>
+    <file name="OOo_2.4.1_MacOSXIntel_install_en-US.dmg">
+      <size>165410302</size>
+      <os>MacOSX-UB</os>
+      <verification>
+        <hash type="md5">dc9abf8cee3e7d478e4c3ebccca2a244</hash>
+        <hash type="sha1">786d22b5efdbe67e276dfb78c4682fd96609d14d</hash>
+        <hash type="sha256">c3ca5beae86a338ba14d909d739cbbdbd75dd16924eee72443d4f7f997e4899c</hash>
+        <pieces type="sha1" length="2097152">
+          <hash piece="0">30ba303a7aa83f16fcd39e86a2666dc560b4b548</hash>
+          <hash piece="1">0630c66858da66fc721357be7f43663342868606</hash>
+          <hash piece="2">70add4f9078ed19e830f53806e25e179fe30dafc</hash>
+          <hash piece="3">f1aefcd60014b12274c09cec734def9c514a7f4b</hash>
+          <hash piece="4">6deb6fd84792646aeb48b534e96205d0a14cca07</hash>
+          <hash piece="5">cbb4d786e646b248eb07cd4353b183517c410c28</hash>
+          <hash piece="6">23fba13c2e679fee5afa1d7c5ab6fd9dfe5b6f03</hash>
+          <hash piece="7">cc044459a6fb588b3cd37552db6a9e29c856d62f</hash>
+          <hash piece="8">9234a96e6ef26dd66e6cdef70c7ced0b2fc08a38</hash>
+          <hash piece="9">7c957bbc7eb877a8c81c904e0e3ae66a48a025c5</hash>
+          <hash piece="10">e5dabdab7a520d4f378bfde6775dac25ce0751e8</hash>
+          <hash piece="11">428ac1edda08eb26d43bcee31554ebfef2dac80e</hash>
+          <hash piece="12">ec370c96fd6c7b8c6c975660a9693e3e4cc4363d</hash>
+          <hash piece="13">d223e8035cd0456977593ba5484b7407cca6348a</hash>
+          <hash piece="14">fbae36fffe5bbb766e33ce626656a16d66972889</hash>
+          <hash piece="15">6159c2384c0de7f2b026a9c88c18c7576ea57183</hash>
+          <hash piece="16">6b12d536ae04ee3048a52b226675c34b1e929343</hash>
+          <hash piece="17">1a20f50dbf381e1e4abdb7c300642fc27b83060f</hash>
+          <hash piece="18">cdc72e0a74a64561c8a5709018580924b0993606</hash>
+          <hash piece="19">84ee06775d1777a26e7fb3a4d7cdcc3a2cbd5823</hash>
+          <hash piece="20">06d19103239bcae6f51f547ced6b414e6c226dbe</hash>
+          <hash piece="21">0d7e78c16919d2663336c2e3d9a8a2f44cfd4d5f</hash>
+          <hash piece="22">f647aaf042252615e3f60f0879c22f5ae8bbca93</hash>
+          <hash piece="23">77d89f9b1a1190b6139bc1e0d5ae41032d2690cc</hash>
+          <hash piece="24">6f6f2b1115ddb926de0846f3947bfb22cf4e88dc</hash>
+          <hash piece="25">2c38c9680935a3b024f9781e50d9fc8f5ca486df</hash>
+          <hash piece="26">010dc7f34d74e9310eb4ba3681f15473151df391</hash>
+          <hash piece="27">88480bd95aff6a6e04622a29a8977cf54192ede4</hash>
+          <hash piece="28">bf4eab6c151b97e826b7c5e2dba8c22fce81cd4f</hash>
+          <hash piece="29">9943d76eaca7eda381505d8dee696aa2992e3ae7</hash>
+          <hash piece="30">98dfc515318659173216a5583d245e8dcd145889</hash>
+          <hash piece="31">fd86679bb4f6598fc8d6b8b83acd3b90e3870f8b</hash>
+          <hash piece="32">d26f1b1367e97c09d13a7624bf99e5774c07bb10</hash>
+          <hash piece="33">04f848dcef33171224aaae9229becfb20b2f7ca5</hash>
+          <hash piece="34">08e1fa372c18e0090efbb0d1abf5adb7e9dfd398</hash>
+          <hash piece="35">445328ecee3060fc10d5fe4bc4a8cf859212a61f</hash>
+          <hash piece="36">6f543a75abe724ab6272e5452ab189cdb85b9a38</hash>
+          <hash piece="37">8f61bed98ef3c2b8b6099321c7238ee031d9e51f</hash>
+          <hash piece="38">46aeb5169281260aa4cb40667ab51a5588318bcd</hash>
+          <hash piece="39">0fd99e8b9105016cb025403765953820c23708a2</hash>
+          <hash piece="40">5bef8409203f7070f4fe29526bf650de6af57cca</hash>
+          <hash piece="41">df17ad292284d7a5d2e0a818cb8436651240c86f</hash>
+          <hash piece="42">178df04eb9dd113a77fc267fc0fcce567dc3f4b0</hash>
+          <hash piece="43">28d26e23f44cea7c795b76b7a5bf83161195be28</hash>
+          <hash piece="44">78604aeb2649d9f449d3bcecda6367f4a4b8eaa4</hash>
+          <hash piece="45">b59de35f08063b383f0dce3459afa307c568f1c6</hash>
+          <hash piece="46">1508dd4884ffd2be7cef06c7e28df78c1d56ee3e</hash>
+          <hash piece="47">30bc1c97acc75bd23a62b372f6cb791b050c1c4e</hash>
+          <hash piece="48">43841a99885982508d95cbc0e3684400792924f7</hash>
+          <hash piece="49">f4c2ed2ace1b23b880c28a1f31d4094ed384ea32</hash>
+          <hash piece="50">c7a4aee9274f72bb7256922dd81c2ae55988f208</hash>
+          <hash piece="51">5411289b73c2f31ac230d259bba027d1c721b183</hash>
+          <hash piece="52">de5e1b79296be704d201d718712c926a0b0e68e0</hash>
+          <hash piece="53">c7d850a5794d120f3592dad3fca4a1b45a0c762e</hash>
+          <hash piece="54">2fbb23089cb0c3b561f5d2a3cb18df9f0eab6703</hash>
+          <hash piece="55">795ed90e703081cb8a4b5bf611af1a2d4692831d</hash>
+          <hash piece="56">4df323d38a5074c281b261c6e0b8792db715658a</hash>
+          <hash piece="57">bf0fc1e361d50feaa5fe60e4c03a438c76e5b171</hash>
+          <hash piece="58">c4757785b84d20b817c852df39dab6683d33c4af</hash>
+          <hash piece="59">874c1df83d7f70a4944ecf3c4198f3474a60b4f9</hash>
+          <hash piece="60">e8b4186c792c34611a4d9f4174d4adf5b6d6f69b</hash>
+          <hash piece="61">d9438ce34e00813be4fb862af2b01f9cb1be9d9c</hash>
+          <hash piece="62">d757d25a3384f2369fbf9f90686e0cd0c44f7652</hash>
+          <hash piece="63">492abd55f0930950cba81fcda90ee2dbb9de03ef</hash>
+          <hash piece="64">0861c71c3bd540a1156df04ec2ee9b005ec0dd4b</hash>
+          <hash piece="65">c06823e37a256d799919a19c37ddf5f87b5a76b4</hash>
+          <hash piece="66">3adb400b58053d513dcba93f7b09e76b58498f4b</hash>
+          <hash piece="67">1dd36b9cea263a9d5ed0a0aad74db33b6ff073ff</hash>
+          <hash piece="68">ccc33ea1d0a606aaa2c179bd13ca3ebad1e5475d</hash>
+          <hash piece="69">8df9b8037758d143fea61393bb59313ba226d7c8</hash>
+          <hash piece="70">1dd93a371df6f01c71062d9a77a72c425da1adc1</hash>
+          <hash piece="71">ea3ec691cced16083164f5edd16abfc90ae971ae</hash>
+          <hash piece="72">77d8186a1a7d20513b97e49a3936a615fa119ab9</hash>
+          <hash piece="73">5457262a4d4c5cf5c5ce4cf3178393ff7067abd8</hash>
+          <hash piece="74">aeecf69093d4ab4dc90a2bf872ffc9b91dd7329f</hash>
+          <hash piece="75">cc2d57fa584e5955261b71d86e5120ae20f0d397</hash>
+          <hash piece="76">c49e8003c9c12fdb16f2b7e7dae22e0e4e0ef056</hash>
+          <hash piece="77">3e476cd9421e5101619bde81769b2b3990829c6d</hash>
+          <hash piece="78">e9ed264addcb07ac12f04048705517a75e922640</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="au" preference="30">ftp://mirror.pacific.net.au/OpenOffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="au" preference="30">http://mirror.pacific.net.au/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="au" preference="30">ftp://ftp.planetmirror.com/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="au" preference="30">http://planetmirror.com/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="at" preference="30">http://gd.tuwien.ac.at/office/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="at" preference="30">ftp://gd.tuwien.ac.at/office/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="be" preference="30">ftp://ftp.scarlet.be/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="be" preference="30">http://ftp.scarlet.be/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="rsync" location="be" preference="30">rsync://ftp.scarlet.be/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="be" preference="30">ftp://ftp.openoffice.skynet.be/pub/ftp.openoffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="br" preference="30">http://linorg.usp.br/OpenOffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="br" preference="20">ftp://ftp.pucpr.br/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="bg" preference="30">ftp://ftp.spnet.net/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="bg" preference="30">http://ftp.spnet.net/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="ca" preference="30">ftp://openoffice.mirror.rafal.ca/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="ca" preference="30">http://openoffice.mirror.rafal.ca/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="ca" preference="30">http://gulus.usherbrooke.ca/pub/appl/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="dk" preference="30">http://mirrors.dotsrc.org/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="dk" preference="30">ftp://mirrors.dotsrc.org/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="fr" preference="30">ftp://ftp.free.fr/mirrors/ftp.openoffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="fr" preference="20">ftp://openoffice.cict.fr/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="de" preference="20">ftp://ftp://ftp.tu-chemnitz.de/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="de" preference="30">ftp://ftp://ftp.gwdg.de/pub/misc/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="de" preference="30">http://http://ftp.gwdg.de/pub/misc/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="de" preference="30">ftp://sunsite.informatik.rwth-aachen.de/pub/mirror/OpenOffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="de" preference="30">ftp://ftp://ftp.uni-muenster.de/pub/software/OpenOffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="de" preference="30">http://ftp.rz.tu-bs.de/pub/mirror/OpenOffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="de" preference="30">ftp://ftp.rz.tu-bs.de/pub/mirror/OpenOffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="de" preference="20">ftp://ftp://ftp-stud.fht-esslingen.de/pub/tbl_mirrors/ftp.openoffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="de" preference="20">ftp://ftp://ftp.stardiv.de/pub/OpenOffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="de" preference="20">http://http://ftp.stardiv.de/pub/OpenOffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="de" preference="20">http://mirror.xaranet.de/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="gr" preference="30">http://www.ellak.gr/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="gr" preference="30">http://ftp.ntua.gr/pub/OpenOffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="gr" preference="30">ftp://ftp.ntua.gr/pub/OpenOffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="hu" preference="20">http://ftp.fsf.hu/OpenOffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="hu" preference="20">ftp://ftp.fsf.hu/OpenOffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="id" preference="20">http://openoffice.ugm.ac.id/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="ie" preference="30">ftp://ftp.heanet.ie/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="ie" preference="30">http://ftp.heanet.ie/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="rsync" location="ie" preference="30">rsync://ftp.heanet.ie/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="jp" preference="30">http://http://www.ring.gr.jp/archives/misc/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="jp" preference="30">ftp://ftp://ftp.ring.gr.jp/pub/misc/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="jp" preference="30">http://ftp.yz.yamagata-u.ac.jp/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="jp" preference="30">ftp://ftp.yz.yamagata-u.ac.jp/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="my" preference="20">http://mymirror.asiaosc.org/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="nl" preference="30">ftp://ftp.nluug.nl/pub/office/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="nl" preference="30">http://ftp.nluug.nl/pub/office/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="nl" preference="30">ftp://ftp.snt.utwente.nl/pub/software/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="nl" preference="30">http://vlaai.snt.utwente.nl/pub/software/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="pl" preference="30">ftp://ftp.man.poznan.pl/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="pl" preference="30">ftp://ftp://ftp.openoffice.pl/OpenOffice.ORG/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="pl" preference="30">http://ftp.tpnet.pl/vol/d9/OpenOffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="pl" preference="30">ftp://ftp.tpnet.pl/d9/OpenOffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="pt" preference="20">ftp://neacm.fe.up.pt/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="pt" preference="20">http://neacm.fe.up.pt/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="ro" preference="30">ftp://mirrors.evolva.ro/openoffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="ro" preference="30">ftp://ftp.iasi.roedu.net/pub/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="ro" preference="20">http://ftp.iasi.roedu.net/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="ro" preference="20">ftp://ftp.idilis.ro/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="ro" preference="20">http://ftp.idilis.ro/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="ru" preference="30">ftp://ftp.chg.ru/pub/OpenOffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="ru" preference="30">http://ftp.chg.ru/pub/OpenOffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" preference="20">ftp://mirror.etf.bg.ac.yu/openoffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" preference="20">http://mirror.etf.bg.ac.yu/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="sg" preference="20">ftp://mirror.averse.net/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="sg" preference="20">http://mirror.averse.net/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="si" preference="10">ftp://ftp.bevc.net/mirrors/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="si" preference="10">http://mirrors.bevc.net/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="si" preference="20">http://www.wsection.com/OpenOffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="za" preference="10">ftp://ftp://ftp.is.co.za/mirrors/OpenOffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="kr" preference="30">ftp://ftp://ftp.kr.freebsd.org/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="es" preference="30">http://sunsite.rediris.es/mirror/openoffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="es" preference="30">ftp://ftp.rediris.es/mirror/openoffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="se" preference="30">ftp://http://ftp.sunet.se/pub/Office/OpenOffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="ch" preference="30">ftp://ftp.solnet.ch/mirror/OpenOffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="ch" preference="30">http://mirror.switch.ch/ftp/mirror/OpenOffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="ch" preference="30">ftp://mirror.switch.ch/mirror/OpenOffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="tw" preference="30">ftp://ftp.isu.edu.tw/pub/OpenOffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="tw" preference="30">http://ftp.isu.edu.tw/pub/OpenOffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="gb" preference="30">ftp://ftp.mirrorservice.org/sites/ny1.mirror.openoffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="gb" preference="30">http://www.mirrorservice.org/sites/ny1.mirror.openoffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="gb" preference="30">ftp://mirrors.blueyonder.co.uk/sites/openoffice.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="gb" preference="30">http://openoffice.blueyonder.co.uk/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="gb" preference="30">ftp://ftp.mirror.ac.uk/mirror/sunsite.dk/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="gb" preference="30">http://www.mirror.ac.uk/mirror/sunsite.dk/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="us" preference="30">ftp://ftp.ussg.iu.edu/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="us" preference="30">ftp://openofficeorg.secsup.org/pub/software/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="us" preference="30">http://openofficeorg.secsup.org/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="us" preference="30">ftp://ftp.osuosl.org/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="us" preference="30">http://ftp.osuosl.org/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="us" preference="30">http://mirrors.ibiblio.org/pub/mirrors/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="us" preference="30">ftp://mirrors.ibiblio.org/pub/mirrors/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="us" preference="30">http://mirrors.isc.org/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="us" preference="30">ftp://openoffice.mirrors.pair.com/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="us" preference="30">http://openoffice.mirrors.pair.com/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="us" preference="30">http://openoffice.takiweb.com/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="ftp" location="us" preference="30">ftp://openoffice.mirrors.tds.net/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="us" preference="30">http://openoffice.mirrors.tds.net/pub/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+        <url type="http" location="us" preference="10">http://mirrors.wehost4u.net/openoffice/stable/2.4.1/OOo_2.4.1_MacOSXIntel_install_en-US.dmg</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

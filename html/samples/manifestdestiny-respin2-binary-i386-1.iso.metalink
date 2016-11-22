@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.0.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>White Box Linux</name>
+    <url>http://www.whiteboxlinux.org/</url>
+  </publisher>
+  <identity>White Box Enterprise Linux</identity>
+  <version>4respin2</version>
+  <description>This product is derived from the Free/Open Source Software made available by Red Hat, Inc but IS NOT produced, maintained or supported by Red Hat.</description>
+  <files>
+    <file name="manifestdestiny-respin2-binary-i386-1.iso">
+      <size>687329280</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">06aed0c7116a27d36d5997f7a6c7c978</hash>
+        <hash type="sha1">9d1b2e897c526e6c642bdc579edd90c5670f88f1</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">b56eb6940ebc597b53728c795d3d7f5a9ae12a4c</hash>
+          <hash piece="1">eab23674c072285fb72c0fbaa7c5f49f96c4b89f</hash>
+          <hash piece="2">2708ca26953b1837a34ac2f6158fde37fbb7ff9b</hash>
+          <hash piece="3">fd69a8a19871f344c34597fc38a523baa018e33c</hash>
+          <hash piece="4">cea714bf299e3a10f7d02c6f1d4341638313cbc8</hash>
+          <hash piece="5">38329fbca93cd9e6e5e51bc586513c0936bbfea1</hash>
+          <hash piece="6">e99c51fd0ef344a26490938e57881e5dcce0dfa9</hash>
+          <hash piece="7">f546044c40687330ac2b2abb529cff3ec6e5fb4f</hash>
+          <hash piece="8">48b43cf904d9438803997046566bcf5e9bfb673f</hash>
+          <hash piece="9">438303c9bc43c95f803460079a43e506751354a7</hash>
+          <hash piece="10">11a782c4675dcb33aee58f26ed8097a1a2bb063b</hash>
+          <hash piece="11">bb7a9eaa147ca0a1a8c2fbbd62a850d666e6c707</hash>
+          <hash piece="12">54acd5cb80992000334175246cd2af9e08e45a43</hash>
+          <hash piece="13">b4b19403a58d0f3f3294b648cb1d6f0ba3cea976</hash>
+          <hash piece="14">d893c30e5f1b5f5f329c187d905f7b702d25d229</hash>
+          <hash piece="15">abc42bdf2b27e0e6b4e1132e815e431d1f63437c</hash>
+          <hash piece="16">0fbb85a277ab0422cd2d0fdb50c7216359558531</hash>
+          <hash piece="17">142e4e108f301b2db748641a96b2b18a1ae54ccc</hash>
+          <hash piece="18">6b7b1f7a08d022eff266a716933e666ec5f3cc1b</hash>
+          <hash piece="19">6b67108673dfaa51320787f7f206de1e54818662</hash>
+          <hash piece="20">bac745247e10c27a896fad96ef482109624fbcb1</hash>
+          <hash piece="21">219da731c34c8060cf5dc6723470869ef94c3405</hash>
+          <hash piece="22">2f9d5829e1aa1776cce0929aa92baaf55b4d150b</hash>
+          <hash piece="23">871f25936dbde9ebf0fcea6a8b39b5cd094515cb</hash>
+          <hash piece="24">952042394e36e21d1f98ddd9fc1874b201317c00</hash>
+          <hash piece="25">4554298b8b1570abe291c57384ffced871ca5174</hash>
+          <hash piece="26">8c66c9f3cdadee05ef3fa55dcac3c9f1c63ff339</hash>
+          <hash piece="27">ae91a67a43815ea0936ef5b1df62ccdc402fb13a</hash>
+          <hash piece="28">75d3a5e5076c14139fd749a4a4992c0a5e28f0b7</hash>
+          <hash piece="29">59f61634fbdd548df6b180dee1bbf7fddab1444d</hash>
+          <hash piece="30">77be90445971a1e5031b888c4eebdad0db476cb4</hash>
+          <hash piece="31">feeb02546f9002a635253345f5b6af70b08d1b22</hash>
+          <hash piece="32">8eb1c44b8f301aa452be6617488e8db6c37d807b</hash>
+          <hash piece="33">aa3fa623db6d319563d647e7ce6d105300f32658</hash>
+          <hash piece="34">152c7e8222d12a761c976dfeac18cdfdb15e6f9c</hash>
+          <hash piece="35">7e30269eb2dd2c933aef46f9a3c9e8dec4059647</hash>
+          <hash piece="36">97cf9f07fc06aa0ec7d241e692651593ebab8c36</hash>
+          <hash piece="37">83d2ae3f8ab4a931da5936a6cec93887482377a3</hash>
+          <hash piece="38">adc551359d44ac75585ce07f26db1386eadfb5ef</hash>
+          <hash piece="39">d1856b111520520ccbc5ee29beb3820641ed3a51</hash>
+          <hash piece="40">c42c61fc977ca2658696bf06a005853e0b80468d</hash>
+          <hash piece="41">1be45da9cdf4344449f70c5ba927e187c4887d94</hash>
+          <hash piece="42">65f88413604248425835848418004d101162fa73</hash>
+          <hash piece="43">3361c56916d5dc7b2f5d07cdee795056d41624c7</hash>
+          <hash piece="44">a26378b8a1dbfdae78c1ae581be41eddccf72170</hash>
+          <hash piece="45">445876073d3170ae0f3feedcb75425e57de572ab</hash>
+          <hash piece="46">fcd7124df68dafdea8a0b4698d729e9ebcd57ea8</hash>
+          <hash piece="47">6c7f56d297f67a1b1a0863e115e6a32e727f87ff</hash>
+          <hash piece="48">8223ec51cda7219848d9db5764ace1914e9cc39d</hash>
+          <hash piece="49">d24bff6e5c143b0b71a8105481c1e9853364a7db</hash>
+          <hash piece="50">89ac228b587df1d52f7559abc755e87f0b609184</hash>
+          <hash piece="51">c45ebd7442759b419ad6752cbcecaa7e475bf2d5</hash>
+          <hash piece="52">f8f6bb7754464d59a24978d907d244bfddd89bdf</hash>
+          <hash piece="53">9757ce78e61304276946b4bc599ff51e593886f6</hash>
+          <hash piece="54">27450ca144dfe9176e0be211137ad09696a1e596</hash>
+          <hash piece="55">6b179c2e3093510012ace7e92d6098d0a758f7b4</hash>
+          <hash piece="56">9adffacb4a1c46c7a308319028317ba71ce9e2f0</hash>
+          <hash piece="57">0a851e02d888da7e5e673ff8888b1f574e4471e9</hash>
+          <hash piece="58">1f42abf0433f10415bc2255531b6f0cebecd0d40</hash>
+          <hash piece="59">b6e155b22eb077fc6633c0c33f21f05db0340eb4</hash>
+          <hash piece="60">545b20492742f684d7bafff703647ade1f5c7be0</hash>
+          <hash piece="61">5cd634dbeb0ba8b2e4375244b193c28832a050a8</hash>
+          <hash piece="62">e10e3d17147f572580cfab1c6aa179fe2d130ab7</hash>
+          <hash piece="63">ab4f96216b5112c9418bba23d5154f72a73d739c</hash>
+          <hash piece="64">d096fe525813da8be3ccfca8c3d65e98d45e1b1a</hash>
+          <hash piece="65">7ab465be9d26ba624059a56dd47d1b654735432f</hash>
+          <hash piece="66">3a4442ae8a81a27675d7e220000d403eff950e95</hash>
+          <hash piece="67">5c53666d537fa519802293fc86d814163c874ad1</hash>
+          <hash piece="68">289a2050c2cf27b1cc691f1c88a201ce897bac67</hash>
+          <hash piece="69">f6d9e4e2abe3e43fb0110836b6e5321624377144</hash>
+          <hash piece="70">deefba5c78d9c271f559278b9f500ed268b6774c</hash>
+          <hash piece="71">4cb13b469b6f0b55257fcffe1dad46ad9b01246d</hash>
+          <hash piece="72">b44cbb050c5071f2bc9908630dfc4bb32bd3d6b3</hash>
+          <hash piece="73">79d55f7e892d84f78dde43b96e9d42e97d242135</hash>
+          <hash piece="74">d3e9201d2c99296b31df32bccb258a7433e70004</hash>
+          <hash piece="75">b47ac7d98e4a62bfac0203d23ef47876cb7d3d57</hash>
+          <hash piece="76">690fff304b48593b7d56d57312fc5a324c9c1e0e</hash>
+          <hash piece="77">e148bda8f617aa271641615277784d168fbf122b</hash>
+          <hash piece="78">f7c9947af2bdbab033d9eda9980f63092d74a4b5</hash>
+          <hash piece="79">2500cb623afdf7ebd70651fd3e97ca19eceb1a49</hash>
+          <hash piece="80">8b4164e0eed28a4958846801594cc60dcc00246a</hash>
+          <hash piece="81">6469a9fbcb9e40ac6962fae3d2c40cf10649ac63</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp">ftp://ftp.esat.net/mirrors/whiteboxlinux.org//4/en/iso/i386/manifestdestiny-respin2-binary-i386-1.iso</url>
+        <url type="ftp" location="us">ftp://ftp.gtlib.gatech.edu/pub/whitebox/4/en/iso/i386/manifestdestiny-respin2-binary-i386-1.iso</url>
+        <url type="ftp">ftp://ftp.kspei.com/mirrors/whiteboxlinux.org/whitebox/4/en/iso/i386/manifestdestiny-respin2-binary-i386-1.iso</url>
+        <url type="ftp" location="us">ftp://ftp.jach.hawaii.edu/pub/linux/whitebox/4/en/iso/i386/manifestdestiny-respin2-binary-i386-1.iso</url>
+        <url type="ftp" location="at">ftp://gd.tuwien.ac.at/opsys/linux/whiteboxlinux//4/en/iso/i386/manifestdestiny-respin2-binary-i386-1.iso</url>
+        <url type="ftp" location="be">ftp://ftp.belnet.be/packages/whiteboxlinux/4/en/iso/i386/manifestdestiny-respin2-binary-i386-1.iso</url>
+        <url type="ftp" location="ca">ftp://mirror.cpsc.ucalgary.ca/mirror/whiteboxlinux.org/4/en/iso/i386/manifestdestiny-respin2-binary-i386-1.iso</url>
+        <url type="ftp">ftp://ftp.ale.org/mirrors/whitebox//4/en/iso/i386/manifestdestiny-respin2-binary-i386-1.iso</url>
+        <url type="ftp" location="jp">ftp://ftp.riken.jp/Linux/whitebox/4/en/iso/i386/manifestdestiny-respin2-binary-i386-1.iso</url>
+        <url type="ftp" location="us">ftp://mirror3.cs.wisc.edu/pub/mirrors/linux/whiteboxlinux.org/4/en/iso/i386/manifestdestiny-respin2-binary-i386-1.iso</url>
+        <url type="http">http://www.opensourcemirrors.org/whitebox/4/en/iso/i386/manifestdestiny-respin2-binary-i386-1.iso</url>
+        <url type="ftp">ftp://mirror.netseoul.com/pub/whitebox/4/en/iso/i386/manifestdestiny-respin2-binary-i386-1.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

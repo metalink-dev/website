@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.0.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Bluewhite64</name>
+    <url>http://www.bluewhite64.com/</url>
+  </publisher>
+  <identity>Bluewhite64</identity>
+  <version>11.0</version>
+  <description>Bluewhite64 Linux Live CD is an unofficial port of Slackware Linux to the x86_64 processor architectures.</description>
+  <files>
+    <file name="Bluewhite64-11.0-LiveCD-r1.iso">
+      <size>734982144</size>
+      <os>Linux-x64</os>
+      <verification>
+        <hash type="md5">e99c75b583c06bf10e39ea5f0dd65cc2</hash>
+        <hash type="sha1">87316ef7b36e88e7f624264a39f4079ed174d489</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">68ff0127e5b8a683605736d2f2f200be2c014f33</hash>
+          <hash piece="1">a8aa6876a7666b651f44d7313bac47c0f2516e02</hash>
+          <hash piece="2">aa3fc10a4ba8fa6bb2823799fdabfdfec3cfdb0e</hash>
+          <hash piece="3">382d683f221b8ee8d66bf52faea42eeb90099d09</hash>
+          <hash piece="4">555d1900701b4536af367c87a0ae6c108885e35f</hash>
+          <hash piece="5">2dc72cbaaf682e598153d6e6f3471d0b26a6fa95</hash>
+          <hash piece="6">cd557116652c0ab0650b518bef14091bd6200709</hash>
+          <hash piece="7">f229ce86c5d3cb25704054402dad071db889ced7</hash>
+          <hash piece="8">1a76035c6becca1d7bc36db5ad503ca8b1c564c4</hash>
+          <hash piece="9">056f7ef652fa89a35051492168ffd8d9d61fe6ad</hash>
+          <hash piece="10">a34d927ca6d3f434a6b246385d1ecad6418d13fa</hash>
+          <hash piece="11">429e1c2d7f34f0b58b71824136cdc6472aed0e4b</hash>
+          <hash piece="12">f7151f329451713397ffe4cdcea8b492b88d775a</hash>
+          <hash piece="13">75bdfe717bcbfef48a96f1e7fb5b7f4c9e1f2b14</hash>
+          <hash piece="14">2e60f12b4cd79e9c138017b63a80bd839d43a505</hash>
+          <hash piece="15">6ff28403f41fa0f0232d2a1ca776c4babf83ea3e</hash>
+          <hash piece="16">25cfff434d9ec30df56bfbcd3472115448ba9778</hash>
+          <hash piece="17">916b5ba2a03dacb7b6e27ecdd4d49b7c858654a7</hash>
+          <hash piece="18">0af6bcd0a43c52c5e4a4e2546724177dfb5849c0</hash>
+          <hash piece="19">e45116b16cdcdbffcb7ef813c5f0a30dcf814983</hash>
+          <hash piece="20">9bff03eeb20bf4f2eb7825ee24c1afba8d1ca62f</hash>
+          <hash piece="21">8a6895ebafe66066e71b0e2df41fc266ee596c2a</hash>
+          <hash piece="22">fc029e5410b21108b7fad3f0714429afeaba6fd6</hash>
+          <hash piece="23">7562aaf6efa5549b41dcc0378e1ce7ed87ed62a3</hash>
+          <hash piece="24">dbe27eb165545349e5e77c77eb1f2eac5e3bfcd6</hash>
+          <hash piece="25">d167d14beb67395c8defa237b71e095ffd6ca33f</hash>
+          <hash piece="26">ca24ac3976fb3d14ab69999377face12ca916a59</hash>
+          <hash piece="27">a2cf740bf5cd86e370f075bd3533d3c15ef888a7</hash>
+          <hash piece="28">e72c3bc720eb4fa21881ad886c2c86462ae6b3fa</hash>
+          <hash piece="29">4087715101c0cef5df072541e34cde948baca6df</hash>
+          <hash piece="30">97b42377eae1cf4032647859adc36978366b8af4</hash>
+          <hash piece="31">1cdd0e208bbfd928ddb1a357baca51e0f594cded</hash>
+          <hash piece="32">657bd4fee4194d8312e005569553d5b18ac5d256</hash>
+          <hash piece="33">03f1d9f5abed1878d377be7a6d0b374c8daf193e</hash>
+          <hash piece="34">b6912a803494ee1eefc314dd871689e07c75b230</hash>
+          <hash piece="35">2af1ea0d381399cad024a9d823dabeb7474ae515</hash>
+          <hash piece="36">0474744b6253816583be04068d0d69da98cf1e1e</hash>
+          <hash piece="37">93fff451b87c3d49a1ebdc47e9cace60a56f5fa8</hash>
+          <hash piece="38">21e8302c297173e2e9afc63c249111d78bcba564</hash>
+          <hash piece="39">08b2e25f3c8cd00211b393c218fca9f2feb0f699</hash>
+          <hash piece="40">1f3eb2111e251f45006a8f97744ba1b04c784b53</hash>
+          <hash piece="41">58b83388033e23b1ef132eadd536412f8bd543e0</hash>
+          <hash piece="42">34b9340a5c689e53f6d443ee0bfc1c34fd17ed26</hash>
+          <hash piece="43">f341826d850dce6f5aa57163948849d00f2e6a46</hash>
+          <hash piece="44">ac5bf13e06b0424c9c896561a1ad76ba21b33c8b</hash>
+          <hash piece="45">57b319f6ca7894a1cb9aac5188b6fc4c7d12c7d1</hash>
+          <hash piece="46">aee5c6c511e14faebd3cff19c43b16aed22b9303</hash>
+          <hash piece="47">28ef3abfff4786fa4c3a8c0e993fe5e99839d844</hash>
+          <hash piece="48">8f3f703aa882fde8b27718f0e61e3c8837d84442</hash>
+          <hash piece="49">f4e89c06664d3fa96446962f522718b3f06d30cd</hash>
+          <hash piece="50">30df23f261ea8510c062768b31de7dda986a3835</hash>
+          <hash piece="51">077a4b95da9817ea4374276a87de34109de4da8a</hash>
+          <hash piece="52">228fc3c60399edbadec674cdb6bd4b8f83b781a1</hash>
+          <hash piece="53">d1efe9ec9663424bbccdd03bf589d45e48a1b600</hash>
+          <hash piece="54">629de93e7e67b93ff4fa1e75fde4e4840075c648</hash>
+          <hash piece="55">efd81e43c82e6d946f96fb87db016c94f3d0c8ff</hash>
+          <hash piece="56">4bac11e2e6ea439957036b08b810256857496db2</hash>
+          <hash piece="57">df5e69a62edeb1e3e161215bce43a5f088766fff</hash>
+          <hash piece="58">d38c9ef05c9472815e4091fe1b2ac34640e95903</hash>
+          <hash piece="59">051fc995a26371b71e3216985dcc5150d9e5fc5e</hash>
+          <hash piece="60">02bff794315202b5d4e9e21f20466b8065c6a29f</hash>
+          <hash piece="61">8ba5eb3edf5771cde3e31adbfa7b5437ff743cde</hash>
+          <hash piece="62">eebeb8a72fa5ae58a00531017190e6e44a9855ff</hash>
+          <hash piece="63">7813a8439e3c0a77222880375d9759fe9aab3a10</hash>
+          <hash piece="64">5129590e972320a119308b19b0732875db3cd95f</hash>
+          <hash piece="65">5c484c6205526d8c52a2d7cb91f62a8c4a87a6a0</hash>
+          <hash piece="66">5cef50c2e0b41f9bae487d2e2d632bdd70e0f41e</hash>
+          <hash piece="67">857f9423a440094e5b9e45f6d2c9b899b44d5b65</hash>
+          <hash piece="68">0815c0c9afa2b027e870b1e612d90747f95bc4ff</hash>
+          <hash piece="69">13cd463ddba5fb23fb28c1edf523f7760eb84780</hash>
+          <hash piece="70">6a3ba8e82a3330f42eb18abc28d5571391f67d2c</hash>
+          <hash piece="71">bd6313155c2b68c5eddea962d2b6659c1dbc585e</hash>
+          <hash piece="72">41a8b08efa739cf636172eadfd2460182b9509ef</hash>
+          <hash piece="73">eec4196622b6602e6aba806f86b40376476c9068</hash>
+          <hash piece="74">3852b4a4244b16d798817e37866f471968ac4770</hash>
+          <hash piece="75">98105268f488f8406d1436c9ff6195ccbfd5b6cc</hash>
+          <hash piece="76">adcfd3c8db557166d6a93fd3dff6d615de8dcb48</hash>
+          <hash piece="77">0e771075ba449fc1f9c504eeb30d907b66c7e125</hash>
+          <hash piece="78">40233cc397dc8e1a8277a1f0d9c83cab72d6a626</hash>
+          <hash piece="79">6821f02fef53c579d0cac9aa583bd5cf959b844b</hash>
+          <hash piece="80">affdfbb0a970c3c1188e7239be5018e1186bbdff</hash>
+          <hash piece="81">1fcd5f037a7e477a69808d0717fc6aa93667e416</hash>
+          <hash piece="82">86d4d1bc5672761fedb5ef80bb5ce6eae94d71d3</hash>
+          <hash piece="83">277c3d73a1efaabd7f7ae0bae5862d8902e01b42</hash>
+          <hash piece="84">908c91dab0c0b05c900c8899f1fa87bbcc8eeca5</hash>
+          <hash piece="85">9e3bd54d6392a6e8d68ae0ce5aecb3f9cd67380b</hash>
+          <hash piece="86">bc273ed42aeefecfcca2f00914d230900047709e</hash>
+          <hash piece="87">20cd5c2d6025262763535cb0c4204827f0d424cd</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="at" preference="100">http://mirror.inode.at/data/bluewhite64/bluewhite64-11.0-LiveCD-iso/Bluewhite64-11.0-LiveCD-r1.iso</url>
+        <url type="http" location="ro" preference="100">http://ftp.roedu.net/mirrors/bluewhite64.com/bluewhite64-11.0-LiveCD-iso/Bluewhite64-11.0-LiveCD-r1.iso</url>
+        <url type="ftp" location="ro" preference="100">ftp://ftp.roedu.net/pub/mirrors/bluewhite64.com/bluewhite64-11.0-LiveCD-iso/Bluewhite64-11.0-LiveCD-r1.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

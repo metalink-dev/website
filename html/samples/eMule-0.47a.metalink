@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <files>
+    <file name="eMule0.47a-Installer.exe">
+      <version>0.47a</version>
+      <os>Windows-x86</os>
+      <verification>
+        <hash type="md5">22713312ee56b681797ed50429049774</hash>
+      </verification>
+      <resources>
+        <url type="ed2k">ed2k://|file|eMule0.47a-Installer.[content.emule-project.net].exe|4677596|00132401F761997C79E4C9DC32D9BD95|h=A6Z3DZJPZJYZRFZOAFFL63ZKU2ZKLU6S|/</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.freenet.de/pub/.disk3/filepilot/windows/filesharing/emule/eMule0.47a-Installer.exe</url>
+        <url type="ftp" location="pl" preference="100">ftp://ftp.komputerswiat.pl/programy/internetowe/p2p/emule/emule0.47a-installer.exe</url>
+        <url type="http" preference="100">http://dl.afterdawn.com/eMule0.47a-Installer.exe</url>
+        <url type="http" preference="100">http://dl.softportal.com/load/eMule0.47a-Installer.exe</url>
+        <url type="http" preference="100">http://download.freewarefiles.com/files/eMule0.47a-Installer.exe</url>
+        <url type="http" location="cz" preference="100">http://download.slunecnice.cz/slunecnice/win/e/eMule0.47a-Installer.exe</url>
+        <url type="http" preference="100">http://filesharingdownloads.com/p2pclients/ED2K/eMule/eMule0.47a-Installer.exe</url>
+        <url type="http" location="de" preference="100">http://ftp.freenet.de/pub/filepilot/windows/filesharing/emule/eMule0.47a-Installer.exe</url>
+        <url type="http" location="tw" preference="100">http://ftp.isu.edu.tw/pub/Windows/softking/soft/en/e/eMule0.47a-Installer.exe</url>
+        <url type="http" location="it" preference="100">http://www.emule-italia.it/download/eMule0.47a-Installer.exe</url>
+        <url type="http" location="br" preference="100">http://www.gratis.com.br/arquivos/distrib/457/eMule0.47a-Installer.exe</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

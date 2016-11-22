@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.0.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Catix</name>
+    <url>http://www.catix.cat/</url>
+  </publisher>
+  <identity>Catix</identity>
+  <version>1.3</version>
+  <description>Catix is a Debian-based live DVD with support for Catalan, a widely-used language spoken in Spain's Catalonia and some neighbouring regions.</description>
+  <files>
+    <file name="catix-1.3-amd64.iso">
+      <size>1772036096</size>
+      <os>Linux-x64</os>
+      <verification>
+        <hash type="md5">7536f0c6055d8ccdf9057c2cb0ed6b93</hash>
+        <hash type="sha1">dc62ece0a2195eb9659ce3ddaa2bb5ee779621d4</hash>
+        <pieces type="sha1" length="16777216">
+          <hash piece="0">a1fa7e4a1cf188aa9aa567e52269d06faf74e478</hash>
+          <hash piece="1">842ce4deefdc19b23c2ada9348dadae9d91aa32e</hash>
+          <hash piece="2">a38bb728881d3214acf1a109c41a0193156ddf25</hash>
+          <hash piece="3">1ab94a9bc94b40b26b2b4475b633955ebdeb70c9</hash>
+          <hash piece="4">5cc151d3ebe6cda9b982aedc2a20c54f8a405aa3</hash>
+          <hash piece="5">8adc2085dfffa720e716cca6efbc1d8178421137</hash>
+          <hash piece="6">42f62fdfc96e2bb6d79db515c148f0f6327b7ae4</hash>
+          <hash piece="7">caa2e8c4b1d3ed43ac2fd701e28ef63a6b40e23e</hash>
+          <hash piece="8">7535fcf733762770a9aef5db706827b02b6795a1</hash>
+          <hash piece="9">c587f2e462235bf47d1d8dd81ec1e41c81d8eec0</hash>
+          <hash piece="10">56b07794f2d1e41807a3957fff8c675c83bb5ade</hash>
+          <hash piece="11">b9a51e1826fb953171a106f79d9a0bca51fbc2ef</hash>
+          <hash piece="12">182f0c52913edd40c41fd9c28a109bde2d0537b6</hash>
+          <hash piece="13">9d3894d610d437bee3c9792e44700258273de8c6</hash>
+          <hash piece="14">051a6f4e618893860de9c0fc9be757332c623a3e</hash>
+          <hash piece="15">76aff438dbd40b6e647e5e7c998abee6b3ac1797</hash>
+          <hash piece="16">7c147c6b83fbbacf26b3614ee02ae7bc9add9c03</hash>
+          <hash piece="17">3385f04e052ca44cdc8a06269c283218054591d4</hash>
+          <hash piece="18">c132389dc1909dc112078a79243c2a7ad71b9e8d</hash>
+          <hash piece="19">c6fa4a5490613054131f304246ea289fac5651f6</hash>
+          <hash piece="20">f0aef4737294baff9454aee041c902332ccd635b</hash>
+          <hash piece="21">b451399b4b1d3186837548289c04c66f9a2e2c1b</hash>
+          <hash piece="22">ab1056ec284275388686a01009b98a8a4a46780b</hash>
+          <hash piece="23">68ad7b480bd72984c2f34e0377a5cdef861c67e2</hash>
+          <hash piece="24">55dde40833368dad7768af81fea9a4dc474acd88</hash>
+          <hash piece="25">90f43dfd988569c572a27d0f0ff94351e0680cc9</hash>
+          <hash piece="26">0d37fff336b1eab598dc1abfbe17559bd05cc515</hash>
+          <hash piece="27">343d71871bf862b5d896b968a69ecc99ce325bbc</hash>
+          <hash piece="28">2e954d7c66cbf424102b9207b187648c54d55a29</hash>
+          <hash piece="29">01a800adb5ea1330f777ae18e9b6f73c4cf915ed</hash>
+          <hash piece="30">b30ff793e861a09e6ec2869b043d3c186a2b5901</hash>
+          <hash piece="31">346940b2e52742ce4f8c13a40e027c4cc010b1e8</hash>
+          <hash piece="32">8bf565fd5724495264f55ef33c7173f1eeca419e</hash>
+          <hash piece="33">03f7ceae3278d3d60316ab4efaaefa0a4c33ae70</hash>
+          <hash piece="34">84a80d705741ac0854a1a450948e56b78457c2b4</hash>
+          <hash piece="35">adcca5be124bea6a8ba9dae8e7e866c99c69987c</hash>
+          <hash piece="36">9c2ee2b3ec5714a2ac830139d70d2b20dd036a1d</hash>
+          <hash piece="37">f38e4d04194f06266fed3bc2496e19a16cd07063</hash>
+          <hash piece="38">b47da39b6edc007dcbd5405437da733ccf2b8baa</hash>
+          <hash piece="39">86ce850c63e0b6a43320f4f04aa4320b95f09924</hash>
+          <hash piece="40">58c0bc1fd28970987968891ac9da54b1f2a53594</hash>
+          <hash piece="41">f2590c0afd5a85573d92b036fa67910eb4d321d8</hash>
+          <hash piece="42">95d1db9863f762c02aff7adc17a4541b77d87af1</hash>
+          <hash piece="43">1353424fdc1aa36baf5c7bd80ee915f25b7caf59</hash>
+          <hash piece="44">6440dc89b142ee0c5a96d50beaead3a7c2d459e1</hash>
+          <hash piece="45">a9c09e57ec0df3d08a2943801b76d08515a207eb</hash>
+          <hash piece="46">66bc17d2b3c81cf887e521345cdac49026127952</hash>
+          <hash piece="47">1594b1d6238b0702df54420b3f12969f8280e326</hash>
+          <hash piece="48">3671a97639d03822c31decf8729ed4e1c03e3670</hash>
+          <hash piece="49">e9112dfa58db3d434e50d2a1019794f462f40e10</hash>
+          <hash piece="50">dffbdb44d22ce47d6e4d2aef4b8a4eabb1990997</hash>
+          <hash piece="51">9dca7c4e03462ea048b4cea03b42b893bea14642</hash>
+          <hash piece="52">188d91713d54f5b3790e3757b3a063a2fe6ea34c</hash>
+          <hash piece="53">60bc16badd90cfb6b858853af4038a3d3a7448cb</hash>
+          <hash piece="54">ca1d55bb7f74b6824b8eeb7995c515175313f6df</hash>
+          <hash piece="55">0ee935c865d33cd0011479297dbd6ef020e9f96a</hash>
+          <hash piece="56">97853605aea884a181f36fc2a5909e41acd30986</hash>
+          <hash piece="57">9aac9848df1d46afdaa8328b99c83e3e073ff985</hash>
+          <hash piece="58">1823ee56a4d14c1abc49775676eea20ca4303ec3</hash>
+          <hash piece="59">9b9f70185b185acc3875515d6405a7b1fd921cf6</hash>
+          <hash piece="60">3afe53700236f8b2cf1d4d9980bbeb9f00c48749</hash>
+          <hash piece="61">cfceece13ac5f7d006c00109e61baa9b56e00071</hash>
+          <hash piece="62">611aeebd0c1379614946bfa18173b7cf31df316e</hash>
+          <hash piece="63">ab1f623de59b450798ca1ddd338388e15936a1ec</hash>
+          <hash piece="64">c45b9beb8a3e0b3c7a63d86daacb42563ad7f6a8</hash>
+          <hash piece="65">1b66cbbcf17da19e9b8d0f9f373eabeaafe80fca</hash>
+          <hash piece="66">28d157876955811b5afc5a6a702889270b297009</hash>
+          <hash piece="67">d75a0b6f0348a66846f293615524e1b2f5eaa0b4</hash>
+          <hash piece="68">d1ff583a99b30564aea2ca6e4745257f6d818231</hash>
+          <hash piece="69">ebcd75c645fe8b7138f3b993939b6e34671fe3e1</hash>
+          <hash piece="70">873b21f8b096918837b295b38e90847cefd76203</hash>
+          <hash piece="71">c0717b8072d8f739bd97254515093c13618e348d</hash>
+          <hash piece="72">f133fd6c80ae18cfb5cb08fc3fd5d532028c3f44</hash>
+          <hash piece="73">6bca7869c28cbc2970b956d38d1dc08bedf76fae</hash>
+          <hash piece="74">3b6910d760c6d32d3ab31ed708e80196ff978f4a</hash>
+          <hash piece="75">d91215c3c06b492f48d4ffa4cdaa5437cc6987a2</hash>
+          <hash piece="76">fa027033e7b2faefec43cc1d496ebb703255bc21</hash>
+          <hash piece="77">22f228a36b5dbf1768ce535576d706b1ad7ba169</hash>
+          <hash piece="78">1ea34be757902b64df38fc3a8b66dc8ecc0cb591</hash>
+          <hash piece="79">5f64bd68f3d0017d21ac47e454b01f2b0715262a</hash>
+          <hash piece="80">ea581e7ca05592c59aea27cb704e3577ef896437</hash>
+          <hash piece="81">f639a53f137bdd898b8f60898a29d4729148cafb</hash>
+          <hash piece="82">fae2f6088c1d5673685215dd38a2e3774b61378f</hash>
+          <hash piece="83">af970ac81ef8284d90ad44572b944a1100138d7f</hash>
+          <hash piece="84">6cb883a4da5ba052185c97953b1d1c3621e5e30f</hash>
+          <hash piece="85">b8817daa132de785bc8186b24dccd57f4a0e4998</hash>
+          <hash piece="86">1fcc61f0b18021ebc14aa4e44251c5d1a978f10e</hash>
+          <hash piece="87">6eae985f1ed399501903aa4d61fb1ca3f42c3a6e</hash>
+          <hash piece="88">69672487a80616844d6dec787fb3e1d5939e7e77</hash>
+          <hash piece="89">7e7a3b9e932a912c014f6278c5c0327d207ab15f</hash>
+          <hash piece="90">f829c9bf198a6ec9e93b2c93486015d58fdcebcf</hash>
+          <hash piece="91">c043a603203902cef0b6f88ec951616e93152b24</hash>
+          <hash piece="92">dc89b19de634c96c55f04f2dda3df3e0627fca83</hash>
+          <hash piece="93">0db223bab89d39e8816edc3df2d72ec95edbe2f5</hash>
+          <hash piece="94">b10a872e138113c3d7d208087b0553b039873f71</hash>
+          <hash piece="95">4f0bf5b0d0f3f10e00325fe4837c40e08277d814</hash>
+          <hash piece="96">b8c01474bc1496cf2235cfb7dab2b3baceacbc26</hash>
+          <hash piece="97">a8964f827660859147fe5ff41a13277c9063ea0b</hash>
+          <hash piece="98">39eed4a88442f0d31a681d2b368184d3a2c4fd98</hash>
+          <hash piece="99">98fcc96897e5cbd34c977fd8c38cc2e2dfef4748</hash>
+          <hash piece="100">c45c94a57972d159e328f02135ff8dd1a5ceec73</hash>
+          <hash piece="101">11bc55723545399f51cec4f8a724d7ad3c6d163e</hash>
+          <hash piece="102">e5b8d8158ce4d0d3177b7323e8bebfa578fca33a</hash>
+          <hash piece="103">1f8b9fc03a5709be58eb17f515ffab1df4410a21</hash>
+          <hash piece="104">e70c241778a0f5ff984b5b04257ea5c22d834f8e</hash>
+          <hash piece="105">a25cfcb26b83af3fe34c5e7495fc6bb20027fff8</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="es" preference="100">ftp://catix.cat/catix-1.3-amd64.iso</url>
+        <url type="ftp" location="es" preference="100">ftp://ftp.softcatala.cat/pub/catix/catix-1.3-amd64.iso</url>
+        <url type="ftp" location="es" preference="100">ftp://ftp.udl.cat/pub/catix/catix-1.3-586-DVD.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

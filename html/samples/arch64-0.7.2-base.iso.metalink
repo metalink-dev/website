@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+<!--
+     Metalink, an Open Standard, makes downloading easier by
+     bundling the various ways (FTP/HTTP/P2P) to get files into
+     one format for easier downloads, as well as bundling
+     checksums to automatically verify completed downloads.
+     Currently the following applications support this file:
+
+     - aria2 (Unix) [ http://aria2.sourceforge.net/ ]
+     - GetRight 6 (Windows) [ http://www.getright.com/ ]
+     - Speed Download (Mac) [ http://www.yazsoft.com/ ]
+     - wxDownload Fast (All)[ http://dfast.sourceforge.net/ ]
+
+     For further information please visit http://www.metalinker.org/
+
+-->
+  <publisher>
+    <name>archlinux</name>
+    <url>http://www.archlinux.org/</url>
+  </publisher>
+  <description>Arch Linux, a lightweight and flexible linux distribution that tries to Keep It Simple.</description>
+  <files>
+    <file name="arch64-0.7.2-base.iso">
+      <version>0.7.2</version>
+      <os>Linux-x64</os>
+      <verification>
+        <hash type="md5">a5d011223f00fac1c0dfdc97b72aca0c</hash>
+      </verification>
+      <resources>
+        <url type="ftp" location="ch" preference="100">ftp://archlinux.puzzle.ch/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="tw" preference="100">ftp://cle.linux.org.tw/pub/ArchLinux/iso/0.72/arch-0.7.2-base.iso</url>
+        <url type="ftp" location="ee" preference="100">ftp://ftp.estpak.ee/pub/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="ie" preference="100">ftp://ftp.heanet.ie/mirrors/ftp.archlinux.org/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.hosteurope.de/mirror/ftp.archlinux.org/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="ro" preference="100">ftp://ftp.iasi.roedu.net/mirrors/archlinux.org/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.ibiblio.org/pub/linux/distributions/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.nethat.com/pub/linux/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="nl" preference="100">ftp://ftp.nluug.nl/pub/metalab/distributions/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="gr" preference="100">ftp://ftp.ntua.gr/pub/linux/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.pangora.org/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="nl" preference="100">ftp://ftp.surfnet.nl/pub/os/Linux/distr/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.tu-chemnitz.de/pub/linux/sunsite.unc-mirror/distributions/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp-linux.cc.gatech.edu/pub/linux/distributions/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="it" preference="100">ftp://mi.mirror.garr.it/mirrors/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://mirror.cs.vt.edu/pub/ArchLinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="pl" preference="100">ftp://mirror.icis.pcz.pl/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="au" preference="100">ftp://mirror.pacific.net.au/linux/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="pl" preference="100">ftp://sunsite.icm.edu.pl/site/linux-sunsite/distributions/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="at" preference="100">ftp://gd.tuwien.ac.at/opsys/linux/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="cz" preference="100">ftp://ftp.sh.cvut.cz/MIRRORS/arch/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="be" preference="100">ftp://ftp.belnet.be/packages/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="uk" preference="100">ftp://ftp.parrswood.net/Mirrors/ftp.archlinux.org/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="ftp" location="pl" preference="100">ftp://saule.mintis.lt/pub/linux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="http" location="pt" preference="100">http://darkstar.ist.utl.pt/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="http" location="us" preference="100">http://www2.cddc.vt.edu/linux/distributions/archlinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+        <url type="http" location="cn" preference="100">http://mirror.vmmatrix.net/ArchLinux/0.7.2/iso/x86_64/arch64-0.7.2-base.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0035" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>VectorLinux</name>
+    <url>http://vectorlinux.com/</url>
+  </publisher>
+  <description>VECTORLINUX is a small, fast, Linux operating system for Intel, AMD and x86 compatible systems, based on one of the original Linux distributions, Slackware.</description>
+  <files>
+    <file name="VL-5.1.1-std-LIVE.iso">
+      <version>5.1.1</version>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">883208b18e992a284ea5f7e525d645a2</hash>
+      </verification>
+      <resources>
+        <url type="ftp" location="uk" preference="100">ftp://ftp.mirrorservice.org/sites/vectorlinux.com/veclinux-5.0/iso/VL-5.1.1-std-LIVE.iso</url>
+        <url type="ftp" location="nl" preference="100">ftp://ftp.nluug.nl/pub/os/Linux/distr/vectorlinux/veclinux-5.0/iso/VL-5.1.1-std-LIVE.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://metalab.unc.edu/pub/linux/distributions/vectorlinux/veclinux-5.0/iso/VL-5.1.1-std-LIVE.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://sunsite.unc.edu/pub/linux/distributions/vectorlinux/veclinux-5.0/iso/VL-5.1.1-std-LIVE.iso</url>
+        <url type="http" preference="100">http://distro.ibiblio.org/pub/linux/distributions/vectorlinux/veclinux-5.0/iso/VL-5.1.1-std-LIVE.iso</url>
+        <url type="http" preference="100">http://public.planetmirror.com/pub/linux/distributions/vectorlinux/veclinux-5.0/iso/VL-5.1.1-std-LIVE.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

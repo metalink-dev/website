@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 0.4.1" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Mandriva</name>
+    <url>http://www.mandriva.com/</url>
+  </publisher>
+  <logo>
+  <url>http://upload.wikimedia.org/wikipedia/en/9/95/Mandriva_logo.png</url>
+  </logo>
+  <version>2007.1</version>
+  <description>1 DVD version for your power-trials. Designed for Linux power-users, it consists of 1 DVD packed with purely Free (as in free speech *AND* free beer) software. It is available in 2 versions (i586 and x86-64). If you want to trial the full power of our distribution, Mandriva Linux Free is for you.</description>
+  <files>
+    <file name="mandriva-linux-2007-spring-free-dvd-i586.iso">
+      <size>4568668160</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">01a36aa86f148b1b22092dcc0fe2a745</hash>
+        <hash type="sha1">ce2c5cd383c95fc24245e17cb46d6e27a1a548a7</hash>
+        <pieces type="sha1" length="67108864">
+          <hash piece="0">731210d978e2a0477e49ed2092a33212c31c5032</hash>
+          <hash piece="1">7901623d6ae1a8268ee36d1c89405a84510f6951</hash>
+          <hash piece="2">a5b8d5a169f863d84ce5b3da07e7706c47cdc180</hash>
+          <hash piece="3">6a8b5a5cec81b647d6da9ff59561b59415e44676</hash>
+          <hash piece="4">53934b830f0d2cef896637a11961a9b485d603ba</hash>
+          <hash piece="5">3341fcb47411a5bcc79aeca803ef1dafbcbe3f14</hash>
+          <hash piece="6">0825d3ec1acd6f7c549e4772b63d57b3f997a258</hash>
+          <hash piece="7">feec4588d1f6445bfec190c62f90cef5b0483c1a</hash>
+          <hash piece="8">6e2865cbf79ec04dfd8d1e2e58811d775a4050ed</hash>
+          <hash piece="9">7df8fc78aeed7cb8b0e7c8fb9784c5ce889a54d8</hash>
+          <hash piece="10">19b5446ffe427a006d6953431cffb88c773ff2fe</hash>
+          <hash piece="11">8b1d80a761451045c146f91f983804c0f15d9037</hash>
+          <hash piece="12">b9dc969bd1c68e1f5247521c79d288b9ab8b94bc</hash>
+          <hash piece="13">44c5c055cf0284b342dcbf81cc532bbee1a8f954</hash>
+          <hash piece="14">832aacb50cb9a419c4d3ad0b032c6643093f6162</hash>
+          <hash piece="15">77cf53cb2b8ed37fe2f985f902cf2ff32a6545e8</hash>
+          <hash piece="16">ef0fa023264a554ad86cb825d71db75969815333</hash>
+          <hash piece="17">09f1b7b034fec2405a649da728db4e04bf147fee</hash>
+          <hash piece="18">1118378398cd623df041e40977df9e67ff4b5a84</hash>
+          <hash piece="19">9fce226d393b3fb801d2cd4229294d6d4f9b7391</hash>
+          <hash piece="20">cb69354879866ea4cfe0752b02b937146e4287ef</hash>
+          <hash piece="21">d52f3b063686cc288adb316f05c961a9e1b202d7</hash>
+          <hash piece="22">ba80c80906670787c2cfdcd4d40464272aa4e7ae</hash>
+          <hash piece="23">2121000a5e31f9df9cc14a51166718b7da728dea</hash>
+          <hash piece="24">becea7dba25a6b2822183ff9697ddf4cb6e0e76c</hash>
+          <hash piece="25">8256ee76a4c445466dbe702c6ef3e5f3fab7e13a</hash>
+          <hash piece="26">2b6371a8c61a1abe8a5e32f1a98fd8f99a33f0c4</hash>
+          <hash piece="27">9dad7bf666c7ce3f8bd5b3e6408009652b3cab7c</hash>
+          <hash piece="28">fbcf8a487278695bdc5aae0b2eb87893fa91dcc8</hash>
+          <hash piece="29">f454ce934cca07422d116f094cd675cfc2d5ecaa</hash>
+          <hash piece="30">747b8d290b8c5f7a571d1665db3386268bf757ff</hash>
+          <hash piece="31">acd2707cd437ed50eb30030ad9289946dc14ca38</hash>
+          <hash piece="32">de2209a22eea6d8df6ee9cb2ce26caf5184a6460</hash>
+          <hash piece="33">08015f680bbb3e1e1074afa5668f23a5263ca2f5</hash>
+          <hash piece="34">4a2e4ef6b6bca9b80d85c72e30f57bf052733c93</hash>
+          <hash piece="35">4af7957cde6c801b6aabd6619649862c51a183a7</hash>
+          <hash piece="36">e944999279bc9c1a5016b8db885af78b03823c0f</hash>
+          <hash piece="37">f8561baa24ac1b78a303dd7f13a5e7a173e50073</hash>
+          <hash piece="38">f0f6dd5b3e7dd165bd019040fcf34c24cff847ec</hash>
+          <hash piece="39">24d1533ff41e1af5e887b1880ea106343de098ca</hash>
+          <hash piece="40">22413599698728938b67516fb6691d93e39a787d</hash>
+          <hash piece="41">b313b9e8101a9c5a4a9ef31ccb28df14ecf31d58</hash>
+          <hash piece="42">4ed732818607799e55db7ffa732b229b1aeab9b9</hash>
+          <hash piece="43">c70d1795b72c9fb4aaa67d25c2f94a27f8b85f08</hash>
+          <hash piece="44">b879d578cd18de90d112d77609c2b92106648768</hash>
+          <hash piece="45">cf845e2c339e1dd9a4c72173f6e691fdc2967cec</hash>
+          <hash piece="46">7d6cff43e1174bee7e4c9f22a5298c9e242976ba</hash>
+          <hash piece="47">0c101a1131419aa7974b58be13fc096b25bd3957</hash>
+          <hash piece="48">637893a7e7d5281edc69de305c799d8ebfb96e11</hash>
+          <hash piece="49">9c5ec1f6bb9fc0915d73fc78978f84c67cf22290</hash>
+          <hash piece="50">cbd23c63f00840b0ca3b04720921f642748dd563</hash>
+          <hash piece="51">8b1fe2c2eda6e0562f1518351b49d98f65a0664f</hash>
+          <hash piece="52">75eddec5fe4073489085d624ee123aca7072a2dc</hash>
+          <hash piece="53">cb119a049c46859474b0c45f0db3d5e43b612774</hash>
+          <hash piece="54">50d61f857a0977d064ad1a37f76fc5d17af7f75c</hash>
+          <hash piece="55">a1e70a31068ead2b7eb071fed636f94314139d4b</hash>
+          <hash piece="56">2b3ea6ce177877153a5bdbb6d812ff5306c9988c</hash>
+          <hash piece="57">db165551064c1b8e0520191ae37d0ce87f60f05c</hash>
+          <hash piece="58">92513cb889625a2d9c2b81248f1c21d4e917cdba</hash>
+          <hash piece="59">5e4afc77ba73f8503e1cea7c4ee74d772abfc457</hash>
+          <hash piece="60">64c6cef8d4a37d05e7eb52c6b7cc7d653ac2ff0a</hash>
+          <hash piece="61">a127ce9b5b75bc86db37f1aedf49a897cc66a4d8</hash>
+          <hash piece="62">d57ca4d25818f9a76c8bd1aa09e43fcda6393a7b</hash>
+          <hash piece="63">0e47451b4132590bacc93514f0b9e0b1c9c836ee</hash>
+          <hash piece="64">f9372d3072b7bc39ecee1a0e201f72ccab228cef</hash>
+          <hash piece="65">5f263b202ba2373379082fc7e1bab54f3550077e</hash>
+          <hash piece="66">05a48c4230a78b90838ad07baa5651d1546e5838</hash>
+          <hash piece="67">110074076abeefac5e29ac8f8c872e8b85f37f97</hash>
+          <hash piece="68">659752c4cbaf238f34c8a23cb03f7097f9e4a573</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="fr" preference="100">ftp://fr2.rpmfind.net/linux/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-i586.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.ciril.fr/pub/linux/mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-i586.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.club-internet.fr/pub/unix/linux/distributions/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-i586.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.fh-giessen.de/pub/linux/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-i586.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.free.fr/mirrors/ftp.mandriva.com/MandrivaLinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-i586.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.int-evry.fr/pub/linux/mandrake/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-i586.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.lip6.fr/pub/linux/distributions/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-i586.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.mandrake.ikoula.com/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-i586.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.uasw.edu/linux/mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-i586.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.univ-lille1.fr/pub/os/linux/distributions/mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-i586.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.uvsq.fr/pub/mandrake/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-i586.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.uwsg.indiana.edu/linux/mandrake/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-i586.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp-stud.fht-esslingen.de/pub/Mirrors/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-i586.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://linux.ups-tlse.fr/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-i586.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://mirrors.usc.edu/pub/linux/distributions/mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-i586.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ramses.wh2.tu-dresden.de/pub/mirrors/mandrake/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-i586.iso</url>
+        <url type="http" location="fr" preference="100">http://fr2.rpmfind.net/linux/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-i586.iso</url>
+        <url type="http" location="us" preference="100">http://www.gtlib.cc.gatech.edu/pub/mandrake/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-i586.iso</url>
+      </resources>
+    </file>  
+    <file name="mandriva-linux-2007-spring-free-dvd-x86_64.iso">
+      <size>4567937024</size>
+      <os>Linux-x64</os>
+      <verification>
+        <hash type="md5">5fa556be0be267a5c3d65ccad72b7f41</hash>
+        <hash type="sha1">590a7d11352172c04b53234c8b4baa9501d3964a</hash>
+        <pieces type="sha1" length="67108864">
+          <hash piece="0">c8b614364b110736ef6c3b34a447dc5b7a31b90e</hash>
+          <hash piece="1">b9b7eb9c802ba98a8d12b8ce94e02ea06e7fb157</hash>
+          <hash piece="2">6241f6a7bc9531fe4b8c56196750dcf5e8c7738c</hash>
+          <hash piece="3">1262d894d87ccbcf26dc4d58383616fe4269c678</hash>
+          <hash piece="4">dbad450801b19e555a44807ab32d010e9dc2ba64</hash>
+          <hash piece="5">33778042e4e8f9d71a76cebdb05535517fcc78c4</hash>
+          <hash piece="6">8f6897b65d016642ee95110d2ba53234dc5db508</hash>
+          <hash piece="7">9f1285c6823c992f0871c340f93ae28a57237aa3</hash>
+          <hash piece="8">e70532b0014fe889cc60ecad439a31bb5108ecdd</hash>
+          <hash piece="9">7c87a19b00fad7c2092cad2037abd33e2fc15598</hash>
+          <hash piece="10">a4e86eb65663ad9200e3f3ac6c7ab1f469263a0c</hash>
+          <hash piece="11">18de05b19cb1aa0eb8884ced5d43b3bd520fe153</hash>
+          <hash piece="12">e74444554427e53b1e873ed6c6c638073ca1916b</hash>
+          <hash piece="13">c66fe780e98ebe4769af5ae93ee8db46e54f6779</hash>
+          <hash piece="14">04669e7a17673223bd07c7c6a067c2d9f2d47fd1</hash>
+          <hash piece="15">dd401d1b90828773b79d55e7ddda8a1cb19550ae</hash>
+          <hash piece="16">4b0be982e265e566dbb7578ce46bddc1eae49aee</hash>
+          <hash piece="17">98e2f78fd183e629227d9014cc3f7920ca26225c</hash>
+          <hash piece="18">b94bdfcef886826f2fc964c14344ec06459736f9</hash>
+          <hash piece="19">877e47242f9aab62941f4f7f960a491dc31df17a</hash>
+          <hash piece="20">3a414555f4cd31519872d4640bf645750ea498c8</hash>
+          <hash piece="21">51cde9f479e1cf3a059c66b43603e8ba39c8a87c</hash>
+          <hash piece="22">ed29ceb18a103ce87f28688fb222772b761cb8f0</hash>
+          <hash piece="23">2f7b61414e204c7fab264f41db11cd1aa6b7380c</hash>
+          <hash piece="24">a67c83cb48148d11c39fd30c127e502e91e694ba</hash>
+          <hash piece="25">a1faa36def2427b6483943c1b71a2e6baae1c046</hash>
+          <hash piece="26">efb94df92b822e526e089b21a7edecd525065aa6</hash>
+          <hash piece="27">40ab7103d106ef8fc576ce38f18ef6b986fb80e4</hash>
+          <hash piece="28">2727b072218edc991b7cd3c55737f9814c25f0d1</hash>
+          <hash piece="29">dd7bac25a711ab9d56ffa2b7257f7c53e6317d8d</hash>
+          <hash piece="30">70745011704828cb38bf099bc8676da418119afd</hash>
+          <hash piece="31">f970b6d98b3d36e9738e91306bf2611be6c0dcb3</hash>
+          <hash piece="32">c67996b9eb55555037b2dbe11ed421cf6d46be2d</hash>
+          <hash piece="33">733f0f4e00b92133cb3e82618b2e3a8d4ec992bf</hash>
+          <hash piece="34">8a89f5c257f6d2ab4cde98073a17933680a3aaab</hash>
+          <hash piece="35">80f5d6464677fcfe6d1f8a8a798a0b743312e4ab</hash>
+          <hash piece="36">42f973f855ce555194d9a75170187e1533c52f91</hash>
+          <hash piece="37">c6bbc24c9ef89f789e4adea42edcd4845fbef1b4</hash>
+          <hash piece="38">424c6a1d42d08f6a011e759dd332a8ce47c7b79a</hash>
+          <hash piece="39">837add1b9abdbd2f30f6debfc4f947028c135db6</hash>
+          <hash piece="40">122c40c131e33343f22c11ec77f74b874c5a9b68</hash>
+          <hash piece="41">42f528caed8852743e1a4bfeb849561c5265e1ff</hash>
+          <hash piece="42">7d7de4a27da3d25915d7a2fbf75b6b48b3e18c11</hash>
+          <hash piece="43">4ffed837f16622259b21d64922ce6d9ec5fd8374</hash>
+          <hash piece="44">1d39886f759403b9416139d72316b51ebb160397</hash>
+          <hash piece="45">59439af59dd8557dccbd90b25b887c4ba192ab53</hash>
+          <hash piece="46">b02f099b6f18dcacd8907e0a2a3203169cca40e1</hash>
+          <hash piece="47">0c819c1ec31697ccd07d286b6a6a47e681fe7a57</hash>
+          <hash piece="48">9ab199c035b5c32f814113407ccda07da16c714f</hash>
+          <hash piece="49">63d008b21e3fcb49040ef00c8a5f50ccb06cffbe</hash>
+          <hash piece="50">6412369e8b49b3cb38667a6a26656edfd7408de9</hash>
+          <hash piece="51">e736c2bffb8acf23010cefa8233c05cee162d5e7</hash>
+          <hash piece="52">5fff4478b3bb41a7fa80d8c83a352770de14283f</hash>
+          <hash piece="53">2691b84a24cd2da55f7de593a55667f45e854314</hash>
+          <hash piece="54">707fdbd078e0d1933ae968ed0ab8caa7a92d8047</hash>
+          <hash piece="55">5cd572a99e38fb146e7aea37208a80bc5f69a3c1</hash>
+          <hash piece="56">fef8aa0fd90988ddf4e7187ead3086819881454f</hash>
+          <hash piece="57">6453c1154f610e22e77334be7678900e5a2d68a9</hash>
+          <hash piece="58">24a18dd76fa6a268b4754b5b28dd8c2bf4be5bae</hash>
+          <hash piece="59">6354e149fba4c41127d7697a8f346913f8066718</hash>
+          <hash piece="60">ee84f43a9ce49cf26a8adb996e15aa6f6b5966db</hash>
+          <hash piece="61">a7a3ce0b16721f952acc98853f2e3b6c74efc5fd</hash>
+          <hash piece="62">1856ddd316107514f87b7a4571fc36fe8b4367b6</hash>
+          <hash piece="63">b8700ccbc030df023d1a194806bcdaa0ea271a8e</hash>
+          <hash piece="64">33ce4708d7d9ee3daa60dfdc27b53388b72e3612</hash>
+          <hash piece="65">d92d050eba3fae6e10977914cf6444325662155f</hash>
+          <hash piece="66">9e1e681ff8fa14966d6e1003c2e303752a9e8333</hash>
+          <hash piece="67">d09babeeaee48d6bd6e8e5f7617ff5a152ed24f6</hash>
+          <hash piece="68">8438d0d7a22c1f551df87f6fd9dd73e9f1cbd6a6</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="fr" preference="100">ftp://fr2.rpmfind.net/linux/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-x86_64.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.ciril.fr/pub/linux/mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-x86_64.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.club-internet.fr/pub/unix/linux/distributions/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-x86_64.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.fh-giessen.de/pub/linux/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-x86_64.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.free.fr/mirrors/ftp.mandriva.com/MandrivaLinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-x86_64.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.int-evry.fr/pub/linux/mandrake/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-x86_64.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.lip6.fr/pub/linux/distributions/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-x86_64.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.mandrake.ikoula.com/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-x86_64.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.uasw.edu/linux/mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-x86_64.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.univ-lille1.fr/pub/os/linux/distributions/mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-x86_64.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.uvsq.fr/pub/mandrake/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-x86_64.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.uwsg.indiana.edu/linux/mandrake/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-x86_64.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp-stud.fht-esslingen.de/pub/Mirrors/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-x86_64.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://linux.ups-tlse.fr/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-x86_64.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://mirrors.usc.edu/pub/linux/distributions/mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-x86_64.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ramses.wh2.tu-dresden.de/pub/mirrors/mandrake/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-x86_64.iso</url>
+        <url type="http" location="fr" preference="100">http://fr2.rpmfind.net/linux/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-x86_64.iso</url>
+        <url type="http" location="us" preference="100">http://www.gtlib.cc.gatech.edu/pub/mandrake/official/iso/2007.1/mandriva-linux-2007-spring-free-dvd-x86_64.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

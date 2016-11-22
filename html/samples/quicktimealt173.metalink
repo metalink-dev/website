@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <url>http://www.codecguide.com/about_qt.htm</url>
+  </publisher>
+  <description>QuickTime Alternative will allow you to play QuickTime files without having to install the official QuickTime Player.</description>
+  <files>
+    <file name="quicktimealt173.exe">
+      <version>1.73</version>
+      <language>en-US</language>
+      <os>Windows-x86</os>
+      <verification>
+        <hash type="md5">869ea9cb6ed401297bd4d3e164ce3c1c</hash>
+      </verification>
+      <resources>
+        <url type="ftp" location="lt" preference="100">ftp://ftp.ku.lt/pub/Windows/audio/K-Lite/quicktimealt173.exe</url>
+        <url type="http" preference="100">http://8i.edskes.com/library/downloads/25797/2/quicktimealt173.exe</url>
+        <url type="http" preference="100">http://download.betanews.com/download/1049831315-1/quicktimealt173.exe</url>
+        <url type="http" location="ro" preference="100">http://download.softpedia.ro/software/MULTIMEDIA/VIDEO/quicktimealt173.exe</url>
+        <url type="http" location="ru" preference="100">http://files.3dnews.ru/pub/tools/video_players/quicktimealt173.exe</url>
+        <url type="http" preference="100">http://files.trunetworks.com/multimedia/quicktimealt173.exe</url>
+        <url type="http" preference="100">http://filesharingdownloads.com/Codecs/QuickTime_Alternative/quicktimealt173.exe</url>
+        <url type="http" location="de" preference="100">http://ftp.freenet.de/pub/filepilot/windows/multimedia/video/quicktimealternative/quicktimealt173.exe</url>
+        <url type="http" location="tw" preference="100">http://ftp.isu.edu.tw/pub/Windows/Edskes/q/quicktimealt173.exe</url>
+        <url type="http" preference="100">http://ftp.twaren.net/cpatch/media/quicktimealt/source/quicktimealt173.exe</url>
+        <url type="http" preference="100">http://i1.edskes.com/q/quicktimealt173.exe</url>
+        <url type="http" preference="100">http://download.softpedia.com/software/multimedia/video/quicktimealt173.exe</url>
+        <url type="http" location="de" preference="100">http://www.cdlserver.de/fws/codecguide/quicktimealt173.exe</url>
+        <url type="http" location="lu" preference="100">http://www.pt.lu/comnet/files/ip/quicktimealt173.exe</url>
+      </resources>
+    </file>
+  </files>
+</metalink>
