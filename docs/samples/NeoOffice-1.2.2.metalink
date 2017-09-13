@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink version="3.0" xmlns="http://www.metalinker.org/"
+  origin="http://www.neooffice.org/m3/neooffice.metalink" 
+  type="dynamic" pubdate="2006-03-14-22:05:47" refreshdate="2006-03-14-12:22:23">
+
+<!--
+	Metalink, an Open Standard, makes downloading easier by
+	bundling the various ways (FTP/HTTP/P2P) to get files into
+	one format for easier downloads, as well as bundling
+	checksums to automatically verify completed downloads.
+	
+	Currently the following applications support this file:
+
+    - aria2 (Linux) [ http://aria2.sourceforge.net/ ]
+	- GetRight 6 (Windows) [ http://www.getright.com/ ]
+	        
+	For further information please visit http://www.metalinker.org/
+-->
+  
+<files>
+  
+  <file name="NeoOffice-1.2.2-PowerPC.dmg">
+    <identity>NeoOffice</identity>
+    <version>1.2</version>
+    <description>NeoOffice - Mac OS X port of OpenOffice.org</description>
+    <tags>neooffice, open office, open document</tags>
+    <size>129974318</size>
+    <verification>
+      <hash type="md5">4de2b167f33b5c6ea181ca8c706b7a50</hash>
+    </verification>
+    <releasedate>2006-02-01</releasedate>
+    <publisher>
+	<name>NeoOffice</name>
+	<url>http://www.neooffice.org/</url>
+    </publisher>
+    <license>
+	<name>GPL</name>
+	<summary>Short explanation of license</summary>
+	<url>http://www.gnu.org/copyleft/gpl.html</url>
+    </license>   
+    <resources>
+        <url type="bittorrent" preference="100">
+        http://www.freesmug.org/mirrors/neooffice/NeoOffice-1.2.2-PowerPC.dmg.torrent
+        </url>
+  	<url type="http" location="us" preference="60">
+        http://www.planamesa.org/neojava/downloads/NeoOffice-1.2.2-PowerPC.dmg
+        </url>
+	<url type="http" location="us" preference="80">
+        http://mirror.mcs.anl.gov/neooffice/NeoOffice-1.2.2-PowerPC.dmg
+        </url>
+  	<url type="http" location="us" preference="80">
+        http://mirror.services.wisc.edu/mirrors/apple/neoofficej/NeoOffice-1.2.2-PowerPC.dmg
+        </url>
+	<url type="http" location="us" preference="80">
+        http://www.freesmug.org/mirrors/neooffice/NeoOffice-1.2.2-PowerPC.dmg
+        </url>
+  	<url type="ftp" location="us" preference="60">
+        ftp://mirrors.dotsrc.org/neooffice/NeoOffice-1.2.2-PowerPC.dmg
+        </url>
+	<url type="http" location="us" preference="80">
+        http://planetmirror.com/pub/neooffice/NeoOffice-1.2.2-PowerPC.dmg
+        </url>
+  	<url type="ftp" location="de" preference="60">
+        ftp://ftp.plusline.de/pub/NeoOffice/NeoOffice-1.2.2-PowerPC.dmg
+        </url>
+	<url type="ftp" location="no" preference="80">
+        ftp://ftp.uio.no/pub/neooffice/NeoOffice-1.2.2-PowerPC.dmg
+        </url>
+  	<url type="http" location="ca" preference="60">
+        http://gulus.usherbrooke.ca/pub/appl/NeoOffice/NeoOffice-1.2.2-PowerPC.dmg
+        </url>
+	<url type="http" location="it" preference="80">
+        http://www.mug.uniroma3.it/neoOfficeJ/files/NeoOffice-1.2.2-PowerPC.dmg
+        </url>
+    </resources>
+  </file>
+ 
+</files>
+</metalink>

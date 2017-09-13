@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <identity>OpenOffice.org</identity>
+  <version>2.4.1</version>
+  <files>
+    <file name="OOo_2.4.1_Win32Intel_install_en-US.exe">
+      <size>118444217</size>
+      <os>Windows-x86</os>
+      <verification>
+        <hash type="md5">579be26a5dd7957394c4d69e72e0127d</hash>
+        <hash type="sha1">0156e8d36971ae2bae50dfc14c96ac47675ee5a6</hash>
+        <hash type="sha256">c65613b5bf9853773b68e2498616e1499fc0b9e41f73a5726c95a8fe55f44650</hash>
+        <pieces type="sha1" length="2097152">
+          <hash piece="0">cdc92a8fd1477850e9fd466334769e040ba313bb</hash>
+          <hash piece="1">d1953a02700eb0bdd68ac455551265e523f5e5af</hash>
+          <hash piece="2">37216f42170095381b9637846966ece77d2bcaeb</hash>
+          <hash piece="3">c4d3efc346837db3919bf4ed8536bf1db9a8ea46</hash>
+          <hash piece="4">5b65ddd174a0ee8013c9df3a9aadc56999f57b86</hash>
+          <hash piece="5">e857b792663035b4f2fbc4bc3302a08d2b8c1172</hash>
+          <hash piece="6">8c376448370cd544fe762f12685af2e0c0a22b85</hash>
+          <hash piece="7">59f73e9026fa11725a4ec05750764596953281c9</hash>
+          <hash piece="8">d2e635eb0ad5c21723645eecd162285e1534d65d</hash>
+          <hash piece="9">43346adf1810d971c99bcdba5f2933a29f772dae</hash>
+          <hash piece="10">5e36e939b067a3363fc2744ef604205bab3372a1</hash>
+          <hash piece="11">f983d93b54cec6b37c74e8e73eaf356f6184b32f</hash>
+          <hash piece="12">9af83435173fab58665df7ed362e4858f98de649</hash>
+          <hash piece="13">9aad20d3996fcd2ae269a702b2f56f95b31b3632</hash>
+          <hash piece="14">e3fa4fcf76f453c908021b547af6c4f37b4706ec</hash>
+          <hash piece="15">24a09d7a1df29c008cd2cdc55e280baa98508002</hash>
+          <hash piece="16">2828c06d1034949787f4606bd73435551606fd4f</hash>
+          <hash piece="17">45305a9b9615eabaade4c606f275dc227ee37b95</hash>
+          <hash piece="18">69358d48d3e122d6a92801f032aac1177fb10de0</hash>
+          <hash piece="19">ee88c2a57593e40bf35011dbbe98d7afd4899153</hash>
+          <hash piece="20">e70465f984946fa5be6c65913122d4174ce500af</hash>
+          <hash piece="21">f2d4df8dac9a0ad0fa97c9aa5b375b6de5fa7694</hash>
+          <hash piece="22">01d544a71d2c6c5da50d051a8b75f07b4ab603d1</hash>
+          <hash piece="23">8eb2f4629bbc2cb9482df70f737683b52e71b670</hash>
+          <hash piece="24">8bddfb9a5a08fd1c074a9acc9f24605e66439d19</hash>
+          <hash piece="25">e43bceeca2c36e567ce6657c9cf384f1616bbce1</hash>
+          <hash piece="26">07b814b231f11b2c61b4e7ee8963d07d34647d9c</hash>
+          <hash piece="27">5e95dfd728a340e47c653422ffe3fbf9a1b33a3a</hash>
+          <hash piece="28">7a85d5cfa6e5542609bf5a97d25cb2337259bf2a</hash>
+          <hash piece="29">82957133d29c079660e30c66befaa4d63876bfe6</hash>
+          <hash piece="30">a2f5bd30ee6046f0b99023c3b9cffb054dd82af3</hash>
+          <hash piece="31">0527ddda2ae716cf56ac8a55f5bec1489e6f1b18</hash>
+          <hash piece="32">5cfb63f173b324acddcc5e22f3c9c4816d86a524</hash>
+          <hash piece="33">fca193e30b932268771bce3b815092a299b02967</hash>
+          <hash piece="34">66beeb8aa008c0cca2462ddfc69308594f62f558</hash>
+          <hash piece="35">e558862038e9a2918e8215667e7756de1c7c078b</hash>
+          <hash piece="36">a682c826c030336be3655153e36754691567fb32</hash>
+          <hash piece="37">96a1b6b0437f65d8f66c1edeae7933abbf500c64</hash>
+          <hash piece="38">cd2a00214f95a490231b19112b172c9abdc053a0</hash>
+          <hash piece="39">c768db85e772a77cc0801d806b7f51682c0c71f5</hash>
+          <hash piece="40">c236f124fea6ae9b952e3db6d876b2574e58f5af</hash>
+          <hash piece="41">3be16c4cf7bef7c0cb87b6ca7b95c7e1cf0e6515</hash>
+          <hash piece="42">7949720c2417a30dbbef580ec8685cbb7e9f48be</hash>
+          <hash piece="43">85787633eb49fea91f0001e2609de68cec77717c</hash>
+          <hash piece="44">c0bcc458243b97c4b42bc8d7c70c9ae8e8c0b852</hash>
+          <hash piece="45">f623cb7f7aed91f0fea593260078ec0bd891ef0c</hash>
+          <hash piece="46">46e433a1fc5d067ffe82c930f9a2dc9607560f4c</hash>
+          <hash piece="47">8a834adc5eaf56e323c21a77d039aba20c354dd7</hash>
+          <hash piece="48">787f97ffd603c56332411661ece2ac479ad638e7</hash>
+          <hash piece="49">3a96fc2eb10882a90ad01e6820925bc702097dd4</hash>
+          <hash piece="50">6f4a8af86e232a4da86e2a885109c4ab4757bd25</hash>
+          <hash piece="51">b650d43271d838e891a2d7c49a302c957ceb8351</hash>
+          <hash piece="52">3032830400f80923464d3d3439c21a9e66fbcd93</hash>
+          <hash piece="53">02ec6d696747704c38e7658cb3f2d1bdb862cb19</hash>
+          <hash piece="54">5d38daa22545f59c9cf9a82ac015d77884f07fd4</hash>
+          <hash piece="55">42c92d20fdc9c05a147be910c6f0840c5c4fbc86</hash>
+          <hash piece="56">ac23f5f017e5ba53456129c661285025f6366a22</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="au" preference="30">ftp://mirror.pacific.net.au/OpenOffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="au" preference="30">http://mirror.pacific.net.au/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="au" preference="30">ftp://ftp.planetmirror.com/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="au" preference="30">http://planetmirror.com/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="at" preference="30">http://gd.tuwien.ac.at/office/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="at" preference="30">ftp://gd.tuwien.ac.at/office/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="be" preference="30">ftp://ftp.scarlet.be/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="be" preference="30">http://ftp.scarlet.be/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="rsync" location="be" preference="30">rsync://ftp.scarlet.be/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="be" preference="30">ftp://ftp.openoffice.skynet.be/pub/ftp.openoffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="br" preference="30">http://linorg.usp.br/OpenOffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="br" preference="20">ftp://ftp.pucpr.br/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="bg" preference="30">ftp://ftp.spnet.net/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="bg" preference="30">http://ftp.spnet.net/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="ca" preference="30">ftp://openoffice.mirror.rafal.ca/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="ca" preference="30">http://openoffice.mirror.rafal.ca/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="ca" preference="30">http://gulus.usherbrooke.ca/pub/appl/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="dk" preference="30">http://mirrors.dotsrc.org/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="dk" preference="30">ftp://mirrors.dotsrc.org/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="fr" preference="30">ftp://ftp.free.fr/mirrors/ftp.openoffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="fr" preference="20">ftp://openoffice.cict.fr/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="de" preference="20">ftp://ftp.tu-chemnitz.de/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="de" preference="30">ftp://ftp.gwdg.de/pub/misc/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="de" preference="30">http://ftp.gwdg.de/pub/misc/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="de" preference="30">ftp://sunsite.informatik.rwth-aachen.de/pub/mirror/OpenOffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="de" preference="30">ftp://ftp.uni-muenster.de/pub/software/OpenOffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="de" preference="30">http://ftp.rz.tu-bs.de/pub/mirror/OpenOffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="de" preference="30">ftp://ftp.rz.tu-bs.de/pub/mirror/OpenOffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="de" preference="20">ftp://ftp-stud.fht-esslingen.de/pub/tbl_mirrors/ftp.openoffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="de" preference="20">ftp://ftp.stardiv.de/pub/OpenOffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="de" preference="20">http://ftp.stardiv.de/pub/OpenOffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="de" preference="20">http://mirror.xaranet.de/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="gr" preference="30">http://www.ellak.gr/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="gr" preference="30">http://ftp.ntua.gr/pub/OpenOffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="gr" preference="30">ftp://ftp.ntua.gr/pub/OpenOffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="hu" preference="20">http://ftp.fsf.hu/OpenOffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="hu" preference="20">ftp://ftp.fsf.hu/OpenOffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="id" preference="20">http://openoffice.ugm.ac.id/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="ie" preference="30">ftp://ftp.heanet.ie/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="ie" preference="30">http://ftp.heanet.ie/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="rsync" location="ie" preference="30">rsync://ftp.heanet.ie/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="jp" preference="30">http://www.ring.gr.jp/archives/misc/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="jp" preference="30">ftp://ftp.ring.gr.jp/pub/misc/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="jp" preference="30">http://ftp.yz.yamagata-u.ac.jp/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="jp" preference="30">ftp://ftp.yz.yamagata-u.ac.jp/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="my" preference="20">http://mymirror.asiaosc.org/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="nl" preference="30">ftp://ftp.nluug.nl/pub/office/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="nl" preference="30">http://ftp.nluug.nl/pub/office/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="nl" preference="30">ftp://ftp.snt.utwente.nl/pub/software/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="nl" preference="30">http://vlaai.snt.utwente.nl/pub/software/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="pl" preference="30">ftp://ftp.man.poznan.pl/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="pl" preference="30">ftp://ftp.openoffice.pl/OpenOffice.ORG/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="pl" preference="30">http://ftp.tpnet.pl/vol/d9/OpenOffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="pl" preference="30">ftp://ftp.tpnet.pl/d9/OpenOffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="pt" preference="20">ftp://neacm.fe.up.pt/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="pt" preference="20">http://neacm.fe.up.pt/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="ro" preference="30">ftp://mirrors.evolva.ro/openoffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="ro" preference="30">ftp://ftp.iasi.roedu.net/pub/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="ro" preference="20">http://ftp.iasi.roedu.net/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="ro" preference="20">ftp://ftp.idilis.ro/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="ro" preference="20">http://ftp.idilis.ro/mirrors/openoffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="ru" preference="30">ftp://ftp.chg.ru/pub/OpenOffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="ru" preference="30">http://ftp.chg.ru/pub/OpenOffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" preference="20">ftp://mirror.etf.bg.ac.yu/openoffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" preference="20">http://mirror.etf.bg.ac.yu/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="sg" preference="20">ftp://mirror.averse.net/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="sg" preference="20">http://mirror.averse.net/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="si" preference="10">ftp://ftp.bevc.net/mirrors/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="si" preference="10">http://mirrors.bevc.net/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="si" preference="20">http://www.wsection.com/OpenOffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="za" preference="10">ftp://ftp.is.co.za/mirrors/OpenOffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="kr" preference="30">ftp://ftp.kr.freebsd.org/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="es" preference="30">http://sunsite.rediris.es/mirror/openoffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="es" preference="30">ftp://ftp.rediris.es/mirror/openoffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="se" preference="30">ftp://http://ftp.sunet.se/pub/Office/OpenOffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="ch" preference="30">ftp://ftp.solnet.ch/mirror/OpenOffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="ch" preference="30">http://mirror.switch.ch/ftp/mirror/OpenOffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="ch" preference="30">ftp://mirror.switch.ch/mirror/OpenOffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="tw" preference="30">ftp://ftp.isu.edu.tw/pub/OpenOffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="tw" preference="30">http://ftp.isu.edu.tw/pub/OpenOffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="gb" preference="30">ftp://ftp.mirrorservice.org/sites/ny1.mirror.openoffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="gb" preference="30">http://www.mirrorservice.org/sites/ny1.mirror.openoffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="gb" preference="30">ftp://mirrors.blueyonder.co.uk/sites/openoffice.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="gb" preference="30">http://openoffice.blueyonder.co.uk/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="gb" preference="30">ftp://ftp.mirror.ac.uk/mirror/sunsite.dk/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="gb" preference="30">http://www.mirror.ac.uk/mirror/sunsite.dk/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="us" preference="30">ftp://ftp.ussg.iu.edu/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="us" preference="30">ftp://openofficeorg.secsup.org/pub/software/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="us" preference="30">http://openofficeorg.secsup.org/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="us" preference="30">ftp://ftp.osuosl.org/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="us" preference="30">http://ftp.osuosl.org/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="us" preference="30">http://mirrors.ibiblio.org/pub/mirrors/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="us" preference="30">ftp://mirrors.ibiblio.org/pub/mirrors/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="us" preference="30">http://mirrors.isc.org/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="us" preference="30">ftp://openoffice.mirrors.pair.com/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="us" preference="30">http://openoffice.mirrors.pair.com/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="us" preference="30">http://openoffice.takiweb.com/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="ftp" location="us" preference="30">ftp://openoffice.mirrors.tds.net/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="us" preference="30">http://openoffice.mirrors.tds.net/pub/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+        <url type="http" location="us" preference="10">http://mirrors.wehost4u.net/openoffice/stable/2.4.1/OOo_2.4.1_Win32Intel_install_en-US.exe</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

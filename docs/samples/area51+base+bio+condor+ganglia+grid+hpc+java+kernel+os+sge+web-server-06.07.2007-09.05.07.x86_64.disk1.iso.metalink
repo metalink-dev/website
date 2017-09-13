@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.0.0" xmlns="http://www.metalinker.org/">
+  <files>
+    <file name="area51+base+bio+condor+ganglia+grid+hpc+java+kernel+os+sge+web-server-06.07.2007-09.05.07.x86_64.disk1.iso">
+      <size>4374947840</size>
+      <verification>
+        <hash type="md5">c0bdfb4f17985e4c33b327d6f48015f9</hash>
+        <hash type="sha1">2524c9072797d142686a037c57f6f9ab82e0ab07</hash>
+        <pieces type="sha1" length="67108864">
+          <hash piece="0">5637e911e0cae5d3ffbdefa466fb531f8c80ecf6</hash>
+          <hash piece="1">97c38edf02a9088b9c193a4580c42346cf2e7816</hash>
+          <hash piece="2">f52212b04479f6d472acf03a6862475f51b20d0f</hash>
+          <hash piece="3">6076d6e402b10356014481e3d2dd25751bafd2ff</hash>
+          <hash piece="4">181cc2496e5f5a38e240cc6669d43bc198dc2da3</hash>
+          <hash piece="5">401dca0520e9ca8b4257fe75a52dd1c93007eced</hash>
+          <hash piece="6">33630c16af8bb167c4a6e31b7eaf56b0eaeb60e6</hash>
+          <hash piece="7">7ad921e2957d999eede790425a042a3ae869d0f4</hash>
+          <hash piece="8">1d249dc1c96cb1b4c633a5bafe2a348b90dc4a07</hash>
+          <hash piece="9">c09dda6f215995b864b97218c92003c947a0b746</hash>
+          <hash piece="10">ae7d919b0295f8b236138aa1cd1b31ba0886c91d</hash>
+          <hash piece="11">548db4a7b4a9d80d9e89cb93ee536b1e10a91c4f</hash>
+          <hash piece="12">673437fd7f8742c4f37901fe3d78681eb6db54c0</hash>
+          <hash piece="13">0d1e234fdd638e4617d0bea450e02f2efa29608f</hash>
+          <hash piece="14">8b2f5ab658832635d341c3e5efead3fc94948c1a</hash>
+          <hash piece="15">916b2e4e79c7b475a666b894536314a3e30c97e2</hash>
+          <hash piece="16">9d93838a36e35fe476aec917cf6ddf328b09b729</hash>
+          <hash piece="17">c0a6ecdee0b1f8ff4564bac53418111864e0e415</hash>
+          <hash piece="18">737d0aa2a6ffa922c53aa42529b03c1443a47b2b</hash>
+          <hash piece="19">00cbe4b966991ad1fa48094ee2daf18f5ac2fe41</hash>
+          <hash piece="20">0e849b298fcf6f433e1a384ed143f47d75654354</hash>
+          <hash piece="21">2447ee1945b974b1e8f406daf5dc5980ae46b966</hash>
+          <hash piece="22">756bd6d730f7aef189bc0a7adc1e487c1687a989</hash>
+          <hash piece="23">821b3ade4f7bd6858ab35b61e71ff0233129a62c</hash>
+          <hash piece="24">f0f13ded8a5997cbf15c964d6812218fce850eba</hash>
+          <hash piece="25">9706969b043b5f7aeeb930e507679c2838a2c117</hash>
+          <hash piece="26">12cff34ed936534e185bfceea819126f8e74c719</hash>
+          <hash piece="27">ab22f9965c74252e016864880e9d52886b3c0329</hash>
+          <hash piece="28">871409dc8bb61b40778b13d71fa4f4ee3808ae3f</hash>
+          <hash piece="29">a61e247346c11af425b83dadab5adab0d477fe75</hash>
+          <hash piece="30">d6a3b35722ef0719e420552f60ece5382a7c4f81</hash>
+          <hash piece="31">572548735cfceb30e09fc1187a9a64ef790208ac</hash>
+          <hash piece="32">2290ecbaaab2c998afca61557d5137fd3aeb97f5</hash>
+          <hash piece="33">bd4446225e4f02b4d1e77c8f81f0bcb0fc219fb0</hash>
+          <hash piece="34">1bddee5f3aee56e203433e806f7aeb7998d40462</hash>
+          <hash piece="35">10c88f5599ee026f4f08b6083d200d0d271be1fd</hash>
+          <hash piece="36">32e7a71fa1c52d59bfdd7d6bcf7d1f6f99510c92</hash>
+          <hash piece="37">659099b123aa38aa5803ab45dcadfc03cb63d409</hash>
+          <hash piece="38">1bff852c9b35c85ac0c9a2b1cbd715644ede292b</hash>
+          <hash piece="39">2632ff57418c958f4e8395cfbc2c04b3e4e265ad</hash>
+          <hash piece="40">f02ad7818a63d9834d68352fb63528a3549ee209</hash>
+          <hash piece="41">08ce26ba07a0305b518425559429904005d861b5</hash>
+          <hash piece="42">1e275ba639f8c9ea37a1f81fe935c4db5aed2e7f</hash>
+          <hash piece="43">2a20601d041fe30a0fef8c82e267e87d6d9ffb74</hash>
+          <hash piece="44">57da8a8ebe4cb567e42c5cd051871326ff8c17a2</hash>
+          <hash piece="45">7cce15082f513413387ff3d3b2195fa0c2b19a91</hash>
+          <hash piece="46">897e5dd59259fefbf01c2ab65158936e85e67e02</hash>
+          <hash piece="47">7e1a710eb3f1c3678366e1a238180a66b0007f7f</hash>
+          <hash piece="48">cb7bb7c052590cb57ca40effbfc658ef66d02576</hash>
+          <hash piece="49">0c759bf9000c3b4997bf174574ac0142e32a70e7</hash>
+          <hash piece="50">20a956c5aa668b586b45dbcf191cc33b8e63dfe4</hash>
+          <hash piece="51">91237a69a08b17c05a1d1c65dd45596eef55a400</hash>
+          <hash piece="52">c26efa238630d403c1f7f92e06be9b95e17c9150</hash>
+          <hash piece="53">987425e2bca4824f52d3223223947f8d76cae525</hash>
+          <hash piece="54">7930eccd844f7c8fc84bfa13aa432f7bca7dad72</hash>
+          <hash piece="55">399e4315aa2d3c8b04c5b5ee04945c293cc0b848</hash>
+          <hash piece="56">6dcd5a765034f13675ac24e1bab65e88429bd7e0</hash>
+          <hash piece="57">d34e91575d8f037d70942f58bc5cd32e1f59e7b6</hash>
+          <hash piece="58">3226cd7e57538fc52c87c7924d82256b3e351b4d</hash>
+          <hash piece="59">3bcf06785a0ecc04cc362598f1f9aaad6fb0df96</hash>
+          <hash piece="60">100b2ca067255d912e93a5af7bdf7ca0d0991b4d</hash>
+          <hash piece="61">41966441b656e4e3ffc96a395f290e0131c1e7f0</hash>
+          <hash piece="62">b936b24972330c894d87bbcd94386a879c48350f</hash>
+          <hash piece="63">bab213b771b61d5e6a2845d4b1e57f3a11f38b93</hash>
+          <hash piece="64">318fc6287ab21baa059909c98ebc936d02bd471f</hash>
+          <hash piece="65">6958fc1a8717dca17932a26f806e3da9b3484926</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" preference="100">ftp://ftp.rocksclusters.org/pub/rocks/rocks-4.3/area51+base+bio+condor+ganglia+grid+hpc+java+kernel+os+sge+web-server-06.07.2007-09.05.07.x86_64.disk1.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

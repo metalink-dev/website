@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Zenwalk Linux</name>
+    <url>http://www.zenwalk.org/</url>
+  </publisher>
+  <identity>Zenwalk</identity>
+  <version>4.8beta</version>
+  <description>Zenwalk is a GNU/Linux operating system.</description>
+  <files>
+    <file name="zenwalk-4.8beta.iso">
+      <size>448747520</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">eef3aac5c7fb8c4f3d77edde1ee8f84b</hash>
+        <hash type="sha1">8f4614817b8b351ef2dad6cf4f0e1b6eb1d27f99</hash>
+        <hash type="sha256">4e67b61c596b4bf7bb23fc5a0b6f2d4bba443e80d340d6ee14a1ca9c6d95f9f2</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">4a13c858988a23ce1c429f6a20dbcfa389aa3a14</hash>
+          <hash piece="1">cee3fad3b071c90253f971e0f4345ec44eda1861</hash>
+          <hash piece="2">97151a1492e818a5356c0fe1f9c4cd9896cf92f6</hash>
+          <hash piece="3">0925b7782b2a80c92bcc4681a95799dd9305e135</hash>
+          <hash piece="4">4e420cb037638af1325976d312202215dccd6c87</hash>
+          <hash piece="5">a81e1f97d317c4793a8c7b05c157e3547e7544d3</hash>
+          <hash piece="6">122ecf002195f0f4343be461ca9a0386a0069f88</hash>
+          <hash piece="7">763ba041f2c0d7a7dc4d8a7834e7ea8fe2c9549e</hash>
+          <hash piece="8">d911a266aa81550ddb30a7f3bb5be9dd51f22b0a</hash>
+          <hash piece="9">30ad7210273ba370b74d1daff7c6a590a8650143</hash>
+          <hash piece="10">e5692c44823bb3c6774eaf524fd94eabaec812c9</hash>
+          <hash piece="11">78b4d03b503b57578f6bf3b72f148cdfaded6951</hash>
+          <hash piece="12">db04fa745d7ce7f9df556ed2f54286113249a0e8</hash>
+          <hash piece="13">13d913e8ad01b56ad69a7af14eb8e6f91edbd7f3</hash>
+          <hash piece="14">0e4ec5336614b2fa5af7ab1275b45e33da7095fc</hash>
+          <hash piece="15">731b4baa8ca8bce01b5f37aa288a181099f813ea</hash>
+          <hash piece="16">190f7428e8bdd413af43fffaee30883c8d2145b2</hash>
+          <hash piece="17">72101e93bc1d01b0ad2c084d38ed8f2bff76422b</hash>
+          <hash piece="18">3429d95970b7886d4e3d0b33f1e9259919fdfefc</hash>
+          <hash piece="19">1a45c7eed6e4aa3257a6b5ab7da1a35f598cf587</hash>
+          <hash piece="20">af56caddfbd168590e2fd2e0c0214482b8bdff08</hash>
+          <hash piece="21">20dc06f1a4fe83574714891482203794ba8a0edf</hash>
+          <hash piece="22">8e8e026e0f0d157d50e236bc89ac9c89d66212ee</hash>
+          <hash piece="23">dde83ea4653b3ea60f683bf28d52303f15aa5e45</hash>
+          <hash piece="24">07018ce278b492d8bc3ffb7f5ea3b813a62d1627</hash>
+          <hash piece="25">d3653dd8486fca5e1390587a0b8e047851ee7c6f</hash>
+          <hash piece="26">66c85ce642222fae369a8d37daf89547ab431a74</hash>
+          <hash piece="27">b1ae2bce658bb8856543cc92af8946a80aa0d553</hash>
+          <hash piece="28">ab0845927dc37887102b4642f4543cd1174aa75a</hash>
+          <hash piece="29">09406709725a902eb8d0812ed9bb3740f2357716</hash>
+          <hash piece="30">9b07fec286eb8ac107f8af41b917c570bc889ecd</hash>
+          <hash piece="31">c4e945a4e825c48671598e54373b5af5b37b57db</hash>
+          <hash piece="32">70eb32c9fa70e9b864cf1fa8a69386415c77ff27</hash>
+          <hash piece="33">f0c190783cc0875b0f8176425ecd32bd57e0dda1</hash>
+          <hash piece="34">4a62c3b3a75c235a6d4a88f588cea80c63730495</hash>
+          <hash piece="35">c388cd488ccc0aba4e32622756a25f588140fd1e</hash>
+          <hash piece="36">ff9fcf094e82ba78a63ecc228f65ce83d8b48dbb</hash>
+          <hash piece="37">009d5bfd71693aad6d17f6b50597258e0002a684</hash>
+          <hash piece="38">a16c02b4cc80c87b14355ea0a81307cdea7ab115</hash>
+          <hash piece="39">7fa4d5fb3643a3fa028e90dccab20d742e9539a0</hash>
+          <hash piece="40">f66972bdda1883a6c33631f551d3345c6892fc77</hash>
+          <hash piece="41">78931fcab36379b14b6a9bb6f033f846b08718a3</hash>
+          <hash piece="42">2ea197dcad030399d90d94edd3cdfc8be0436b45</hash>
+          <hash piece="43">0963b10b5ba3ae86f7cf05c2ea0155a7ce1bf79f</hash>
+          <hash piece="44">ba200aab5bbed376206074d771a194dabc72dbf8</hash>
+          <hash piece="45">75a8260b2ebf0c9e33a36d3d0ce2cb9170516b36</hash>
+          <hash piece="46">f4db85abaa28364dc061bfbb8c16738b37c2036b</hash>
+          <hash piece="47">8ee4c482a9ba944caadbc93ccb4dc9a895797220</hash>
+          <hash piece="48">13fe60ed3483781554319b4785d8a88544a5072d</hash>
+          <hash piece="49">8a8d57236a869fd4665c1d6bc11eb26935b27be4</hash>
+          <hash piece="50">9beba1df70bbf52d8572be21b588d799c34b95e4</hash>
+          <hash piece="51">0e439b725aeafb5232b0faa978f0ae7e1b1387ff</hash>
+          <hash piece="52">e817049611083961ed7118f4247f8c06ff404379</hash>
+          <hash piece="53">d9629d61c49f82d84e8a8588b3e35da02aab8e5c</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="fr" preference="100">http://zenwalk.linuxish.net/people/jp/20070830/zenwalk-4.8beta.iso</url>
+        <url type="http" location="fr" preference="100">http://mirror.meleeweb.net/pub/linux/zenwalk/people/jp/20070830/zenwalk-4.8beta.iso</url>
+        <url type="http" location="fr" preference="100">http://zen-repo.meticul.eu/people/jp/20070830/zenwalk-4.8beta.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://distro.ibiblio.org/pub/linux/distributions/zenwalk/people/jp/20070830/zenwalk-4.8beta.iso</url>
+        <url type="http" location="us" preference="100">http://distro.ibiblio.org/pub/linux/distributions/zenwalk/people/jp/20070830/zenwalk-4.8beta.iso</url>
+        <url type="ftp" location="cz" preference="100">ftp://ftp.sh.cvut.cz/MIRRORS/zenwalk/people/jp/20070830/zenwalk-4.8beta.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

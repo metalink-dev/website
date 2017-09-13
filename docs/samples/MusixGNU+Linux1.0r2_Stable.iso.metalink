@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.0.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Musix</name>
+    <url>http://www.musix.org.ar/en/index.html</url>
+  </publisher>
+  <identity>Musix</identity>
+  <version>1.0R1</version>
+  <description>Musix is a 100% free multimedia operating system intended for music production, graphic design, audio and video edition, and all kind of tasks. It contains an enormous collection of free (as in freedom) programs that can replace Windows.</description>
+  <files>
+    <file name="MusixGNU+Linux1.0r2_Stable.iso">
+      <size>735289344</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">844d9a9570e8d36b5eb5e0a8adfadf07</hash>
+        <hash type="sha1">5985fee25f20ca2f6891f8edd18c066862e1c96f</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">0f23f9f276d5fd9e0ce1120c0d7efe4f60d65e78</hash>
+          <hash piece="1">2e1a31a18f0a49384b9d7a169cdb66acc825eeea</hash>
+          <hash piece="2">46b30630dd7efefb26b809aedc333ac8b946c867</hash>
+          <hash piece="3">fcf9b5d13e28fddedd50edeb843653351938677f</hash>
+          <hash piece="4">53d07a117031b6f91795c0481bfc1abe08adeee6</hash>
+          <hash piece="5">46200d51ccb54347d9debc37e5d38dbf5ea08974</hash>
+          <hash piece="6">8ed7903a0ced80cd90e38e320c5f26e88850eb0e</hash>
+          <hash piece="7">2ed5747e3c5866f2ca8361bea6fee6d6f0c8c831</hash>
+          <hash piece="8">52f5789234370969d32f9602f277a0582446ad26</hash>
+          <hash piece="9">610880037be32c81ed9c5d7909c82bcce38e0a50</hash>
+          <hash piece="10">fd8063a1f774d2501b7bf76300467368c1bc7174</hash>
+          <hash piece="11">d2c983248dd011353364aea13417905c6afe6076</hash>
+          <hash piece="12">c8a593d5ee6f50e092f07a1fe4ec673aa64b9165</hash>
+          <hash piece="13">d5510951798eb3a0eab0ab2e61c95c19a1dd52bc</hash>
+          <hash piece="14">79ac016ca0cc20e7f4ee752a6f52212e02478bde</hash>
+          <hash piece="15">daae5c6be5617352cde845a17a744994540467b9</hash>
+          <hash piece="16">b8d0ca44529a634de3ca903c0c5857df6063e200</hash>
+          <hash piece="17">f1a5d281fd68fe853199090cd4fa996d19c2321b</hash>
+          <hash piece="18">e6f766789153a05991f379eaa7100b3ae6317309</hash>
+          <hash piece="19">d56f45ab8aa67b0d0579ba56cc03f3965e05131a</hash>
+          <hash piece="20">9f97c98acdf41393d251e46f534b0840ec8047bd</hash>
+          <hash piece="21">a489037f21dd48fe108bb70b1c7a95102346465c</hash>
+          <hash piece="22">4a9b5ed0ab127d28722e7c715d740bba7d277c5a</hash>
+          <hash piece="23">4a433e9239ae5854fadb749448845f65f0830fb3</hash>
+          <hash piece="24">1703182e77e8217dffd06b4c5fd0d0a2f57e81d8</hash>
+          <hash piece="25">6affb3ff85e17340aed720c251ea7be7492b7754</hash>
+          <hash piece="26">98a8fd78e3ecd22a49beecbad311a6c4fa58503b</hash>
+          <hash piece="27">8d25ce8e36c1530cf86d0ae1717e0e4f0036d253</hash>
+          <hash piece="28">fcfaa354bbe5905e39a552a75c904b25f84ee346</hash>
+          <hash piece="29">8c4b837333f1d3e34570c97ec3cd70692957c774</hash>
+          <hash piece="30">e0f30837f518efee8d5a90c6b8efc30d333efa48</hash>
+          <hash piece="31">f80ea265bb66fe1d3478c1641302a1b215cff1fb</hash>
+          <hash piece="32">f7c4db6889bbbfd1c85e9a2d9ddeaf1d2aeae4ea</hash>
+          <hash piece="33">da4136c9e2e9d90bcb1c4d7923fd09f9cd728614</hash>
+          <hash piece="34">18b8c80aee278d21a368d5a6eaf33bc87fb53983</hash>
+          <hash piece="35">9c641174c8b963576014e3517e54c472a5bcb064</hash>
+          <hash piece="36">c81dded2041a095d1afe68fff69a7ec91da42059</hash>
+          <hash piece="37">427fcec34c688bb9afd9e86a0f7b582bc3f1395a</hash>
+          <hash piece="38">41d13c52d778eb8f4724b8e894ca6d199831e400</hash>
+          <hash piece="39">5f817181b3d5c911c29d46d48bfb4ee4cb01b692</hash>
+          <hash piece="40">96f08c1614376691de5ae973934d98c11e847091</hash>
+          <hash piece="41">eaf225feac837fc4d60c7d6d68569d44e0023de2</hash>
+          <hash piece="42">8725ae2a4a9eb2ef115694748c64724fd0528e53</hash>
+          <hash piece="43">82c1016354b9572eb035d4518fb0c07db93cb9f8</hash>
+          <hash piece="44">5049feb8ca5f5def25ccb1f3b5ff73f250448f5c</hash>
+          <hash piece="45">85c64a67675e3622f5d96c248905d175f350ca35</hash>
+          <hash piece="46">6805ae6a75fe7d2bcb383c04b73696ac2f581a19</hash>
+          <hash piece="47">b54f986aeed33ff3ca321ea6f8d3a703acf77c8d</hash>
+          <hash piece="48">29e3f9e0c0bcb09e3bfe3364d94a7ed85232aac7</hash>
+          <hash piece="49">7e83db970c08e2b608a66fa57d8f5daa7b290247</hash>
+          <hash piece="50">9c900152456dec764a47d8c7a8c513f3b1783e1d</hash>
+          <hash piece="51">1c38d4459c244fffdb92b98f64d84318247da5e1</hash>
+          <hash piece="52">0234c701604c6ce2f49617dd97420c3158ab1987</hash>
+          <hash piece="53">d54e4c59510e8e8c3ec506a7aefd6f6944165d30</hash>
+          <hash piece="54">5858f5c2c43fa942e3bb00af6b1e512916d86f4f</hash>
+          <hash piece="55">7ef57dc5141d4f9a9125fb308118c2fe284ed863</hash>
+          <hash piece="56">7b503f2328307d2b9b94c2dfe8425e778c45b016</hash>
+          <hash piece="57">3746c69f6bbc55327ba62348419f7c228bc31dc3</hash>
+          <hash piece="58">d0bb2b51c7adf8bfa1ba7f7fd7a73b09e86777fb</hash>
+          <hash piece="59">5bd3e7ff73ba3f655a02948e7e3026e7a23eec0c</hash>
+          <hash piece="60">c3e443ee22057d9c10100b9500c9fe7b6729f080</hash>
+          <hash piece="61">106abef6df082a4d05884625eda22cdd59d4fe6b</hash>
+          <hash piece="62">7b7c4bededec70e468f6e50e7f721586207591ff</hash>
+          <hash piece="63">e107c247d92b213c49ab2296b4acc4f1b3e84359</hash>
+          <hash piece="64">932df610742f8741d8e63749afd81a546287236e</hash>
+          <hash piece="65">59ef61fdb85207040f0fe2bbba2b76f84923ef8e</hash>
+          <hash piece="66">ce42513683a926be40cf4bdc21b41ac0fe5147d1</hash>
+          <hash piece="67">455d49620dea58e75fd709f7b68d74425ed23fc6</hash>
+          <hash piece="68">e96d3a28a50923bb084bf43b5a513ce6fa96b1cc</hash>
+          <hash piece="69">54f1f53ad87f2a0587e2fa61e95c5c85c7666c9e</hash>
+          <hash piece="70">fbf98eb28c2e8cfa94bcf4cfd7db88a30256db25</hash>
+          <hash piece="71">cac52fe0d320624e2af21ff52349a4a85fe3fe83</hash>
+          <hash piece="72">09348200346d736df50cd13e566cc7c4e0c7e5a1</hash>
+          <hash piece="73">be2d6506e89b45d0c7965b99f7ea13e4ba5ad7f1</hash>
+          <hash piece="74">acbc2d23577ac590af9b330be51eb672582390e5</hash>
+          <hash piece="75">8c19787bdad426eb3bfb388c59cc4150d5c6b95c</hash>
+          <hash piece="76">ab2229c0e323f05de00c11fd9082ee36399e0ca4</hash>
+          <hash piece="77">0ead84d2fd729ffa41fb7eb3dfa4cf99656d0c51</hash>
+          <hash piece="78">2bb72c21ac6890e9d5b227da5615870fee74d097</hash>
+          <hash piece="79">d8e15e1a54fb15948b318ba6e1d5fff4ad7d17c8</hash>
+          <hash piece="80">8450c1a99feab11c71db7e59af389fddfdbf35d0</hash>
+          <hash piece="81">883ac7bfc5649ffba3ec1fe356fe850ab6fd9441</hash>
+          <hash piece="82">94f2aafaae77d4bfa9e554047edcec4fa819e42a</hash>
+          <hash piece="83">c9a57e69a711eb9349313639f9c902ddc1fd9c9a</hash>
+          <hash piece="84">6269e7734a69731770cbffc49c86f94ee79be72c</hash>
+          <hash piece="85">efa798a1344c16e25fb9aee69b3ec93579249603</hash>
+          <hash piece="86">ded68512e441b81c8e08a98d75b63896d9dc516c</hash>
+          <hash piece="87">a15f169cca2b467ce3f180656add2dc628dd9f20</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" preference="100">ftp://ftp.gnu.org/gnu+linux-distros/ututo-e/MusixGNU+Linux1.0r2_Stable.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

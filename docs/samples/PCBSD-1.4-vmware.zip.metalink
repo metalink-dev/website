@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>PC-BSD</name>
+    <url>http://www.pcbsd.org/</url>
+  </publisher>
+  <version>1.4</version>
+  <description>PC-BSD has been designed with the "casual" computer user in mind. Installing the system is simply a matter of a few clicks and a few minutes for the installation process to finish. Hardware such as video, sound, network and other devices will be auto-detected and available at the first system startup. Home users will immediately feel comfortable with PC-BSD's desktop interface, with KDE 3.5 running under the hood. Software installation has also been designed to be as painless as possible, simply double-click and software will be installed.</description>
+  <files>
+    <file name="PCBSD-1.4-vmware.zip">
+      <size>1028308001</size>
+      <os>BSD-x86</os>
+      <verification>
+        <hash type="md5">0dbab6c8ba76beacc7390811c0f7f5e8</hash>
+        <hash type="sha1">8703c9c1ec3511681269af109c162e219009b0c0</hash>
+        <hash type="sha256">ba04f8508aa985033849c2b79c960a152e5d19aab37a42f5e1d0c28b797ff63b</hash>
+        <pieces type="sha1" length="16777216">
+          <hash piece="0">6389281e1be2bb44b4a9321f9f8ee69113fa8344</hash>
+          <hash piece="1">84aa564081cbf888be854693cc7d9c0871cb8d1d</hash>
+          <hash piece="2">2d67dcab148f5015170ce9c1fb6439fcafaf0241</hash>
+          <hash piece="3">8bc9295985de9c2d8b2ceb86732fbb8638dabf71</hash>
+          <hash piece="4">247c0ecd9a2babdd80a34be6152a63375a9d0aff</hash>
+          <hash piece="5">c45dcb23427857a9c1bb0e3b06d8760f30cde724</hash>
+          <hash piece="6">294cf5ec7238a2050755a00c57321b8fa2c5d0e4</hash>
+          <hash piece="7">555094fcc7828196950392c326a773ef79a78455</hash>
+          <hash piece="8">6b9d393407f14f2dabc551566a81368f2ee356d4</hash>
+          <hash piece="9">fb8e3640ff6f368c14a4ad8a72ee6b050d248855</hash>
+          <hash piece="10">628c3bb6e133b73aa80895054ff0300b67cfb43e</hash>
+          <hash piece="11">9e053739a6081c972ee7a76dba00c5378b938caf</hash>
+          <hash piece="12">a552b3324c6f95d33766a6f56bb096eda8653177</hash>
+          <hash piece="13">be6bec733c26576e751b3bbb6eecf348b6cb7dab</hash>
+          <hash piece="14">5cc2ff01c3b2ff77a8cb21766c6a78d848df3ea8</hash>
+          <hash piece="15">5e10c2373a2b0d0cdfbe73272bef7ab0af23637e</hash>
+          <hash piece="16">9946ebf62979980fc502d4ea65b5678aba82517a</hash>
+          <hash piece="17">414c1ab12076c55fbb26c4340537df30a6d7bd25</hash>
+          <hash piece="18">f1e8849966f78a37aaddef34fb77e86ce4d652f7</hash>
+          <hash piece="19">138d103cd669af4a8efd6bebf80cbd67b11db077</hash>
+          <hash piece="20">7ff07b394563e03be9e18fe43a170779e2b88290</hash>
+          <hash piece="21">6cbf6f5dfffb5255ccd509cd1642960347ff3e53</hash>
+          <hash piece="22">2a94908957b4916308751ab5688ded7b3fd6bfc2</hash>
+          <hash piece="23">2e9a85127fefe1fbc1deea368437c0a3979c3ca8</hash>
+          <hash piece="24">dc9188f95376f078618763d44e23485a96650de7</hash>
+          <hash piece="25">f35d54be1f774b825bbf8a8d8a3fe5cc26297293</hash>
+          <hash piece="26">4a61d97118e016802927856c702b57faeabe9a5e</hash>
+          <hash piece="27">b32b19643f15833f892a9502aa8676f21cf26c2d</hash>
+          <hash piece="28">2b2caa1b736ff16b28f2e75940b2a63daa47e135</hash>
+          <hash piece="29">c24527717a2bde7b35d16c20db22afaac108454b</hash>
+          <hash piece="30">46c09be6c7be9797edcd55fbd06dee67f39c645c</hash>
+          <hash piece="31">021c91272a8371a9cc00555985a5e36dd3219ef2</hash>
+          <hash piece="32">ced38d0f738eab502e870fc99ac3bbbb84d0160c</hash>
+          <hash piece="33">6e562256e53136bc7c565f26978ffc0af18945c5</hash>
+          <hash piece="34">eec2267f228ed3171e826bf930339d6c369578f6</hash>
+          <hash piece="35">305da2c67b459e7679967f2a378eb3ba97001d2d</hash>
+          <hash piece="36">45ec0d1ae920d31867cce8f9f6a1656a7e1027c5</hash>
+          <hash piece="37">e0eaa3ce699669119394301d001d222f94f54f3d</hash>
+          <hash piece="38">cf8ffb0408a4586634b0f4e68c19724f3f8d5bde</hash>
+          <hash piece="39">a091b1e2d26d8c0baef5ec60db76763897ab868b</hash>
+          <hash piece="40">c7fd397a3fc66ec03080856e3c14ea6ccc800125</hash>
+          <hash piece="41">8ca810ac7b2ca2962a340d711692054754830f44</hash>
+          <hash piece="42">22f08e0d4037315c694149dcba4ef0555fcceaeb</hash>
+          <hash piece="43">29bcacea93674ad95f58e672959f9d861213b570</hash>
+          <hash piece="44">ae53e24e3fc9bc50908bedcc08c8b1bb8231cac9</hash>
+          <hash piece="45">74fdd687f8c6ce250a905a5b3ef3a804fd5fe43d</hash>
+          <hash piece="46">e7c8bcac16248d19ef850facd657538bb7d7b14f</hash>
+          <hash piece="47">9365d673356c68dbd4e82d05238a5e387fc68556</hash>
+          <hash piece="48">1d7956e5d8f30a837239f42ab636a5e9ecc07502</hash>
+          <hash piece="49">4b7381a8751b3facf051e6b298813381fd780047</hash>
+          <hash piece="50">f8730c4ab462f397e1a59d19264e7f4a44fe1eb2</hash>
+          <hash piece="51">8c390f60bf161785751535684d9ffd7bf8b553db</hash>
+          <hash piece="52">81269e725fbc1d9f7c7fe666f0f2ebdeba208b0b</hash>
+          <hash piece="53">1781a78196e6db783360853a886f5ec85b7eccf2</hash>
+          <hash piece="54">690ea053edc3f582d76c894dbddaea3d65f3db4a</hash>
+          <hash piece="55">f1cbf5957b7898d1346be52bb07e63fcae5927a3</hash>
+          <hash piece="56">73331c7042c68d1dd824198481f3a23b9d524354</hash>
+          <hash piece="57">2feb9601bf82ed2f1618b88b5fd117d6ca9e2b14</hash>
+          <hash piece="58">582433030d831f846760069334c6dd33d2feeef8</hash>
+          <hash piece="59">4e33f5f6b92365e032c3245a8008bfe64d30c902</hash>
+          <hash piece="60">9214bc215eb031726e9b9ceb367cec91e133948e</hash>
+          <hash piece="61">8cce8a468791afbaa09daabcc00992de3b6f6198</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="au" preference="100">http://mirror.internode.on.net/pub/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="http" location="de" preference="100">http://ftp.plusline.de/pub/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="br" preference="100">ftp://pcbsd.c3sl.ufpr.br/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="bg" preference="100">ftp://ftp.bg.freebsd.org/pub/PCBSD/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="ee" preference="100">ftp://cvsup.eenet.ee/pub/PC-BSD/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp-stud.fht-esslingen.de/pub/Mirrors/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="http" location="gr" preference="100">http://ftp.ntua.gr/pub/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="http" location="hu" preference="100">http://pcbsd.hostoffice.hu/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="http" location="it" preference="100">http://pcbsd.fastbull.org/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="it" preference="100">ftp://mi.mirror.garr.it/mirrors/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="jp" preference="100">ftp://pub.allbsd.org/pub/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="jp" preference="100">ftp://ftp.yz.yamagata-u.ac.jp/pub/pc-bsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="lv" preference="100">ftp://ftp.bsd.lv/pub/PCBSD/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="nl" preference="100">ftp://www.nl.freebsd.org/pub/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="no" preference="100">ftp://ftp.netrunner.nu/pub/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="no" preference="100">ftp://jane.tihlde.org/pub/PC-BSD/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="pl" preference="100">ftp://pc-bsd.bsdterminal.pl/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="pt" preference="100">ftp://darkstar.ist.utl.pt/pub/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="ro" preference="100">ftp://ftp.kappa.ro/pub/PCBSD/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="http" location="ru" preference="100">http://mirror.pcbsd.ru/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="ru" preference="100">ftp://kucha.ru/pub/mirror/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="http" location="za" preference="100">http://ftp.leg.uct.ac.za/pub/bsds/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="se" preference="100">ftp://mirror2.dataphone.se/pub/PC-BSD/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="tw" preference="100">ftp://ftp.cs.pu.edu.tw/PCBSD/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="tw" preference="100">ftp://ftp2.tnc.edu.tw/pub3/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="tw" preference="100">ftp://ftp.cse.yzu.edu.tw/pub/BSD/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="tr" preference="100">ftp://ftp.ulakbim.gov.tr/PCBSD/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="http" location="uk" preference="100">http://www.mirrorservice.org/pub/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="uk" preference="100">ftp://ftp.plig.net/pub/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="ua" preference="100">ftp://ftp.pcbsd.org.ua/incoming/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="http" location="us" preference="100">http://akane.desync.com/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="ftp" location="us" preference="100">ftp://mirrors.isc.org/pub/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="http" location="us" preference="100">http://www.theunixproject.org/pub/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="http" location="us" preference="100">http://mirrors.timbury.net/pc-bsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="http" location="us" preference="100">http://phobos.tk/stuff/linux/pcbsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="http" location="us" preference="100">http://mirrors.gigenet.com/pc-bsd/1.4/PCBSD-1.4-vmware.zip</url>
+        <url type="http" location="us" preference="100">http://pcbsd.bibivu.com/1.4/PCBSD-1.4-vmware.zip</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+
+<!--
+	Metalink, an Open Standard, makes downloading easier by
+	bundling the various ways (FTP/HTTP/P2P) to get files into
+	one format for easier downloads, as well as bundling
+	checksums to automatically verify completed downloads.
+	
+	Currently the following applications support this file:
+	        
+	- GetRight 6.0 (http://www.getright.com/)
+	        
+	For further information please visit http://www.metalinker.org/
+-->
+
+  <publisher>
+    <name>Adobe</name>
+    <url>http://www.adobe.com/</url>
+  </publisher>
+  <description>Adobe Acrobat Reader</description>
+  <files>
+    <file name="AdbeRdr80_en_US.exe">
+      <version>8.0</version>
+      <language>en-US</language>
+      <os>Windows-x86</os>
+      <verification>
+        <hash type="md5">0ab5ce309f313ed028824251c798b35c</hash>
+      </verification>
+      <resources>
+        <url type="ftp" preference="100">ftp://ftp.adobe.com/pub/adobe/reader/win/8.x/8.0/enu/AdbeRdr80_en_US.exe</url>
+        <url type="ftp" preference="100">ftp://ftp1.adobe.com/pub/adobe/reader/win/8.x/8.0/enu/AdbeRdr80_en_US.exe</url>
+        <url type="ftp" preference="100">ftp://ftp2.adobe.com/pub/adobe/reader/win/8.x/8.0/enu/AdbeRdr80_en_US.exe</url>		
+        <url type="http" preference="100">http://ardownload.adobe.com/pub/adobe/reader/win/8.x/8.0/enu/AdbeRdr80_en_US.exe</url>
+        <url type="ftp" preference="100">ftp://download.axelero.hu/pub/seged/rendszer/adberdr80_en_us.exe</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

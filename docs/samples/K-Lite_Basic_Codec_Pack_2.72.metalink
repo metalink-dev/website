@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <url>http://www.codecguide.com/about_mega.htm</url>
+  </publisher>
+  <description>K-Lite Codec Pack is a collection of codecs and related tools. Codec is short for Compressor-Decompressor. Codecs are needed for encoding and decoding (playing) audio and video. The K-Lite Codec Pack is designed as a user-friendly solution for playing all your movie files.</description>
+  <files>
+    <file name="klcodec272b.exe">
+      <version>2.72</version>
+      <os>Windows-x86</os>
+      <verification>
+        <hash type="md5">20fcabde6efdcfcd4c678c5a3530c149</hash>
+      </verification>
+      <resources>
+        <url type="ftp" location="pl" preference="100">ftp://download.idg.pl/532/vol2/w95/patche/divx/klite/2.72/klcodec272b.exe</url>
+        <url type="ftp" preference="100">ftp://ftp.atfile.com/data/KLite_CodecPack/2.72/klcodec272b.exe</url>
+        <url type="ftp" location="it" preference="100">ftp://ftp.html.it/klcodec272b.exe</url>
+        <url type="ftp" location="lt" preference="100">ftp://ftp.ku.lt/pub/Windows/audio/K-Lite/klcodec272b.exe</url>
+        <url type="ftp" location="it" preference="100">ftp://ftp1.volftp.tiscali.it/pub/pc/windows/winnt50/utility/graphic/video/klcodec272b.exe</url>
+        <url type="http" location="it" preference="100">http://digidownload.libero.it/klitecode/mirror/klcodec272b.exe</url>
+        <url type="http" location="it" preference="100">http://digilander.libero.it/klitecode/mirror/klcodec272b.exe</url>
+        <url type="http" preference="100">http://dlfzmobile.pchome.net/multimedia/media/klcodec272b.exe</url>
+        <url type="http" preference="100">http://download.softpedia.com/software/multimedia/video/divx/klcodec272b.exe</url>
+        <url type="http" location="ro" preference="100">http://download.softpedia.ro/software/MULTIMEDIA/VIDEO/DIVX/klcodec272b.exe</url>
+        <url type="http" location="ru" preference="100">http://files.3dnews.ru/pub/dvd/klcodec272b.exe</url>
+        <url type="http" location="ru" preference="100">http://files.3dnews.ru/pub/dvd/klcodec272b.exe</url>
+        <url type="http" preference="100">http://files.trunetworks.com/multimedia/klcodec272b.exe</url>
+        <url type="http" location="de" preference="100">http://ftp.freenet.de/pub/filepilot/windows/multimedia/video/k-lite_codec_pack/klcodec272b.exe</url>
+        <url type="http" location="fr" preference="100">http://transporteur.free.fr/Programmes/Codecs/klcodec272b.exe</url>
+        <url type="http" location="it" preference="100">http://web.volftp.tiscali.it/pub/pc/windows/winnt50/utility/graphic/video/klcodec272b.exe</url>
+        <url type="http" preference="100">http://www.h2-world.net/files/klcodec272b.exe</url>
+        <url type="ed2k" preference="100">ed2k://|file|K-Lite_Codec_Pack_v272_Basic.exe|1421970|FA3E041638DA0DF11BF2A6509B35ADE2|h=GOV4R653FCJL5YUBXJ3MTJPNAYOMRMTX|s=http://digilander.libero.it/klitecode/mirror/klcodec272b.exe|/</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

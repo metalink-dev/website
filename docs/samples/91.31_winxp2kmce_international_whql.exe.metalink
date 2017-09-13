@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0001" xmlns="http://www.metalinker.org/">
+
+<!--
+	Metalink, an Open Standard, makes downloading easier by
+	bundling the various ways (FTP/HTTP/P2P) to get files into
+	one format for easier downloads, as well as bundling
+	checksums to automatically verify completed downloads.
+	
+	Currently the following applications support this file:
+
+    - aria2 (Linux) [ http://aria2.sourceforge.net/ ]
+	- GetRight 6 (Windows) [ http://www.getright.com/ ]
+	        
+	For further information please visit http://www.metalinker.org/
+-->
+
+  <publisher>
+    <name>Nvidia</name>
+    <url>http://www.nvidia.com/</url>
+  </publisher>
+  <description>nVIDIA ForceWare Drivers for Windows 2000/XP (32-bit) English</description>
+  <files>
+    <file name="91.31_winxp2kmce_international_whql.exe">
+      <version>91.31</version>
+      <os>Windows-x86</os>
+      <verification>
+        <hash type="md5">6b91276be8cdf90dcff8261ef9de65a9</hash>
+      </verification>
+      <resources>
+        <url type="http" location="de" preference="80">ftp://ftp.4players.de/pub/pc/nvidia/91.31_winxp2kmce_international_whql.exe</url>
+        <url type="http" location="us" preference="80">ftp://download.nvidia.com/Windows/91.31/91.31_winxp2kmce_international_whql.exe</url>
+        <url type="http" location="us" preference="80">http://download.nvidia.com/Windows/91.31/91.31_winxp2kmce_international_whql.exe</url>
+        <url type="http" location="de" preference="80">http://www.primacom.de/download/downloads/91.31_winxp2kmce_international_whql.exe</url>
+        <url type="http" location="nc" preference="80">ftp://nas.mls.nc/drivers/nvidia/91.31/91.31_winxp2kmce_international_whql.exe</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

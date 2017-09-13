@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <files>
+    <file name="arch-ftp-install-2008.04-rc-i686.iso">
+      <size>143403008</size>
+      <verification>
+        <hash type="md5">94631e9d0bd00f2ee70cf118e26d24e5</hash>
+        <hash type="sha1">5d0fca967b07436e751f70ec512efc91b98b5241</hash>
+        <hash type="sha256">344c89496e8d453d2082fae44a434a8de39a86f0cad8945fe1e9eff430413138</hash>
+        <pieces type="sha1" length="2097152">
+          <hash piece="0">2344b9f798fbbaf80cc1ad1fb0ff072406b792ed</hash>
+          <hash piece="1">e0e11ccb96e5659ecda7e04a1b107572b9260210</hash>
+          <hash piece="2">567fb5c192829031b84a7157483df53344e1d5a5</hash>
+          <hash piece="3">1781ef78011a278c719fdb829d25c38902c67bef</hash>
+          <hash piece="4">e6774791d21d2657ed4609c9f9fd87d4862f46ff</hash>
+          <hash piece="5">9ac38cc5949efc71025714218746ceb6f82bd9ab</hash>
+          <hash piece="6">b83752dc7dd8190a802218e2581fc03d152eaa3c</hash>
+          <hash piece="7">b4f1e1affbd690e62b5d4d1e22ee1507f94a2600</hash>
+          <hash piece="8">d91e6dc5345167cd372abf23edf050f95a342c07</hash>
+          <hash piece="9">d1df413358cb7b505975c9d83f6a360303254a22</hash>
+          <hash piece="10">90b14986f4d860fa7de9fe6cd24b7f5e3575c8ea</hash>
+          <hash piece="11">ea8cea23ab281c4691858ddce2e7ea675d59c22c</hash>
+          <hash piece="12">921f6797dbab49c7cf22b838e3f47d954358a394</hash>
+          <hash piece="13">4d0c8a02608bb72bf345a3588a65afd68f902b18</hash>
+          <hash piece="14">2679602e0273a5433cd2bd808d84e2411c24e8a2</hash>
+          <hash piece="15">f4713e515f21fabcfe047ee18e749ac1f7d1b1b1</hash>
+          <hash piece="16">58b9a10d92862749d2dfac9ce6e4656dc4aa4c6e</hash>
+          <hash piece="17">5bd8d848ad981084cefac5262f548f1b82664bcc</hash>
+          <hash piece="18">7ab507d0bfadd624e166ba8896bf023d0760c655</hash>
+          <hash piece="19">3ca31878f259cd32d06168e1b788d8ed1a869e3b</hash>
+          <hash piece="20">589643c3ccc278a73a7a50972b207ee235560447</hash>
+          <hash piece="21">6acab19e6d5b8537c84779c2fb14d943a05e55f6</hash>
+          <hash piece="22">a4c6a24fa194b540413cd4ef2acf50f82e20f295</hash>
+          <hash piece="23">dcd59a0a622d2e9ab70510917105ba5238e512b1</hash>
+          <hash piece="24">bc4fb1b5f369a5fdb8887b2c96c0e76dcb805963</hash>
+          <hash piece="25">b3fb52ccbee8218a87fcf52bb45438114ebf46c8</hash>
+          <hash piece="26">d1bb5e3ac8685fbfce84c5a3af2b035c8b5d6b11</hash>
+          <hash piece="27">e441c1bfa287108bdcd852e370a9dd8b9a3e2126</hash>
+          <hash piece="28">f94c5bfbe07f1dd7019b4f4d36d612296476d738</hash>
+          <hash piece="29">e492196fde254854dd583cf1315f3fbdeaf8ca6b</hash>
+          <hash piece="30">e6fb99f8900e284cda70b44887f7fa0779937c66</hash>
+          <hash piece="31">26871395f344f8671346e00cb09b110469f30407</hash>
+          <hash piece="32">4db12e89f118cc82e5bc2ef18f527d686ded8d52</hash>
+          <hash piece="33">f79dfffd060eb7184fbed164b8fc4cefb7d1eb4c</hash>
+          <hash piece="34">5724794093e3da6fc263e654d94a3740edc23ff1</hash>
+          <hash piece="35">36b44c57c963bab43df0f904523f4432ff52be41</hash>
+          <hash piece="36">45c660af37c6f2abceda8c7f1d54a114f626c943</hash>
+          <hash piece="37">01f49db24149862200db01e520223135ec143a6b</hash>
+          <hash piece="38">b5e56de3b41c0aadbd354af2ff2e961cae9d8e07</hash>
+          <hash piece="39">1cfc250ce6e45dd0b4d8b5ad76cef4c95780452b</hash>
+          <hash piece="40">5b28266b8a3be804e95c2a9cf2da2219e89d389c</hash>
+          <hash piece="41">21cadab4afd1b83e6483c5c1f9ee3cc92998b80a</hash>
+          <hash piece="42">0d1761e77d8028d4a44ad0172af166ea5186a09d</hash>
+          <hash piece="43">9dd048fee79b5d3dbf237f5cb970777609d328b2</hash>
+          <hash piece="44">dcf351eb6cde21734755810c702d897efc235573</hash>
+          <hash piece="45">5db515060ec80c66932bbf5296c611c080851847</hash>
+          <hash piece="46">f11e51e7b8e15345a471ecda3422cc3716f6f399</hash>
+          <hash piece="47">c4687742df0045b765eddbc8c375b4db4ce592bc</hash>
+          <hash piece="48">9d9db2ffccf8a148b1d70596cd230a56ebc4daa3</hash>
+          <hash piece="49">ee6cb31664d6865305173596e1c9722fe4720721</hash>
+          <hash piece="50">ad56fb332a6e0e4c541d15388436870de7454b73</hash>
+          <hash piece="51">1b5593058d3a3a37260c937c5153b1f0cd041af7</hash>
+          <hash piece="52">add5044ccc0f4cae9b06141c966856dea55bf383</hash>
+          <hash piece="53">11bdfe11ee688d98a8f06c5697f25f951c521cbd</hash>
+          <hash piece="54">695d5ba1d4555136b0b6eae1332e52d8eaa5cfac</hash>
+          <hash piece="55">3b1673a15041bc8ebdeb4553fea7096c825063bd</hash>
+          <hash piece="56">cde873426118b00bc6de8337d4b2ebb089b9d087</hash>
+          <hash piece="57">59ee34ce2a4b9448cc9c14618137fc09be1c3a8c</hash>
+          <hash piece="58">118475d00da3a3e9409466325f9de73933f94afa</hash>
+          <hash piece="59">38fa6be52d968e6832efe10db9468ff776339ac1</hash>
+          <hash piece="60">15043c0dd0f46aa4fd972ee17835b71b47733010</hash>
+          <hash piece="61">ad3cbd84f68910789fca03c14ffcfbd552b2866e</hash>
+          <hash piece="62">4b1ad36a55a295f534a28b3014cef490e81fea69</hash>
+          <hash piece="63">1a99367cbe827fb1156ba853ba639bb763d218dc</hash>
+          <hash piece="64">20ced954edca0007a75d75a37386f311d5824f85</hash>
+          <hash piece="65">497fbd737eedf0cd0b457b06fb48f9cc0f332ed0</hash>
+          <hash piece="66">cdf707203a9cb807af0b4f5748a941616e6a8471</hash>
+          <hash piece="67">eb43025259efb6268690e7848eef9c7d40ecf72e</hash>
+          <hash piece="68">afad7a13f7a8d8c5251c570e42007441935cccd3</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="at">ftp://gd.tuwien.ac.at/opsys/linux/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp" location="au">ftp://mirror.pacific.net.au/linux/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp" location="be">ftp://ftp.belnet.be/packages/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="http" location="br">http://www.las.ic.unicamp.br/pub/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp" location="cz">ftp://ftp.sh.cvut.cz/MIRRORS/arch/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="http" location="fr">http://mir.archlinux.fr/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp">ftp://mir1.archlinuxfr.org/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp" location="de">ftp://ftp.hosteurope.de/mirror/ftp.archlinux.org/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp" location="de">ftp://ftp.tu-chemnitz.de/pub/linux/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="http" location="de">http://ftp.uni-bayreuth.de/linux/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="http" location="de">http://ftp5.gwdg.de/pub/linux/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="http" location="de">http://ftp.uni-kl.de/pub/linux/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp" location="gr">ftp://ftp.ntua.gr/pub/linux/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp" location="it">ftp://mi.mirror.garr.it/mirrors/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp" location="ie">ftp://ftp.heanet.ie/mirrors/ftp.archlinux.org/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp" location="hu">ftp://ftp.mfa.kfki.hu/pub/mirrors/ftp.archlinux.org/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp" location="ee">ftp://ftp.estpak.ee/pub/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp" location="au">ftp://mirror.aarnet.edu.au/pub/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="http">http://mirrors.unixheads.org/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp">ftp://ftp.ibiblio.org/pub/linux/distributions/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp" location="nu">ftp://ftp.gigabit.nu/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp" location="ch">ftp://archlinux.puzzle.ch/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="http">http://holmes.umflint.edu/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="http">http://server.elsistech.com/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp">ftp://mirror.cs.vt.edu/pub/ArchLinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp" location="pl">ftp://mirror.icis.pcz.pl/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="http">http://mirror.neotuli.net/arch/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="http">http://mirror.rit.edu/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp" location="pt">ftp://cesium.di.uminho.pt/pub/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="http">http://archlinux.mirrors.uk2.net/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="http" location="pt">http://darkstar.ist.utl.pt/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="http">http://www.mirrorservice.org/sites/ftp.archlinux.org/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="http" location="pt">http://ftp.nux.ipb.pt/pub/dists/archlinux/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+        <url type="ftp">ftp://ftp.iasi.roedu.net/mirrors/archlinux.org/iso/2008.04-rc/arch-ftp-install-2008.04-rc-i686.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

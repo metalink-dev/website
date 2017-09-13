@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.2.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <url>http://www.gnu.org/software/gnutls/</url>
+  </publisher>
+  <license>
+    <name>GNU LGPL</name>
+    <url>http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</url>
+  </license>
+  <identity>GNU TLS</identity>
+  <version>2.8</version>
+  <description>GnuTLS is a project that aims to develop a library which provides a secure layer, over a reliable transport layer. Currently the GnuTLS library implements the proposed standards by the IETF's TLS working group. </description>
+  <files>
+    <file name="gnutls-2.8.0.tar.bz2">
+      <size>6177498</size>
+      <verification>
+        <signature type="pgp">
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (GNU/Linux)
+
+iOoEAAECADQFAkoeRY0tFIAAAAAAFQAPcGthLWFkZHJlc3NAZ251cGcub3JnamFz
+QGV4dHVuZG8uY29tAAoJEO2iHpS1ZXFvA9wE/3IJdFQvZnLS67of6Ttv7bubeTFK
+K93qdlYs7K5TC6vdBJD2deRnY+1n2EqDLRPt+Io1stHLArksJE8ic9JUY+qUJgIN
+0oYj5TzA1TGZagWWaAKMVuyhq14QRcdFSiURvRK+R4aP8GOwkr8feagF5iXTQgco
+Uy7FyyrFvgRFYw9VtAFVaa9RYgV9CBC9xC4e++eOGrEAfJMts9CirLw0vPg=
+=n0pd
+-----END PGP SIGNATURE-----
+        </signature>
+        <hash type="md5">001c1d778ac7b53118cd5e14c6f9210d</hash>
+        <hash type="sha1">7c102253bb4e817f393b9979a62c647010312eac</hash>
+        <hash type="sha256">18a85a54aa2a26969e7bc91af06166a831182496c0cc215a032e7376f7b5129b</hash>
+        <pieces type="sha1" length="262144">
+          <hash piece="0">71a4d4a302e4db302a3ed8c5f5adbd7ea95bd409</hash>
+          <hash piece="1">e1aade845b69987a2ac742531b67e2fcd0c72b38</hash>
+          <hash piece="2">480a2660f17a4c5849c1fe4d2a05178d5a39c9cc</hash>
+          <hash piece="3">7a3ee8610686937ae9419c71973d3f4cc7b292ce</hash>
+          <hash piece="4">9ab512b15fff0f4e99ba62d1f2278a639a2ef0f0</hash>
+          <hash piece="5">57b0a7f9daf1b722a8c1fb29b99756c24c2dc633</hash>
+          <hash piece="6">8a5994e70df36f82fe5c85f8956f609f25a5728f</hash>
+          <hash piece="7">f5fb5485b096b91ef0ebde7204236ff4f00c36d0</hash>
+          <hash piece="8">58b67f1ccf1f9fcaae5576de893ee2bf081b3b63</hash>
+          <hash piece="9">2c8df552c736e04ac2fcbbefd5580950be9c9776</hash>
+          <hash piece="10">29ef48778ec07ec62e5c28280f2e53d99289e4ee</hash>
+          <hash piece="11">4a717d9ad0923ef46ae3a0e71140edae5501c9eb</hash>
+          <hash piece="12">1cf514075a953402f2aafe2dad78f2f0d2d44a3c</hash>
+          <hash piece="13">525354a00f25d2125db51c046db88bbc9c569048</hash>
+          <hash piece="14">62f8c6b41b081502bb2639f5a7c5df54e9f14988</hash>
+          <hash piece="15">e81a36bbed7cbbd01a9be8c2e657a462e579fc8a</hash>
+          <hash piece="16">e6ed4bead4db3616b38c8e64aa96b5bcb346f10a</hash>
+          <hash piece="17">1e3ef5703b45b418e86dac0e6b8e4448fd0fbee6</hash>
+          <hash piece="18">d2ec1a03dcea8ba9e46a2168faaa1b9f1cf2efce</hash>
+          <hash piece="19">f112fc75034145cefe508f148b031358a98608f2</hash>
+          <hash piece="20">88afe34d2c63a3071608957c10547a2424ab7a4d</hash>
+          <hash piece="21">7fa5d6ee76a5a92496362fa0db2e8b0062cee142</hash>
+          <hash piece="22">4d61db2ad6675279620a399c1996e26429f1bea5</hash>
+          <hash piece="23">f9857f27fc6486df79e720ddd2804ca247b25dcb</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ed2k">ed2k://|file|gnutls-2.8.0.tar.bz2|6177498|16c36fe7dab21a5334bd225a277a437b|/</url>
+        <url type="http" location="us">http://ftp.gnu.org/gnu/gnutls/gnutls-2.8.0.tar.bz2</url>
+        <url type="ftp" location="us">ftp://ftp.gnu.org/gnu/gnutls/gnutls-2.8.0.tar.bz2</url>
+        <url type="ftp" location="gr">ftp://ftp.gnutls.org/pub/gnutls/gnutls-2.8.0.tar.bz2</url>
+        <url type="http" location="au">http://www.mirrors.wiretapped.net/security/network-security/gnutls/gnutls-2.8.0.tar.bz2</url>
+        <url type="ftp" location="au">ftp://ftp.mirrors.wiretapped.net/pub/security/network-security/gnutls/gnutls-2.8.0.tar.bz2</url>
+        <url type="ftp" location="de">ftp://ftp.gnupg.org/gcrypt/gnutls/gnutls-2.8.0.tar.bz2</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

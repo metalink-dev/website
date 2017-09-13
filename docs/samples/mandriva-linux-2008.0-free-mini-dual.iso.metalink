@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Mandriva</name>
+    <url>http://www.mandriva.com</url>
+  </publisher>
+  <license>
+    <name>GNU GPL</name>
+    <url>http://www.gnu.org/licenses/gpl.html</url>
+  </license>
+  <identity>Mandriva 2008 free</identity>
+  <version>2008.0</version>
+  <description>Mandriva install mini free version without proprietary drivers.</description>
+  <files>
+    <file name="mandriva-linux-2008.0-free-mini-dual.iso">
+      <size>735477760</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">0aab5160cc0104bd3e583746ae9dd5ab</hash>
+        <hash type="sha1">33c61fd60d17e8084a267d2c1577884f8d7e8b05</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">eff9638262a97cfa9ef5e07d1ca301d78fd5a521</hash>
+          <hash piece="1">22a61b490f94023836df2f6378de850d1c59dbf1</hash>
+          <hash piece="2">a2241b3da581f5fb89844cd73235718f6ae9f155</hash>
+          <hash piece="3">1363149803cec033c9c25eb3f95d05c40f47bd1a</hash>
+          <hash piece="4">1fdd4032b06e923a70dac22f51631c42d289cf11</hash>
+          <hash piece="5">960c1834ff15ce1dce4d8c2ad5542065ded3d65d</hash>
+          <hash piece="6">8cf71f45f6a30e25b6b0d2713f31dce1de7351d1</hash>
+          <hash piece="7">f9f111ded05f1fe007796fea099e6d5987c6ae5c</hash>
+          <hash piece="8">40d5f60d4818d4269207e14f6ab2baedbbba02b4</hash>
+          <hash piece="9">af837b5b924fdf8922607144f6612e4f6d058502</hash>
+          <hash piece="10">8f8bb0cbfabe4b1a941bb4c458794ee85077aae9</hash>
+          <hash piece="11">3bca6dabd828d54cb68e1c891553a5dd4be190bf</hash>
+          <hash piece="12">39b6e3e4db2893378c4ee185067c080418d52615</hash>
+          <hash piece="13">723209aebd881a971427b528354c8b1b5c772c77</hash>
+          <hash piece="14">2dbd47e1d4c9c2864e2be2a6a98433dfb195270b</hash>
+          <hash piece="15">8a05f8334cd40a0460f2e1ba5ee3a1dc0821ea6d</hash>
+          <hash piece="16">268503a891d7644b022ce0d8f3ca1e5d09eaf2d9</hash>
+          <hash piece="17">20f4539637993bcee4db488153357b8f46841cdd</hash>
+          <hash piece="18">9f29753779dd64e1faa7294386a3055e40fdefaa</hash>
+          <hash piece="19">88db00a2efb49efc1c48f8af7b714eb24da6d23a</hash>
+          <hash piece="20">43e519a16979e0c519831c0d2ccd4c7d400f59af</hash>
+          <hash piece="21">17dd566b6ccf21e1d0307768384f21ab749dbb24</hash>
+          <hash piece="22">dadb2a3f53b54037cb645f002f4112e2e3dafede</hash>
+          <hash piece="23">12fc0b44e1ac85d69da4594d7f337db4eea7e461</hash>
+          <hash piece="24">be05b8c93da90639935f806cdb94e82c47ef71c3</hash>
+          <hash piece="25">c1ddacd3cb4a3bc68aacd4f76302872207e149fb</hash>
+          <hash piece="26">a5aac67d8dfe96e9761f4adf0270f7c5899573df</hash>
+          <hash piece="27">c3e6426a0a8224ef9ef857fcb96ff4d21058d632</hash>
+          <hash piece="28">6e88bb00043575aa9c7ec15f2dc806f604bdc6fc</hash>
+          <hash piece="29">913825168608f24677d9f483ae9846a263506184</hash>
+          <hash piece="30">be5bf136e462368ba6091f9b1d68ea6fef789058</hash>
+          <hash piece="31">b6725d421daaf884a6b7f496e8a353faa405d418</hash>
+          <hash piece="32">086af1b227fd27a5af06441a247ba0b9b2ed7baf</hash>
+          <hash piece="33">7edc92f5bb3f626aa12bd38c95c58996ced46189</hash>
+          <hash piece="34">479a16ef699bcdbca7d3d6062c53fbab8d687d83</hash>
+          <hash piece="35">15a34e2715b68a4dd36dcc5379f9782c7fa94d90</hash>
+          <hash piece="36">a6dec132a1f35fce1cb090f9b5377efbb1239067</hash>
+          <hash piece="37">51553e7bdc406089529e5d15823b5148b032e469</hash>
+          <hash piece="38">3aec5ec7de12e97c6a4d2827c230bd3c75b99e5c</hash>
+          <hash piece="39">3c2c785c5ad60b790007617d964aa06c5386bdc4</hash>
+          <hash piece="40">226b9be6dca723938dd563115417c142a45ba59a</hash>
+          <hash piece="41">1c6158caed19aa98285547651ae047d869d20b53</hash>
+          <hash piece="42">1037f6d6fa7a02a8a3a62c90743e3a8972c2b279</hash>
+          <hash piece="43">1d94f5a8a72af30593be2078578d54e190b0169d</hash>
+          <hash piece="44">bb6d23e47550e457f76056342b9a6df8e6e60371</hash>
+          <hash piece="45">428153ba33dd52a4a2b2cd2dcd54c1a54fd8b13e</hash>
+          <hash piece="46">052305a17238afc6c6ce5f77a43026d3f1ea5269</hash>
+          <hash piece="47">2c31df21195ed0d742527e229e08f6ce7cc2cdca</hash>
+          <hash piece="48">baf8d37007523cd815feee242fde48664912f42a</hash>
+          <hash piece="49">2b87a63889ecab049d051debc63d520e797154e1</hash>
+          <hash piece="50">9f98692c21c8a6666216fb6c13a80c1c0467105f</hash>
+          <hash piece="51">188a6518e2de25ac93694779b18306a047bfda6c</hash>
+          <hash piece="52">f728b8c880a76e6ba54a914a3dc875855843c06a</hash>
+          <hash piece="53">bb39553f10618f7857d6463eb25d19f9d04a077c</hash>
+          <hash piece="54">5245765c5f613e4eeb1f5b42c7c13e9ce6e53a98</hash>
+          <hash piece="55">8181a46543decb633b1e63c5de808806aa6c78ba</hash>
+          <hash piece="56">4efa025d5e49b78992fc0ce3accb2339fd9b7aa2</hash>
+          <hash piece="57">39fc514ab06863154dfdc88922ea47d13fe5fcaa</hash>
+          <hash piece="58">a262ce79638f340801457377004ca764d94fecc5</hash>
+          <hash piece="59">1bc854902979f32f8eb4f68e2b661ba7b3b932fd</hash>
+          <hash piece="60">aae7b6631f1805561b1931039181ca8028c822d9</hash>
+          <hash piece="61">dac94d60d5dfce22215e005922060ce2479865b8</hash>
+          <hash piece="62">2b5d098b6d16c9733ce9e67da5882362f08d95d9</hash>
+          <hash piece="63">b613e73d365038dbdb9dff154541c874a2fa6cdf</hash>
+          <hash piece="64">3c8d166dcbbb8828799887e5735a05c23987289e</hash>
+          <hash piece="65">6d4540782c3e0d0ba802b31fa28d50f34b4a04a2</hash>
+          <hash piece="66">472de8e2c6338f948cdea8887e081b5824c5816a</hash>
+          <hash piece="67">25e3f2387cf7e115f4fafe1ae0299df1bd13cfd4</hash>
+          <hash piece="68">e940d6287effab0e57761f622a422ac2eb9f5bd7</hash>
+          <hash piece="69">41ee1eb56d43235e70d95234aedf247c3296ea12</hash>
+          <hash piece="70">505f62fd550fe1940f7d3e125652caad9f2a77f1</hash>
+          <hash piece="71">369671247535ae91a42e517312a832e56739b6d7</hash>
+          <hash piece="72">56a44d6a1d718a2883494c5d4644ef0c9ee156dc</hash>
+          <hash piece="73">b112c2b7996acf707106927c259f5968e9276c64</hash>
+          <hash piece="74">2a81cdd0478bbcf52061346134b6ff69b4edea1e</hash>
+          <hash piece="75">f97474d871f994ea31ccd5b1c723451e77cc2a5c</hash>
+          <hash piece="76">fc02fc3ed22a4cb83f5a9d8cce4945393d8418b6</hash>
+          <hash piece="77">db8e5af4c8868cba24bd06ad8aac188a05aca53b</hash>
+          <hash piece="78">a84c034fb17301608569e3a3ec13458f12e0d37c</hash>
+          <hash piece="79">41892680392c39f05f66df7825b4be78c7913186</hash>
+          <hash piece="80">a4202089dc1236e92c6fecb822249fbf1da3e4ee</hash>
+          <hash piece="81">acf2d5bc21e33b72f001996b4c367a8b8067a297</hash>
+          <hash piece="82">55c26cfedf18395ca598ca70d30f637028fd1e22</hash>
+          <hash piece="83">642a08bfaff3ce27828e40751d9d94e1f35b60af</hash>
+          <hash piece="84">1df27f54d982bcb8bcf4ba58ccfd67d7bafa1e5a</hash>
+          <hash piece="85">34ab92c7c407b251d096cd87edeca217d061350a</hash>
+          <hash piece="86">a1451a4429edac7527ec72c47c7ed803871140a6</hash>
+          <hash piece="87">4afe48d5089d2e98b87d9d1b8fecbcd5a40f4d14</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="fr">ftp://ftp.ciril.fr/pub/linux/mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-mini-dual.iso</url>
+        <url type="ftp" location="fr">ftp://ftp.free.fr/mirrors/ftp.mandriva.com/MandrivaLinux/official/iso/2008.0/mandriva-linux-2008.0-free-mini-dual.iso</url>
+        <url type="ftp" location="fr">ftp://distrib-coffee.ipsl.jussieu.fr/pub/linux/MandrivaLinux/official/iso/2008.0/mandriva-linux-2008.0-free-mini-dual.iso</url>
+        <url type="ftp" location="fr">ftp://ftp.u-strasbg.fr/pub/linux/distributions/Mandriva/official/iso/2008.0/mandriva-linux-2008.0-free-mini-dual.iso</url>
+        <url type="ftp" location="is">ftp://ftp.rhnet.is/pub/Mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-mini-dual.iso</url>
+        <url type="ftp" location="ie">ftp://ftp.heanet.ie/pub/mandrake/Mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-mini-dual.iso</url>
+        <url type="ftp" location="ie">ftp://ftp.esat.net/pub/linux/mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-mini-dual.iso</url>
+        <url type="http" location="pt">http://mandriva.dcc.fc.up.pt/official/iso/2008.0/mandriva-linux-2008.0-free-mini-dual.iso</url>
+        <url type="http" location="pt">http://darkstar.ist.utl.pt/mandriva/2008.0/mandriva-linux-2008.0-free-mini-dual.iso</url>
+        <url type="ftp" location="us">ftp://ftp.gtlib.cc.gatech.edu/pub/mandrake/official/iso/2008.0/mandriva-linux-2008.0-free-mini-dual.iso</url>
+        <url type="ftp" location="us">ftp://mirrors.usc.edu/pub/linux/distributions/mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-mini-dual.iso</url>
+        <url type="ftp" location="us">ftp://mirror.mcs.anl.gov/pub/mandrake/official/iso/2008.0/mandriva-linux-2008.0-free-mini-dual.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

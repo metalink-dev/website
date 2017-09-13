@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <url>http://www.sabayonlinux.org/</url>
+  </publisher>
+  <identity>Sabayon Linux LiteMCE</identity>
+  <version>4.0</version>
+  <files>
+    <file name="Sabayon-Linux-x86_64-4-r2-LiteMCE.iso">
+      <size>2081280000</size>
+      <os>Linux-x64</os>
+      <verification>
+        <hash type="md5">ea0aa10769f1934266bf17fa30047a4d</hash>
+        <hash type="sha1">57b189ac14df327947a61e456eb6201b8d17a06c</hash>
+        <hash type="sha256">ca507320e0c5faedf2534e8527e84bce8a7a0d361b3a6f7242d626f88c0f52fe</hash>
+        <pieces type="sha1" length="33554432">
+          <hash piece="0">9458dd70b91737a0625d0650ab8002676d3a4f4a</hash>
+          <hash piece="1">e8e9c35e4860c502278e1a446cfb4619f42d4006</hash>
+          <hash piece="2">4f7caa43957ea5f373e82297f369fd755bab88ec</hash>
+          <hash piece="3">4adca955031b252f2d02a222a2b43dcb75016390</hash>
+          <hash piece="4">e3794a9e380b9d08a498d1f28e8fcf54b2865bf9</hash>
+          <hash piece="5">d0b95726ad8eec4ba9ce8f570ddb18ad23cba0a4</hash>
+          <hash piece="6">cb8b6be99af3788156d9ce443455e0d46daacac8</hash>
+          <hash piece="7">3f462d2e1f9651b2c14170ebdb8814c3006e6cfe</hash>
+          <hash piece="8">b01691d6a1bf8217da906f3abe7496bb426a4354</hash>
+          <hash piece="9">f94861991c93fab84703d25769aff30f998f5491</hash>
+          <hash piece="10">aa657229056fd6fcd2e803b3f195dff37575e8eb</hash>
+          <hash piece="11">2bedbfff63bad13ee53914a6981395a09fe25b27</hash>
+          <hash piece="12">b46246f600f5e921584e3d6936c3d15ee7c470af</hash>
+          <hash piece="13">37da5031224832d1299b9c934e807255a94a9669</hash>
+          <hash piece="14">19b6f22eb5ffebe7cb3e5167577c2776ace02ae5</hash>
+          <hash piece="15">e0f17dce2de539fb55df146d146e862c86e8918e</hash>
+          <hash piece="16">76e9f968c6bc005fb3667c7f83dd8cb41ada0f42</hash>
+          <hash piece="17">02fa7cce49cefcc11c462836f7206f20f8176c0e</hash>
+          <hash piece="18">c4ff3307daa40c57553c34bdf21e1dacb079fbd2</hash>
+          <hash piece="19">2ffa48abbc5cc145dc5d24baf82a58e8043dc870</hash>
+          <hash piece="20">c1270d4b52a01f0c664bec6faaf2ddd0f84e30f6</hash>
+          <hash piece="21">8a12fcc3a71619676da5c7e33eb647e9e9a0225b</hash>
+          <hash piece="22">2f86b50b33295d5ef0ca3cf71b072d1fe29b506e</hash>
+          <hash piece="23">9d197b012c980834d87092caae531e3cb0fd9870</hash>
+          <hash piece="24">c3c33e4cbfa66f735ebad60daf9fc7acfab7f52a</hash>
+          <hash piece="25">c4906f25e0fab2104137b54968f04b63bd13fcd9</hash>
+          <hash piece="26">ce6a38842cb39d8759e6d90333bab096816b4246</hash>
+          <hash piece="27">061274bbdb369b6e907bec78865550ab9ef110c4</hash>
+          <hash piece="28">5f5beda38184010bb1860ea560f51c1a1b11d416</hash>
+          <hash piece="29">9e226785516bd5aa82dd4bde77a64137323aa2e7</hash>
+          <hash piece="30">b6a43ce414bbbb75348f7107ea838c22d69797eb</hash>
+          <hash piece="31">b5feea481cd6687c5936bce39c966a2ec20c1bc4</hash>
+          <hash piece="32">0b9afd58e443d87842a648cd473dc26bedd87df2</hash>
+          <hash piece="33">2f0572ede0195b7895e16a7514c5f5323946e7a9</hash>
+          <hash piece="34">ed74f9d8c68685b96fe59f6b7c0589a54fe149d8</hash>
+          <hash piece="35">f4883b36fc7aaf1415722422cd1dc8b8dc9ccbcf</hash>
+          <hash piece="36">a75ade908a178001c2add533e457d27038765981</hash>
+          <hash piece="37">b007f6c34034b67305483b931452dc8857178b4c</hash>
+          <hash piece="38">dd9952f674d994c5eae58339579b6f9932c4b891</hash>
+          <hash piece="39">026a1af33d0d6738aa2411b046504f5f4ee56f7c</hash>
+          <hash piece="40">6cf9c642b369db467a97a288c6fab54f36756ea8</hash>
+          <hash piece="41">39b8f14a374b7aa88d7fc681049a523cf371b641</hash>
+          <hash piece="42">559c88dc428541e599264754913f615625eaebb3</hash>
+          <hash piece="43">5dee7cc704ac8ba0dacc3b5d7e9752b014dff3b3</hash>
+          <hash piece="44">6013be8b2512316c989e9bd7037ae001dec13b2a</hash>
+          <hash piece="45">e1044416a463b855e46e3d2e4900b02c51830133</hash>
+          <hash piece="46">5a389e5781e6bae048f6546085bb75fa75fe4543</hash>
+          <hash piece="47">f08de3bc49415345bd78c3f276993c5baf180f8a</hash>
+          <hash piece="48">01e6fb652432bd115b4fe6acb8e47aa93adccfec</hash>
+          <hash piece="49">443fc110b14b00f3cc5ed3caa3b7f3ec7672145a</hash>
+          <hash piece="50">283c60c4f801e12808609ac1ed8613aba4aa68d8</hash>
+          <hash piece="51">6c89b9cdebc1a114458086d445ddf267ef77e9e5</hash>
+          <hash piece="52">2fbf58ca90f1e51942ca123bb77d07b9ab8483df</hash>
+          <hash piece="53">6d213e2a32df2c5542cdcb0021178cb0735e64ac</hash>
+          <hash piece="54">097050cb34f816d9b4d3b488425a9fb148a4d20f</hash>
+          <hash piece="55">c0c5a08d13560fa0155c4587085a004651a8f615</hash>
+          <hash piece="56">9cd0a6d8e1ac896846775d07c40b1e858d680e15</hash>
+          <hash piece="57">112cc9157644592145c76251f0017c749d7cd614</hash>
+          <hash piece="58">44008c3057e579c66c8da050e43cf7e1087e3236</hash>
+          <hash piece="59">c857fd6f3757dbd3f3470fb677eb6881b22809e7</hash>
+          <hash piece="60">af38504d1e8800dfa4b818735e80f51f3a91b210</hash>
+          <hash piece="61">f875cec789e6d8ac4b04bbf28ace5dc954b4d049</hash>
+          <hash piece="62">dfded20f03451f6f4a688b71f79aed0c40b6ad7f</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="us" preference="100">ftp://mirror.cs.vt.edu/pub/SabayonLinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="ftp" location="au" preference="50">ftp://mirror.internode.on.net/pub/sabayonlinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="ftp" location="pt" preference="100">ftp://glua.ua.pt/sabayon/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="http" location="au" preference="50">http://mirror.internode.on.net/pub/sabayonlinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="ftp" location="it" preference="50">ftp://bo.mirror.garr.it/mirrors/sabayonlinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="http" location="it" preference="50">http://bo.mirror.garr.it/mirrors/sabayonlinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="http" location="de" preference="100">http://sabayon.domaindorf.de/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="ftp" location="au" preference="100">ftp://mirror.aarnet.edu.au/pub/SabayonLinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="http" location="pt" preference="100">http://cesium.di.uminho.pt/pub/sabayon/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="ftp" location="be" preference="100">ftp://sabayonlinux.mirrors.skynet.be/pub/sabayonlinux.org/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="http" location="us" preference="100">http://cross-lfs.sabayonlinux.org/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="ftp" location="cz">ftp://ftp.sh.cvut.cz/MIRRORS/sabayon/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="http" location="cz">http://ftp.sh.cvut.cz/MIRRORS/sabayon/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="ftp" location="cz">ftp://mirror.dkm.cz/pub/sabayon/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="http" location="cz">http://mirror.dkm.cz/pub/sabayon/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="ftp" location="dk">ftp://ftp.klid.dk/sabayonlinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="http" location="dk">http://ftp.klid.dk/ftp/sabayonlinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="ftp" location="fr">ftp://sabayon.got-root.me.uk/sabayon/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="http" location="fr">http://sabayon.got-root.me.uk/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="ftp" location="gr">ftp://ftp.cc.uoc.gr/mirrors/linux/SabayonLinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="http" location="gr">http://ftp.cc.uoc.gr/mirrors/linux/SabayonLinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="ftp" location="nl">ftp://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="ftp" location="nl">ftp://ftp.surfnet.nl/pub/os/Linux/distr/sabayonlinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="http" location="nl">http://ftp.nluug.nl/pub/os/Linux/distr/sabayonlinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="http" location="nl">http://ftp.surfnet.nl/pub/os/Linux/distr/sabayonlinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="ftp" location="it">ftp://na.mirror.garr.it/mirrors/sabayonlinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="http" location="it">http://na.mirror.garr.it/mirrors/sabayonlinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="ftp" location="pt">ftp://cesium.di.uminho.pt/pub/sabayon/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="ftp" location="za">ftp://ftp.is.co.za/linux/distributions/sabayonlinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="http" location="us">http://sabayon.linuxfreedom.com/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="http" location="us">http://cross-lfs.sabayonlinux.org/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="ftp" location="us">ftp://ftp.strickstuff.com/sabayonlinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="http" location="us">http://mirror.umoss.org/sabayonlinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="ftp" location="us">ftp://ftp.ibiblio.org/pub/linux/distributions/sabayonlinux/Sabayon-Linux-x86_64-4-r2-LiteMCE.iso</url>
+        <url type="ed2k">ed2k://|file|Sabayon-Linux-x86_64-4-r2-LiteMCE.iso|2081280000|98945a4dd096db2dc0204445b16b3340|/</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

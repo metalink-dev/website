@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>PC-BSD</name>
+    <url>http://www.pcbsd.org/</url>
+  </publisher>
+  <version>1.4</version>
+  <description>PC-BSD has been designed with the "casual" computer user in mind. Installing the system is simply a matter of a few clicks and a few minutes for the installation process to finish. Hardware such as video, sound, network and other devices will be auto-detected and available at the first system startup. Home users will immediately feel comfortable with PC-BSD's desktop interface, with KDE 3.5 running under the hood. Software installation has also been designed to be as painless as possible, simply double-click and software will be installed.</description>
+  <files>
+    <file name="PCBSD-x86-1.4.iso">
+      <size>726499328</size>
+      <os>BSD-x86</os>
+      <verification>
+        <hash type="md5">8f48e4ffe53f3888f1447c08f9195cc0</hash>
+        <hash type="sha1">7a41b5a1753c0458623e31e3a513d5393df15d97</hash>
+        <hash type="sha256">057789df40d32204744fc224943e403f2fe5a2ec054885093d17cb65c8b3a346</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">578116f2072a38d3633d0f20173acb7468953648</hash>
+          <hash piece="1">398cd9efd62f3abeb0c52cfe75dc93c1e5d6bc06</hash>
+          <hash piece="2">ae7a1ad84abbbb8ba4aac3ff5a50dc93b0bcc741</hash>
+          <hash piece="3">d703fb73f25702a7c6adcf5bfa2052cbfa169524</hash>
+          <hash piece="4">c9258af185d0c8cc6c0b4ebed216177cb181f1c6</hash>
+          <hash piece="5">0bda6c873551053f10b8be5ec7d20a0e06d30558</hash>
+          <hash piece="6">8e02bc3715e4a0aaddf7e7b44a0568ce7f58ed2e</hash>
+          <hash piece="7">a591b87b84b5d0cb73e92f0785d2a01650f11e36</hash>
+          <hash piece="8">bf082e3787393e4e0fb147cc8aae72b283c0f624</hash>
+          <hash piece="9">8053f7d3ffeb6e8f6ffe70b3221bb379a388ba43</hash>
+          <hash piece="10">9a98218f4df632dec836b6adb204fdf1bdd9b761</hash>
+          <hash piece="11">29129c7a0cdcbcc835942f190cc7bedddcd56806</hash>
+          <hash piece="12">d0e2b5046e32f4cebe9a49fc11372ff6fcf3847d</hash>
+          <hash piece="13">9c514e10504ee18d1b21c58e0db97182b4ee51fd</hash>
+          <hash piece="14">a5801abd43d5aa9a1a2dc9ce3cceaf9a09f9e3d4</hash>
+          <hash piece="15">4fd3d330ec35e9e3d2a95f125dad8ff4a180d07b</hash>
+          <hash piece="16">3a43c7937a9ba7552315e3af8582db3be2898ce3</hash>
+          <hash piece="17">d3e8d4049017c616d14ce2a3a098de362a62d03a</hash>
+          <hash piece="18">b622a5ed91c076cba8d618122db67c8c2d669f6b</hash>
+          <hash piece="19">079d052efe1db37edf5cb0b0b2c94ef7aa6401f5</hash>
+          <hash piece="20">b5609261f670dbb4fe44b6943fa69d312d00947a</hash>
+          <hash piece="21">3f11ee74d6fe4e1125f5e3f337abe1cfeb3f8768</hash>
+          <hash piece="22">11408df2aa996b3007100ac8511e7908f8d79708</hash>
+          <hash piece="23">6c4bcc5954ac8297e38a29ded8b125386db50aff</hash>
+          <hash piece="24">61f51fb79dd92895d6165d8d89c97ae92deabd68</hash>
+          <hash piece="25">54306e07f6207fcfdf97920e81012a2236ad14ae</hash>
+          <hash piece="26">ade010994511f6d50ddbb2c71edddab1d1fcc3c1</hash>
+          <hash piece="27">54cc4d4305a3eea37b6990502fd0f866ca5e27dd</hash>
+          <hash piece="28">58b2b995c44dbfc8d2e63f7592a81ffe67615910</hash>
+          <hash piece="29">bc157570113ce4811f7c357b5dbb5bc1a2887944</hash>
+          <hash piece="30">cd91f2f2e749e43b842f4140033cb7cbb31289d0</hash>
+          <hash piece="31">cecbc90bae718f7bdbf6ea6362b0087e4826b9cd</hash>
+          <hash piece="32">e7e6cadd13ac395f5a8218e757ea5eb2f3e68abb</hash>
+          <hash piece="33">1791b9b44af1f451a6e3c2144462bc5d911fceb1</hash>
+          <hash piece="34">7c9c1cbf1f6a8849298ce0638dd82acabc15ffad</hash>
+          <hash piece="35">eeb00c3a93a5e322ff071d28aaf861ff99c69461</hash>
+          <hash piece="36">f2553729ce9a068fc1cef4edb0a6b33114599b3f</hash>
+          <hash piece="37">52d7430b8c93412f04371dc69494e25ddd199830</hash>
+          <hash piece="38">b80896a98eb45e8d4abf780ad13cca80e9d697f9</hash>
+          <hash piece="39">49fbed44278b52250860f4079cf3c82f5be1cadc</hash>
+          <hash piece="40">fef0d9222da4b3d2dac665e7029f56dae10c2684</hash>
+          <hash piece="41">3ab5e760dd4faa330f53a38b6a90fdde60d423cd</hash>
+          <hash piece="42">8daf9373300e19b1375c35ed1f1d6db39580a7b3</hash>
+          <hash piece="43">95b72ecd96613268dfb61eb212f0a4763ee9b8cf</hash>
+          <hash piece="44">68d92950ededf490db9958b82ac10b5d74d5710d</hash>
+          <hash piece="45">d236f3f8e222bf278b3c61da66d7dcfc44307ade</hash>
+          <hash piece="46">e3cafcbaf5cb12867ad98790e6e5bc592978166d</hash>
+          <hash piece="47">b03701dc83cf255ff8f8687a379632a11cfba07f</hash>
+          <hash piece="48">e484dc0ee76e4b9d7b5165fa1ef281ce0f48f37b</hash>
+          <hash piece="49">68b8fafaba96c10fcad83ba2fcad465b05aa062d</hash>
+          <hash piece="50">5debd57d2ff2d00f109f6c032dc4ade272ee201d</hash>
+          <hash piece="51">60f7a138e538c7dbd977b7385a0f7ebc8dd936e0</hash>
+          <hash piece="52">c45aef8a73d527c4a30806d859261ef54b0b8e99</hash>
+          <hash piece="53">43464f06edd4a283977474096b2020935de82a70</hash>
+          <hash piece="54">499e76c2c61928c8081ce8b9223614921aee7350</hash>
+          <hash piece="55">b779a2f6f4df0d09b23cf076eea3fb1bdfa6196d</hash>
+          <hash piece="56">144f7f462dd79fbafcd5d98121c49b9e621855d9</hash>
+          <hash piece="57">d3ada587c984e54342721e9655e33c003830a7f0</hash>
+          <hash piece="58">efbb62d8da79c13492a604f9ca4e1d6948e3fd6d</hash>
+          <hash piece="59">64b6af7a60f18f7da76fb42045850ee1e7805844</hash>
+          <hash piece="60">be6de976fc6f1c13b425bb1c963f456a72f22a6d</hash>
+          <hash piece="61">aea3fb141911974c94005d4e9b3182423963e006</hash>
+          <hash piece="62">015c057c506a28b0d2d0d1e4c3f51cb0eaddc1ac</hash>
+          <hash piece="63">1a5036c353d338ef4905475bb6abf70c07c11989</hash>
+          <hash piece="64">083af79269f1992765554375b607f7615dad3370</hash>
+          <hash piece="65">5750aa903c74b83137cdda2f55b50071f5f01a7a</hash>
+          <hash piece="66">48e893730af1c54a883fa6d8c1a085a79bd41866</hash>
+          <hash piece="67">fc654f6a4d8a423aeb91e4e036436db1df75234c</hash>
+          <hash piece="68">d5dbc2e8cbd678df771d4e1e8f6784341a18ca70</hash>
+          <hash piece="69">695387f0755f6b87adc6e779084ca0e2d8ac99e5</hash>
+          <hash piece="70">b0e2aa26d20dac770babda7e4b09640aa19faf66</hash>
+          <hash piece="71">b3a9b9f040190e53d071a5bba77860a96cc785e9</hash>
+          <hash piece="72">53ab9a7e0927fc06e985690f05ec2c59fa33b9ea</hash>
+          <hash piece="73">2b7e3c1c8fcca01f1e4f447b8e765a4ff1ac82cf</hash>
+          <hash piece="74">df97285d0f642164852e398492d6839a311c0f2d</hash>
+          <hash piece="75">19ae862e7c9858a61ac0c1f04d6a838a59d255c9</hash>
+          <hash piece="76">c7be7dba1264dfe3b62473d0beccf3fa3a429f25</hash>
+          <hash piece="77">7f5620c8359a0a2ba156c58d58dc230fc08b4182</hash>
+          <hash piece="78">e8ef57d3d361df9f3acaae2d9229ed76fba15353</hash>
+          <hash piece="79">419677fa7e26abb5fe27726cd3f73a693768994d</hash>
+          <hash piece="80">15b4aa509e0a4c24312a2f5e302bcc199f63794f</hash>
+          <hash piece="81">d33dc4b7119b03e5c136df721008b82d7421505c</hash>
+          <hash piece="82">41ac5f5457049418e4a37ed311ca8a5ada756185</hash>
+          <hash piece="83">1c99c168cf6d6529150e59dadadd446b4801dfe4</hash>
+          <hash piece="84">02391e6848e82a25d1d3f0aabb93dd0928d72f5d</hash>
+          <hash piece="85">e88def554ea0ecb786a7fa14970b2ff1ace60b53</hash>
+          <hash piece="86">fe166ce1dd32dc8f5f6ff0613d6303b018ae27e3</hash>
+        </pieces>
+      </verification>
+      <resources>
+		<url type="http" location="au" preference="100">http://mirror.internode.on.net/pub/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="http" location="de" preference="100">http://ftp.plusline.de/pub/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="br" preference="100">ftp://pcbsd.c3sl.ufpr.br/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="bg" preference="100">ftp://ftp.bg.freebsd.org/pub/PCBSD/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="ee" preference="100">ftp://cvsup.eenet.ee/pub/PC-BSD/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp-stud.fht-esslingen.de/pub/Mirrors/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="http" location="gr" preference="100">http://ftp.ntua.gr/pub/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="http" location="hu" preference="100">http://pcbsd.hostoffice.hu/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="http" location="it" preference="100">http://pcbsd.fastbull.org/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="it" preference="100">ftp://mi.mirror.garr.it/mirrors/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="jp" preference="100">ftp://pub.allbsd.org/pub/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="jp" preference="100">ftp://ftp.yz.yamagata-u.ac.jp/pub/pc-bsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="lv" preference="100">ftp://ftp.bsd.lv/pub/PCBSD/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="nl" preference="100">ftp://www.nl.freebsd.org/pub/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="no" preference="100">ftp://ftp.netrunner.nu/pub/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="no" preference="100">ftp://jane.tihlde.org/pub/PC-BSD/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="pl" preference="100">ftp://pc-bsd.bsdterminal.pl/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="pt" preference="100">ftp://darkstar.ist.utl.pt/pub/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="ro" preference="100">ftp://ftp.kappa.ro/pub/PCBSD/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="http" location="ru" preference="100">http://mirror.pcbsd.ru/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="ru" preference="100">ftp://kucha.ru/pub/mirror/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="http" location="za" preference="100">http://ftp.leg.uct.ac.za/pub/bsds/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="se" preference="100">ftp://mirror2.dataphone.se/pub/PC-BSD/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="tw" preference="100">ftp://ftp.cs.pu.edu.tw/PCBSD/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="tw" preference="100">ftp://ftp2.tnc.edu.tw/pub3/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="tw" preference="100">ftp://ftp.cse.yzu.edu.tw/pub/BSD/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="tr" preference="100">ftp://ftp.ulakbim.gov.tr/PCBSD/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="http" location="uk" preference="100">http://www.mirrorservice.org/pub/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="uk" preference="100">ftp://ftp.plig.net/pub/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="ua" preference="100">ftp://ftp.pcbsd.org.ua/incoming/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="http" location="us" preference="100">http://akane.desync.com/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://mirrors.isc.org/pub/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="http" location="us" preference="100">http://www.theunixproject.org/pub/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="http" location="us" preference="100">http://mirrors.timbury.net/pc-bsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="http" location="us" preference="100">http://phobos.tk/stuff/linux/pcbsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="http" location="us" preference="100">http://mirrors.gigenet.com/pc-bsd/1.4/PCBSD-x86-1.4.iso</url>
+        <url type="http" location="us" preference="100">http://pcbsd.bibivu.com/1.4/PCBSD-x86-1.4.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

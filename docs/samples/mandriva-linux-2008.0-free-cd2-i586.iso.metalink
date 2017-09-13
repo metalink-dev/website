@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Mandriva</name>
+    <url>http://www.mandriva.com</url>
+  </publisher>
+  <license>
+    <name>GNU GPL</name>
+    <url>http://www.gnu.org/licenses/gpl.html</url>
+  </license>
+  <identity>Mandriva 2008 free</identity>
+  <version>2008.0</version>
+  <description>Mandriva install cd 2 from 3 free version without proprietary drivers.</description>
+  <files>
+    <file name="mandriva-linux-2008.0-free-cd2-i586.iso">
+      <size>734066688</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">af387cdb7774eaf54048478ef78517bb</hash>
+        <hash type="sha1">ee02371cc9353262a6fb8aa7e2c8212b9a90cff0</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">56bb9d39fe976977b3a86d6439a6cb4f264fd242</hash>
+          <hash piece="1">0ba9fdb34d64573c9cd8e7ce306a3a95614d1a66</hash>
+          <hash piece="2">825d8af5ed2287d046e826e8fb0a0819d197e02d</hash>
+          <hash piece="3">9bbf2408b52e1507a0c4099cecdc96a00fc72040</hash>
+          <hash piece="4">e0e003048ab11609b961d496c3211a693f56c91f</hash>
+          <hash piece="5">faa201c4a36067629da3d04a665ec14400cb648e</hash>
+          <hash piece="6">051d6a1d7a8833b4f7c62d02cb0625f2dd32ffab</hash>
+          <hash piece="7">3dfa1b26a5ecb2933b59b0e169b1e7ab37937e74</hash>
+          <hash piece="8">ad61c65843b77ab823909420f6997c41575743f3</hash>
+          <hash piece="9">db7e3032b3f48ceff631db03667b43494f2d6ca6</hash>
+          <hash piece="10">0f5159c7ddedddd7b91aafcada733cbfdaec8d99</hash>
+          <hash piece="11">0990710361c1ec56fa44200a33af907b691918e0</hash>
+          <hash piece="12">22b5ff8e17b68a534e99eef08c3f32b9c641acb2</hash>
+          <hash piece="13">1677065086e76d52239d9bc30929ccdfd3dda3c1</hash>
+          <hash piece="14">b788662106ba01ac334e211b47ac3c6ed47947a6</hash>
+          <hash piece="15">ec24f53b2974800f90a97873b6c7cab30f23caea</hash>
+          <hash piece="16">d63fdd8b4d799d3f646f783a89798c359f0f1486</hash>
+          <hash piece="17">a637fb84ba2a39861a354ed58775dfffb213f830</hash>
+          <hash piece="18">153adcddb9cf59441ea21d28957604e85d703a19</hash>
+          <hash piece="19">c5a69e02c7bb4fdffdd114d580f775803ce55ef3</hash>
+          <hash piece="20">856b8ab90e0bde38928330e61a0df4767ba555ac</hash>
+          <hash piece="21">65d612cf3e113bc9d3682eb1d8d264168d3c699b</hash>
+          <hash piece="22">4bcef90404fea122aac0f263a90650a567e824ff</hash>
+          <hash piece="23">5625ff6dd11590c01a96170ded158746009973e9</hash>
+          <hash piece="24">79009950d476e4c473462ba5d870c51a52a66bfd</hash>
+          <hash piece="25">b8c4c891774d526ced81bd25748037075df3c2a3</hash>
+          <hash piece="26">298b7458a57a2c8d7183d21ed7f18c957b4b007d</hash>
+          <hash piece="27">aa5356951220f70851122ce0fc02d7dac7359060</hash>
+          <hash piece="28">d2666d7a4f9dcbe1d6ab917fa4dd4f507ce981eb</hash>
+          <hash piece="29">9c2df5f86768973f811bbbaf508668ff66d07041</hash>
+          <hash piece="30">0ca77e6f53bed1120f7d0a65799171b7730851f5</hash>
+          <hash piece="31">a732a5ad5a3dee6364133b0844986309670a2444</hash>
+          <hash piece="32">4e7d3662c6760cca28677365cd9d2d93b2cc1899</hash>
+          <hash piece="33">9324d451ec7ee5570b7d1d314fd48be8eefccb65</hash>
+          <hash piece="34">bef3db97d4a59a4181f0b4c8bbf75a9190779897</hash>
+          <hash piece="35">be8dafb6a43f7026a3c8c5fcd5c1e09ccd67cb1c</hash>
+          <hash piece="36">5d091b2b60d26a1160c91c1ec02947aa75c5fe9e</hash>
+          <hash piece="37">aa8759116b636420d9741c197fbfb3d2e2994f6f</hash>
+          <hash piece="38">c1dab2eb4d10c378e5689c443acfab3406d9870c</hash>
+          <hash piece="39">5570e8ee1aa10908ddba205bcb19c0ee3d4fd742</hash>
+          <hash piece="40">fb1ab028cb66591f39ce3d67b85290eaa0d6ce2d</hash>
+          <hash piece="41">14b146471c8088d89499a96ae544fed81baec6ad</hash>
+          <hash piece="42">0cacf7235510dd31969a513cce1ef8b0089e723a</hash>
+          <hash piece="43">084074c866f3f6e76375d4788e2a1510ba1b6b73</hash>
+          <hash piece="44">215b6e0c51286fc540af6dd75e2165fde24afacb</hash>
+          <hash piece="45">14165205b082ebaef04e2797b437ffb6db8aef97</hash>
+          <hash piece="46">56a576260eec1b970554cf6c42289bcc273ff46e</hash>
+          <hash piece="47">d14e2f2e2afe7fd9a493f42c2ca0c4d3f8c84a92</hash>
+          <hash piece="48">ff8d46b52cff47a10cce9f03574d1aec273363cf</hash>
+          <hash piece="49">c3956f4d4add7855e8ac382b533bc07319faa7cc</hash>
+          <hash piece="50">0eb8a2630d2d536e28bb103b9235e399a052e6c5</hash>
+          <hash piece="51">0b6284ba60b37f7e203eb2c316c551c7c4260798</hash>
+          <hash piece="52">b7d2d9812ca41f8252a1a0f686e66d9d663b7d9d</hash>
+          <hash piece="53">cf97b3921a317f393c7a6111b81778183e7828d9</hash>
+          <hash piece="54">a98ce685cf052bec2c33455e434ee80108f6c4c7</hash>
+          <hash piece="55">75efdac0e660f78ed3f2d1fd4d072773497eed3f</hash>
+          <hash piece="56">a35f6a33e6addeef6f5f00ad8634e481091e0cda</hash>
+          <hash piece="57">dcf46b246f456bc6d275021f2f1ce2d5374ad3ca</hash>
+          <hash piece="58">0696390d8354b3aabc7f9367fbe8271c298b392f</hash>
+          <hash piece="59">f31f4ddab93fb96588db8bf8b5bf0230d03e6a79</hash>
+          <hash piece="60">463961f23eea5f6538bcede0a98a2560badc5300</hash>
+          <hash piece="61">e74f1f851dc9c88c596fef14079aa23def041e70</hash>
+          <hash piece="62">f561588ca45966663087e4313ef681d8f7ab22f7</hash>
+          <hash piece="63">ee0b7a2a7857fa1085acae08ac4688e0f103a2cf</hash>
+          <hash piece="64">ecf13aa13f7a650bf31d971391e0602f242619eb</hash>
+          <hash piece="65">9df5cef34f0f38370d146813dfb4b4af59838763</hash>
+          <hash piece="66">1ea752a2ed7b8f76bee8a8c79c10b656f038d392</hash>
+          <hash piece="67">3f624a82c4e25b0bc9d0f3665a828733a00f59bd</hash>
+          <hash piece="68">05eeab95bf8ba7b059dcc9039dc590b30a96156c</hash>
+          <hash piece="69">1ab5fd81621f74ec4c748396abec86d13e37c5af</hash>
+          <hash piece="70">3bc2f8238886b3a66d8d8cb641d33868759b7cd5</hash>
+          <hash piece="71">474cea926b752242f84dc88d57abb619a725fd01</hash>
+          <hash piece="72">3f170a076028ecb2480ab809efdb252d387b8e1b</hash>
+          <hash piece="73">a6e0b5ca8e3ce2cb3b9dc887707dd707e34f52ce</hash>
+          <hash piece="74">fa3c9dacfa3e4bce2a8e23a9279e4bf20cee0fcf</hash>
+          <hash piece="75">c17e09cb34a9fa60845e23dbdccc2e1330c7d8cb</hash>
+          <hash piece="76">3125c7fe321bd888581bd8f69be76a3b1b33a91e</hash>
+          <hash piece="77">8ed1bf4da443e65857dc7ad0897d40272535ef64</hash>
+          <hash piece="78">6f9aa530174aaafe7823281d3248e592015fc6bb</hash>
+          <hash piece="79">c2f34590647a791f3462f6a2a5eef8ae657e2e1e</hash>
+          <hash piece="80">fad0bf88a60d7841c99b5f0989a7aeceb5d48bbf</hash>
+          <hash piece="81">27e5ff74d67cd4c13cdb616f9e3fb67961389804</hash>
+          <hash piece="82">0edd258e6c4366971f59fdaad5cc6a01039c56fa</hash>
+          <hash piece="83">1640abe792be52d2a5e8f656335980d55d500564</hash>
+          <hash piece="84">2c303e69a3975230d846e5a0e5299301e65ce218</hash>
+          <hash piece="85">324646f181d892127501cc249f49f2676a51badc</hash>
+          <hash piece="86">4ae3bd40730019dee7e9214e302625cef2f398f5</hash>
+          <hash piece="87">f3b3de2af64840a3b9be86df4f2aefeb85feaa3a</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="fr">ftp://ftp.ciril.fr/pub/linux/mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="fr">ftp://ftp.free.fr/mirrors/ftp.mandriva.com/MandrivaLinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="fr">ftp://distrib-coffee.ipsl.jussieu.fr/pub/linux/MandrivaLinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="fr">ftp://ftp.u-strasbg.fr/pub/linux/distributions/Mandriva/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="is">ftp://ftp.rhnet.is/pub/Mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="ie">ftp://ftp.heanet.ie/pub/mandrake/Mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="ie">ftp://ftp.esat.net/pub/linux/mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="http" location="pt">http://mandriva.dcc.fc.up.pt/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="http" location="pt">http://darkstar.ist.utl.pt/mandriva/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="us">ftp://ftp.gtlib.cc.gatech.edu/pub/mandrake/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="us">ftp://mirrors.usc.edu/pub/linux/distributions/mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="us">ftp://mirror.mcs.anl.gov/pub/mandrake/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="br">ftp://mirror.fis.unb.br/pub/linux/Mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="http" location="ca">http://gulus.usherbrooke.ca/pub/distro/Mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="cz">ftp://mandrivauser.cz/Mandrivalinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="cz">ftp://ftp.sh.cvut.cz/MIRRORS/Mandrake/mandrake/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="de">ftp://ftp.join.uni-muenster.de/pub/linux/distributions/mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="de">ftp://ftp.uni-bayreuth.de/pub/linux/Mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="de">ftp://ramses.wh2.tu-dresden.de/pub/mirrors/mandrake/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="gr">ftp://ftp.ntua.gr/pub/linux/mandrake/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="it">ftp://bo.mirror.garr.it/pub/mirrors/Mandrake/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="jp">ftp://ftp.kddlabs.co.jp/Linux/packages/Mandrake/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="nl">ftp://ftp.nluug.nl/pub/os/Linux/distr/Mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="nl">ftp://ftp.surfnet.nl/pub/os/Linux/distr/Mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="pl">ftp://ftp.pbone.net/pub/mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="pl">ftp://ftp.tuniv.szczecin.pl/pub/linux/mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="pl">ftp://ftp.ps.pl/mirrors/mandrake/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="ro">ftp://ftp.iasi.roedu.net/mirrors/ftp.mandrake.com/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="za">ftp://ftp.is.co.za/linux/distributions/mandriva/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="es">ftp://ftp.cica.es/pub/Linux/Mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="ch">ftp://mirror.switch.ch/mirror/mandrake/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="ch">ftp://sunsite.cnlab-switch.ch/mirror/mandrake/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="tw">ftp://mdk.linux.org.tw/pub/mandrake-linux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="tw">ftp://linux.ntcu.net/dists/mandrake/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="uk">ftp://ftp.mirrorservice.org/sites/carroll.cac.psu.edu/MandrivaLinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="us">ftp://ftp.cise.ufl.edu/pub/mirrors/mandrake/Mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="us">ftp://ftp.uwsg.indiana.edu/linux/mandrake/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="rsync" location="us">rsync://carroll.cac.psu.edu/mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+        <url type="ftp" location="us">ftp://mirror.cs.wisc.edu/pub/mirrors/linux/Mandrakelinux/official/iso/2008.0/mandriva-linux-2008.0-free-cd2-i586.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>OLPC</name>
+  </publisher>
+  <identity>XO </identity>
+  <version>gg-767-4</version>
+  <description>OLPC update image</description>
+  <files>
+    <file name="fs.zip">
+      <size>303803</size>
+      <verification>
+        <hash type="md5">1bb452e77b7390e00bdd7fdcc7cbc793</hash>
+        <hash type="sha1">ca839cbaab4f69d98e3f4710fc02e209f355c934</hash>
+        <hash type="sha256">97b67fe36678ef797197ac43cc5ce02d29dd7a7716e23639832cca74e2b20919</hash>
+      </verification>
+      <resources>
+        <url type="ed2k">ed2k://|file|fs.zip|303803|bf9ae6c8cee3adcafdf6916e9668fe57|/</url>
+        <url type="http">http://download.laptop.org/xo-1/custom/g1g1/gg-767-4/fs.zip</url>
+      </resources>
+    </file>
+    <file name="gg-767-4.img">
+      <size>471859200</size>
+      <verification>
+        <hash type="md5">3f281dda352d32320879728377b32476</hash>
+        <hash type="sha1">7078befd32e0d9f4fb46d3ed48c07dea172f9b1c</hash>
+        <hash type="sha256">eb89e4077ea85a7f50e0dabc471dc5e2672dfcb2659e0685d85bbc35eb02f68b</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">ca0e4ee6dce7688425bd83ed5ebab1f43c4c71f3</hash>
+          <hash piece="1">8e02726ee79c6b3e19d16ebf18091d39602fefc2</hash>
+          <hash piece="2">c8c7b878aaa77577e1fc75d05f058bc7f08633fc</hash>
+          <hash piece="3">05c183f06f037422c7f766edca70f182d3322511</hash>
+          <hash piece="4">383eca4f6d9671e00917ea361bc82dd8ebba46a9</hash>
+          <hash piece="5">76387bfbef990ba23e4e1eceb883ad27a04696fb</hash>
+          <hash piece="6">6513124a5197fda3c60e4430b651858951bea585</hash>
+          <hash piece="7">aaa1d188deb615e68cf82754c716de5ac64e04ad</hash>
+          <hash piece="8">a4a49c9133b6d16bded003ab200789b3c3625ea7</hash>
+          <hash piece="9">7b98f447dc6ab516eeb7e390403df9cc054f90bb</hash>
+          <hash piece="10">ec519363319d152fc54fd02bf23306917560e97b</hash>
+          <hash piece="11">2ab9de720cb175db87e545a9ddf80dd662926335</hash>
+          <hash piece="12">13b37c94507cc66e2588043b224cea2455818edf</hash>
+          <hash piece="13">b35b934841c803708e7107d85a183711751b2c68</hash>
+          <hash piece="14">eadc5baf27249be49d1997fdd0c5131b69ba7662</hash>
+          <hash piece="15">6832ce5b3d0d0985cfce47017da5b6e94833c69f</hash>
+          <hash piece="16">56d2bc52020405bab2971cb660e7994c3715d6bf</hash>
+          <hash piece="17">e0b259cf75015e10199b5413c4e7d32241ee7c68</hash>
+          <hash piece="18">84836b197af90acf5ec1bf866e9fa9790f6d77d9</hash>
+          <hash piece="19">ec5c87cb6cbc5f0135185a43fa01d70ebe297fd6</hash>
+          <hash piece="20">cceb7e10c445e4fdfa9d9d8367efc803b17c4359</hash>
+          <hash piece="21">67ef84399a92b4e84d10a69ce2d437f180b0a1d9</hash>
+          <hash piece="22">b8bfeb5b4409f0a95c994d9c6a29b4ff1375afd9</hash>
+          <hash piece="23">d65ca240e8f30afbd61d8feae1597bded42c9281</hash>
+          <hash piece="24">806e565e450a368837ac3d0eab3bbd7e2a3e23d4</hash>
+          <hash piece="25">caa0ad5ea1e595719e2b9c9f0d55fbc95253a053</hash>
+          <hash piece="26">960e5ea09725e45b75bc7528e950555a1ea45007</hash>
+          <hash piece="27">44be108dfa95e1b0ab7e888676290c5cd19af9ff</hash>
+          <hash piece="28">f024a03057dba10e9290b4009acfb45cbf1087de</hash>
+          <hash piece="29">8843a7d666f7f57ba8344368607b606716b2d3eb</hash>
+          <hash piece="30">5862d0d8eb1276ec70ec69375caa8df1b4ccf988</hash>
+          <hash piece="31">4f49c17b824481e5fa633cd17c623db9b8fe048b</hash>
+          <hash piece="32">e483000c44d1c068005656093d26b88f25159ffa</hash>
+          <hash piece="33">51a2fd3b78ecb14cb6af57a588a0e5dc33c2a599</hash>
+          <hash piece="34">e7f12338b76b178ea7c687fce980904cedfd7208</hash>
+          <hash piece="35">4c582e049e71c1f45eb3f8cd29bbf086ca572cfc</hash>
+          <hash piece="36">e881e54987053c07a890acb34c44457a644cd8ff</hash>
+          <hash piece="37">cffc12c241bff1bddda32539ae79d23cfa0fd930</hash>
+          <hash piece="38">a039ebd7eee02d57d787972441d54101d4eb9240</hash>
+          <hash piece="39">081cfd783b48aa9168752ca43be62c3e33218615</hash>
+          <hash piece="40">7e5c1c9ce66c6b5b7dd4a14bb9e15162d1939c68</hash>
+          <hash piece="41">970c447c3464edfd14e2076a9e74e41f34b8fcf4</hash>
+          <hash piece="42">39447b3c8c4e0524373301df62cb1e1363c94467</hash>
+          <hash piece="43">7741457a47d42ca585b9db5ba76b0cf4ca03f0f9</hash>
+          <hash piece="44">efce0d6a278791f8e5db820e54b56a5257e98d01</hash>
+          <hash piece="45">a5d55902d406aeba3ec5858b63cee6d53f0c1cab</hash>
+          <hash piece="46">c427d282b336f02af2c4a97118f0095a8adca48c</hash>
+          <hash piece="47">eff275e115231f3344a301bedf87731005d85247</hash>
+          <hash piece="48">5fdd3a3b241395354ef81dc6e234dbf7f63674dc</hash>
+          <hash piece="49">3fa77bdaff4e982cc812f28c32d4c11efcd5f80f</hash>
+          <hash piece="50">0cf790a845cd8a5c5dac100be273956ce53025a2</hash>
+          <hash piece="51">fa237b42ef050c541a5eb155dddef312695f09d5</hash>
+          <hash piece="52">261169db3a7fdcd922ef23e87594e17df18414cd</hash>
+          <hash piece="53">9ccfa604fc8a693e38f77da97149aed1ad8017f8</hash>
+          <hash piece="54">f8c4f435d6b3deb71d69a19f29ad5c685a3068c0</hash>
+          <hash piece="55">f15903936b7671e6c6ca1b2b8d30eefaa2cc2848</hash>
+          <hash piece="56">5ea9ba0c4103e8f93cfa3308fd2a0ffd6e0dea99</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ed2k">ed2k://|file|gg-767-4.img|471859200|321be12fcc7e1088449c446cdd38982c|/</url>
+        <url type="http">http://download.laptop.org/xo-1/custom/g1g1/gg-767-4/gg-767-4.img</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

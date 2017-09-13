@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <files>
+    <file name="Archlinux-i686-2008.03-1-archboot.core.iso">
+      <size>201027584</size>
+      <verification>
+        <hash type="md5">9227f355dd3b916f14deec052713afe3</hash>
+        <hash type="sha1">3d7efc73b82bd7bf74486517121c7cd869b901c3</hash>
+        <hash type="sha256">3302c208478866cfcbb6a63ab453e906eaeb22ba47854b8f8c173c45aeef7ef2</hash>
+        <pieces type="sha1" length="2097152">
+          <hash piece="0">ae0f53e97227afaf7974757bb94b4c2df1f95eb0</hash>
+          <hash piece="1">15584d4d1cccaadd488fd237c8b174efe934c305</hash>
+          <hash piece="2">48980b748e045df8afbcd4c7508a7c029d7638bb</hash>
+          <hash piece="3">106f4d3bad81beeb2640c5b4a27d65e30c4fbbb7</hash>
+          <hash piece="4">900e4f9070dad440b923e7a8a7de23a9fa7f0493</hash>
+          <hash piece="5">b745fcb2c20a7e328983226c35d7663a5f7eecb8</hash>
+          <hash piece="6">2b26ea17881a965f239d6a81bbecfb94911ab5d6</hash>
+          <hash piece="7">f2275d3ae294221f94bccefa99064257141030de</hash>
+          <hash piece="8">c521e170525bd29f67e01a074bbc0aec5514f4f6</hash>
+          <hash piece="9">4f62d154c39309506f6cf2b571f1cc0c30dee0e9</hash>
+          <hash piece="10">5d0e289eab70772536ffd4b836dcd830773f1bc3</hash>
+          <hash piece="11">53fdb66dc8095b2e95ba0ad3f3baf97ea5dbdc0d</hash>
+          <hash piece="12">5adec71141c2f164d347c1727303bcfb7fe48193</hash>
+          <hash piece="13">32f0e9be8f201c6facaa41c43d6253b5999ea47c</hash>
+          <hash piece="14">077e378a4406e942b5c5156ff9c555fa0a781b68</hash>
+          <hash piece="15">ebefc60a18c2b4ed17f6de29060ce844d67f980c</hash>
+          <hash piece="16">98917fe0995f21869091cd69f84e798a5811e821</hash>
+          <hash piece="17">51e33f06da5c9e23edb0d70f5cd8a534d4103f02</hash>
+          <hash piece="18">b2be0dbe91d6fc5302a488509aabb5a4a07cee4c</hash>
+          <hash piece="19">842ff375d4bf6b386750012fda6bcf9c615cc5bf</hash>
+          <hash piece="20">e0919c912c9a0cafeb179df3b94974e3b329457b</hash>
+          <hash piece="21">c9b684ba8c014514204cc82d4bf16810010b391b</hash>
+          <hash piece="22">54e9dc82347b15baf62eaa1ce41d01161b6c30d9</hash>
+          <hash piece="23">4bba3d2f7c063461744976d5b986da4d39457366</hash>
+          <hash piece="24">d64f5f645958339445fbcdac92bb2fe60bee00f9</hash>
+          <hash piece="25">61510b94c3091a3a4f2d78514fb9ec493889c3e9</hash>
+          <hash piece="26">3dc26a4ade0d40999c3b2a3b43ef63187898dbd1</hash>
+          <hash piece="27">caf2abe08c400fd1e7986e183001fb32f069e100</hash>
+          <hash piece="28">fc8bf689d0d36396f4d3819da394f2dff79ca6a0</hash>
+          <hash piece="29">98402cf9f73e85e6f4c5566ac849cc95743aa57f</hash>
+          <hash piece="30">3d303727d931904b8767b4c32be0980ee959302a</hash>
+          <hash piece="31">a848aaedadec148aa9d19aa0b5307f1a4e890fc9</hash>
+          <hash piece="32">0414e960e448dd11c8fbaf5467817b976ac22b85</hash>
+          <hash piece="33">cf83c3e8a90061940f56d35118dcaff7675bce91</hash>
+          <hash piece="34">63a2f3b683973c385e6e09bd923e45f2c93dc2bc</hash>
+          <hash piece="35">dd898f9c5bd91c37cfa23615811f7260bdc05923</hash>
+          <hash piece="36">d520855ef13a1e5f70882fab0547af75bb7cb3e8</hash>
+          <hash piece="37">892dde2440f233be10cfb97c330d5f1780e74076</hash>
+          <hash piece="38">7edeece5fd6bdb3e5a343d0d745b4d58df2c3bcd</hash>
+          <hash piece="39">6825526e08f345a0bd1e63db5e143a77544046af</hash>
+          <hash piece="40">9162168cbb239186535b8e99c7e1ebcae0a0cf15</hash>
+          <hash piece="41">6cdec4ffb6d46b676ee70c30af2ddbbe2da18d83</hash>
+          <hash piece="42">be44c2ad3ddfcabd8536b206aa9d09ab6ffdccb5</hash>
+          <hash piece="43">7cbc01b9fc63039e03f0638e5a5655ca65d548fe</hash>
+          <hash piece="44">0956d0b3a3df89ee1d5d2f116d96ec13653af136</hash>
+          <hash piece="45">df4b3763499e0de040ff8edc2be1f1131c3eb19a</hash>
+          <hash piece="46">e268750f29e219f048bd0c33a2f35afe2ec7b776</hash>
+          <hash piece="47">fadd9d193866180ee9b711dd9c86acde231d1831</hash>
+          <hash piece="48">19002b506f8e6ea1868a4b8f33d2b6caa448a2f7</hash>
+          <hash piece="49">0ad153df32625c52f63395dd13c61b4269dc621c</hash>
+          <hash piece="50">020a28401a55cef315874e10ec8bb1018c76ca06</hash>
+          <hash piece="51">95bef11abb357901f72fb9c3b1dd776c13fb8fa2</hash>
+          <hash piece="52">b43d1c7c93b45c080c713d5ae06097313854de4a</hash>
+          <hash piece="53">d276f2602e88bc2ac4f378e62ecf1aeaf8690877</hash>
+          <hash piece="54">bd2f193ca2ce37dbdae4d3511c1b10ca2a012f91</hash>
+          <hash piece="55">3e2e2591fa170f0a4891548fe34ed7a0b9b2590c</hash>
+          <hash piece="56">c81b3acf86fda3785554172fdd6be81ef901fd5d</hash>
+          <hash piece="57">977a994c893a9910d228ed66eee1d7e966f401e9</hash>
+          <hash piece="58">cc973488d5e199960cedda947f8db6b5e08b1d67</hash>
+          <hash piece="59">bba9706041e8c88b0bdaeafc746e8966c916707c</hash>
+          <hash piece="60">06d4d45bedffd2d794655fb2efa6d67c3e0f11bb</hash>
+          <hash piece="61">c5a09f281950777c84977864f4937776a20afd16</hash>
+          <hash piece="62">fecfff23c9f3ac8b7e825be1f7fea775740dbae2</hash>
+          <hash piece="63">2eb6fab4206c0ccda393f1e74b1567dd7ff7de63</hash>
+          <hash piece="64">65e7b31495b39de7fe0d8f0c2399b053c106a550</hash>
+          <hash piece="65">7177faa56da95cf9d31e089ec330bd9d50b8edd5</hash>
+          <hash piece="66">f4ca1c2a0dfe7af7e5d2ea2d834d089863c60aef</hash>
+          <hash piece="67">895e79e63cbd9f7a74f0efe11687311feabb2983</hash>
+          <hash piece="68">2bcabed673bc43b47799bd5f8d728f76fb3d35b0</hash>
+          <hash piece="69">83412f48e408e7443e1080ee4f3fbb17daa12b64</hash>
+          <hash piece="70">cd3ac85da001368a9c040977e43ce92e93726655</hash>
+          <hash piece="71">cc20cc52c247cf99c7a936f6ee4c00f1b5078a24</hash>
+          <hash piece="72">6ef1c0b7f06821c5171563538c1ebce6d6c4c774</hash>
+          <hash piece="73">20bae5274b56bd535f2896669a5c1bca66c55e03</hash>
+          <hash piece="74">1abb0f1b9578e3338851c2c1ccbec8e95d52708c</hash>
+          <hash piece="75">78b877205928e3cb789a0dc0c69ab32e2732c4ff</hash>
+          <hash piece="76">0092488dcbd762234d7f97e2a3fd9e3f3a2feffc</hash>
+          <hash piece="77">cf4d89eab65f3474b4bd0f9857857516711de049</hash>
+          <hash piece="78">1b53d606b79d84b124cfed187e72bc245bb28cf1</hash>
+          <hash piece="79">0954bdd75655f0b50a76062dcc46bbd4b517abdb</hash>
+          <hash piece="80">bbe4688adb98e205cabdc73272b0647d9abff807</hash>
+          <hash piece="81">2ba91971d6adafccb90069b8ae4f8e32f64443b6</hash>
+          <hash piece="82">26a49783c107f26f1c461da43c3e6e0803713f28</hash>
+          <hash piece="83">b719b5e6de2798ef9c4df7ef667f19e2f10effed</hash>
+          <hash piece="84">d6944bdd44a0b5961418d727796e32aa3e65e43c</hash>
+          <hash piece="85">1a276e9e5843261bbc5e27ca492b6c22e7d7a9cf</hash>
+          <hash piece="86">9d242ee6f86afcb81e419c03d76d9c92fa9a2669</hash>
+          <hash piece="87">806cf3331e18101b7cb9ac825b333b3d603f3c72</hash>
+          <hash piece="88">7ee72cafa046d863e92d8f33d154bdb4400290ba</hash>
+          <hash piece="89">f583588c2390d8cf248e1cc28cb68df1e5fd8319</hash>
+          <hash piece="90">3c723edca562967097bdfddc17b8d7a5e99a1a20</hash>
+          <hash piece="91">996fdeb3f24edca826b5c2a88534c52a6036f4c7</hash>
+          <hash piece="92">82299683edd26c54d0ad3d9440b4dcc9430f4e3f</hash>
+          <hash piece="93">8727fda43bcd1b9511d16f7a0eab85440fbdc26e</hash>
+          <hash piece="94">e25b61913791f607e3bf9d187f458bcf84cafdb5</hash>
+          <hash piece="95">0948a1eb33b6ca4d316b7d8a9e7ce65af2e411c7</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="at">ftp://gd.tuwien.ac.at/opsys/linux/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp" location="au">ftp://mirror.pacific.net.au/linux/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp" location="be">ftp://ftp.belnet.be/packages/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="http" location="br">http://www.las.ic.unicamp.br/pub/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp" location="cz">ftp://ftp.sh.cvut.cz/MIRRORS/arch/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="http" location="fr">http://mir.archlinux.fr/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp">ftp://mir1.archlinuxfr.org/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp">ftp://mir2.archlinuxfr.org/archlinux/iso/2007.08/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp">ftp://mir2.archlinuxfr.org/archlinux/iso/2008.04-rc/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp" location="de">ftp://ftp.hosteurope.de/mirror/ftp.archlinux.org/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp" location="de">ftp://ftp.tu-chemnitz.de/pub/linux/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="http" location="de">http://ftp.uni-bayreuth.de/linux/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="http" location="de">http://ftp5.gwdg.de/pub/linux/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="http" location="de">http://ftp.uni-kl.de/pub/linux/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp" location="it">ftp://mi.mirror.garr.it/mirrors/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp" location="gr">ftp://ftp.ntua.gr/pub/linux/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp" location="ie">ftp://ftp.heanet.ie/mirrors/ftp.archlinux.org/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp" location="hu">ftp://ftp.mfa.kfki.hu/pub/mirrors/ftp.archlinux.org/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="http" location="pt">http://ftp.nux.ipb.pt/pub/dists/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp" location="ee">ftp://ftp.estpak.ee/pub/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp" location="au">ftp://mirror.aarnet.edu.au/pub/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="http">http://mirrors.unixheads.org/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp">ftp://ftp.iasi.roedu.net/mirrors/archlinux.org/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp">ftp://ftp.ibiblio.org/pub/linux/distributions/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp" location="nu">ftp://ftp.gigabit.nu/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp" location="ch">ftp://archlinux.puzzle.ch/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="http">http://holmes.umflint.edu/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="http">http://server.elsistech.com/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp">ftp://mirror.cs.vt.edu/pub/ArchLinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="http">http://mirror.neotuli.net/arch/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp" location="pl">ftp://mirror.icis.pcz.pl/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="http">http://piotrkosoft.net/pub/mirrors/ftp.archlinux.org/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="http">http://mirror.rit.edu/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="ftp" location="pt">ftp://cesium.di.uminho.pt/pub/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="http">http://archlinux.mirrors.uk2.net/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="http">http://www.mirrorservice.org/sites/ftp.archlinux.org/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+        <url type="http" location="pt">http://darkstar.ist.utl.pt/archlinux/iso/2008.03/i686/Archlinux-i686-2008.03-1-archboot.core.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

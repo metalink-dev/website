@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="http://download.eclipse.org/eclipse/metalink.xsl"?>
+<metalink version="3.0" origin="http://download.eclipse.org/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip.metalink" pubdate="Sat, 27 Oct 2007 12:42:07 GMT" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Eclipse Foundation</name>
+    <url>http://www.eclipse.org/</url>
+  </publisher>
+  <license>
+    <name>Eclipse Public License</name>
+    <url>http://www.eclipse.org/legal/epl-v10.html</url>
+  </license>
+  <identity>Eclipse SDK</identity>
+  <version>3.3.1.1</version>
+  <description>Eclipse SDK Windows</description>
+  <changelog>http://www.eclipse.org/eclipse/development/readme_eclipse_3.3.1.1.html</changelog>
+  <logo>http://www.eclipse.org/artwork/images/eclipse_pos_logo_fc_sm.jpg</logo>
+  <files>
+    <file name="eclipse-SDK-3.3.1.1-win32.zip">
+      <size>147773426</size>
+      <os>Windows-x86</os>
+      <verification>
+        <hash type="ed2k">5a03fdf62ba8d8b693fb33adaaf54937</hash>
+        <hash type="md5">26993ba9163ae8c45e81a80f3a6c7746</hash>
+        <hash type="sha1">8f5f052bf27c2d18dcaa60ce2b9b196c0b739ed8</hash>
+        <hash type="sha256">1a9477923c214bbae21abec28c66282dc6f40dc1d321a84d68f4a336848db933</hash>
+        <pieces type="sha1" length="1048576">
+          <hash piece="0">1fc0c903991bd719ced2190ab2513368fe33cc06</hash>
+          <hash piece="1">f8904a9b002dfca0b89585602bb7de5cb9934d2a</hash>
+          <hash piece="2">875b982ec3f72d77a2964b00051b5453b90e0939</hash>
+          <hash piece="3">20cd917e67c4eadc1af7ce72fbff8f04c34dad67</hash>
+          <hash piece="4">b1e8a1238b8a2e0e9b97f1f7dbc5ec88b0984a61</hash>
+          <hash piece="5">9a11f3a0c67354dd29c704a2de95d6da13713143</hash>
+          <hash piece="6">035bc792c623dd073ddbedfed5083d2cdb83ac96</hash>
+          <hash piece="7">299bd393feeb781e8e52336554abda06364e7f39</hash>
+          <hash piece="8">d7abeacfc7118cff96a28aa7512b412627a54fad</hash>
+          <hash piece="9">17cad9c057a01093ed2365fe140b31298736c3d6</hash>
+          <hash piece="10">cf6782489b8eab09444b608b3fdbc26d88d054db</hash>
+          <hash piece="11">dbc26d4e861992304539865563accb7f1bbf222b</hash>
+          <hash piece="12">05e03f87f964ef16cb37541c782a30c5af7ce382</hash>
+          <hash piece="13">a95ae3229ac6017fbd3dd79182fd01d3904be7cd</hash>
+          <hash piece="14">fda96812a7df5c167780441e69d9fd8507fe0e46</hash>
+          <hash piece="15">fda37d2ce1e89e598d2d09f6796d48e1a8e032f3</hash>
+          <hash piece="16">0b259303f9cc48c0f8a8eacbb6bdce2c744808a9</hash>
+          <hash piece="17">951f76a0efe3270d36fe8040fda47f2fe5e67106</hash>
+          <hash piece="18">8c6f89b090fa38096ebc3767ac15789039df451b</hash>
+          <hash piece="19">a42727c85b4d84895a768c1b1a19093167820863</hash>
+          <hash piece="20">9e835a44a2caf71bfc40b4813de0cbfd86dda95b</hash>
+          <hash piece="21">ba1bb464221c3169ca2e6709639d2bce29b55f70</hash>
+          <hash piece="22">254c1d2c7fc985e6720e0914cc511850d1c9fbb8</hash>
+          <hash piece="23">d72164798829ef0233cfce378c3128fb861d6ee8</hash>
+          <hash piece="24">de764f5edc7183078ab0f52ae2a0181f705c2382</hash>
+          <hash piece="25">2cd23193e98ec115a850749316c7d5a3be598a9c</hash>
+          <hash piece="26">dbe3fdafc2a470bd8489ed9bb65bad8ed2ca9f3f</hash>
+          <hash piece="27">27ba745f3fe470c7ed568179f545a5c59ff65dfa</hash>
+          <hash piece="28">16cc39d4603fb79e3ce819a8c8e6e5d5b6b10960</hash>
+          <hash piece="29">02a74c8bb6f3dc3477b8e40d8175b092e03f6bb3</hash>
+          <hash piece="30">25719f566bc69f487b4b9ad6db2a998a2759a4ca</hash>
+          <hash piece="31">f392c20f3545fffdace8eb5dcc569e6998b41f21</hash>
+          <hash piece="32">81cbd8ada8e55867ed8b9dd3a3b59ab8544269a7</hash>
+          <hash piece="33">d6e424f53fa4acf88c04b5635f6c9f89931fa99c</hash>
+          <hash piece="34">6540911f6cf2d4007903db2246a204bfecc5b748</hash>
+          <hash piece="35">8017908adb4cd380916cd3b2a13c95bb293ba96c</hash>
+          <hash piece="36">fd6d797d9c38a1364614803330ed8b3065bd63bd</hash>
+          <hash piece="37">001a8522a489f6e0e127653fbf622cd8080918aa</hash>
+          <hash piece="38">10281750bc1caf352aba45a7d6602ea44c53eef7</hash>
+          <hash piece="39">c9d706e6c5fb657c8203c66f6dc0ecaa6c483579</hash>
+          <hash piece="40">74264b9c78e85d73f18bd3543d5e32dd920b1fb2</hash>
+          <hash piece="41">ad18e140a907221432018ef63ce0ab950633760a</hash>
+          <hash piece="42">8c4e7719331c4e3d8773ac8aca08186614fdbe68</hash>
+          <hash piece="43">5ceb92a32f09be482428d3f5615fbf3864c3d304</hash>
+          <hash piece="44">f3126965dcf20dbf8852519105e64e2049e8d744</hash>
+          <hash piece="45">eb75fd3cef702beaa139aa2b3b8c973144d8c398</hash>
+          <hash piece="46">9f23b57d8faf1421adaa7b1d7a30783cb34f8611</hash>
+          <hash piece="47">e9c79a72b308e066bff2236e66c32b630c36a63a</hash>
+          <hash piece="48">e896e4575782fd7dcb0f0f6326f1c7804e108890</hash>
+          <hash piece="49">d3969136ecf14e7dae9796d9ddaa6f132c1cd564</hash>
+          <hash piece="50">e10c9e33839cd1d14e9714fb811a659a826efd3a</hash>
+          <hash piece="51">78a77aa97f303897df96a3c7809cc2fc33dc7c43</hash>
+          <hash piece="52">8901908c942e0e473c1398540027bebd1bdb0f06</hash>
+          <hash piece="53">a44eb2187bca42ee2893af7c6e5c6480dee28b58</hash>
+          <hash piece="54">4268b9e72fb4e2c7ed7386e8cb89dd79c96c0aab</hash>
+          <hash piece="55">701afe54b73a0525bb08895b16c2e55b1aade957</hash>
+          <hash piece="56">52b72164b2f9338183d452dc6bdff60fbcb26548</hash>
+          <hash piece="57">4d86fcfd5e0d7c7dadebb7ad7ff1e770f97e44d8</hash>
+          <hash piece="58">cad2103652fbefff82206db1a1796fd198743ad1</hash>
+          <hash piece="59">47a07d0f05fd0a7c4e9b1d7f3ff96a59e5fce275</hash>
+          <hash piece="60">23c7f5b1b22175d4c3f19b9f636fd7c0084bbef1</hash>
+          <hash piece="61">1c1e07778415992cd95ced94f050ddf23735e679</hash>
+          <hash piece="62">4edd6c3649872e1d96e147dc87a32f1c6d3e4945</hash>
+          <hash piece="63">a5c5da5f0baaacafeef526473ed91ba627cf8dbd</hash>
+          <hash piece="64">c980858977fa0bbaca5fcfd6f5e7f73814982e97</hash>
+          <hash piece="65">36410553616a23835674b6ee1f524a5238ab76ee</hash>
+          <hash piece="66">fa32d4a93f141c509cd99db63bfc4325cf9e8ab2</hash>
+          <hash piece="67">7aafeb212485d4bfa25ef6e214f830646d803003</hash>
+          <hash piece="68">144ae2e703d7107a3c85195665e0ef1041a4ecd2</hash>
+          <hash piece="69">504ab1dc4c7f64468cee79517be37e2481568a80</hash>
+          <hash piece="70">9646394aaaf3e4872a24a2cb2c799ed92e3495d1</hash>
+          <hash piece="71">dd6230e01ad51f19f810d3b46f3c88eb863d45fa</hash>
+          <hash piece="72">a1dbe7c199c3c5ca25ffd7c748647c8145a3e0a6</hash>
+          <hash piece="73">0a0a3193959f7134e344c350d9255e8c75fc1c84</hash>
+          <hash piece="74">13b6533995c244f3c5bd15403d4f4bb1f59c00ba</hash>
+          <hash piece="75">cd03fb2f7a756aa971ee3b57052c13c3ffa73b35</hash>
+          <hash piece="76">9c7e4b82ab31f4e123b48af62decd9e608850363</hash>
+          <hash piece="77">a912d56e166a67f89db2cef0bd8b2f7953181cd7</hash>
+          <hash piece="78">bd81b3ba475cd0bfae73a28f86815166cd8a95a3</hash>
+          <hash piece="79">7a4190d7f40079caa2a7a94c3d54ab215f1b9e10</hash>
+          <hash piece="80">03168bbea3827021c9a0caa21ee28626f2e3640d</hash>
+          <hash piece="81">1ab88b45b882bb237df3d8a1d14a2c9b25614e88</hash>
+          <hash piece="82">1fe6dc82636c698ab3a7bbbe9c0e598d65d2ebc1</hash>
+          <hash piece="83">b2856bf27371a52dec65c919032e6f56079a2924</hash>
+          <hash piece="84">834ecfd9daee0f1a638998ad6ae5acf3d6642e32</hash>
+          <hash piece="85">3e44f3c1f4e76e0ff42267814116d6ed99bac401</hash>
+          <hash piece="86">4eae61ec7017349ca30e2507af1b264f344af6ae</hash>
+          <hash piece="87">63e47ef13259e010221b304515be295c28de1b15</hash>
+          <hash piece="88">63b04a71eef89f91db082ef50ae896569e82d7cb</hash>
+          <hash piece="89">1565689ef23c6ad0f155f31b122aef57d8166a12</hash>
+          <hash piece="90">8620bd7acea3ec7f0d828139b4b0928ed6787081</hash>
+          <hash piece="91">233073398282786cffd0419cb4d2e98d2d1516f0</hash>
+          <hash piece="92">2c8f68061ffe5725d6df164b17f7efa0333c0e49</hash>
+          <hash piece="93">ce946b582c86d562108390521d543498dc5f2d68</hash>
+          <hash piece="94">b22e844d009c97072ee0a4610e3579a94e28c5e1</hash>
+          <hash piece="95">9db5bdfaedd409e7891e205a74984fe0d752f3a6</hash>
+          <hash piece="96">b0906c7d19f98b33d60c826c80d95b02cac27cef</hash>
+          <hash piece="97">1f4fb5278c2679893fec542356724b927ef4f3b1</hash>
+          <hash piece="98">e778db33ee2a1d95af625bbf1a3f7ba3f083697e</hash>
+          <hash piece="99">ecb4080d45f9cbb28453922bca3f0c068b616687</hash>
+          <hash piece="100">bf251992def255fded5ddfd5efaaa71c90d919fd</hash>
+          <hash piece="101">904a3fa462e7d157465a77d144dcd237ebff5c24</hash>
+          <hash piece="102">a6a0348ded650472870f82dc48b8e5c9e11dc849</hash>
+          <hash piece="103">480778e22708bfde13929ff64ef5fab7b71b8b4f</hash>
+          <hash piece="104">b8881a48f5361c90af622e327605ecb6a3f11690</hash>
+          <hash piece="105">1282b5f0a953e4f357f6c857d5528493fc58c5be</hash>
+          <hash piece="106">1c1fb0ae2bfa4d5835d1e4a3ba72bd2895d9078d</hash>
+          <hash piece="107">baa0e644d142964c57faba43f0978fd8b0af884d</hash>
+          <hash piece="108">4011fa60e12b3ff9a6f09b040df0ed84be06fa6f</hash>
+          <hash piece="109">744162d7928557c9ee1ab05507db6b1bba25eddc</hash>
+          <hash piece="110">79c3409504646ed069024863ad3bcc19c6d96252</hash>
+          <hash piece="111">57146a9a8cbe0c9d75c7440783041a329abbeb4e</hash>
+          <hash piece="112">4466242aaf80d17ff13e32941eabf3cf3b0a1f09</hash>
+          <hash piece="113">88cb808d943672000e762d50bbeed747cc14844c</hash>
+          <hash piece="114">ed7159924f8d6041c78a7f4bbbe5c2ef283f084c</hash>
+          <hash piece="115">221a2fd1d1142894ca0ce4715c621d8a56fd54f2</hash>
+          <hash piece="116">196e8657d2e9f6271a5862e97628c3f1712fdd7f</hash>
+          <hash piece="117">67ae0bf520605db84760db6f23304f6d95ddf342</hash>
+          <hash piece="118">dca2bf3ec223cf74a229315aea0080e2d6176bdd</hash>
+          <hash piece="119">9b2ba01b8cad4236abf474508b8fd3b4dc4e6bb7</hash>
+          <hash piece="120">30bfba8056f72c04e98072280cf977254b65f874</hash>
+          <hash piece="121">670b192d59a97f04fe4bbb4032ee3aa4a77dcce0</hash>
+          <hash piece="122">1551ccf04e9208431ffec19e31dd6b64906c8575</hash>
+          <hash piece="123">51ec613286d577730f557a80a19e3cc0b03363bd</hash>
+          <hash piece="124">3b517de4b1eeae41f99694a5a7bad00bcc5fb4f1</hash>
+          <hash piece="125">8a62aff6eea90cb1f1de699cfed1886dc62e6e6c</hash>
+          <hash piece="126">3c7754e51f829c1340632a8cc15ad434080e1915</hash>
+          <hash piece="127">fc21372091db1834aa9fe2e87f26b44dffb36ef8</hash>
+          <hash piece="128">d2749347e635595c389987d9efef8201fafe4622</hash>
+          <hash piece="129">b54a5e32451ded2de99dd5c33d8ae3bfba5f37b9</hash>
+          <hash piece="130">9d523a029b113b17e00e2d56e83ef7ace60fcd86</hash>
+          <hash piece="131">2daeec97b64effc24b9196636d6cd7d960776a4e</hash>
+          <hash piece="132">a7a31f93e517a14b9516218719c74b6f5ce35f0c</hash>
+          <hash piece="133">6dd3c8c3d268787947519fc8bef8175647a242f6</hash>
+          <hash piece="134">b77830fa6c486034bbc889ea7d43464792f96ea7</hash>
+          <hash piece="135">88c1f64fcc038ddb06147a5915a1229b87972fba</hash>
+          <hash piece="136">38cfc072d7ae45de1dd3bd82e6861d0202bf0c06</hash>
+          <hash piece="137">63cd52d29461d1d7d888bb289ce77964b966a08f</hash>
+          <hash piece="138">3a466fae7e6eb472cc7f02fe110189009e123baa</hash>
+          <hash piece="139">de184722d086a8a8811dd000c02dc07419a25ede</hash>
+          <hash piece="140">ba43abb929eb298bbc842d4b1b40c44859c5d3f2</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="de" preference="10">http://ftp.wh2.tu-dresden.de/pub/mirrors/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="de" preference="10">http://ftp-stud.fht-esslingen.de/pub/Mirrors/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="de" preference="10">http://sunsite.informatik.rwth-aachen.de/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="de" preference="10">http://mirror.yoxos-eclipse-distribution.de/eclipse.org/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="de" preference="10">ftp://sunsite.informatik.rwth-aachen.de/pub/mirror/eclipse/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="de" preference="10">ftp://ftp.wh2.tu-dresden.de/pub/mirrors/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="hu" preference="10">http://eclipse.i-logic.hu//eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="ch" preference="10">http://mirror.switch.ch/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="ro" preference="10">http://ftp.roedu.net/pub/mirrors/eclipse.org/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="pl" preference="10">http://www.eclipse.ps.pl/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="be" preference="10">http://eclipse.kangaroot.net/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="gr" preference="10">http://ftp.ntua.gr/mirror/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="ro" preference="10">http://ftp.tg-mures.roedu.net/eclipse//eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="gb" preference="10">http://www.mirrorservice.org/sites/download.eclipse.org/eclipseMirror/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="at" preference="10">http://gd.tuwien.ac.at/softeng/eclipse/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="it" preference="10">http://rm.mirror.garr.it/mirrors/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="pt" preference="10">http://eclipse.dcc.fc.up.pt/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="se" preference="10">http://eclipse.comactivity.net/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="bg" preference="10">http://eclipse.prolet.org/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="tr" preference="10">http://eclipse.ulak.net.tr/eclipseMirror/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="tr" preference="10">ftp://mirrors.cs.hacettepe.edu.tr/pub/mirrors/eclipse.org/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="at" preference="10">ftp://gd.tuwien.ac.at/softeng/eclipse/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="is" preference="10">ftp://mirror.isir.is/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="ro" preference="10">ftp://ftp.roedu.net/pub/mirrors/eclipse.org/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="no" preference="10">ftp://ftp.uninett.no/pub/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="gr" preference="10">ftp://ftp.ntua.gr/mirror/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="pt" preference="10">ftp://ftp.inescn.pt/pub/util/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="pl" preference="10">ftp://ftp.man.szczecin.pl/pub/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="ch" preference="10">ftp://mirror.switch.ch/mirror/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="gb" preference="10">ftp://ftp.mirrorservice.org/sites/download.eclipse.org/eclipseMirror/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="tr" preference="10">ftp://ftp.ulak.net.tr/eclipse/eclipseMirror/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="it" preference="10">ftp://rm.mirror.garr.it/mirrors/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="ro" preference="10">ftp://ftp.tg-mures.roedu.net/eclipse//eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="cn" preference="10">http://download.actuatechina.com/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="id" preference="10">http://anak.kambing.vlsm.org/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="id" preference="10">ftp://anak.kambing.vlsm.org/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="il" preference="10">http://mirrors.nsa.co.il/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="il" preference="10">ftp://mirrors.nsa.co.il/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="jp" preference="10">http://ftp.jaist.ac.jp/pub/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="jp" preference="10">ftp://ftp.jaist.ac.jp/pub/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="jp" preference="10">http://www.ring.gr.jp/pub/misc/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="jp" preference="10">http://www.infosys.tuis.ac.jp/pub/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="jp" preference="10">ftp://ftp.u-aizu.ac.jp/pub/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="kr" preference="10">http://eclipse.areum.biz/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="kr" preference="10">http://ftp.daum.net/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="kr" preference="10">ftp://ftp.daum.net/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="kr" preference="10">http://ftp.kaist.ac.kr/pub/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="kr" preference="10">ftp://ftp.kaist.ac.kr/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="tw" preference="10">http://eclipse.stu.edu.tw/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="tw" preference="10">ftp://eclipse.stu.edu.tw/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="tw" preference="10">http://eclipse.cdpa.nsysu.edu.tw/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="th" preference="10">http://www.datawiz.co.th/mirror/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="au" preference="10">http://mirror.pacific.net.au/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="ca" preference="10">http://gulus.USherbrooke.ca/pub/appl/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="us" preference="10">http://mirror.calvin.edu/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="us" preference="10">http://mirror.cc.columbia.edu/pub/software/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="us" preference="10">ftp://mirror.cc.columbia.edu/pub/software/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="us" preference="10">http://mirrors.cat.pdx.edu/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="us" preference="10">http://mirrors.crazeekennee.com/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="us" preference="10">http://www.gtlib.gatech.edu/pub/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="us" preference="10">http://mirrors.ibiblio.org/pub/mirrors/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="us" preference="10">ftp://mirrors.ibiblio.org/pub/mirrors/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="us" preference="10">http://ftp.ussg.iu.edu/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="us" preference="10">ftp://ftp.ussg.iu.edu/pub/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="us" preference="10">http://ftp.osuosl.org/pub/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="us" preference="10">ftp://ftp.osuosl.org/pub/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="us" preference="10">http://eclipse.mirrors.tds.net/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="us" preference="10">ftp://eclipse.mirrors.tds.net/pub/eclipse.org/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ftp" location="us" preference="10">ftp://ftp.cse.buffalo.edu/pub/Eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="us" preference="10">http://mirror.uta.edu/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="http" location="us" preference="10">http://www.software-mirror.com/eclipse/eclipse/downloads/drops/R-3.3.1.1-200710231652/eclipse-SDK-3.3.1.1-win32.zip</url>
+        <url type="ed2k" preference="95">ed2k://|file|eclipse-SDK-3.3.1.1-win32.zip|147773426|5A03FDF62BA8D8B693FB33ADAAF54937|/</url>
+        <url type="magnet" preference="90">magnet:?dn=eclipse-SDK-3.3.1.1-win32.zip&amp;xl=147773426&amp;xt=urn:sha1:8F5F052BF27C2D18DCAA60CE2B9B196C0B739ED8&amp;xt=urn:ed2k:5a03fdf62ba8d8b693fb33adaaf54937</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

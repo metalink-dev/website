@@ -1,0 +1,18 @@
+<metalink version="3.0" xmlns="http://www.metalinker.org/">
+  <files>
+    <file name="vlc-0.8.5-win32.exe">
+    <identity>VLC</identity>
+    <version>0.8.5</version>
+    <verification>
+      <hash type="md5">051495381f04bdafe20ee8656aadb362</hash>
+    </verification>
+    <resources>
+      <url type="ftp" location="fr" preference="90">http://www.videolan.org/mirror.html?mirror=http://downloads.videolan.org/pub/videolan/&amp;file=vlc/0.8.5/win32/vlc-0.8.5-win32.exe</url>
+      <url type="ftp" location="fr" preference="90">http://www.videolan.org/mirror.html?mirror=http://ftp2.via.ecp.fr/pub/videolan/&amp;file=vlc/0.8.5/win32/vlc-0.8.5-win32.exe</url>
+      <url type="http" location="nl" preference="90">http://www.videolan.org/mirror.html?mirror=http://ftp.snt.utwente.nl/pub/software/videolan/&amp;file=vlc/0.8.5/win32/vlc-0.8.5-win32.exe</url> 
+      <url type="http" location="us" preference="90">http://www.videolan.org/mirror.html?mirror=http://mirrors.optralan.com/videolan/&amp;file=vlc/0.8.5/win32/vlc-0.8.5-win32.exe</url>
+      <url type="ftp" location="tw" preference="90">http://www.videolan.org/mirror.html?mirror=ftp://videolan.cs.pu.edu.tw/Windows/VideoLAN/&amp;file=vlc/0.8.5/win32/vlc-0.8.5-win32.exe</url> 
+    </resources>
+    </file>
+  </files>
+</metalink>

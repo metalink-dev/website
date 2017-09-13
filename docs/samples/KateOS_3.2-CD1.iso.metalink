@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.0.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>KateOS</name>
+    <url>http://kateos.org/</url>
+  </publisher>
+  <identity>KateOS</identity>
+  <version>3.2</version>
+  <description>KateOS is a free (as in freedom), multitasking operating system targeted at intermediate Unix users.</description>
+  <files>
+    <file name="KateOS_3.2-CD1.iso">
+      <size>730679296</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">8e045351c9c73bcf6b8562860e8afcba</hash>
+        <hash type="sha1">30827ab50569df22cec73648714ebbfc127b09a0</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">2d510b9a90507ad49e65d09fad54403ca9528567</hash>
+          <hash piece="1">531dd6577411730c3a4ec0ade3fa79bc6e686906</hash>
+          <hash piece="2">5dc82e1d6aab4ee5b68c4d923f397d6502586e94</hash>
+          <hash piece="3">9c155d66970cdea9c5ce6c42df0d86f5436bddb1</hash>
+          <hash piece="4">650ebf5f6da6db181b998f7f81c453bfa034b438</hash>
+          <hash piece="5">71f5948ce431c007a2dbe5ef377c0d70ff62dcbd</hash>
+          <hash piece="6">4a3575f25c42afc38f52b821e7a39efd02220bd1</hash>
+          <hash piece="7">9ba80604228498fc7231637e69726fe4b81e722e</hash>
+          <hash piece="8">b4877410d29b8b5bdfbfdb7b0b550e449a394ec7</hash>
+          <hash piece="9">208991c133339d371a31482d5f16d2c8db9bfc9e</hash>
+          <hash piece="10">4f2c3fcfc87658b505370f76e0202885e5d99730</hash>
+          <hash piece="11">8ac3be860c8309c4b52edcf9628f2a07afc61aeb</hash>
+          <hash piece="12">26ad2b74a64c46e8c0e24272231c21c2dadc4050</hash>
+          <hash piece="13">76abbe2a8c5418814fa450fedf4694d54ff91610</hash>
+          <hash piece="14">f4af72fb737805ce0a27a6507cca2308152bb4c8</hash>
+          <hash piece="15">68d5946bcf2c1a41f3d40473fcfee45e21d5b72e</hash>
+          <hash piece="16">bfadfd163ab4af64f290812b9e960e94eaec8271</hash>
+          <hash piece="17">f5656ef3f07cbe7b0bd2104e849aec2567e5b16b</hash>
+          <hash piece="18">64e4e060717e791db75859b91516b9db80a16dc1</hash>
+          <hash piece="19">86db716a5593463c35f1f4fd0b4eae2986427a51</hash>
+          <hash piece="20">07031f83062658f0b5a8e648c2cfb35ed881abd4</hash>
+          <hash piece="21">cd93a8e4cdac79f2df509f84c989f63072c24b9b</hash>
+          <hash piece="22">4f907853bda49fe162a83bd3f8f8640d2d70fa36</hash>
+          <hash piece="23">ded665cfe1744fddfcbae513ae8a30939875e7fc</hash>
+          <hash piece="24">add5af815abae559afb0c1b2b6382182219f5d2b</hash>
+          <hash piece="25">8658ce621f0d1699818cb67377acfbe9e0d9747d</hash>
+          <hash piece="26">7d2924cae1ba5d220aa93770063608ed43ba4096</hash>
+          <hash piece="27">5f7d8424b5d265efbc83ff4d68bb76c22a93462b</hash>
+          <hash piece="28">576ccd5aa1e5d9de6ccb565a7728bc5fb4f37f81</hash>
+          <hash piece="29">7af2832b1a351cb6b2319273869b7b2a121e5764</hash>
+          <hash piece="30">ec7b873251037f8bb3f5385ca3d9a88fb65f89bb</hash>
+          <hash piece="31">811ebe712a171a857cd88c067a7fba1b64d500a5</hash>
+          <hash piece="32">ea447b2f0e0ce5d23a973577aeaff23d8db42ff5</hash>
+          <hash piece="33">4756d94e269b2c4687bcf69712f53ca110f0c66e</hash>
+          <hash piece="34">741895f1f6feb81def90c4def1a7fc6f84283c62</hash>
+          <hash piece="35">2e2a2e5b65603aa839cdf0dcfe417d0ff8124609</hash>
+          <hash piece="36">951a7184470dba2bbb5e10c6fe8a02f19b9df4f6</hash>
+          <hash piece="37">b33fa265e6aa0b722166e1eb6b8674aff5919001</hash>
+          <hash piece="38">c813f6b1c5698949838b2dfa9ce896e7862d756c</hash>
+          <hash piece="39">bc732f586206fd32f435c76a9cc263c464a11c32</hash>
+          <hash piece="40">a604ed3da89c7f9fd6a186a96ac9785fbd34b95d</hash>
+          <hash piece="41">72a8c00d001528907e10497bd9852f01eaa79c47</hash>
+          <hash piece="42">253d1b02827739a4cacd0d4f25043e4e53af821d</hash>
+          <hash piece="43">1d0ec87fb2af827225e34f36dfbdcdd118841186</hash>
+          <hash piece="44">8c11035a4613cc453a369ce163a73df7997b7cab</hash>
+          <hash piece="45">b0e4fd0efb4fea8d9592864df52c328d54f9eb45</hash>
+          <hash piece="46">ced0b571e95bc6613dddc8c11c61c510badd9990</hash>
+          <hash piece="47">36ac3eea36ac850e99bfe47d93f9fa6314f782e0</hash>
+          <hash piece="48">fd9064a5bcc3ca63e182427a265f7df8326525fc</hash>
+          <hash piece="49">1a6acce66924b58242d8c8090d45953ee913040d</hash>
+          <hash piece="50">578090e923ad98783e43f5c1f84b0cf02aa1ee66</hash>
+          <hash piece="51">f2e12e1c60be4dcc4db91d457e1664b6fe8494ab</hash>
+          <hash piece="52">9afa16a224cfcf8417a8a7c7e855012a96080a05</hash>
+          <hash piece="53">303dbd8f6de5807565f11cfd9e15def0e37ee42d</hash>
+          <hash piece="54">631bc15e6be0f90664fef6283db399ecb6ba8528</hash>
+          <hash piece="55">c7454a301dfa899cdd524cf9ea9c0aad3a07fc0e</hash>
+          <hash piece="56">c2eb9221deddd537607b72944f3847a971d9505c</hash>
+          <hash piece="57">6c7eabc738d06612d1c8286d012c4fce51562747</hash>
+          <hash piece="58">b22c77bf30300436569915b579f18f35a406755a</hash>
+          <hash piece="59">7f44572b86ace9754d3d86fc3494770fa4fe2eb3</hash>
+          <hash piece="60">73a9734b49e9d644e18e67c7f2e69350a889d0ee</hash>
+          <hash piece="61">3bbcc653a7fb67ffd73774cbfff665f4c813aa93</hash>
+          <hash piece="62">1dd056f46d6e08a83501a512786b5cf3ff2f8382</hash>
+          <hash piece="63">b8097c4f62f631cc3ed82f820da58787d10cfbf4</hash>
+          <hash piece="64">d8f7cdd85397f0784715693ffbf0a6d026c7eda5</hash>
+          <hash piece="65">39b3454393867a9aad6f58bdfb9996d214c0f81a</hash>
+          <hash piece="66">ebef12afcabb2198d066650b9f8c95cc149370c2</hash>
+          <hash piece="67">e0a7c9ea0453a0a3a960e15e7cdb5da6a91dc3ed</hash>
+          <hash piece="68">f2069866d42c8f8ad8e05efbcfefbe29282876f6</hash>
+          <hash piece="69">2f09ae10d4996f4044e3e3d2c7636edf3098200e</hash>
+          <hash piece="70">a5a6e003755fed498c96b5ecaa38d08674d7458a</hash>
+          <hash piece="71">6442656780d6a0878327bffc4123e8bb4c47cd5c</hash>
+          <hash piece="72">604f498f6a85691fb62311ca9dd170a8818fe001</hash>
+          <hash piece="73">089badea17ef192c1fd6bde26da7583966aa91f1</hash>
+          <hash piece="74">69e608a3eca2486a0c7dad7e19970136440dfc00</hash>
+          <hash piece="75">893fc12f0529c9dfbedba0b142179d5d4be4da46</hash>
+          <hash piece="76">9bae61d974aa37c5629f10823777954056b87b71</hash>
+          <hash piece="77">1e37cb1d33b4c78a66f2a4df94fb8bcf90ca3c93</hash>
+          <hash piece="78">b7ead9675aee9c20e01fb10b0ce5217952467b3a</hash>
+          <hash piece="79">ee268789453cf1ea92d6fa87c5fb2adf592efeba</hash>
+          <hash piece="80">2f180ca8a64a8d98b9f36a6cb2fc26a911864cea</hash>
+          <hash piece="81">654fe3b3c88dfc0993d30c87be75fc3321139ff2</hash>
+          <hash piece="82">3977bf8c16091fb799f1647329d5468e404ff242</hash>
+          <hash piece="83">ef48f5904bef0c88484acc5235657aed848414fb</hash>
+          <hash piece="84">8c0270c0c962806da67063c40a654e4ce18f3805</hash>
+          <hash piece="85">50567c143be231ea17ac553c57c55d5ee66b7a6b</hash>
+          <hash piece="86">dfaa56d05a8a00c1d7353e6754eda8d2610212a4</hash>
+          <hash piece="87">04f74da74a5b8380edf1382cc174e3fd9011bea7</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="us" preference="100">ftp://distro.ibiblio.org/pub/linux/distributions/kateos/coresystem/Kate_OS_3.2/KateOS_3.2-CD1.iso</url>
+        <url type="http" location="us" preference="100">http://distro.ibiblio.org/pub/linux/distributions/kateos/coresystem/Kate_OS_3.2/KateOS_3.2-CD1.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

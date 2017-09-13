@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Generator v1.00.0034" xmlns="http://www.metalinker.org/">
+<!--
+	Metalink, an Open Standard, makes downloading easier by
+	bundling the various ways (FTP/HTTP/P2P) to get files into
+	one format for easier downloads, as well as bundling
+	checksums to automatically verify completed downloads.
+	
+	Currently the following applications support this file:
+	        
+	- aria2 [ http://aria2.sourceforge.net/ ]
+	- GetRight 6 [ http://www.getright.com/ ]
+	- Speed Download [ http://www.yazsoft.com/ ]
+	        
+	For further information please visit http://www.metalinker.org/
+-->
+ 
+
+  <publisher>
+    <url>http://www.wireshark.org/</url>
+  </publisher>
+  <description>Wireshark is one of the world's foremost network protocol analyzers, and is the standard in many parts of the industry.</description>
+  <files>
+    <file name="wireshark-setup-0.99.2.exe">
+      <version>0.99.2</version>
+      <os>Windows-x86</os>
+      <verification>
+        <hash type="md5">3df095c4e696079a6afcf9ff17622066</hash>
+      </verification>
+      <resources>
+        <url type="http" location="tw" preference="100">http://wireshark.cs.pu.edu.tw/download/win32/wireshark-setup-0.99.2.exe</url>
+        <url type="http" location="nl" preference="100">http://wireshark.osmirror.nl/download/win32/wireshark-setup-0.99.2.exe</url>
+        <url type="http" location="us" preference="100">http://wireshark.zing.org/download/win32/wireshark-setup-0.99.2.exe</url>
+        <url type="http" location="us" preference="100">http://www.wireshark.org/download/win32/wireshark-setup-0.99.2.exe</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

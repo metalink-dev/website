@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Mandriva</name>
+    <url>http://www.mandriva.com</url>
+  </publisher>
+  <license>
+    <name>GNU GPL</name>
+    <url>http://www.gnu.org/licenses/gpl.html</url>
+  </license>
+  <identity>Mandriva 2008 One Free</identity>
+  <version>2008.0</version>
+  <description>Mandriva 2008 One livecd with kde as default desktop manager.</description>
+  <files>
+    <file name="mandriva-linux-2008-one-KDE-cdrom-i586.iso">
+      <size>727810048</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">871020f9d7d9f3f5b94d9c3c3127f492</hash>
+        <hash type="sha1">49c7e01f9811235ea4ee51e3290eba0a80658a8d</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">3bef21926b1637f2de643b75ab3adb5417d94351</hash>
+          <hash piece="1">67bb422cbc308257ef9a6718fada499dde4ce529</hash>
+          <hash piece="2">f2b9d6ff1e7f3c0b4d21ad64f2fba3b077616a7a</hash>
+          <hash piece="3">79b1e7bf594898f1f8ee5a8f5585001ed86a7e84</hash>
+          <hash piece="4">a9d48d3a7c3f6f3cac8d343f641b1cc47d7fd9bb</hash>
+          <hash piece="5">dfa08e6f180e7390e754f0aaa001192f120bbce3</hash>
+          <hash piece="6">ebfc65288d408244f5cabb940002fc0ef8f0cfcb</hash>
+          <hash piece="7">6957feaf24dc6017767a06ab8608b361213c068e</hash>
+          <hash piece="8">c6350ce08454954b9eb8e3d22bcffda6515815bb</hash>
+          <hash piece="9">73c139a441f2e0cd99834b23838853b3d2e34f77</hash>
+          <hash piece="10">8cf5487315a239323efab64182dc3acb9025b01e</hash>
+          <hash piece="11">e9c18d03c3469e990d09704e581c6712c96afa05</hash>
+          <hash piece="12">dcfbe469506a2a0b49792feb413fbaf5cc9589e2</hash>
+          <hash piece="13">54bd1a896e40810ed95e9b28a9eb6263bb287c1d</hash>
+          <hash piece="14">0b0776a863c7559955a26c3ebcb474a647de0146</hash>
+          <hash piece="15">e3c65ad186aaaea21a395f185a8dc8d896780327</hash>
+          <hash piece="16">189214a48e0893c92a35691a1fd639ce2477532e</hash>
+          <hash piece="17">1903cdb84d322ba70684c86a4d748ccce97e8194</hash>
+          <hash piece="18">8b4dff40b29dc608adcc2a79ab1ce439943219fb</hash>
+          <hash piece="19">b513b868bb6a9895497402e8c0c14be2ae85903b</hash>
+          <hash piece="20">077ee7f0f021c817fc856fb7306c6bf5b09c1ffc</hash>
+          <hash piece="21">e2f65e935c4d90bf29167f60fe909e85635f2bdd</hash>
+          <hash piece="22">5b2e2d1d22e69e26ccd78a6c4bd40e256620ba4e</hash>
+          <hash piece="23">0fcad58476bc36c95692c62713f26fbb5e14dc3a</hash>
+          <hash piece="24">6c2fe9a528991d6aecd82f132a3104d4a08f7125</hash>
+          <hash piece="25">d3792b1290e121e21b286db89edfd40160fc6023</hash>
+          <hash piece="26">39574dafd0044a0d16df1d3e804ce0da5742a476</hash>
+          <hash piece="27">36acae02ac1fbf6d8d1fc1f30f2b3801be25e60e</hash>
+          <hash piece="28">59b78f05d292baf50b0552b4e32430d643a8349a</hash>
+          <hash piece="29">c5f3e2db8f09942564250fa169e2c2779543b337</hash>
+          <hash piece="30">165d284c1dcbfa6502b0827c995b36e8220d6a1b</hash>
+          <hash piece="31">fd09f8a7926af559f75316d42a5a8b381e9fd436</hash>
+          <hash piece="32">7be90612265d66bafc78533e95134c63be7594fc</hash>
+          <hash piece="33">04618a8cd03d2538aca37b723ac12867a31ffa47</hash>
+          <hash piece="34">d4898240ee248bb59d03e8732dfa682d18687ed8</hash>
+          <hash piece="35">77c078a3581541a8fe775e5dc27cd880df8f9986</hash>
+          <hash piece="36">2cfa8e916be76a33fba8fed1bc4cc13e6e920db2</hash>
+          <hash piece="37">ee2b8bdac0cfdd209f0c2d6ff1d6252e305e2b7c</hash>
+          <hash piece="38">dc1cbd706caff810b142f217c49bba73c4886485</hash>
+          <hash piece="39">87b8c6f846fd020df6639be4181e86e33adc0fff</hash>
+          <hash piece="40">438956e9cca5498a2cb738f232e1e47c47fbe1c2</hash>
+          <hash piece="41">4eed0663ff917abdb5d6526849d41a5142c2d13f</hash>
+          <hash piece="42">94902760aa4ff6766e2d1c1e6af9290b3fc10801</hash>
+          <hash piece="43">7ef1dacf9ac48b158261f8cb476586bd66df0459</hash>
+          <hash piece="44">b0bc47f1d0010507d5ff94a43c8d081a4e3f2036</hash>
+          <hash piece="45">fca72abae16a1d685f89795f5e7606969ab1cfe2</hash>
+          <hash piece="46">aab1e247eb9bd60a4e1ac6bc1f0ffedfa55669b6</hash>
+          <hash piece="47">931007cf3ee5ba7845d596a4af510266dabdfb15</hash>
+          <hash piece="48">388f0336d1409a9112791015a4200d72583c0d8e</hash>
+          <hash piece="49">375c6fef66dd7fab98ee2b6792ac7857a476cb72</hash>
+          <hash piece="50">2287167196a2e2bd2b47c966b2c5d0d2549864f5</hash>
+          <hash piece="51">05f0bab5463ebccdc2a9b31a76aba85dcef0cdd9</hash>
+          <hash piece="52">e278eacfe7d18e7b00624772dac9adef39bb4aa9</hash>
+          <hash piece="53">688d70368b4e56f63db4f0050c194f6398f8cb03</hash>
+          <hash piece="54">55e32979544005e3260a1121fdfb76cbf85729ce</hash>
+          <hash piece="55">6fa879db964a1ce6cf591494801bd92c9b9c663b</hash>
+          <hash piece="56">5b370254745217c6fbf2c7ed9f5520d0809a436d</hash>
+          <hash piece="57">38f70b7d719fb0d17ae2433c40f3f391b9a8e94d</hash>
+          <hash piece="58">4913fb1ea35c9715dec0ec3322a56a70369a3c2b</hash>
+          <hash piece="59">c90a36ff5367f154d969f3db8c068c661c0f763b</hash>
+          <hash piece="60">a250c972119db6f596672422cd4153ca3647a253</hash>
+          <hash piece="61">579fb278f5518c1934bac35e543e3f488fdea297</hash>
+          <hash piece="62">82724e4018225e8556fb50374cbeb51d6fd5d39a</hash>
+          <hash piece="63">bed11c87b487ffe284db607408f271cee354db7e</hash>
+          <hash piece="64">1f48402d6c8ef22daad890fd745da4f1ee7eff71</hash>
+          <hash piece="65">80d15d98efacc993668232b9a8a9dc5e9f282957</hash>
+          <hash piece="66">94bb0d48f3087a9a59909447a6d313619dc80362</hash>
+          <hash piece="67">0775ab705aa1aebaa83fda70db9a5ab78806654f</hash>
+          <hash piece="68">7ef55b43bb17fb29f256b8b86a45338c4395b975</hash>
+          <hash piece="69">ccb0e96e3296962cf6ce01621f28db724054ebea</hash>
+          <hash piece="70">6c5b0ea8ab6a7323901c689afbb34762440a1798</hash>
+          <hash piece="71">5fe3af58095005d4b6e3e312af9cdef5fcc43314</hash>
+          <hash piece="72">52a13038f78cab8de0bc6e8c485c5ed384913eb9</hash>
+          <hash piece="73">2cb594906ce96e6291abe0518e371e1f8847171f</hash>
+          <hash piece="74">b5031e51b83eba364601ec589ac9682525b03c23</hash>
+          <hash piece="75">9d566366060756af2b7cfea98b592ed1ae2137d9</hash>
+          <hash piece="76">f6cfe0e3069fd937c27e53fec33ae4e05a858e48</hash>
+          <hash piece="77">1243710dd5cc89c507d5aeca9683c6b507a8bee9</hash>
+          <hash piece="78">366849b820a297f9096ee7fa5c9a76b36d486da1</hash>
+          <hash piece="79">80ff7044e937d93d583f08aa3c5085ea24072675</hash>
+          <hash piece="80">f3642980030de9b16010462b4d403669cea69f5e</hash>
+          <hash piece="81">62d97d725ea20e8d639868c9eff044e23639074e</hash>
+          <hash piece="82">75767ac78cf47cb8ab34cdb99d59b56192ea899b</hash>
+          <hash piece="83">3ea2ec7cae56b1517a672118ad92c1650682c4c0</hash>
+          <hash piece="84">aa430d15eca8b8af43e2f529ab3dadd7ee930684</hash>
+          <hash piece="85">8204348c2b1cb4d89215852dc6d15f5786313f25</hash>
+          <hash piece="86">c2acc259f8762b44d0c5b55c85def714545a83cf</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="fr">ftp://ftp.ciril.fr/pub/linux/mandrakelinux/official/iso/2008.0/mandriva-linux-2008-one-KDE-cdrom-i586.iso</url>
+        <url type="ftp" location="fr">ftp://ftp.free.fr/mirrors/ftp.mandriva.com/MandrivaLinux/official/iso/2008.0/mandriva-linux-2008-one-KDE-cdrom-i586.iso</url>
+        <url type="ftp" location="fr">ftp://distrib-coffee.ipsl.jussieu.fr/pub/linux/MandrivaLinux/official/iso/2008.0/mandriva-linux-2008-one-KDE-cdrom-i586.iso</url>
+        <url type="ftp" location="fr">ftp://ftp.u-strasbg.fr/pub/linux/distributions/Mandriva/official/iso/2008.0/mandriva-linux-2008-one-KDE-cdrom-i586.iso</url>
+        <url type="ftp" location="is">ftp://ftp.rhnet.is/pub/Mandrakelinux/official/iso/2008.0/mandriva-linux-2008-one-KDE-cdrom-i586.iso</url>
+        <url type="ftp" location="ie">ftp://ftp.heanet.ie/pub/mandrake/Mandrakelinux/official/iso/2008.0/mandriva-linux-2008-one-KDE-cdrom-i586.iso</url>
+        <url type="ftp" location="ie">ftp://ftp.esat.net/pub/linux/mandrakelinux/official/iso/2008.0/mandriva-linux-2008-one-KDE-cdrom-i586.iso</url>
+        <url type="ftp" location="us">ftp://ftp.gtlib.cc.gatech.edu/pub/mandrake/official/iso/2008.0/mandriva-linux-2008-one-KDE-cdrom-i586.iso</url>
+        <url type="ftp" location="us">ftp://mirrors.secsup.org/pub/linux/mandrakelinux/official/iso/2008.0/mandriva-linux-2008-one-KDE-cdrom-i586.iso</url>
+        <url type="http" location="pt">http://mandriva.dcc.fc.up.pt/official/iso/2008.0/mandriva-linux-2008-one-KDE-cdrom-i586.iso</url>
+        <url type="http" location="pt">http://darkstar.ist.utl.pt/mandriva/2008.0/mandriva-linux-2008-one-KDE-cdrom-i586.iso</url>
+        <url type="ftp" location="us">ftp://mirror.mcs.anl.gov/pub/mandrake/official/iso/2008.0/mandriva-linux-2008-one-KDE-cdrom-i586.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

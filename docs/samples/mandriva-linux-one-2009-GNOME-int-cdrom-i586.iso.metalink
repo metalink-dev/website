@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Mandriva</name>
+    <url>http://www.mandriva.com</url>
+  </publisher>
+  <license>
+    <name>GNU GPL</name>
+    <url>http://www.gnu.org/licenses/gpl.html</url>
+  </license>
+  <identity>Mandriva Linux</identity>
+  <version>2009.0</version>
+  <description>Mandriva One Gnome International edition</description>
+  <files>
+    <file name="mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso">
+      <size>636389376</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">73d2f33449af91e3af6cbe10b6a0c6cd</hash>
+        <hash type="sha1">3c176de498a811fcbf15953bb034bd985332a896</hash>
+        <hash type="sha256">68a5dded00c4a634ac4c44a84b14dbff94c3cbf39f37c310b0b63896b77a834e</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">b68834846dfee9b8e0a0685a754f8026478a9dd2</hash>
+          <hash piece="1">c1c08281358e12d44da891a9f4c98b414466a287</hash>
+          <hash piece="2">b95bb4799ddd8b2e91b7f2420ae851e682e5cb3e</hash>
+          <hash piece="3">296bbcf5253028eab9cc5ca389a836273732dba1</hash>
+          <hash piece="4">677d7505851c999e55acf6dab4733fec5a438d78</hash>
+          <hash piece="5">51da158144a1cd0e6bd6991df9ad428f9606b6fe</hash>
+          <hash piece="6">8d2561beaccf2759d29404bb2fcc52da7e52799e</hash>
+          <hash piece="7">e4032187053eae2d7bc0067e623b4771fe9c02d9</hash>
+          <hash piece="8">1505a32bba84cbdae8eec6b9b2e0fa989fa04550</hash>
+          <hash piece="9">3de1b830190770a440f745dde3d37fe5daf59050</hash>
+          <hash piece="10">7bbc5cd134245f883aa6aac1857421749f4e9a0f</hash>
+          <hash piece="11">ed9f51663570b2ce36466e816a2dac9f30a7f468</hash>
+          <hash piece="12">9a6b5b2d56ed41757c31c8c4a0a80b9101a8d45c</hash>
+          <hash piece="13">6b7e52af87e4e6bc50f98bcc96f1e841e8def0c5</hash>
+          <hash piece="14">e58db81d4042a6750fcbf2a1d845caecb62c0a42</hash>
+          <hash piece="15">fde50da2302dc208835ebbdccc1825e7ca116435</hash>
+          <hash piece="16">e7a9cd2b63c2e50d97bb86d2533dd3f78c11baaf</hash>
+          <hash piece="17">d2e18182dae38049048db4b064309bb1abdc0c37</hash>
+          <hash piece="18">2fae4a685317529d2db54a5b7b4b20e49071c18e</hash>
+          <hash piece="19">83ecbb82a19aba6ddb4b5427e040ca290ce92fd2</hash>
+          <hash piece="20">e3b3bf2f53be800a7730225e22bb41c765a23f86</hash>
+          <hash piece="21">0309cc3286d2b2fef8caa164cca99779d1a03af1</hash>
+          <hash piece="22">b2ee6fa08697af03ab979552b1d6231c85b71b3a</hash>
+          <hash piece="23">401613bfc8871836e081888b1aa5b832e7aca943</hash>
+          <hash piece="24">3fe52e0f40cb3b14efd40346bfff67e5eaa173cf</hash>
+          <hash piece="25">7c891f55d2c19b4fdf80cf81a1f90fbc24d5b1e7</hash>
+          <hash piece="26">a25c7a66acef27786c733d7492aca90692c55a1c</hash>
+          <hash piece="27">4cd9cf7fe126e2945651d9a456ead120b4705d88</hash>
+          <hash piece="28">3ab68b81f5f5255670bf88b8da7b9a5ff89ef165</hash>
+          <hash piece="29">916ae95436c1f60f3ce43893f8bd4517cf3eb1b6</hash>
+          <hash piece="30">5b951c15fae9066b5e00e78c796257df6d009c77</hash>
+          <hash piece="31">2b8ba90ee947cde192c013383e71920c4dd6b2d8</hash>
+          <hash piece="32">ce0cd0efa43d1b2753e602c3bef442e1d232ae83</hash>
+          <hash piece="33">0eeadbe37b6286e9c87c2f605ee2ab6f978fe5e0</hash>
+          <hash piece="34">c716ff8d0871eb694e2cb8c9039033b3b3dcea5a</hash>
+          <hash piece="35">b11074a579f3a5d3b77dc263314df2b4179e9105</hash>
+          <hash piece="36">1c608030bbf3fe53b08b92aa9a4e9fff3f72b003</hash>
+          <hash piece="37">e8e55a28f5988540cf3ebd5a18257a4805922674</hash>
+          <hash piece="38">3224e8692d465ee53b389e4dc523dc125fe33eb3</hash>
+          <hash piece="39">d9a897035816ca7837167d047241053c0f217f73</hash>
+          <hash piece="40">11d063b6bb0a554bfcdd5e3755d45b077a6171c0</hash>
+          <hash piece="41">d52be08bfeeddedbac5972fe5e2027f1d4f660f1</hash>
+          <hash piece="42">55c154fe96dad6139622ca80292af1a5ebd6b7da</hash>
+          <hash piece="43">d4f462370cf678d7787df844d1b8e335de53717a</hash>
+          <hash piece="44">f00541bec4b961a53b3665ed2f7c393fa315fe25</hash>
+          <hash piece="45">7cfc709beff16903465379775ef817346861a776</hash>
+          <hash piece="46">d8d47b832f0a49e8167235bd556b22acc8c15e14</hash>
+          <hash piece="47">ffdd9598c9eb1fb8d1121b4528bbc0e5668c938b</hash>
+          <hash piece="48">4f4b2307db7ce1d5896df54467f0bc43a16dfd1a</hash>
+          <hash piece="49">bfd5c9096c45f0d3ce6192c1c1c568556f0b9fa9</hash>
+          <hash piece="50">ba05aa8428a5225b5244cf1fbb2c2d0ad12af8fa</hash>
+          <hash piece="51">3cda18b74f7e926473dcc2b448b1ac881db203dd</hash>
+          <hash piece="52">50c6f399a829ab73c1bc037defbdcfd3aaf3c946</hash>
+          <hash piece="53">82787f3edbf300bf568870bcc52382850ce434de</hash>
+          <hash piece="54">65d920668d721886b3226ffdf00a7ded79756e1f</hash>
+          <hash piece="55">9fdad7f081d0e095c374b8bb2790c074434d3e2e</hash>
+          <hash piece="56">0a15c2ad635f32e24ee06ebdeb4969c16fb6d835</hash>
+          <hash piece="57">53d865bee1f2cc50bdd8b62a87d7488ebad1427b</hash>
+          <hash piece="58">5fe7e8050591c859137cd495303533c6c3aa0f5e</hash>
+          <hash piece="59">80f904472b9f0927da36058e4a40f42065a2a586</hash>
+          <hash piece="60">287e9e7eb329ead6d6b5b4435f9a647117834be3</hash>
+          <hash piece="61">c44b23fa1cf65b24e02be9638415d088e1033220</hash>
+          <hash piece="62">31ab66e082450e4114040d90d7a128f1e650d9cd</hash>
+          <hash piece="63">e7ad3e22bb9690464b7ddda50f3961a6e05e8ced</hash>
+          <hash piece="64">3f2c8fb46672d57df469ce53a8ff567b3c7f1b54</hash>
+          <hash piece="65">c74509040412c235b68f5ca3310517c1dbcc09f8</hash>
+          <hash piece="66">fbd8e0c1f92ae45422597e0bb1ba7b6b0da80fb6</hash>
+          <hash piece="67">2149c2d34ee85e6d35533e82c08b3844f27e64fa</hash>
+          <hash piece="68">d54f23f3c69905814ac06993cb1cf76bd6bf6abe</hash>
+          <hash piece="69">41718f5584dcfdabfe05ddad4792719212c25e6d</hash>
+          <hash piece="70">1408968bdc9ff4e3b1fb721d1df1b7e159ceaff0</hash>
+          <hash piece="71">67eebe58db1f4194c7ca11eaa9ef7d802f02cdd2</hash>
+          <hash piece="72">984d304aa05f94ba42d8b12639d05ccfb7b99818</hash>
+          <hash piece="73">6d483b5822fe1437926bd985d16ef0b0b1df95cf</hash>
+          <hash piece="74">60c467f57f5f44ed3be12c4a16a51fb09371dad2</hash>
+          <hash piece="75">d9621df62c9d4387ab56c9ad8b67d1c8254d0d54</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="fr">ftp://ftp.ciril.fr/pub/linux/mandrakelinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="fr">ftp://ftp.free.fr/mirrors/ftp.mandriva.com/MandrivaLinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="fr">ftp://distrib-coffee.ipsl.jussieu.fr/pub/linux/MandrivaLinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="fr">ftp://ftp.u-strasbg.fr/pub/linux/distributions/Mandriva/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="is">ftp://ftp.rhnet.is/pub/Mandrakelinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="ie">ftp://ftp.heanet.ie/pub/mandrake/Mandrakelinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="ie">ftp://ftp.esat.net/pub/linux/mandrakelinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="http" location="pt">http://darkstar.ist.utl.pt/mandriva/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="http" location="pt">http://mandriva.dcc.fc.up.pt/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="br">ftp://mirror.fis.unb.br/pub/linux/Mandrakelinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="http" location="ca">http://gulus.usherbrooke.ca/pub/distro/Mandrakelinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="cz">ftp://mandrivauser.cz/Mandrivalinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="cz">ftp://ftp.sh.cvut.cz/MIRRORS/Mandrake/mandrake/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="de">ftp://ftp.join.uni-muenster.de/pub/linux/distributions/mandrakelinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="de">ftp://ftp.uni-bayreuth.de/pub/linux/Mandrakelinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="de">ftp://ramses.wh2.tu-dresden.de/pub/mirrors/mandrake/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="gr">ftp://ftp.ntua.gr/pub/linux/mandrake/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="it">ftp://bo.mirror.garr.it/pub/mirrors/Mandrake/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="jp">ftp://ftp.kddlabs.co.jp/Linux/packages/Mandrake/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="nl">ftp://ftp.nluug.nl/pub/os/Linux/distr/Mandrakelinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="nl">ftp://ftp.surfnet.nl/pub/os/Linux/distr/Mandrakelinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="pl">ftp://ftp.pbone.net/pub/mandrakelinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="pl">ftp://ftp.tuniv.szczecin.pl/pub/linux/mandrakelinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="pl">ftp://ftp.ps.pl/mirrors/mandrake/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="ro">ftp://ftp.iasi.roedu.net/mirrors/ftp.mandrake.com/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="za">ftp://ftp.is.co.za/linux/distributions/mandriva/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="es">ftp://ftp.cica.es/pub/Linux/Mandrakelinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="ch">ftp://mirror.switch.ch/mirror/mandrake/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="ch">ftp://sunsite.cnlab-switch.ch/mirror/mandrake/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="tw">ftp://mdk.linux.org.tw/pub/mandrake-linux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="tw">ftp://linux.ntcu.net/dists/mandrake/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="http" location="uk">http://www.mirrorservice.org/sites/carroll.cac.psu.edu/MandrivaLinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="us">ftp://ftp.gtlib.cc.gatech.edu/pub/mandrake/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="us">ftp://mirrors.secsup.org/pub/linux/mandrakelinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="us">ftp://mirrors.usc.edu/pub/linux/distributions/mandrakelinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="us">ftp://ftp.cise.ufl.edu/pub/mirrors/mandrake/Mandrakelinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="http" location="us">http://www.gtlib.cc.gatech.edu/pub/mandrake/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="us">ftp://mirror.mcs.anl.gov/pub/mandrake/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="us">ftp://ftp.uwsg.indiana.edu/linux/mandrake/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+        <url type="ftp" location="us">ftp://mirror.cs.wisc.edu/pub/mirrors/linux/Mandrakelinux/official/iso/2009.0/mandriva-linux-one-2009-GNOME-int-cdrom-i586.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

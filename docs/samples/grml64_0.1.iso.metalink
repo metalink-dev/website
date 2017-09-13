@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.0.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>grml</name>
+    <url>http://grml.org/</url>
+  </publisher>
+  <identity>grml</identity>
+  <version>0.1</version>
+  <description>grml is a bootable CD (Live-CD) based on Debian. grml includes a collection of GNU/Linux software especially for users of texttools and system administrators.</description>
+  <files>
+    <file name="grml64_0.1.iso">
+      <size>704667648</size>
+      <os>Linux-x64</os>
+      <verification>
+        <hash type="md5">cec8887be6f8a34f65eaa0b9cdcd18fb</hash>
+        <hash type="sha1">e6d4c2a31d3d102624a3758028686fd33846e64a</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">beceecff4b8dc9569b38441d55758f42b282dc9d</hash>
+          <hash piece="1">13ba862e5d2749d880a41e29cce2cf6fa745c94e</hash>
+          <hash piece="2">26bde26828641f008bdf1f25d10dac6ceaeb7a47</hash>
+          <hash piece="3">c11cd2b76de91d2a35448fb1002334b3cb71f362</hash>
+          <hash piece="4">d6818b63fc9dae24ab668e852b8349b98691eb8c</hash>
+          <hash piece="5">bb13fb5742751a7e2eaa4bcc238769218be33569</hash>
+          <hash piece="6">865001fc9a1985dd2ec073632195b0241218b2f6</hash>
+          <hash piece="7">0db02a1c597f89c67935f7daaa631c4a5888b40f</hash>
+          <hash piece="8">90f92738e59c2dc1e509ccb4a69bda1808c4a259</hash>
+          <hash piece="9">ebb9e1a3a7fd33b3528f07173cbb334b7bdf0490</hash>
+          <hash piece="10">3524339816dc3d290daf5727c7936825635d23e7</hash>
+          <hash piece="11">00946091e143aef10e7c5605afa3c0a91be653db</hash>
+          <hash piece="12">e2221c849e103cebf1b1c85d15c9c056f03934c1</hash>
+          <hash piece="13">0585a5c05d22d23eb0971b8da15431100cb18945</hash>
+          <hash piece="14">741b5842d79b8f05e05726f119384dd5512e0ebe</hash>
+          <hash piece="15">22ebd8c5df173c2088829fe39c33d8a5e013417e</hash>
+          <hash piece="16">fdf7c13a7b2ded3ad99aa51e7872b94dc376858a</hash>
+          <hash piece="17">9c89429a557134ce919489544b371452dcc618f0</hash>
+          <hash piece="18">c11d43a4d64794c3da1856fb2e409e383ed33a16</hash>
+          <hash piece="19">b39cbe6b99c8b83ec247a7cf6692b7988a607c5c</hash>
+          <hash piece="20">7deacbc054fa81dd9a80520d03f9d0792c1eb39d</hash>
+          <hash piece="21">fa032c4c19bf5c321ac6bb81c9348990012a7b1c</hash>
+          <hash piece="22">eec541c36cfe1754f8ef69035edbd18697fae95d</hash>
+          <hash piece="23">c6cbd49fafec9ccf88cfb624a6e08b6a436495e3</hash>
+          <hash piece="24">9f3f14a3529d7e5226b8d3fa2e0f84045ccfb856</hash>
+          <hash piece="25">7de43a3f3ce5209d2296493ff95de13a2694d8de</hash>
+          <hash piece="26">1978304dda4150f26029394cfb0a577cfed5773d</hash>
+          <hash piece="27">3830b5d6224074ed7dd5ab0db9468ce15145e685</hash>
+          <hash piece="28">ae413a3439e055dab8247cff87fd0638be7b574f</hash>
+          <hash piece="29">3ad2eb1510fea8df0ab9121cc492469df374bcfc</hash>
+          <hash piece="30">002511ed2e0cdfb2517b9c8f9e91d27dadf28b17</hash>
+          <hash piece="31">03b9795f024466757f4b1b3ce2216f459bebfe57</hash>
+          <hash piece="32">b41a05ef5ba4e5fe2e2c7a2e2ad41a1e89aa391c</hash>
+          <hash piece="33">eb057dd1a895ea2bb6ece3c0149a7babbe0fb113</hash>
+          <hash piece="34">84921d9289717ce88ee9779735df5603ce060fd1</hash>
+          <hash piece="35">1d95019fbf00943a249abb51d95fe87b0ae5daee</hash>
+          <hash piece="36">b5bde9b590e7b8f817943aee34cebd5cdae42180</hash>
+          <hash piece="37">5a05e1b6a4f02cbc92a22dd2ac9b61f0e9015fc9</hash>
+          <hash piece="38">7ff1848a8d60aac185be7ce7106637c67c878c8f</hash>
+          <hash piece="39">69a88826836d5b7f84779c0dbe20ebbf7bd0a80c</hash>
+          <hash piece="40">b918564d1f72d4de792e411e54cc1fe182a0061c</hash>
+          <hash piece="41">e3bcc7a182b13f45cb35e3fe681192971eca659a</hash>
+          <hash piece="42">21b48cceafabd58cada0be2918694717e376bdc8</hash>
+          <hash piece="43">cc94fd581c3c63c019b17496284a3ff63d631892</hash>
+          <hash piece="44">216faed527cf89632e330d584ededfab8b9fbcd9</hash>
+          <hash piece="45">6899361b10c8597f8fda1437caeac5ada21fe2e6</hash>
+          <hash piece="46">2e134b83cbe78c7cb752af654569706bd4e3d742</hash>
+          <hash piece="47">f97773b78c3e8f69817ebcb1881af2f4d7ef9bcd</hash>
+          <hash piece="48">22a184f6842865cdb4453952862bdbd6e9430591</hash>
+          <hash piece="49">8567829301e16d9ba1470087a2714533141c8fad</hash>
+          <hash piece="50">b8f7d1c92129c74088fde5e89c96e04f68d26856</hash>
+          <hash piece="51">bac266edd0e6f0e19201fabf507b4318ace12c37</hash>
+          <hash piece="52">8db90c6f91b518525aabcdb2d7916272755acaab</hash>
+          <hash piece="53">654b4a10ed60d037edfae16ff69a8006afb3785c</hash>
+          <hash piece="54">809f2529d3baa1a6b013536f38d07276834f82b1</hash>
+          <hash piece="55">b93188f290054f7aa63b30b7a26d0408b60e4a22</hash>
+          <hash piece="56">55617996f945c6b227e3045c63ab37f820c6dcfb</hash>
+          <hash piece="57">0ff6b5fb8b6411256bbeac5877e55285d26acc85</hash>
+          <hash piece="58">2439e3b802d8292ffc308a02a4ee0918224db442</hash>
+          <hash piece="59">de63c3fea03b238561d795b7544396076ff46c58</hash>
+          <hash piece="60">d8b1668a11cccdd161c35a34d86690adac7918cc</hash>
+          <hash piece="61">72868742ab3f3a27c475082cf7d468cf08649e3e</hash>
+          <hash piece="62">d0c6d416c2399067818a9f60c67415321dc88df9</hash>
+          <hash piece="63">a993e8c5b9e788036f9c0f7ed66961c003222bb7</hash>
+          <hash piece="64">ea4a347e3ed91a0a3db112611ace4033214c0d65</hash>
+          <hash piece="65">4075c2c1e1974f564dbce5a317973e9a42de1196</hash>
+          <hash piece="66">97addf38187112c55108410319261f40b2c21dd1</hash>
+          <hash piece="67">94530724145a8e29bf3a5f46eb4be05b35359cec</hash>
+          <hash piece="68">15e92a1011a0b835e94108e25b59d96bd69bef9f</hash>
+          <hash piece="69">5474fc2a6eb6709c87d32009daad3f8ffde180a4</hash>
+          <hash piece="70">c9a40860d88fce76c0cd71dcb1a62a86b1545cdb</hash>
+          <hash piece="71">104769aa794ab8f5a4d6121293d04b61fbe2eba2</hash>
+          <hash piece="72">67fc299fd96813feee1a32504717ac41d7363021</hash>
+          <hash piece="73">a419256fffc3ff4474c92aece613a17cb21d20d4</hash>
+          <hash piece="74">7a1be005e319f6513ce635c270d14e2915623e83</hash>
+          <hash piece="75">a0d55c46c2da3fcf56b211f1d3ff3c4fd6164a7c</hash>
+          <hash piece="76">b83632526e5acb28ec5835084cd1ea1af17ec2d4</hash>
+          <hash piece="77">85cab3700608d3cda561664e17ff5f008f72da4b</hash>
+          <hash piece="78">61257e3b37565a2ea3136be2dc7f73c875dda60e</hash>
+          <hash piece="79">22db361892474f5c629a0b71c74ac72d7c680df5</hash>
+          <hash piece="80">bb5bde04a81d1bd199c0322f2403fd1cbad9030a</hash>
+          <hash piece="81">10a5a7a511f6d086c9eb42d692182e7b982b66ea</hash>
+          <hash piece="82">a8a217b12ffcfc2fb3f434496196856ec9ad3678</hash>
+          <hash piece="83">60412a318e75560d876a774c549c18eaecfad9b0</hash>
+          <hash piece="84">ebdd38b69cd5b9f2d00d273c981e16960fbbb4f7</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="at">http://grml.gwendoline.at/grml64_0.1.iso</url>
+        <url type="http" location="at">http://mirror.inode.at/data/grml/grml64_0.1.iso</url>
+        <url type="ftp" location="at">ftp://mirror.inode.at/grml/grml64_0.1.iso</url>
+        <url type="http" location="at">http://gd.tuwien.ac.at/opsys/linux/grml/grml64_0.1.iso</url>
+        <url type="ftp" location="at">ftp://gd.tuwien.ac.at/opsys/linux/grml/grml64_0.1.iso</url>
+        <url type="http" location="at" preference="100">http://ftp.tugraz.at/mirror/grml/grml64_0.1.iso</url>
+        <url type="ftp" location="at" preference="100">ftp://ftp.tugraz.at/mirror/grml/grml64_0.1.iso</url>
+        <url type="ftp" location="de">ftp://ftp.uni-erlangen.de/pub/mirrors/grml/grml64_0.1.iso</url>
+        <url type="http" location="de">http://ftp.uni-erlangen.de/pub/mirrors/grml/grml64_0.1.iso</url>
+        <url type="http" location="de">http://debian.netcologne.de/www.grml.org/grml64_0.1.iso</url>
+        <url type="ftp" location="de">ftp://debian.netcologne.de/www.grml.org/grml64_0.1.iso</url>
+        <url type="http" location="de">http://ftp.gwdg.de/pub/linux/grml/grml64_0.1.iso</url>
+        <url type="ftp" location="de">ftp://ftp.gwdg.de/pub/linux/grml/grml64_0.1.iso</url>
+        <url type="http" location="de">http://modprobe.de/grml/grml64_0.1.iso</url>
+        <url type="http" location="de">http://sceneproject.org/grml/grml64_0.1.iso</url>
+        <url type="http" location="de">http://www.bockb.de/grmlmirror/grml64_0.1.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

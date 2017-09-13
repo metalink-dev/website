@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <files>
+    <file name="Sabayon-x86-1.1-ProfessionalEdition.iso">
+      <size>2167203840</size>
+      <verification>
+        <hash type="md5">c5cb39dc74b18beaf400f22e4d4b815f</hash>
+        <hash type="sha1">35e3527da9ae6e42aca378856d33fc3f03c47bc6</hash>
+        <hash type="sha256">be74e7a3bf21fe90697dfcae8bd834f91a01c705c85194afb96014ba90a91058</hash>
+        <pieces type="sha1" length="33554432">
+          <hash piece="0">48d317de0dbd988faffee77749c491c60ccac750</hash>
+          <hash piece="1">3154a0cf577b30b6d3946cea9d2233978d1d4e49</hash>
+          <hash piece="2">b88ac487a980763044e8c0cc66247269fec2559c</hash>
+          <hash piece="3">52cd50d812be3db68e2a5ac45399aa5488bed078</hash>
+          <hash piece="4">39bdfe9129d1cbce36a894dd673f569fcaa8ac2d</hash>
+          <hash piece="5">9e3451158ef229ae8b65e36910d9aa86caac7e4d</hash>
+          <hash piece="6">ed4b30e4237ce571769648b000c7a11aec3d2146</hash>
+          <hash piece="7">4776369893fe5a9eaf04ae7f983cab6d2d1c9c46</hash>
+          <hash piece="8">f30b2db8a85abf9b549957c61fd4670fd50aa40d</hash>
+          <hash piece="9">5ed8cdacd05a803349c83a03715dc9476f1f1992</hash>
+          <hash piece="10">07acdb01c62fb133e9b81a9ff9e524264b5d3901</hash>
+          <hash piece="11">ebbf066c82521cff1746f4492e24f0273d234bb9</hash>
+          <hash piece="12">e30d427a1b4cd52914b5a6c0a99c448b3a9f2eb5</hash>
+          <hash piece="13">f8ea754699a6e8ff52ff638947b703f3c77fd007</hash>
+          <hash piece="14">1476666a20dc390b5229b21c84cadb3eb825882e</hash>
+          <hash piece="15">21ac277230b9d53133a0aecfbb016ad83bf0ca3b</hash>
+          <hash piece="16">bc62f75528266a50c98a15988b4cf6806d2437dc</hash>
+          <hash piece="17">cdfe00962d7f8e4ddddd9d275d230f33519ea3e8</hash>
+          <hash piece="18">9a3c60abffdea8989b0623467d1c48e4e24b058e</hash>
+          <hash piece="19">315c318c1d8f50bb45d9b91bce47a3b1db7d3bee</hash>
+          <hash piece="20">78487aa36e3ad9693506d8bd5245523ef86bba72</hash>
+          <hash piece="21">2b94aa9ea8bc60e3172a63b77207fef927540cd7</hash>
+          <hash piece="22">bdf230149fd5c257d8b17689742008073ed9562c</hash>
+          <hash piece="23">63dc0793491013e25e993db2ea4fbe8833b9d4bc</hash>
+          <hash piece="24">79c52d3aeb798b031bbd71f1d71375a6ef6544ba</hash>
+          <hash piece="25">3e33ab2e86dbab16595cf23de637446e806d74c8</hash>
+          <hash piece="26">0107a4630549172391eaa9eb2f3dedb024b3e629</hash>
+          <hash piece="27">5e391dff0a2d39b04d05bd307fed45962953632a</hash>
+          <hash piece="28">8b480851b9b6427e5851e36141388408cadfdeac</hash>
+          <hash piece="29">1936ee9f043e0a479d811ec8e3124a86e0746f99</hash>
+          <hash piece="30">59bcb9e4fe79f81c769e5e13a508b5476d096298</hash>
+          <hash piece="31">37ab44d5eff22e07d55c682ca5b8d8b66e308264</hash>
+          <hash piece="32">88e113672bf15feb974ae345c7b4ac93927740db</hash>
+          <hash piece="33">5a90f1e519b7507ed1710c4c964664de40ee89e9</hash>
+          <hash piece="34">85d24f3694c541fee453e4f098935b451d127279</hash>
+          <hash piece="35">de5103f072b17475bcae660c7cd2a188a2025101</hash>
+          <hash piece="36">af25c4f01c7f23caf52a5c656321be7cdb2e9659</hash>
+          <hash piece="37">453007922b7d2ed0832511b0090c3a97235b539e</hash>
+          <hash piece="38">de63f681cd241ba88271f719814824ede961c78a</hash>
+          <hash piece="39">5b3cca08c17812d3f50aa6aa14c5f83eec118ab6</hash>
+          <hash piece="40">3ca1695d8ff609173a8c58113a30a32166f7ad94</hash>
+          <hash piece="41">420ea21cd69d4e95e69808ccc9ca5ee67e9d976c</hash>
+          <hash piece="42">18abcc16c0ecd35f267b3c3553b5d545f1de1e12</hash>
+          <hash piece="43">025bbe6de895a279259f10a1d6c99329eabaf308</hash>
+          <hash piece="44">05475dcd8e7c2e9c5885540c39d1052833d0eb74</hash>
+          <hash piece="45">5277a7da9a4fe2d342c4a05c953bd965bc77fe6a</hash>
+          <hash piece="46">c01df6baa224fa51b08cad9ddc1016311287a542</hash>
+          <hash piece="47">e7f32c19ccebd1eb83d05fe31ec4f8d0b4067663</hash>
+          <hash piece="48">1bf71baf164802b4888816e4199a9ea52e477c48</hash>
+          <hash piece="49">821e8f515fe9933923b486d4e7f38c6ead9510ba</hash>
+          <hash piece="50">692e9bd15182b5659d2782917aadb4f11d7e0520</hash>
+          <hash piece="51">c9b923e63638df6d5376ea7ab2a34e8dc150e6f9</hash>
+          <hash piece="52">1b26bfadb6ccfe598c9fbcfaa35f18b9498c0363</hash>
+          <hash piece="53">f62e1419e32f6e6c0806cc8e669de0c703d459e0</hash>
+          <hash piece="54">26483ec2db57e0011c8280d0cf7480dcb5a1ad97</hash>
+          <hash piece="55">2bc6dd2bde955b9aff3bed3cc514ac956f336266</hash>
+          <hash piece="56">28407543d2738245edbf0443bb9c347e0ff86d77</hash>
+          <hash piece="57">dcd7a303db0d2dd5cc29938a0b32cbca32c861af</hash>
+          <hash piece="58">53134c0c9149ae7b6bbdbd5352adf978c348306b</hash>
+          <hash piece="59">1b748acdc7b66a876aca039bc54c507d3718d91e</hash>
+          <hash piece="60">47539de35296d5d85af07b39928c2a5e36977145</hash>
+          <hash piece="61">c43c05093b0702ed33bbd564baaa132a38a3a9a0</hash>
+          <hash piece="62">c80b0f7498f86d8c4799e8e5a9490eb4bf273009</hash>
+          <hash piece="63">8d6e3bc1d066915e02e136c13fe9135d7e2cd5f6</hash>
+          <hash piece="64">a394dc0652b51a763933eb98ca76492fff72c959</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="us">ftp://mirror.cs.vt.edu/pub/SabayonLinux/SabayonPE/Sabayon-x86-1.1-ProfessionalEdition.iso</url>
+        <url type="http" location="au">http://mirror.internode.on.net/pub/sabayonlinux/SabayonPE/Sabayon-x86-1.1-ProfessionalEdition.iso</url>
+        <url type="http" location="au">http://mirror.internode.on.net/pub/sabayonlinux/SabayonPE/Sabayon-x86-1.1-ProfessionalEdition.iso</url>
+        <url type="ftp" location="au">ftp://mirror.internode.on.net/pub/sabayonlinux/SabayonPE/Sabayon-x86-1.1-ProfessionalEdition.iso</url>
+        <url type="ftp" location="it">ftp://bo.mirror.garr.it/mirrors/sabayonlinux/SabayonPE/Sabayon-x86-1.1-ProfessionalEdition.iso</url>
+        <url type="http" location="it">http://bo.mirror.garr.it/mirrors/sabayonlinux/SabayonPE/Sabayon-x86-1.1-ProfessionalEdition.iso</url>
+        <url type="ftp" location="us">ftp://dotdot.mine.nu/sabayon/SabayonPE/Sabayon-x86-1.1-ProfessionalEdition.iso</url>
+        <url type="ftp" location="cz">ftp://ftp.sh.cvut.cz/MIRRORS/sabayon/SabayonPE/Sabayon-x86-1.1-ProfessionalEdition.iso</url>
+        <url type="ftp" location="au">ftp://mirror.aarnet.edu.au/pub/SabayonLinux/SabayonPE/Sabayon-x86-1.1-ProfessionalEdition.iso</url>
+        <url type="http" location="pt">http://cesium.di.uminho.pt/pub/sabayon/SabayonPE/Sabayon-x86-1.1-ProfessionalEdition.iso</url>
+        <url type="ftp" location="pt">ftp://cesium.di.uminho.pt/pub/sabayon/SabayonPE/Sabayon-x86-1.1-ProfessionalEdition.iso</url>
+        <url type="http" location="us">http://cross-lfs.sabayonlinux.org/SabayonPE/Sabayon-x86-1.1-ProfessionalEdition.iso</url>
+        <url type="ftp" location="be">ftp://sabayonlinux.mirrors.skynet.be/pub/sabayonlinux.org/SabayonPE/Sabayon-x86-1.1-ProfessionalEdition.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

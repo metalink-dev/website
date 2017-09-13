@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 0.4.1" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>GoblinX</name>
+    <url>http://www.goblinx.com.br/</url>
+  </publisher>
+  <identity>GoblinX Mini</identity>
+  <version>2.0</version>
+  <description>GoblinX is a bootable live CD distribution based on Slackware Linux. The primary goal for GoblinX is to create a more pleasant and functional desktop, standardising all icons and themes to make it easy for novice users to learn about available applications.</description>
+  <files>
+    <file name="GoblinXMini-2.0.0.iso">
+      <size>174798848</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">ae4311f6000f5380552c6cb0dbf1fdd4</hash>
+        <hash type="sha1">047264f6bd1157d0efe2bc4857861442fd9bc48f</hash>
+        <pieces type="sha1" length="2097152">
+          <hash piece="0">dac380d769505da75039a60b8f061158852d4890</hash>
+          <hash piece="1">13ed1b3938fed8b0cd65c55eba1619911adf4a40</hash>
+          <hash piece="2">d583249bd3eb6a0221aed4b68c0ea54a72886107</hash>
+          <hash piece="3">ca5dc2e6c34e86856c2f5c763994cc8ec2ea477e</hash>
+          <hash piece="4">8fe425db095b118bcb7fd3c95251c53b2eb51dba</hash>
+          <hash piece="5">49fd4458062e8e6abb179314427868ab5d507569</hash>
+          <hash piece="6">5e9fdf6598cf495a20b7967f7541eeb4d4b4347b</hash>
+          <hash piece="7">a36a9ddd4d777167763be67beb7732825cde2b98</hash>
+          <hash piece="8">68b8d9da7066655dc9c81e01b30d8bdda5d65efa</hash>
+          <hash piece="9">5a66710d20f49839806c1a2d0f8e13fc54e2573f</hash>
+          <hash piece="10">bc568be74253bfaf0bf5aac11a1fff8a756284a4</hash>
+          <hash piece="11">20f60bb8d3aca9af9e69464e2fdb6a4e724fb77c</hash>
+          <hash piece="12">0d10072d2a161bc0adaedaa1793a0341c30bfb8a</hash>
+          <hash piece="13">b18a3b0b215dcda4257dad978b1b0111e8eb2d84</hash>
+          <hash piece="14">a0fce08061653583cc8ea5a85da4183755c5e2db</hash>
+          <hash piece="15">248865b9582672e09710de27cc482dc8d0a03fa7</hash>
+          <hash piece="16">d8364c620f611f9ce08c3895c6fc9b0e1e387184</hash>
+          <hash piece="17">db1db92047825da13a971493995f8c3d8b865423</hash>
+          <hash piece="18">11d095343388634bb99d85f409568268f656edb2</hash>
+          <hash piece="19">2a36a7e72969d5c23c9d31db0bea73355dedd9d0</hash>
+          <hash piece="20">fcd1208424949e5f0bccc447f258b787519bd8d0</hash>
+          <hash piece="21">f0dda3248eb3dda96b82f541d947f4f6824fdbbf</hash>
+          <hash piece="22">e2fa755b576a5435f98f53647cc67ed2fd06043d</hash>
+          <hash piece="23">5797c35f8c0ddf7a1d01fbf031d2d99219a0430d</hash>
+          <hash piece="24">3c7b5f6f4db8314165e3096c68eebca69339cc74</hash>
+          <hash piece="25">e10c1f988f8574f5511045832203a431e870bb57</hash>
+          <hash piece="26">db7c705657f162b7d0eb9b43ad379e995ab83e1b</hash>
+          <hash piece="27">733d31252d5d8246e81704bc5212ac6f8f8fdde5</hash>
+          <hash piece="28">3a43af2a8570fe28e19a0cd4100b0010eec6d3de</hash>
+          <hash piece="29">ff085e19fb12354429840005d3d74da73a17a67d</hash>
+          <hash piece="30">5d31d5834e968e358d63b45cb70689e614bcf6f6</hash>
+          <hash piece="31">67cc7243ee49bba709bd1ee43c5577f4da81a47c</hash>
+          <hash piece="32">45720d7c1350db0b7f82a27f24321f73e9a89852</hash>
+          <hash piece="33">34fd78a3e4185e5b93b3cbca3b9f88d8fe2e4c1a</hash>
+          <hash piece="34">aa079c7e634a1fc2364ffc3ff46c7d7b6b525dff</hash>
+          <hash piece="35">04cb49ddec7e13587ad89c717ebcd7faf428a9df</hash>
+          <hash piece="36">1b402f0b77d39271541a83fd7567114e513b87dc</hash>
+          <hash piece="37">0d74bb564327f65c9a27ce0032657dcd12ff091d</hash>
+          <hash piece="38">c2273e81a4f8a4b09d782d299c11ec5808faacf9</hash>
+          <hash piece="39">5f6f5008c331f8c64f54b256d16b50bad22740db</hash>
+          <hash piece="40">458eae062d61c34e18bde7f81519069b3aa6f400</hash>
+          <hash piece="41">1928d5abab8b20db798ba0df9ca2ea36f307fa74</hash>
+          <hash piece="42">bb09cf3c88604fbdcd5e2b680b77766d03a6596c</hash>
+          <hash piece="43">ee2b8ae2187e1425256b2f60a30dbf0fa84e5b73</hash>
+          <hash piece="44">9510fe25c1f08816f88f82850430359cb89cc676</hash>
+          <hash piece="45">b30f44521fe4c7b3663b2d8da53b77a17368541b</hash>
+          <hash piece="46">668f8977a57fe673ff8a0170d863025c1c11cb26</hash>
+          <hash piece="47">f0b6be7baf83da657cf0557410a770878e4ffbf5</hash>
+          <hash piece="48">cf83fe0c0b15aedd82cc9f5d7b681b9b3f4d93b3</hash>
+          <hash piece="49">df74a20e93b1dd284db3aeb63349b6c4e7f272ca</hash>
+          <hash piece="50">e43d389c7ef59b92dd019cf4b9f181bd58602c93</hash>
+          <hash piece="51">00993f2b635d36419505c0177c786ef450514a72</hash>
+          <hash piece="52">6e7b42ef7b6e84dd6b3a2559ba4f1b148b4125a9</hash>
+          <hash piece="53">85fc4cf206c45659a86c179148b1317d46e123c8</hash>
+          <hash piece="54">611a0c7b224a9ff4f84c4fa4d486deba09cd9d49</hash>
+          <hash piece="55">a0e6ff8c510232a575d91976d5aac019b46c6070</hash>
+          <hash piece="56">77db5f1aa5fa790a71ce0528d3eef9dd0d3a6de8</hash>
+          <hash piece="57">41775074313fe314e2d42f5a46046bd402d406cf</hash>
+          <hash piece="58">3b4399164737edf3c9d8565ae8e9def5c4d67a12</hash>
+          <hash piece="59">d982c5465758936a9b8c863666697821221b7b7e</hash>
+          <hash piece="60">0f49cddecd799f6f4aad8e5cafb1701603b95a8d</hash>
+          <hash piece="61">4804fcca137117709e8e439290e29fee13be7223</hash>
+          <hash piece="62">9a4325fa01faa6328e1d86a6a6f2c861e872b3e1</hash>
+          <hash piece="63">1e0af51bd1394318a91328bbb4965ec4cf8ae10c</hash>
+          <hash piece="64">bacc64b16126b7c5eda6b24635389bdf8efae09a</hash>
+          <hash piece="65">a59014ed8ff6457a2a8c885d24ef275936a546e6</hash>
+          <hash piece="66">6df40e791df9b193dc69fb26566707f5170aaf74</hash>
+          <hash piece="67">e0a6721310669e18019c76484c6b935f6f17c588</hash>
+          <hash piece="68">3402a1843d4b8c8007fdaaf840af01c3c940661a</hash>
+          <hash piece="69">37187c996b44430c31a75dafa4271104e28c0ca7</hash>
+          <hash piece="70">c96ccc5a063a830b5dc97e75aa14e739a4c9036f</hash>
+          <hash piece="71">a297aab440707323a43abdacf5e9bea6b03a94ed</hash>
+          <hash piece="72">4eccd581e4ce31c331b360c30faed841050597cc</hash>
+          <hash piece="73">6bf149e563f6dfbb6f8b9270481297b7730ab9cc</hash>
+          <hash piece="74">444b504d7e998fab2b658ad1ac8043ab2d737aa3</hash>
+          <hash piece="75">d27a380dccae7d283214a2f0935397eb95401b1d</hash>
+          <hash piece="76">fd73b8fb90bfdeefbf35f0229e8d26ae1a243a63</hash>
+          <hash piece="77">baa7709c9c503956c5f1b828eb2f2254f810d151</hash>
+          <hash piece="78">4409e9ec7889f001e18d0204f0c0c4f1eec3a6cc</hash>
+          <hash piece="79">d5d5fb7bf083e26861826709cfdfb1e03f70f1b1</hash>
+          <hash piece="80">75eccc9c854bfb9d50c359230162688c40f5b235</hash>
+          <hash piece="81">5d5071a5a43f8d0a2ca4471a7426e61b15c4ae8b</hash>
+          <hash piece="82">ddbb2324424b45682cafcd50c36b1edf1f3db625</hash>
+          <hash piece="83">a28678bc11c12e31e76dff02fe910029028e6820</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="bittorrent" preference="100">http://www.tlm-project.org/public/distributions/goblinx/GoblinXMini-2.0.0.iso.torrent</url>
+        <url type="http" location="br" preference="90">http://www.goblinx.com.br/ccount/click.php?id=20</url>
+        <url type="http" location="br" preference="90">http://codigolivre.org.br/frs/download.php/5747/GoblinXMini-2.0.0.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

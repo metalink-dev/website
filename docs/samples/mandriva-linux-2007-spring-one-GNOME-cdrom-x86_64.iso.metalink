@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 0.4.1" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Mandriva</name>
+    <url>http://www.mandriva.com/</url>
+  </publisher>
+  <version>2007.1</version>
+  <description>A full-featured Mandriva Linux system held on 1 CD, ready for your office, internet and multimedia needs. Try it safely by simply inserting it onto your CD or DVD drive (Live mode), and install it when you decide, from the Desktop!</description>
+  <files>
+    <file name="mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso">
+      <size>719529984</size>
+      <os>Linux-x64</os>
+      <verification>
+        <hash type="md5">d42ddacbc0545296b02618e72f006f92</hash>
+        <hash type="sha1">8b86d0a5f96c53c3f471236ddd56027924eaa5e9</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">e807ea7f3d88eaf284f3de58561aad4d42361790</hash>
+          <hash piece="1">1dcf50837c618c901dd0dcd4d6373bce36d6ce20</hash>
+          <hash piece="2">468d4662642127b9c4c5d2ef9237ea4a4c2353b4</hash>
+          <hash piece="3">864dcb68a1253c3583efb03e6ecbe6ccefbb5d49</hash>
+          <hash piece="4">02a88817f283029db1c14af975d4f16168cc5071</hash>
+          <hash piece="5">90ef095bd5ad58496f0392213b13e4305bf19bf7</hash>
+          <hash piece="6">cf83a2d197dd1a40adfc647ddfef072cefedc96f</hash>
+          <hash piece="7">be293e5382d6dc0cd0c3bddc3070d254ed0a3a7e</hash>
+          <hash piece="8">c6ebc5edcc4546c8576a9b0ee64b4aef92044a6f</hash>
+          <hash piece="9">03a6b603f764e39998b722975f0971e604f34147</hash>
+          <hash piece="10">8bc8b43926faab2da411a71c4eceb00b9666a2ff</hash>
+          <hash piece="11">5d3a64debf7592d11d794bd9192b7986a46ec11e</hash>
+          <hash piece="12">29810f173877fb0053772f8b084898c847c78c0b</hash>
+          <hash piece="13">0f3969dcfd79b49333f99e9d70892e30bea23462</hash>
+          <hash piece="14">2c017778ed04f816e9aaa99a6ae6b2d6c645e9f9</hash>
+          <hash piece="15">ac7992fc61aba07225fb8871955a154b103ebc51</hash>
+          <hash piece="16">a4b2cfbe528285c60a61beaa1b822ea9a74b723b</hash>
+          <hash piece="17">b02c51092b9fa4fa689e3e56d1eb3a631e057546</hash>
+          <hash piece="18">ce9a3fb156d779594857575e6c9c423a12f7ba5a</hash>
+          <hash piece="19">b6c6b2c70cdda197c96259f5513a044e8bb5d402</hash>
+          <hash piece="20">3b9f0309e237ec7adcfb7a3014c275c54565ba39</hash>
+          <hash piece="21">69e26ce355943fb1c0dc357b7f085d9b017217af</hash>
+          <hash piece="22">fe42177bed13ffe22c057ffd8edddc2f8e66b2ec</hash>
+          <hash piece="23">26c8ac0c452730aaf4713d42de6e3ac3ba245e0d</hash>
+          <hash piece="24">9afd5b2dee527a4769a05c09dd0d0650f66be58f</hash>
+          <hash piece="25">dd30df24c1c33aeafe18a526a8be5bfc70a685e9</hash>
+          <hash piece="26">c74ec87fb3ec39bf7a952fbebefc7eccab860992</hash>
+          <hash piece="27">455e98a86e1b01f4bc947828a94b8426989f54b3</hash>
+          <hash piece="28">5782ea9ea0a5c39a2ffdb43d335bcc170252dba9</hash>
+          <hash piece="29">5668ed302e1fe0a27323896df3c18a2ac2efb341</hash>
+          <hash piece="30">6951d5c21ac7b61527ef801dddeb180222a53f4c</hash>
+          <hash piece="31">8a710667267197e9d389fccc448beced43718df9</hash>
+          <hash piece="32">608bc66f3098cc2eecf83a1ac4aa42ac9412cd73</hash>
+          <hash piece="33">1318762beaab3f5c44b6cd4210b2d895425ca072</hash>
+          <hash piece="34">748f0da71fbc6068440f82d6ebc3edfeb468c231</hash>
+          <hash piece="35">58965b64bc8a22c68ae2f619c33d397e5980baf9</hash>
+          <hash piece="36">22ee66fd48c3ff5cc1bbe380297fec73b4fe520d</hash>
+          <hash piece="37">af90cdce8656c8b78dcf46981a845d0932bf2a3d</hash>
+          <hash piece="38">5ba3d7114a73a5223fe36648281e1ddac4a48713</hash>
+          <hash piece="39">7a71436c6c3aa10cf7ea3add81ea537d600c4bc9</hash>
+          <hash piece="40">96043f3386e926487c1fe4fdaf6c1ba9fb2f37a6</hash>
+          <hash piece="41">bb2b8491c91e1e3e10fb23f974f096d7e25fd05d</hash>
+          <hash piece="42">2df71c17697e767e4d3764ebc0b763b60ba3cb70</hash>
+          <hash piece="43">a777a5823d99d29d769e03536ef0310a8d7aa124</hash>
+          <hash piece="44">e39b9792a8c9b3a9fa6b3a996ac477147bcc96cf</hash>
+          <hash piece="45">f1d4435cf47b9bd056b9d968d62f6f7053c0bca3</hash>
+          <hash piece="46">fa6deacd5fcd9f28508ac3ed624dc76c7d85a5fb</hash>
+          <hash piece="47">1184193bfd81aa112fb85fb9d8932a7a9e041e13</hash>
+          <hash piece="48">6052c070feb2b5155468341ebfcd14714526e000</hash>
+          <hash piece="49">4de1ea68fbb05c8ce81392a1381c408061197276</hash>
+          <hash piece="50">bfe6f69b9375da28d97370dcfcaf02ed73d25b1a</hash>
+          <hash piece="51">88874b360da0e4c05b63103dbd44aed9d0919c83</hash>
+          <hash piece="52">931e2634f64a905b04b2837c03dd86bb152742e4</hash>
+          <hash piece="53">730bfe90423f2a7b3329e5fe3ffc9b6b823dec04</hash>
+          <hash piece="54">441715c80d21c8926c8818a9d94108cfe5663bad</hash>
+          <hash piece="55">d415c30b43dbd0150a5e89387904bc0d2d1afe82</hash>
+          <hash piece="56">8fe089d004b20729b526cd49d169b6ffdce876f0</hash>
+          <hash piece="57">506e3ffb6c6d87035ecb7e128512547b776824fa</hash>
+          <hash piece="58">4e35111aa0682a9b831db08360a5122d2bf8823d</hash>
+          <hash piece="59">8268248caf5b381ac55bb986bc07a27ed77b8b1f</hash>
+          <hash piece="60">ec6d2f89a15096f5f6bc393b91be3ce03998e600</hash>
+          <hash piece="61">41e3ae3d569059cf18623bbdf4246ea080a7564f</hash>
+          <hash piece="62">05399ae1c15a2e0bef8c40eb5662ad7aa139a2e3</hash>
+          <hash piece="63">f5fbeff60c2df6e83ce632b2417300c04f5af23b</hash>
+          <hash piece="64">ef8da034f6b4112be3231c1258784ee1123cdcef</hash>
+          <hash piece="65">c1da04726b13ae80528a18d3976e56d98cd4a125</hash>
+          <hash piece="66">8a491b6f794dee3bdb4d590e0a0a459c90dfc7a3</hash>
+          <hash piece="67">8dca0f1000faba46e501d98157f55c73b1bf3012</hash>
+          <hash piece="68">e25d6e865f3f936474cee8e9d784c1c549eae057</hash>
+          <hash piece="69">e63bdd093f31de3b3d175dfaec7e3cd06e9ccc3a</hash>
+          <hash piece="70">b0723f0df401456ee2f10a08ff1cba8d14caf587</hash>
+          <hash piece="71">fe9842f1d23277c1751283e60bc9f228b95ddbd2</hash>
+          <hash piece="72">c7a45a5f5309d069ecac9fd17483106923818a10</hash>
+          <hash piece="73">9e706669539cf7f3f89a8a076876d1e79a8bfe87</hash>
+          <hash piece="74">87474cbe0a76e79ddfbe6bbc8ff2dd3cd835bd7e</hash>
+          <hash piece="75">1db01130f50e78fe3cb36267c7afad9b35d4abd0</hash>
+          <hash piece="76">7d425010aef17ea5acf2866c6868eef312d62f94</hash>
+          <hash piece="77">5530072d9ba70ec1ada762b16b77e3805b0cc920</hash>
+          <hash piece="78">70661b98bd8ce2ffedea74c44ab752f65e7b9d05</hash>
+          <hash piece="79">6e7588a7971725642032c795ef85be0ba08e921f</hash>
+          <hash piece="80">5707ddc8187f24baf4ceebebc89e619649d16c14</hash>
+          <hash piece="81">013a550b7ba8cd85d5ab061ff271106f99a1820d</hash>
+          <hash piece="82">1c771fdb8b8a9a70a1608de3a89caaf04b2c2f27</hash>
+          <hash piece="83">0ec25a74bb290e0d34c5c20c6827104d792f361a</hash>
+          <hash piece="84">4807c77737ac064567365b85a8a5bffc70972629</hash>
+          <hash piece="85">77cd47446d19bef0d727176adbb9a2f0f602504f</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="fr" preference="100">ftp://fr2.rpmfind.net/linux/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.ciril.fr/pub/linux/mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.club-internet.fr/pub/unix/linux/distributions/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp.fh-giessen.de/pub/linux/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.free.fr/mirrors/ftp.mandriva.com/MandrivaLinux/official/iso/2007.1/mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.int-evry.fr/pub/linux/mandrake/official/iso/2007.1/mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.lip6.fr/pub/linux/distributions/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.mandrake.ikoula.com/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.uasw.edu/linux/mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.univ-lille1.fr/pub/os/linux/distributions/mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://ftp.uvsq.fr/pub/mandrake/official/iso/2007.1/mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.uwsg.indiana.edu/linux/mandrake/official/iso/2007.1/mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ftp-stud.fht-esslingen.de/pub/Mirrors/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso</url>
+        <url type="ftp" location="fr" preference="100">ftp://linux.ups-tlse.fr/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://mirrors.usc.edu/pub/linux/distributions/mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso</url>
+        <url type="ftp" location="de" preference="100">ftp://ramses.wh2.tu-dresden.de/pub/mirrors/mandrake/official/iso/2007.1/mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso</url>
+        <url type="http" location="fr" preference="100">http://fr2.rpmfind.net/linux/Mandrakelinux/official/iso/2007.1/mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso</url>
+        <url type="http" location="us" preference="100">http://www.gtlib.cc.gatech.edu/pub/mandrake/official/iso/2007.1/mandriva-linux-2007-spring-one-GNOME-cdrom-x86_64.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

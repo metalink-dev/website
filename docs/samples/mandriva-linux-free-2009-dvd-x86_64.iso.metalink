@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.1.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Mandriva</name>
+    <url>http://www.mandriva.com</url>
+  </publisher>
+  <license>
+    <name>GNU GPL</name>
+    <url>http://www.gnu.org/licenses/gpl.html</url>
+  </license>
+  <identity>Mandriva Linux</identity>
+  <version>2009.0</version>
+  <description>Installation DVD x86_64</description>
+  <files>
+    <file name="mandriva-linux-free-2009-dvd-x86_64.iso">
+      <size>4626323456</size>
+      <os>Linux-x64</os>
+      <verification>
+        <hash type="md5">719c032c8390ee541fbb2b9460b73405</hash>
+        <hash type="sha1">d573bf77ce0db1faa828ae6acd276382dcd270fe</hash>
+        <hash type="sha256">fec493179b547e9ab830fb9911bdf2e4217110ecf01fa1176d2857f20e9b4ba5</hash>
+        <pieces type="sha1" length="67108864">
+          <hash piece="0">b19bebbb5a9726c14bffae3e8c1b04c223860503</hash>
+          <hash piece="1">efbb084aefaabac831c434c2833afa7a96441730</hash>
+          <hash piece="2">a6ca637dddde171510c5ae17480d96f33f14db53</hash>
+          <hash piece="3">e9f82788474fe8c4827c2f8abc45b8cff225fa95</hash>
+          <hash piece="4">d5727142f3ec1057b89e612b3d76547381805d13</hash>
+          <hash piece="5">5811336e39cf5f200aab34845f9eb412ae511280</hash>
+          <hash piece="6">5fe6efef8e458b2ebadb5cdb25a2d45e4182217b</hash>
+          <hash piece="7">d69aa670f64fa676b2de39e58d1e7cb08d9b11d9</hash>
+          <hash piece="8">336cbc316ce8b9514d268a75a0dd1c4146f1c744</hash>
+          <hash piece="9">4364f50872a3d5fd339aa94ad4f92e5ed2860e2d</hash>
+          <hash piece="10">fddf1cb2b57079659d7b0e06d58d4c1c6dfc549e</hash>
+          <hash piece="11">500633cfb0af25bd3cec5ba0bfcea053d2fefa59</hash>
+          <hash piece="12">63fedd23d3e7b80d2a51fff98b01236985568edb</hash>
+          <hash piece="13">716d08574a56fb8e52699651a7f8336e16ee7f1e</hash>
+          <hash piece="14">d4ccf8a52156f86daf4ed95d05549b576da34aca</hash>
+          <hash piece="15">5603c4dd3a09be8d459fc1add95128fcb7ef5983</hash>
+          <hash piece="16">6675a02f7a0b42bac942337268c57fd93abdbec0</hash>
+          <hash piece="17">5b3bfd95f57434a7e24af8359ecc0d2217018e46</hash>
+          <hash piece="18">5e2e7e3b16338f4ac6b702ff68dfb136b9beb7b6</hash>
+          <hash piece="19">a87915601be603cb45ef1fe42bda5fb61ff41573</hash>
+          <hash piece="20">c9b2b11d5975d991fa27a43b1759bf9cdb490499</hash>
+          <hash piece="21">e4ba4799d3798de03f3b438b873d0e1e24f56344</hash>
+          <hash piece="22">7fd8a1631a025a95361f3e09d9084196eea04739</hash>
+          <hash piece="23">9474d1be5a7506e7768094b7de83b72a92d5bc7c</hash>
+          <hash piece="24">aa70c49231bdd09f55f21728dcb725638ad1d23f</hash>
+          <hash piece="25">58afad6d8d59a5dbd510ca4ab3967f8fc26c1570</hash>
+          <hash piece="26">5616d62e193ef52ba08e0d12f35991cb3c3e9bf5</hash>
+          <hash piece="27">64d378fdad442c4d8ccb9b85656a63d168e707c9</hash>
+          <hash piece="28">a0bb2e3e20488dd1f7f318509b8b20c93ed49992</hash>
+          <hash piece="29">bbd6935d44324843df2c4491899ca71387207dc6</hash>
+          <hash piece="30">a71c0288460d86ecd85079b37f2737ba1c23b5f9</hash>
+          <hash piece="31">d379865d8193504c89d03db1e83c4a1debc01f9d</hash>
+          <hash piece="32">3e1013ab07ba313d711f43130b2a4b891b6e2544</hash>
+          <hash piece="33">3a8aae96627aa861863ac4119a5178adba78e2cb</hash>
+          <hash piece="34">2c2b6e326b51acf0d3aa0ea2a620e13b98bf4b91</hash>
+          <hash piece="35">0b4cdfb27b1942a42d3c35f3c332c921d79efc11</hash>
+          <hash piece="36">567485c78a8681c8b33907d0857c8ae408bf3de9</hash>
+          <hash piece="37">e963fb4da0f667c9c8f1423f8862c624b5bfbadb</hash>
+          <hash piece="38">90348285054c7b403fdd2134d8efc3dfa1e39953</hash>
+          <hash piece="39">8607d2fb506d2c3b0ee98ddbf8d76a367446504b</hash>
+          <hash piece="40">6478ca20bd1a0c47ffd365855fe07ac83e90c031</hash>
+          <hash piece="41">210d31c7fd22bdf40d087e2a5f539f308bf68d31</hash>
+          <hash piece="42">725fd2fc3eb85e51a04ace5856ed8a1c1646f4e6</hash>
+          <hash piece="43">2dbe0ed9c0389eb01c3df8989e6bdfc274984b57</hash>
+          <hash piece="44">b435758d864e1d546debd69def26092cc53dbbb6</hash>
+          <hash piece="45">2f7a27b1f9166ff4c05865a596fe793437abe70f</hash>
+          <hash piece="46">9ee6d3ea120ba16541c84af07b0cdf68ab41a95e</hash>
+          <hash piece="47">3528d84a4c8a7504875797a4e95823e96fb34ee6</hash>
+          <hash piece="48">63bb25c1ea850915d8c16b869791a922974a24b9</hash>
+          <hash piece="49">c404d81f0d165846b4924ee946a14c2424035b84</hash>
+          <hash piece="50">726659ab05a125a5f9080091a021af8dabe55f20</hash>
+          <hash piece="51">9ae1208c05c11b6db95017e82955b11acbda6d04</hash>
+          <hash piece="52">c0a35f2da321085b9772542eebc2fb014ba2c61c</hash>
+          <hash piece="53">3644f417db6f5f2d2d6c9db6ae819bde33d44118</hash>
+          <hash piece="54">4e1292c48608055552b6e58f6940d51ded245754</hash>
+          <hash piece="55">c49a4bfa7e63f49ff34bc029cc5eb86c36346c01</hash>
+          <hash piece="56">ff463e93ff94defec567f2cdf6794fae354a5996</hash>
+          <hash piece="57">c630cc996aab55dc9dbedeacfcbf5e71e5595aa9</hash>
+          <hash piece="58">74146bc0ab2c70c626bf26e54a1c883d65231730</hash>
+          <hash piece="59">34e6bbb36c8b3273597001f07aee28f74fb62694</hash>
+          <hash piece="60">93775b0485388cb59cb309b80de8db66736259a2</hash>
+          <hash piece="61">4bafdce960120c0e936cf5f25960da33dd0d6c85</hash>
+          <hash piece="62">97b96cd2ba0fdbeb240086858a9e5b9290b2d6f4</hash>
+          <hash piece="63">380d38ba4f5d04fcd123d8cd8aca0a320c9350bb</hash>
+          <hash piece="64">30295d8c279e4517318e101779f5d9cacc629c01</hash>
+          <hash piece="65">bf59d0025a9c692697d5817422eab47720525978</hash>
+          <hash piece="66">9aef211860a26ad4691f1950906e534ce850a215</hash>
+          <hash piece="67">76527d618716dd59e8b84fa40ae6d3f43b1bf0d4</hash>
+          <hash piece="68">c96f1b479f9dda5560aefa9b2372c511ced27df9</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" location="fr">ftp://ftp.ciril.fr/pub/linux/mandrakelinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="fr">ftp://ftp.free.fr/mirrors/ftp.mandriva.com/MandrivaLinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="fr">ftp://distrib-coffee.ipsl.jussieu.fr/pub/linux/MandrivaLinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="fr">ftp://ftp.u-strasbg.fr/pub/linux/distributions/Mandriva/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="is">ftp://ftp.rhnet.is/pub/Mandrakelinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="ie">ftp://ftp.heanet.ie/pub/mandrake/Mandrakelinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="ie">ftp://ftp.esat.net/pub/linux/mandrakelinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="http" location="pt">http://darkstar.ist.utl.pt/mandriva/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="http" location="pt">http://mandriva.dcc.fc.up.pt/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="br">ftp://mirror.fis.unb.br/pub/linux/Mandrakelinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="http" location="ca">http://gulus.usherbrooke.ca/pub/distro/Mandrakelinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="cz">ftp://mandrivauser.cz/Mandrivalinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="cz">ftp://ftp.sh.cvut.cz/MIRRORS/Mandrake/mandrake/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="de">ftp://ftp.join.uni-muenster.de/pub/linux/distributions/mandrakelinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="de">ftp://ftp.uni-bayreuth.de/pub/linux/Mandrakelinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="de">ftp://ramses.wh2.tu-dresden.de/pub/mirrors/mandrake/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="gr">ftp://ftp.ntua.gr/pub/linux/mandrake/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="it">ftp://bo.mirror.garr.it/pub/mirrors/Mandrake/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="jp">ftp://ftp.kddlabs.co.jp/Linux/packages/Mandrake/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="nl">ftp://ftp.nluug.nl/pub/os/Linux/distr/Mandrakelinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="nl">ftp://ftp.surfnet.nl/pub/os/Linux/distr/Mandrakelinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="pl">ftp://ftp.pbone.net/pub/mandrakelinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="pl">ftp://ftp.tuniv.szczecin.pl/pub/linux/mandrakelinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="pl">ftp://ftp.ps.pl/mirrors/mandrake/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="ro">ftp://ftp.iasi.roedu.net/mirrors/ftp.mandrake.com/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="za">ftp://ftp.is.co.za/linux/distributions/mandriva/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="es">ftp://ftp.cica.es/pub/Linux/Mandrakelinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="ch">ftp://mirror.switch.ch/mirror/mandrake/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="ch">ftp://sunsite.cnlab-switch.ch/mirror/mandrake/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="tw">ftp://mdk.linux.org.tw/pub/mandrake-linux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="tw">ftp://linux.ntcu.net/dists/mandrake/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="http" location="uk">http://www.mirrorservice.org/sites/carroll.cac.psu.edu/MandrivaLinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="us">ftp://ftp.gtlib.cc.gatech.edu/pub/mandrake/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="us">ftp://mirrors.secsup.org/pub/linux/mandrakelinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="us">ftp://mirrors.usc.edu/pub/linux/distributions/mandrakelinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="us">ftp://ftp.cise.ufl.edu/pub/mirrors/mandrake/Mandrakelinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="http" location="us">http://www.gtlib.cc.gatech.edu/pub/mandrake/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="us">ftp://mirror.mcs.anl.gov/pub/mandrake/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="us">ftp://ftp.uwsg.indiana.edu/linux/mandrake/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+        <url type="ftp" location="us">ftp://mirror.cs.wisc.edu/pub/mirrors/linux/Mandrakelinux/official/iso/2009.0/mandriva-linux-free-2009-dvd-x86_64.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

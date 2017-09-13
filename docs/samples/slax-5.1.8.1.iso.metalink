@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 0.4.1" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>SLAX</name>
+    <url>http://www.slax.org/</url>
+  </publisher>
+  <identity>SLAX Standard Edition</identity>
+  <version>5.1.8.1</version>
+  <description>SLAX is fast and beautiful Linux operating system which fits on small (3.14") CD-ROM disc. It runs directly from the CD (or USB) without installing.</description>
+  <files>
+    <file name="slax-5.1.8.1.iso">
+      <size>201646080</size>
+      <verification>
+        <hash type="md5">4df3840a879c7c78eaf8ea14bc17439c</hash>
+        <hash type="sha1">84294eb01df5d0e4cef2f119787651179e212701</hash>
+        <pieces type="sha1" length="2097152">
+          <hash piece="0">9e8eb3fc86aa837615c5f387697e23ceaa05ddec</hash>
+          <hash piece="1">58f2bda162f42c59c4703c7647000b393f5a0500</hash>
+          <hash piece="2">ac8a402b70929b8aa2dff07bb505a7841d078aab</hash>
+          <hash piece="3">61f0761930e22a6f726196585305fcb15cbb7c51</hash>
+          <hash piece="4">31391918d0d9de73263fdc1c3601b57701da18c1</hash>
+          <hash piece="5">046f24fdd6257647d836c17c42f1577efdbc0208</hash>
+          <hash piece="6">a792a474c49af8e5d5ac41cb5d26fd38c000aade</hash>
+          <hash piece="7">4f29002f5574803ce5123ca5814ec2ff9ed307a7</hash>
+          <hash piece="8">73b615adadb7ed6d22a0c714306f8f3e3b222910</hash>
+          <hash piece="9">5f2107e31ca509d6e051fd726cd7c36697c8f73b</hash>
+          <hash piece="10">647aa9a568521a1a57a09b8882914975270ec28f</hash>
+          <hash piece="11">00334f7aa4b8f3ad000282285a6471d9c98ecd6c</hash>
+          <hash piece="12">330d80b53658493b01dcfebf459cdfc7fc9044ed</hash>
+          <hash piece="13">2ef52848fcd78ef80518d69aaddbd70d9844890f</hash>
+          <hash piece="14">23a081d0d3c38bbea9bef506cc4e4a93c48101d9</hash>
+          <hash piece="15">4e966f23a247f073d09cb6583fcfe70a6cd3f222</hash>
+          <hash piece="16">0c322cde0d023c2788791c8e33d15408f590d009</hash>
+          <hash piece="17">14ec68bdd66ccc9f36a103fd43b62ef374e07cc1</hash>
+          <hash piece="18">928f0883efe4b85f3c538cb20f2c6be6e5f66a9d</hash>
+          <hash piece="19">6bd57f8432d8bdb382e495d7550c685947857a39</hash>
+          <hash piece="20">28ce8b557bb120b5319e1bb8af4dc93f65651773</hash>
+          <hash piece="21">b58ae38a4381dfc59f8eb0b2b924b95737d0bc94</hash>
+          <hash piece="22">4cf9290d670b1a3523f5ad65861648ea7d80f0dd</hash>
+          <hash piece="23">3438e157bbe6f7b1911c567af576f0318db7a5e8</hash>
+          <hash piece="24">df6d7629e58c3959d2059652e569a6f57b87bdc1</hash>
+          <hash piece="25">8ec1016553b2084cfe5b893e98e04ca9292ce367</hash>
+          <hash piece="26">f24b891cde6bd71dd47ef8fc44b05db9e7441926</hash>
+          <hash piece="27">5f082e2204a507b62f2494fd3d67ab2f5c95fcb5</hash>
+          <hash piece="28">1729a0e03f399954b7f7b2369d659e8f494ad9b8</hash>
+          <hash piece="29">670592299842f7b2594245f36861ad6d4b07f4a6</hash>
+          <hash piece="30">0d1b2528352fa06febab5c87cbf2970f34818c72</hash>
+          <hash piece="31">3c7bfb7ac3c5ddbf33241b68627932215f963d2d</hash>
+          <hash piece="32">1b95e7cdaed68aa75558545591beac28eef793b1</hash>
+          <hash piece="33">b96db16ed36718a1f03ff28096d0711c0e7c1bcd</hash>
+          <hash piece="34">bfdac94459df07381b5dfa61bc77ded1504376a2</hash>
+          <hash piece="35">84f48209e2402bde9de05417f1b043e25c906b95</hash>
+          <hash piece="36">b25f216ca46ef8a3262c502e416e3fdccf2c100f</hash>
+          <hash piece="37">4ce25a738c588f9b0c2e27c44b28ffd4ce2c6457</hash>
+          <hash piece="38">cd9a8799836e35749d08ec3c2f911a0b0863f8a2</hash>
+          <hash piece="39">b4162269f85eac6349b6e634dbd394492ad7c291</hash>
+          <hash piece="40">fd5b770da02d02cfe44e0e0b5b19fb79ea1e6c3f</hash>
+          <hash piece="41">434b5046e308d925f2626de404c3fc7e8e87cc98</hash>
+          <hash piece="42">c4affe722fb07979c9656f31bd30db225577b235</hash>
+          <hash piece="43">5b96707ea975fad85c83fa25e008360b9178b495</hash>
+          <hash piece="44">ee4b7f07fa861907588f469208fe6f973e77f8c9</hash>
+          <hash piece="45">30e33f480633a876f725a4286fb05c5f46e20f7b</hash>
+          <hash piece="46">30a4346800ab0aaffb0909a64505d85ca06de82f</hash>
+          <hash piece="47">028419296b8f1e05dc6309b191e40f07d2ae1b3c</hash>
+          <hash piece="48">3bad856285deebafc1f841dc0301bf7ae35663c6</hash>
+          <hash piece="49">6fecd20df491c352bd6d8ff2021beb3d6bfbfa97</hash>
+          <hash piece="50">dd898a089446827eb851ef9bb785ee0a57f2c1c1</hash>
+          <hash piece="51">56879ab26d7361877c5c965406bb8b815b4b3ff8</hash>
+          <hash piece="52">472b616c2115e0b333bdc398d751ba2d4b1815c2</hash>
+          <hash piece="53">56057dc92c1fce0996fa27214124d3050d97c517</hash>
+          <hash piece="54">a8f14d62d7000dc7383eccbc1554a4b023a41f52</hash>
+          <hash piece="55">82a25931980eff2e45646777c12189f559e76870</hash>
+          <hash piece="56">955e153f8f3927541291c165243a233b27da579e</hash>
+          <hash piece="57">be6634137b8f4046c26f38331718a7e8ee1e8272</hash>
+          <hash piece="58">ca481ad75d22f9df48e1cf842eedbf142cbf68ac</hash>
+          <hash piece="59">942368cf0d9bc650940e7ce684ad38b5a8e9b2b7</hash>
+          <hash piece="60">05536fc2718a6d944cb7dc8b25ce7f1e91a50fd5</hash>
+          <hash piece="61">2d0b7d1f717d46366d7de17f3eaddfb16063dc32</hash>
+          <hash piece="62">fdf9990bb3db97ca9dd21ec290e5bd651d9c05da</hash>
+          <hash piece="63">fe0d53a7a574b2e83f7edbf62b5516ef7eaf2278</hash>
+          <hash piece="64">20e7038c8d04e39cf4320e157c58b6589bec2352</hash>
+          <hash piece="65">ef47945335d9519b66eeba25597ff62cf98ccedd</hash>
+          <hash piece="66">d6a90128d6c8402af543d7bdaab896800516cceb</hash>
+          <hash piece="67">58c02b2dce5dd3bf7ee92f34233b7438d972789d</hash>
+          <hash piece="68">6115f9ae7c34faf5e370539114b8c6b45af6f04f</hash>
+          <hash piece="69">29bb5354482ae5d48709c05cc7d38d5f17165770</hash>
+          <hash piece="70">2489aeeabd31874f1d8ba144315198d134b63b7e</hash>
+          <hash piece="71">bc51bd3ebc3ce2a763d68a09e2ecb2953687f6ae</hash>
+          <hash piece="72">d2835506417a9c3e0d2d8b870a33175ed29b6d80</hash>
+          <hash piece="73">3773d70f55a16abbf1f45e8d6d70361acb62ca50</hash>
+          <hash piece="74">b30435fdc715abcb562afc0a9cee6aac077d144a</hash>
+          <hash piece="75">e2ab0f4a47606ccc3734f12e906541e4deff11af</hash>
+          <hash piece="76">f463dbe4f20e72fa10e376392a93dbcda239ee6a</hash>
+          <hash piece="77">092beff029ffc532fdadf43bb4ac65b177d47aaa</hash>
+          <hash piece="78">2a858af515fa97db2283dead066577db14e4e5fe</hash>
+          <hash piece="79">145286424acfe0e3d2a47464fc5549962c3ea3ae</hash>
+          <hash piece="80">f7cfda4d4cc27b1d0239a16f34f355a896c24fd9</hash>
+          <hash piece="81">ba8f9509964121e70e2bacdd61dfab6e6e0fd321</hash>
+          <hash piece="82">88bb182bdaa10aa5c76d14023ecdd1daa4ad25e0</hash>
+          <hash piece="83">f377156cdfc712415f4d89558ba50fca007282ff</hash>
+          <hash piece="84">8a7d3349247990c7501d8b9533d275c6bbd6eae7</hash>
+          <hash piece="85">fe8aac589b2d512ff7941c4a999405168b2ebbe8</hash>
+          <hash piece="86">5a4a8abb32682649b47364b7887f88e043a554a8</hash>
+          <hash piece="87">207a570e2e979b9546f9c944f8967ea175004946</hash>
+          <hash piece="88">6a384c6677b9bf8121f364da33187f05a2d3b085</hash>
+          <hash piece="89">2558cc3245501a836016ff9e54cc205ab13b6e72</hash>
+          <hash piece="90">13d49d9cfb92b4868942d89102c8dde325a2c823</hash>
+          <hash piece="91">838a5db96279f77a08e26867359edf844fa7f663</hash>
+          <hash piece="92">39ba5996c38c58dc15ea2d8b490345bd39d92406</hash>
+          <hash piece="93">e6a3e41a73bb2663d5fd8884e6b0e506b871e7a3</hash>
+          <hash piece="94">59d5872e5a17fd8102c5fec834b9300a730710ed</hash>
+          <hash piece="95">ba30d8e399740553c564342543e6b24fdbed4fbd</hash>
+          <hash piece="96">ec326debbc63e5fc533822ba2ee1787c10ac353c</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ftp" preference="100">ftp://ftp.linux.cz/pub/linux/slax/SLAX-5.x/slax-5.1.8.1.iso</url>
+        <url type="http" preference="100">http://merlin.fit.vutbr.cz/mirrors/slax/SLAX-5.x/slax-5.1.8.1.iso</url>
+        <url type="bittorrent" preference="90">http://www.tlm-project.org/public/distributions/slax/SLAX-5.x/slax-5.1.8.1.iso.torrent</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

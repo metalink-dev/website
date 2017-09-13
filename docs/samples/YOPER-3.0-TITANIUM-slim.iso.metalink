@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.0.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Yoper Linux</name>
+    <url>http://www.yoper.com/</url>
+  </publisher>
+  <identity>Yoper Linux Slim</identity>
+  <version>3.0</version>
+  <description>Yoper is a multipurpose high performance operating system which has been carefully optimised for PC's with either 686 or higher processor types.</description>
+  <files>
+    <file name="YOPER-3.0-TITANIUM-slim.iso">
+      <size>149229568</size>
+      <os>Linux-x86</os>
+      <verification>
+        <hash type="md5">ba4ed3f1e041c6f21cdba7ca3687bfee</hash>
+        <hash type="sha1">7345ce20769e535fb7196e10fadd9409d23fe6e1</hash>
+        <pieces type="sha1" length="2097152">
+          <hash piece="0">f23a1871d17dee63c0382e45374844520eadd6fc</hash>
+          <hash piece="1">e4ded70a10df018298cedcbf1474a46fcf8aded9</hash>
+          <hash piece="2">cc766df47016bb1ccda5628646fb733808526415</hash>
+          <hash piece="3">ed6346f80f49ebf6de3f44621dd9abfbd5cac93b</hash>
+          <hash piece="4">47e5e5faa463ca5f611bbfecff2e33e7c59d9701</hash>
+          <hash piece="5">b5eb1c75c0c9e3f92e5141961361704a331d6070</hash>
+          <hash piece="6">874ac98c152af67c39144082cfefaebfbe2d4426</hash>
+          <hash piece="7">714be99a25b2d6fa4f58a727add7bb2e37a07ad6</hash>
+          <hash piece="8">0a76add5bcd7a5a2cdb1cd0e1f66470fb8c74dee</hash>
+          <hash piece="9">b4a07a64264eddd1074ccb7524b8b9cb9d4d6e3e</hash>
+          <hash piece="10">f86ae3eac394220067433ee07ca0fd085ae2090c</hash>
+          <hash piece="11">b1b9a6d6e6ab0fee997c21137751eb6a24fabc63</hash>
+          <hash piece="12">dc099f042123be40e4fc68ed7f1cdd002b82349b</hash>
+          <hash piece="13">27d7ee63fbc7d895ed62e9957a6da66a4badb845</hash>
+          <hash piece="14">5edb84244be135d106559f6f18728606bf4297dd</hash>
+          <hash piece="15">47949fcde46f0b2da60850c8444d8c7b3ab9ad24</hash>
+          <hash piece="16">c3e183280da7e457eaa0a959c3eeb3e57ca9a134</hash>
+          <hash piece="17">99e9cfb40c301c5c366eb65eeddff7358c918dac</hash>
+          <hash piece="18">b45505e842ca282b81cf43917a6d0c31db007993</hash>
+          <hash piece="19">4cf247a2febb3231bfad6aac1dc14aaed754e5ee</hash>
+          <hash piece="20">fd9e4700bc7b7587c6e8eb014f49c89784f2dc51</hash>
+          <hash piece="21">fe7abc4c60ef6825630dbbf899e8ed3ed0de0f5e</hash>
+          <hash piece="22">c397595bc102b918979aecc72ea14aaa9dde6a75</hash>
+          <hash piece="23">15be18ca377177936b427ab1258002f6b09d2a5c</hash>
+          <hash piece="24">017a6423a855dd5fb6d6acec0373741864b15baa</hash>
+          <hash piece="25">11ec6a3ca55f40148881ce28963b92cefbc96bc3</hash>
+          <hash piece="26">3f428dfdf612fa1f9ebcc40abcbf9d633ff67d27</hash>
+          <hash piece="27">e709567842de637bf7f5a9d06bdb4a8b0e17e91f</hash>
+          <hash piece="28">2242bb8952e74753e1269d937a6d566e77b75b44</hash>
+          <hash piece="29">1dbe56e7775e99eca01166ebd0fd49dfa52baafd</hash>
+          <hash piece="30">d5ad853bd9e0e3d4a916d77f16ecc1edd3f8a5d9</hash>
+          <hash piece="31">d31cc90f4dc71a74119a686ae2ebca1c31c7f1d0</hash>
+          <hash piece="32">0768ba0f21d0995bb12a5730fdd746407fd3c513</hash>
+          <hash piece="33">0e74666a45ee3b8144ccb09954562c8f6547b05b</hash>
+          <hash piece="34">82c80404b6554a82a06959cd3f96cbc30609985c</hash>
+          <hash piece="35">d5a6fce8aaa7550ee3cb550df55bca7ff6dd6d7b</hash>
+          <hash piece="36">5cfcdf899855c0422c025674a336e14e1f8fa098</hash>
+          <hash piece="37">caeb9ccea5d8725ecbaf304753560c0b442f226f</hash>
+          <hash piece="38">c8519e0111fef2f13619e9dc4fb5c7df46632c9a</hash>
+          <hash piece="39">8cd1a3bf3270a64b57aa56e58ec9d3cbb46aab07</hash>
+          <hash piece="40">2a9f8def56ff2d973ef63906a4b4b7179d2898e5</hash>
+          <hash piece="41">aeeb83a4a7270aa326d72b1a81ef2913b85b764f</hash>
+          <hash piece="42">ac48db4a67a696aa6406e2e4328037b3c95875ac</hash>
+          <hash piece="43">a819d07cdc64acdfa9c06c8f930765207eb019a4</hash>
+          <hash piece="44">3495d54006414c09e96318f325b848152c116657</hash>
+          <hash piece="45">c2335d10b3572ac82227831b36273ab4ccf912a0</hash>
+          <hash piece="46">6e012738eb37b8bb4d52df238ed870cb4922b43e</hash>
+          <hash piece="47">0407bf2ce1d55d35315a3e35ff427250a52bc55c</hash>
+          <hash piece="48">0ba29c914c79c48ce24b3205e63a1f7a829cc2f8</hash>
+          <hash piece="49">fa9ca96c4b49425b30888a162d642f7e8f132a27</hash>
+          <hash piece="50">86ea29c0a4e3e6c8d1ad23e0b0780e4f257770cb</hash>
+          <hash piece="51">fcd4432865904441c1bad7ed7a6c29b1f717f534</hash>
+          <hash piece="52">3f19b78484f223fa35a1b7d18c7bf26b925dd93f</hash>
+          <hash piece="53">8a5a51676ae22574805dabad15524288ba346ded</hash>
+          <hash piece="54">c9dcc308980584e4500337c516e48119c9149f4c</hash>
+          <hash piece="55">a0ecd74940858f6d47593716b7a64f69d33eb544</hash>
+          <hash piece="56">53f626672667fb85f03ffa6b48d558a40f2138c0</hash>
+          <hash piece="57">c3110980f9fafd63b89785873d5c76bac7009071</hash>
+          <hash piece="58">15a62777bbbe1c2db8f345f1b99c7ada0a7e6647</hash>
+          <hash piece="59">14707b09fa550976c5bace55d7aadeed5d31cb74</hash>
+          <hash piece="60">2227105846e0be8137f194c72d712211e53ce2a6</hash>
+          <hash piece="61">14d1f46be68af0b58145bbb5df13ed93090bcccf</hash>
+          <hash piece="62">12a8fb14f859869facf78147cb9f0b95fa987019</hash>
+          <hash piece="63">11b9860a2a92c0126cc94a957b15ce0a5dd1c612</hash>
+          <hash piece="64">13cb4ce9b587a592c9b6b2dc5e590c8876ea7ab8</hash>
+          <hash piece="65">f7335cbdfd49e4beee7a51f3f58ac6c69919e45c</hash>
+          <hash piece="66">50c58bb658ae5e361baa61b95a06b21dbe0be69d</hash>
+          <hash piece="67">7c82081d1aece8eb08209cacece7c1db0f87c595</hash>
+          <hash piece="68">c83072e9904747bd2f96e095d2c30c511e288b83</hash>
+          <hash piece="69">9a69e39841c75b59baea71972cd60e021907d401</hash>
+          <hash piece="70">6a2eab51ab61cd79c31f81556812d3f2465522d4</hash>
+          <hash piece="71">05a17d6754cc58b34cbbe90e8179f2a934635dd8</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="http" location="at" preference="100">http://gd.tuwien.ac.at/opsys/linux/yoper/YOPER-3.0-TITANIUM-slim.iso</url>
+        <url type="http" location="at" preference="100">http://download.at.kde.org/opsys/linux/yoper/YOPER-3.0-TITANIUM-slim.iso</url>
+        <url type="http" location="be" preference="100">http://ftp.belnet.be/linux/yoper/YOPER-3.0-TITANIUM-slim.iso</url>
+        <url type="http" location="de" preference="100">http://ftp.gwdg.de/pub/linux/yoper/YOPER-3.0-TITANIUM-slim.iso</url>
+        <url type="http" location="nl" preference="100">http://ftp.nluug.nl/pub/os/Linux/distr/yoper/YOPER-3.0-TITANIUM-slim.iso</url>
+        <url type="http" location="nl" preference="100">http://ftp.surfnet.nl/pub/os/Linux/distr/yoper/YOPER-3.0-TITANIUM-slim.iso</url>
+        <url type="http" location="nl" preference="100">http://ftp.nluug.nl/pub/os/Linux/distr/yoper/YOPER-3.0-TITANIUM-slim.iso</url>
+        <url type="ftp" location="nl" preference="100">ftp://ftp.surfnet.nl/pub/os/Linux/distr/yoper/YOPER-3.0-TITANIUM-slim.iso</url>
+        <url type="http" location="ca" preference="100">http://gulus.usherbrooke.ca/pub/distro/yoper/YOPER-3.0-TITANIUM-slim.iso</url>
+        <url type="ftp" location="us" preference="100">ftp://us2.yoper.com/pub/linux/yoper/YOPER-3.0-TITANIUM-slim.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

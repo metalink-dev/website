@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink version="3.0" generator="Metalink Editor version 1.2.0" xmlns="http://www.metalinker.org/">
+  <publisher>
+    <name>Sun</name>
+    <url>http://opensolaris.com/</url>
+  </publisher>
+  <license>
+    <name>CDDL</name>
+    <url>http://www.opensolaris.org/os/licensing/opensolaris_license/</url>
+  </license>
+  <identity>OpenSolaris</identity>
+  <version>2009.06</version>
+  <description>OpenSolaris operating system</description>
+  <files>
+    <file name="osol-0906-x86.iso">
+      <size>709871616</size>
+      <verification>
+        <hash type="md5">86e19c89a30c9b91cbb096a758dea737</hash>
+        <hash type="sha1">a545dcbc01d8afbf5b1b1691a8283c0aeafbb9c6</hash>
+        <pieces type="sha1" length="8388608">
+          <hash piece="0">0c6ae0c0a2ad895049c2109081f6f638be4c41eb</hash>
+          <hash piece="1">2d15d36b4f2108c461d7c205cac50237f9ce83a9</hash>
+          <hash piece="2">3ad67dc8c430edd46320f4ea88490f6a647d0a96</hash>
+          <hash piece="3">bca5c519c9afdc3189babda48cdb1b0ec7b602e5</hash>
+          <hash piece="4">932a2479334660a4c85400818c6af220746fd2d0</hash>
+          <hash piece="5">96f2e9bdbcea844197db5c90b963541da977126a</hash>
+          <hash piece="6">355861633431bd2957c542bd3ca822f858433da7</hash>
+          <hash piece="7">face352185af038a59f0c8ff31c5fb6a291b2358</hash>
+          <hash piece="8">eb4866c1dc95705c0b5c50fdcc60091751310f64</hash>
+          <hash piece="9">06f98eb3f21d91a97eff74556f7882ef840de1fc</hash>
+          <hash piece="10">e21b1a02ef1ba067abcc05544e3ea17f7dea3d17</hash>
+          <hash piece="11">7fb4dde9a682f180989c7a2e3f6957552de8f0b2</hash>
+          <hash piece="12">fedcdcd678cfb869f94b219f7b308d8f699ecea3</hash>
+          <hash piece="13">a523fdf406fd49101297d0f0c747e1c3cdc98215</hash>
+          <hash piece="14">6868ed27c2934718b80b7a78b1408555c2533f7b</hash>
+          <hash piece="15">5f02dc8a087b13aa78f5fe6ca0ff813fbed4f51c</hash>
+          <hash piece="16">06acea3a25ac6a79106e8a7bbbc7bc63d7c70c11</hash>
+          <hash piece="17">c8d2ff81ccd0d237fea2ec0b4298a5aadeec88e9</hash>
+          <hash piece="18">69fdee35eafc61442dc2d5b11c6ecd0e303169df</hash>
+          <hash piece="19">9b6af1f6b38e87375bb180a767a4b0a3a11e3cbd</hash>
+          <hash piece="20">d91e30d6f1817fa8661428ae7f07653a342bd5f7</hash>
+          <hash piece="21">d951d39d6b9d5a3849160d546f5b1a277f4a3082</hash>
+          <hash piece="22">396d4cefd3590d0071d63d1e4644e55ac90fc7b3</hash>
+          <hash piece="23">e1eef6f95e9199d2cfb09402014aefc875b26bd9</hash>
+          <hash piece="24">ba692afb0505ef89a67446faecec88d9f273136f</hash>
+          <hash piece="25">121ac6a6508af5a52552e8504b163377d410d598</hash>
+          <hash piece="26">26c8d6430673d6ab32a846a1cc22bbb83a6d7e4a</hash>
+          <hash piece="27">a87ad527d4f945a0be3570ea84d67e4714546f01</hash>
+          <hash piece="28">e0e29935ba2e10428fbd9f120cf1cd2816fc0bf4</hash>
+          <hash piece="29">cc3ce59036db97793395c758bc1f853ea236e1a1</hash>
+          <hash piece="30">822b01dd47d1a09b941babbee3a93600499a7dfe</hash>
+          <hash piece="31">2cf92eb097445426b563edf2bf850e9c17005ad7</hash>
+          <hash piece="32">e6be68040f2974beadb339ab78404f401a0235ef</hash>
+          <hash piece="33">f6d1a3c463de795901d4d1fd4c5362d2b893afd0</hash>
+          <hash piece="34">063046c0c318d08cb6a271442757788b10a77fd1</hash>
+          <hash piece="35">265321440e4dfb1aff3ad822e6baed59a0568385</hash>
+          <hash piece="36">b5a461e2118659699974e075d75d5105ac59d758</hash>
+          <hash piece="37">5e53a04150f9b1c26fb0c5bd3747e9ff8aa0fda1</hash>
+          <hash piece="38">e10fb830b15e8b0c7b45c27ac64a9e9fcc60a4ee</hash>
+          <hash piece="39">43a52fd78750d1330ebcf00eae83ada4cc54a90a</hash>
+          <hash piece="40">363845820643c07de988ea1ebc3d67bcaaf3d035</hash>
+          <hash piece="41">0a8e6acc4c0be65ebb045f301a4b9beba69e9ca3</hash>
+          <hash piece="42">5a27f029770dc7ef52e292ea2fe91a2a078a07c2</hash>
+          <hash piece="43">59252791143128f19a5628409385721ea15c638e</hash>
+          <hash piece="44">920085c79428d71e70bf7d627156060ab959bdb5</hash>
+          <hash piece="45">edd067196841dd4f8ea2b9d48fe4779aae0bbff6</hash>
+          <hash piece="46">269150bc5a616f60eead93c549af7a06f3896d7a</hash>
+          <hash piece="47">0e1f563731fb7bb5d0bb073f2567065968875f6c</hash>
+          <hash piece="48">6e292211def87b9c92eb82a3178e1a8dcdb28ee2</hash>
+          <hash piece="49">8ec4b534b48d00b58af60943c799e138462a8f1c</hash>
+          <hash piece="50">2c2b12ef7d1ea9bc0490696fdb09f1e154cff18c</hash>
+          <hash piece="51">114f000ab366783861f2b4811782da50b9734a28</hash>
+          <hash piece="52">e11178519db6a0c0a200dc68d61cd376c3563b37</hash>
+          <hash piece="53">9fd0f71c41488be773c0050c173a434f3debed04</hash>
+          <hash piece="54">0fd65e5c6526dde7a54ab4e54a5e3cd77ae21270</hash>
+          <hash piece="55">96284b87ab773cd6602b1dc617ba3299f1966cdc</hash>
+          <hash piece="56">6f46984f154125a1b7b5faf1644cfe576128f47a</hash>
+          <hash piece="57">6abe8b06edebff1a3731036424af20dc552d176f</hash>
+          <hash piece="58">c50ad8f95087e18633ac1aa9ef263575dacc47ae</hash>
+          <hash piece="59">c06a257d0f4357bb5f87541007ad0a2e020d47bb</hash>
+          <hash piece="60">1546e77b02bcdb983b1a3beb5de0946c45a4451c</hash>
+          <hash piece="61">0c420833f0e597f4ac968b00081917a584f32a83</hash>
+          <hash piece="62">7c4dc0a1687277d31e9aaafc1396bf970481a96e</hash>
+          <hash piece="63">654a029c9172a4707131cba29d4ba90551c6ba50</hash>
+          <hash piece="64">87713a345662d722645eb9650e4c8b9cbbc85e21</hash>
+          <hash piece="65">3b57d3a6b02a8c726998a37222bb08097563a221</hash>
+          <hash piece="66">d64096ccebbca2b8a0eddf565bd4fe29a361581e</hash>
+          <hash piece="67">010ddae27e75f4887bd2bfa6d6d6db90c74fe741</hash>
+          <hash piece="68">2ad36cac176e50ca5a46b50cf858420a43d56089</hash>
+          <hash piece="69">10f79eae2ea03681fcba37afdd11af58b75ce1e8</hash>
+          <hash piece="70">97cc2ccb04ae7399954458d01014893dc62ba689</hash>
+          <hash piece="71">2804f8e0f131002ea16b502b18aad2037a3254f2</hash>
+          <hash piece="72">75e451fd6200fca4e5e7db391aa6ae2cb266f34c</hash>
+          <hash piece="73">79b97d816d80e5344dc27750d56ca3021154d34c</hash>
+          <hash piece="74">47c6faf7ba2b5155c8c588d94a2843d34e8746c4</hash>
+          <hash piece="75">0520ae0e502666e3f71ab8c607830b417b3a06c7</hash>
+          <hash piece="76">6507735ab1c510da62e2e9cd4de522d84bec8ec7</hash>
+          <hash piece="77">dec3f7ce193c29f61b8617b9ca28e438434c2537</hash>
+          <hash piece="78">958ef1458cb035bedd329e782595bc6d9e014d60</hash>
+          <hash piece="79">ef369e9df0affbc510e2f19b734e82c2342010db</hash>
+          <hash piece="80">22e1164279a5613787f1ac28ce00da205c79fe5d</hash>
+          <hash piece="81">b387100ac970e3948d2349aad9d4640cc8baebdb</hash>
+          <hash piece="82">249564eb5e59362664d1e3b0d001698f41a7177e</hash>
+          <hash piece="83">b3cceb54195f8465bc8fa92b4d5896f1c9c2c880</hash>
+          <hash piece="84">d346042a1fdcddb9eef03fdad8101603b844d071</hash>
+        </pieces>
+      </verification>
+      <resources>
+        <url type="ed2k">ed2k://|file|osol-0906-x86.iso|709871616|8f4360179315d417d6d2a99084b8aa0d|/</url>
+        <url type="http">http://dlc.sun.com/osol/opensolaris/2009/06/osol-0906-x86.iso</url>
+        <url type="http">http://www.genunix.org/distributions/indiana/osol-0906-x86.iso</url>
+        <url type="bittorrent">http://dlc.sun.com/torrents/info/osol-0906-x86.iso.torrent</url>
+        <url type="http" location="ch">http://mirror.switch.ch/ftp/mirror/opensolaris.org/release_isos/2009/06/osol-0906-x86.iso</url>
+        <url type="http" location="us">http://www.okcosug.org/osol-0906-x86.iso</url>
+      </resources>
+    </file>
+  </files>
+</metalink>
