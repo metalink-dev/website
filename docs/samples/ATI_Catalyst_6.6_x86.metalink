@@ -7,11 +7,6 @@
 	one format for easier downloads, as well as bundling
 	checksums to automatically verify completed downloads.
 	
-	Currently the following applications support this file:
-
-    - aria2 (Linux) [ http://aria2.sourceforge.net/ ]
-	- GetRight 6 (Windows) [ http://www.getright.com/ ]
-	        
 	For further information please visit http://www.metalinker.org/
 -->
 

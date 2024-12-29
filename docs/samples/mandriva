@@ -174,7 +174,7 @@ Just install DTA, then right click the Metalink for the flavor of Mandriva you w
 <a name="windows"></a>
 If you're on Windows...</b></font>
 
-<p />You can also install a download manager, <a href="http://www.freedownloadmanager.org/" target="_blank">Free Download Manager</a> (Open Source), <a href="http://dfast.sourceforge.net/" target="_blank">wxDownload Fast</a> (Open Source), <a href="http://www.getright.com/" target="_blank">GetRight</a>, and <a href="http://www.orbitdownloader.com/" target="_blank">Orbit Downloader</a> work well. (These integrate with Firefox with the <a href="http://www.flashgot.net" target="_blank">FlashGot</a> extension).
+<p />You can also install a download manager, <a href="http://www.freedownloadmanager.org/" target="_blank">Free Download Manager</a> (Open Source), <a href="https://github.com/archdvx/wxdfast" target="_blank">wxDownload Fast</a> (Open Source), <a href="http://www.getright.com/" target="_blank">GetRight</a>, and <a href="http://www.orbitdownloader.com/" target="_blank">Orbit Downloader</a> work well. (These integrate with Firefox with the <a href="http://www.flashgot.net" target="_blank">FlashGot</a> extension).
 
 <p />You could also install another web browser, <a href="http://www.ioage.com/en/index.htm" target="_blank">TheWorld Browser</a>.
 
@@ -185,7 +185,7 @@ If you're on Windows...</b></font>
 <a name="unix"></a>
 If you're on Unix...</b></font>
 
-<p /><a href="http://aria2.sourceforge.net/" target="_blank">aria2</a> binary packages are available for many other distributions. There's also <a href="http://dfast.sourceforge.net/" target="_blank">wxDownload Fast</a> which is a download manager that can be integrated with Firefox with the <a href="http://www.flashgot.net" target="_blank">FlashGot</a> extension.
+<p /><a href="http://aria2.sourceforge.net/" target="_blank">aria2</a> binary packages are available for many other distributions. There's also <a href="https://github.com/archdvx/wxdfast" target="_blank">wxDownload Fast</a> which is a download manager that can be integrated with Firefox with the <a href="http://www.flashgot.net" target="_blank">FlashGot</a> extension.
 
 <p />If you're cutting edge, <a href="http://websvn.kde.org/trunk/KDE/kdenetwork/kget/" target="_blank">KGet2</a> (KDE 4.0, Unix, Open Source) has Metalink support in SVN (development).
 
