@@ -6,11 +6,7 @@
 	bundling the various ways (FTP/HTTP/P2P) to get files into
 	one format for easier downloads, as well as bundling
 	checksums to automatically verify completed downloads.
-	
-	Currently the following applications support this file:
-	        
-	- GetRight 6 (http://www.getright.com/)
-	        
+
 	For further information please visit http://www.metalinker.org/
 -->
  
