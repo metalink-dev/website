@@ -1,0 +1,148 @@
+body {
+    background-color: #EEEEEE;
+    background-image: url(/images/background.png);
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+  }
+  
+  a {
+    &:link, &:visited {
+      color: #FC8700;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  
+    &:hover, &:active {
+      color: #4682B4;
+      text-decoration: underline;
+      font-weight: bold;
+    }
+  }
+  
+  td {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+  }
+  
+  th, form, input, textarea, select {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+  }
+  
+  ul {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    list-style-position: outside;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+    list-style-type: none;
+    background-image: url(/images/blueball.gif);
+    background-repeat: no-repeat;
+    background-position: top left;
+    padding: 0;
+    padding-left: 16px;
+    padding-bottom: 8px;
+    margin: 0;
+  }
+  
+  ol {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    list-style-type: upper-roman;
+    list-style-position: outside;
+  }
+  
+  .small {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 9px;
+  }
+  
+  .big {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+  }
+  
+  .bodystyle {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+  }
+  
+  .box1 {
+    padding: 3px;
+    border-width: thin;
+    border-style: solid;
+    border-color: #CCCCCC #666666 #666666 #CCCCCC;
+  }
+  
+  .box2 {
+    border-width: 3px;
+    border-style: solid;
+    padding: 5px;
+  }
+  
+  .title {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  img {
+    &.navmenu_selected {
+      border-bottom: 2px solid orange;
+    }
+  
+    &.navmenu_link {
+      border-bottom: 2px solid #ffffff;
+      m: expression(this.onmouseover = new Function("this.className = 'navmenu_link-hover';"));
+    }
+  
+    &.navmenu_link-hover, &.navmenu_link:hover {
+      border-bottom: 2px solid orange;
+      m: expression(this.onmouseout = new Function("this.className = 'navmenu_link';"));
+    }
+  
+    &.m3dborder {
+      border-top: 2px solid orange;
+      border-left: 2px solid orange;
+      border-right: 2px solid #A66B00;
+      border-bottom: 2px solid #A66B00;
+    }
+  }
+  
+  a {
+    &.menuitem {
+      &:link, &:visited {
+        font-size: 12px;
+        color: red;
+      }
+  
+      &:hover, &:active {
+        font-size: 12px;
+        color: blue;
+      }
+    }
+  
+    &.nounderline {
+      &:link, &:visited {
+        color: black;
+        text-decoration: none;
+        font-weight: normal;
+      }
+  
+      &:hover, &:active {
+        color: blue;
+        text-decoration: none;
+        font-weight: normal;
+      }
+    }
+  }
+  
