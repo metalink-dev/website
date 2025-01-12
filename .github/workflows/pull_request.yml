@@ -1,0 +1,18 @@
+---
+# Simple workflow for deploying static content to GitHub Pages
+name: pull_request
+
+on:
+  pull_request:
+    branches:    
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: taiki-e/install-action@v2
+        with:
+          tool: zola@0.19.1      
+      - run: zola build
